@@ -1,1 +1,1 @@
-Frosthaven FAQ goes here
+**Frosthaven FAQ goes here**
