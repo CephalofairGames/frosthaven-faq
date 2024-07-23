@@ -4,50 +4,50 @@
 0.0 Introduction
     0.1 Spoilers
     0.2 About Me
-1.0 First Printing Production Errors and Typos
-    1.1 Second Printing Changes
-2.0 Component and Setup Questions
-3.0 General Gameplay Questions (Outside Scenarios)
-    3.1 Masteries
-    3.2 Personal Quests
-    3.3 Events and Traits
-4.0 General Gameplay Questions (Scenarios)
-    4.1 Rooms, Movement, Forced Movement, and Overlays
-    4.2 Damage, Shield, Ward, and Brittle
-    4.3 AMD Draws, Advantage, and Disadvantage
-    4.4 Negative Conditions
-    4.5 General Player Ability Questions and Clarifications
-    4.6 Loot Deck Questions
-    4.7 Objectives
-    4.8 Monster Focus, Abilities, Stats, and AI
-    4.9 Uncategorized
-    4.10 Challenges
-5.0 Outpost General Questions
-    5.1 Specific Building Questions
-    5.2 Enhancements
-6.0 Specific Monster Questions
-7.0 General Scenario Questions
-    7.1 Specific Scenario Questions
-    7.2 Solo Scenario Questions
-8.0 Characters
-    8.1 Drifter
-    8.2 Blinkblade
-    8.3 Banner Spear
-    8.4 Deathwalker
-    8.5 Boneshaper
-    8.6 Geminate
-    8.7 "Astral"
-    8.8 "Meteor"
-    8.9 "Shards"
-    8.10 "Trap"
-    8.11 "Shackles"
-    8.12 "Snowflake"
-    8.13 "Fist"
-    8.14 "Kelp"
-    8.15 "Coral"
-    8.16 "Prism"
-    8.17 "Drill"
-9.0 Items
+1 First Printing Production Errors and Typos
+  1 Second Printing Changes
+1 Component and Setup Questions
+1 General Gameplay Questions (Outside Scenarios)
+  1 Masteries
+  1 Personal Quests
+  1 Events and Traits
+1 General Gameplay Questions (Scenarios)
+  1 Rooms, Movement, Forced Movement, and Overlays
+  1 Damage, Shield, Ward, and Brittle
+  1 AMD Draws, Advantage, and Disadvantage
+  1 Negative Conditions
+  1 General Player Ability Questions and Clarifications
+  1 Loot Deck Questions
+  1 Objectives
+  1 Monster Focus, Abilities, Stats, and AI
+  1 Uncategorized
+  1 Challenges
+1 Outpost General Questions
+  1 Specific Building Questions
+  1 Enhancements
+1 Monster Questions
+1 General Scenario Questions
+  1 Specific Scenario Questions
+  1 Solo Scenario Questions
+1 Characters
+  1 Drifter
+  1 Blinkblade
+  1 Banner Spear
+  1 Deathwalker
+  1 Boneshaper
+  1 Geminate
+  1 "Astral"
+  1 "Meteor"
+  1 "Shards"
+  1 "Trap"
+  1 "Shackles"
+  1 "Snowflake"
+  1 "Fist"
+  1 "Kelp"
+  1 "Coral"
+  1 "Prism"
+  1 "Drill"
+1 Items
 
 ## 0.0 Introduction
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions.
@@ -109,7 +109,7 @@ I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, a
 - Building 74 Level 3 [o]This should have a requirement to build of already having 3 coins.[/o]
 - The following scenarios are exceeding counts for some overlay tiles: Scenario 17 (needs 5 pressure plates), Scenario 45 (only 2 barrels in game), 52 (6 Snow Rocks, only 5 in the box), 83 (too many dungeon corridors), 109 (6 single debris tiles, only 5 in the box), and 120 (only 2 barrels in game). Thanks to waitepb for collecting these and sending them to me.
 
-**Bonus **- If you think you are missing **two boss standees**, you are probably not. See the Component and First Time Setup Questions, below.
+**Bonus** - If you think you are missing **two boss standees**, you are probably not. See the Component and First Time Setup Questions, below.
 
 ### 1.1 Second Printing Changes
 In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
@@ -242,7 +242,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **Does moving back and forth between two hexes count as moving?** Yes. While there is no such thing as a Move 0 in Frosthaven, you can still end up in your origin hex if you have sufficient movement.
 
-## 4.2 Damage, Shield, Ward, and Brittle
+### 4.2 Damage, Shield, Ward, and Brittle
 
 **When I lose a card to avoid all damage, do I lose Ward and/or Brittle?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
 
@@ -260,7 +260,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **I have an ability which refers to the damage an ally "would suffer." Is this likewise capped by the ally's HP?** No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.
 
-## 4.3 AMD Draws, Advantage, and Disadvantage
+### 4.3 AMD Draws, Advantage, and Disadvantage
 
 **What is the order of operations if I draw a x2 or Null on a draw with rolling modifiers?** If a Null (x0) is included in the final attack modifier draws, no matter where, the final damage will always be 0. If you draw a x2, it can be inserted at any time during attack modification including at the very end. (For example, if I have an Attack 3, draw a rolling +1, and finally a x2, I can decide if my final damage is 7 (3x2) + 1 or 8 (3+1) x2.)
 
@@ -268,7 +268,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **Which deck do my summons (like Boneshaper skeletons) draw from?** All summons draw from their summoner's deck.
 
-## 4.4 Negative Conditions
+### 4.4 Negative Conditions
 (For Brittle, see Section 4.2)
 
 **Does removing a summon with a negative condition count as removing a negative condition from it?** No.
@@ -279,7 +279,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item like Crude Shield, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to the remaining attack modifier deck. Once in an attack modifier deck, the Curse is no longer considered a negative condition.
 
-## 4.5 General Player Ability Questions and Clarifications
+### 4.5 General Player Ability Questions and Clarifications
 
 **If I have an Ability with a “Target All” can I choose to exclude some targets?** If there isn’t a Mandatory box, and it's not a negative effect on you or your allies, you can choose to exclude targets from a Target All effect.
 
@@ -310,7 +310,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 - Attack X is always a melee attack at the value provided. It can be granted to a non-objective figure that does not have an inherent Attack value.
 - Attack +X depends on the monster's or summon's inherent attack value. For monsters, this attack is always melee. For a Summon, however, *it will inherit any Range characteristic the Summon always has (if any)*.
 
-## 4.6 Loot Deck Questions
+### 4.6 Loot Deck Questions
 
 *(please see 2.0 Component Questions if you have questions about the two coin cards with checkboxes)*
 
@@ -326,7 +326,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **Do my summons drop loot tokens when they are killed?** No. Only enemy monsters can drop loot tokens. 
 
-## 4.7 Objectives
+### 4.7 Objectives
 
 **Does destroying an objective count as a "kill" for abilities or battle goals?** No. Objectives are destroyed, not killed. 
 
@@ -338,7 +338,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **If an Objective occupies more than one hex, can I target the hex furthest from me? Say, if I'm adjacent to one hex, can I target my ranged attack at a non-adjacent one to avoid disadvantage? Or to avoid melee Retaliate?** Yes and No. Even though the Objective occupies more than one hex, it's still just one figure, so if you are adjacent to it you'll still have Disadvantage and/or suffer Retaliate. But, with that said, all hexes of the Objective are targetable, for red hex patterns or (e.g.) Geminate's precise ranges. 
 
-## 4.8 Monster Focus, Abilities, and Stats
+### 4.8 Monster Focus, Abilities, and Stats
 
 **If a monster with a ranged attack is adjacent to one enemy, but could attack another enemy without disadvantage, which enemy will it attack?** Monster focus doesn't consider disadvantage. It will always prioritize the adjacent enemy in this case. If the monster can safely move away from its focus before the attack, it will do so using the minimum number of hexes in order to lose disadvantage.
 
@@ -364,10 +364,10 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **When does a Monster consume an element? When does a Monster infuse an element?** If any monster in a set is going to perform any ability this round, elements are consumed at the start of the first monster in the set's turn, and elements are infused after the last monster in the set's turn. All monsters in the set benefit from any elemental consumption.
 
-## 4.9 Uncategorized
+### 4.9 Uncategorized
 **I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for Banner Spear formations or anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
-## 4.10 Challenges
+### 4.10 Challenges
 *Note that each Challenge card has a name. For lack of a clear better option, I am using these names to identify which one a FAQ entry refers to. There are, I suppose, minor spoilers in this section as a necessity.*
 
 **What are Challenges? Should I be using them?** While you shuffle the Challenge deck during game setup, they are not supposed to be used until the mechanic for them is unlocked. You will know when you're able to start including them in your game, and what they do. While their existence is not a spoiler, their purpose and contents are.
@@ -422,7 +422,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 - Wall M - 4 Prosperity, 4 wood, 3 metal, 3 hide, 10 gold
 - Wall N - 6 Prosperity, 6 wood, 3 metal 2 hide, 10 gold
 
-## 5.1 Specific Building Questions
+### 5.1 Specific Building Questions
 **How do the Workshop Upgrades work?** The three methods of transportation - Climbing Tools, Sled, and Boat - are all considered Building Upgrades. They are constrained by the 1 per Construction Phase build/upgrade limit, and count towards any relevant retirement goals.
 
 **Is there a way to upgrade the Barracks?** The barracks can only be upgraded under specific circumstances. You will know if you can.
@@ -453,7 +453,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 **Building 90** [o]See #3e# for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
 [/o]
 
-## 5.2 Enhancements
+### 5.2 Enhancements
 *Note: for questions about the building effects at each level, see its building number, above. This section is for general questions about enhancements. This section will not be spoiler-tagged.*
 
 **Is there a limit on the number of enhancements a character can have?** No, there's no limit. This is a change from Gloomhaven.
@@ -462,7 +462,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **My Summon has an inherent multi-target attack. Will enhancing its Range or Attack cost double the normal cost for a summon?** Yes. 
 
-## 6.0 Specific Monster Questions
+## 6.0 Monster Questions
 **What are the little symbols on some monster stat cards for?** These are for locked campaign mechanics. You will know what they mean when it’s time.
 
 ### Algox Priests 
