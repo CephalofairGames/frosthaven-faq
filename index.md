@@ -4,6 +4,7 @@
 0.0 Introduction
     0.1 Spoilers
     0.2 About Me
+	
 1 First Printing Production Errors and Typos
   1 Second Printing Changes
 1 Component and Setup Questions
@@ -475,20 +476,20 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **How is focus determined for Tunneling Slices?** Basically - it is completely analogous to normal focus rules, except the Burrowing Blades is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible. 
 
-[size=12]**Chaos Demon**
+### Chaos Demon
 **What is the Retaliate value on Chilling Breath?** It is Retaliate 2, Range 2. This was a production error (see Section 2 of the FAQ).
 
-[size=12]**Flaming Bladespinner**
+### Flaming Bladespinner
 **Is the movement path for Spinning Charge chosen to maximize targets?** In this case and all similar ones, the attack is a rider on the move, and a move ability doesn't have multi-target. A player can resolve ambiguity among multiple equal paths to minimize targets.
 
 **Will the Bladespinner attack with Spinning Charge if they are already adjacent to the furthest enemy?** No. The attack is a rider on the move. No move, no attack. 
 
 **How is focus determined for Spinning Charge?** Basically - it is completely analogous to normal focus rules, except the Bladespinner is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible.
 
-[size=12]**Frozen Corpse**
+### Frozen Corpse
 **How does the elemental consumption on Thawed Strike work?** This card was written before the FH elemental consumption rules were finalized. If any Corpse performs any ability, they will consume Fire. Any Corpse performing a Move ability (keeping in mind this has to be 1 or more hexes) during their turn will take 2 damage. 
 
-[size=12]**Ice Wraith**
+### Ice Wraith
 **If an Ice Wraith is Stunned during a turn when it would switch forms, does it switch forms? ** No, a stunned ice wraith will not switch forms.
 
 **What's the timing for changing forms? Do Ice Wraiths all change at once, or one at a time?** One at a time. Each will activate and change on their own turn.
@@ -497,38 +498,38 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **How does a Named Ice Wraith work? Are they elite? Normal? Change form?** Isaac: "The intention was that named Ice Wraiths would switch forms (this is the main reason normals and elites always have the same hit point value). That is on pretty shaky ground with the rules, though, because there explicitly called out as not elite, and because the red bases are used, it is even difficult to track. Gonna be messy either way, but I would say to go with the intent, have them switch, and recommend using normal white/yellow bases in those cases."
 
-[size=12]**Lightning Eel**
+### Lightning Eel
 **What happens if I destroy or relocate a water tile an eel is currently occupying?** The eel treats non-water hexes as obstacles, so will immediately relocate to the closest water hex. (Note that, unlike Gloomhaven, there is no damage caused by this movement in Frosthaven.) In the event there's no unoccupied water tiles, they just remain in the hex they're in until able to legally move elsewhere. 
 
 **Can Lightning Eels be force moved out of water?** No. Non-water hexes are obstacles to Lightning Eels. 
 
-[size=12]**Living Doom**
+### Living Doom
 **Is it possible for Call for Souls to summon zero Living Spirits? ** Yes. 
 
-[size=12]**Lurker Soldier**
+### Lurker Soldier
 **How does Berserk Rage work? ** The Soldier can target its normal amount of enemies (note the lack of 'all' here), but can target enemies within 2 hexes for this attack. These remain melee attacks. 
 
-[size=12]**Lurker Mindsnipper**
+### Lurker Mindsnipper
 **How does Turn the Weak work? **First, the Mindsnipper finds focus, moves, and attacks as a multi-target enemy will. Then, it makes weak attacks against its targets. Note, if it has innate Muddle, it will muddle the targets at this point. After those attacks resolve, any enemy that it targeted will be forced to attack an adjacent ally using standard focus rules. The enemy will draw from its own modifier deck for this attack. Because this is specifically an Attack 3, this will always be a melee attack, even if this targets one of your Summons with an inherent range.
 
-[size=12]**Lurker Wavethrower**
+### Lurker Wavethrower
 **If we run out of water tiles, can the Wavethrower make more?** Yes. Overlay tiles are not supposed to be component-limited. Use a proxy tile.
 
 **What kind of terrain do the Wavethrower's water tiles count as?** They count as whatever Water is defined as in the scenario key, or, in absence of that, as Difficult Terrain.
 
-[size=12]**Wind Demon**
-**Should Level 0 Elites have more movement than Level 1 Elites?** Level 0 Elites should have Move 3.
+### Wind Demon
+**Should Level 0 Elites have more movement than Level 1 Elites?** Level 0 Elites should have Move 3. This is errata.
 
-[color=#006eff]## **#7# General Scenario Questions**
+##7.0 General Scenario Questions
 **I don’t understand the difference between Campaign and Casual mode. What does all this mean? **So the confusion is primarily because Frosthaven’s “Casual Mode” is different from Gloomhaven’s.
-[c]  *   [/c]Casual Mode: You get no resources, XP, quest progression, etc. Time does not pass, you don’t do any events, etc. It is really just playing the game to enjoy it, with zero campaign impact. Afterwards there is no Outpost Phase.
-[c]  *   [/c]Campaign Mode: Just like in a normal scenario, you can earn resources, XP, any unlooted treasure chests, and random items if you didn’t already get them. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Frosthaven. After the scenario, you will have an Outpost Phase.
+- Casual Mode: You get no resources, XP, quest progression, etc. Time does not pass, you don’t do any events, etc. It is really just playing the game to enjoy it, with zero campaign impact. Afterwards there is no Outpost Phase.
+- Campaign Mode: Just like in a normal scenario, you can earn resources, XP, any unlooted treasure chests, and random items if you didn’t already get them. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Frosthaven. After the scenario, you will have an Outpost Phase.
 
-**Can I replay a scenario to grab an unlooted treasure chest? Isn’t that Casual Mode?** In Frosthaven, you would have to replay it in Campaign Mode. Casual Mode is different in Frosthaven than it is in Gloomhaven. You would run the scenario just like you ran it the first time, except you do not receive any Scenario Rewards for completion. (Just the loot, chests, xp, etc.)
+**Can I replay a scenario to loot an unlooted treasure chest? Isn’t that Casual Mode?** In Frosthaven, you would have to replay the scenario in Campaign Mode. Casual Mode is different in Frosthaven than it is in Gloomhaven. You would run the scenario just like you ran it the first time, except you do not receive any Scenario Rewards for completion. (Just the loot, chests, xp, etc.)
 
 **What about a random scenario from the random dungeon deck? How do those fit in?** Random scenarios can be played in Casual Mode or Campaign Mode; it is up to you. See above for the differences. Random scenarios do not require a Road Event. Note that playing too many random scenarios in campaign mode may have unforeseen effects on campaign progression. If things start to seem weird, I’d recommend going back to the game’s campaign scenarios.
 
-**If I lose a scenario but we choose to replay the scenario (Option B on page 47), do I keep any Random Items we found? What about gold from loot cards? **You keep all gold (including that gained from loot cards), anything gained from treasure chests (even if it contained Resources), random items from the loot deck, and XP earned from your action cards. You do not keep any other Resources, including those gained via item usage.
+**If I lose a scenario but we choose to replay the scenario, do I keep any Random Items we found? What about gold from loot cards?** You keep all gold (including that gained from loot cards), anything gained from treasure chests (even if it contained Resources), random items from the loot deck, and XP earned from your action cards. You do not keep any other Resources, including those gained via item usage.
 
 **Why are some scenario markers in grey and some in green?** All are considered to share the same marker, but there's only enough physical markers for the green ones. 
 
@@ -536,20 +537,29 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **If there is a calculation, but no indication of the direction of rounding, what direction do you round?** Usually a calculation will tell you the intended direction of rounding. If it does not, assume it rounds up.
 
-[color=#006eff]## **#8# Specific Scenario Questions**
+##8.0 Specific Scenario Questions
 
 **Scenario 0** Masteries cannot be completed in this scenario. This is a rule in the second printing.
 
-**Scenario 1 - **Although the City Guards don't take turns, they expire "end of next turn" conditions (such as Disarm and Immobilize) on Initiative 50.
+**Scenario 1** - Although the City Guards don't take turns, they expire "end of next turn" conditions (such as Disarm and Immobilize) on Initiative 50.
 
-**Scenario 2** - [o]The door is placed incorrectly after opening the final section. Don’t move the door.[/o]
+<details>
+<summary>Scenario 2</summary>
 
-**Scenario 4** - [o]The special rules should not mention Priests. There are no Priests in this scenario.
+The door is placed incorrectly after opening the final section. Don’t move the door.
 
-Final room - [o]The references to other monsters are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.
+</details>
 
-Conclusion - [o]Like all other scenarios, you **cannot** replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.[/o][/o]
-[/o]
+<details>
+<summary>Scenario 4</summary>
+
+The special rules should not mention Priests. There are no Priests in this scenario.
+
+Final room - The references to other monsters are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.
+
+Conclusion - Like all other scenarios, you **cannot** replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.
+</details>
+
 **Scenario 7** - Conclusion - [o]the sticker you are looking for, here, is one labeled "Coral Crown" on the campaign sheet.[/o]
 
 **Scenario 9 **- [o]The switches are the wall hexes. They are targetable in melee by standing in the adjacent hex, or ranged by targeting that wall hex.[/o]
