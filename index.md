@@ -1,50 +1,50 @@
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 *Last Updated 7/1/2024*
 
-1 First Printing Production Errors and Typos
-  1 Second Printing Changes
-1 Component and Setup Questions
-1 General Gameplay Questions (Outside Scenarios)
-  1 Masteries
-  1 Personal Quests
-  1 Events and Traits
-1 General Gameplay Questions (Scenarios)
-  1 Rooms, Movement, Forced Movement, and Overlays
-  1 Damage, Shield, Ward, and Brittle
-  1 AMD Draws, Advantage, and Disadvantage
-  1 Negative Conditions
-  1 General Player Ability Questions and Clarifications
-  1 Loot Deck Questions
-  1 Objectives
-  1 Monster Focus, Abilities, Stats, and AI
-  1 Uncategorized
-  1 Challenges
-1 Outpost General Questions
-  1 Specific Building Questions
-  1 Enhancements
-1 Monster Questions
-1 General Scenario Questions
-  1 Specific Scenario Questions
-  1 Solo Scenario Questions
-1 Characters
-  1 Drifter
-  1 Blinkblade
-  1 Banner Spear
-  1 Deathwalker
-  1 Boneshaper
-  1 Geminate
-  1 "Astral"
-  1 "Meteor"
-  1 "Shards"
-  1 "Trap"
-  1 "Shackles"
-  1 "Snowflake"
-  1 "Fist"
-  1 "Kelp"
-  1 "Coral"
-  1 "Prism"
-  1 "Drill"
-1 Items
+1.0 First Printing Production Errors and Typos<p>
+  1.1 Second Printing Changes<p>
+2.0 Component and Setup Questions<p>
+3.0 General Gameplay Questions (Outside Scenarios)<p>
+  3.1 Masteries<p>
+  3.2 Personal Quests<p>
+  3.3 Events and Traits<p>
+4.0 General Gameplay Questions (Scenarios)<p>
+  4.1 Rooms, Movement, Forced Movement, and Overlays<p>
+  4.2 Damage, Shield, Ward, and Brittle<p>
+  4.3 AMD Draws, Advantage, and Disadvantage<p>
+  4.4 Negative Conditions<p>
+  4.5 General Player Ability Questions and Clarifications<p>
+  4.6 Loot Deck Questions<p>
+  4.7 Objectives<p>
+  4.8 Monster Focus, Abilities, Stats, and AI<p>
+  4.9 Uncategorized<p>
+  4.10 Challenges<p>
+5.0 Outpost General Questions<p>
+  5.1 Specific Building Questions<p>
+  5.2 Enhancements<p>
+6.0 Monster Questions<p>
+7.0 General Scenario Questions<p>
+  7.1 Specific Scenario Questions<p>
+  7.2 Solo Scenario Questions<p>
+8.0 Characters<p>
+  8.1 Drifter<p>
+  8.2 Blinkblade<p>
+  8.3 Banner Spear<p>
+  8.4 Deathwalker<p>
+  8.5 Boneshaper<p>
+  8.6 Geminate<p>
+  8.7 "Astral"<p>
+  8.8 "Meteor"<p>
+  8.9 "Shards"<p>
+  8.10 "Trap"<p>
+  8.11 "Shackles"<p>
+  8.12 "Snowflake"<p>
+  8.13 "Fist"<p>
+  8.14 "Kelp"<p>
+  8.15 "Coral"<p>
+  8.16 "Prism"<p>
+  8.17 "Drill"<p>
+9.0 Items<p>
 
 ## 0.0 Introduction
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions.
