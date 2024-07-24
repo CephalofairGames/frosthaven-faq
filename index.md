@@ -558,7 +558,7 @@ The special rules should not mention Priests. There are no Priests in this scena
 </details>
 
 <details>
-<summary><b>Scenario 7 - Conclusion</b></summary>
+<summary><b>Scenario 7 (conclusion)</b></summary>
 
 The campaign sticker is labeled "Coral Crown" on the 1st Printing sticker sheet
 
@@ -647,7 +647,7 @@ Note in the errata - the guard and archer spawns are reversed, as are the exit h
 </details>
 
 <details>
-<summary><b>Scenario 29 (onclusion)/b></summary>
+<summary><b>Scenario 29 (conclusion)</b></summary>
 
 Remove the cards you're directed to remove from both Available *and* Unavailable Event Decks
 
@@ -675,7 +675,7 @@ First Printing Only: Add blueprints for Item 067 to the scenario reward.
 </details>
 
 <details>
-<summary><b>Scenario 37 Conclusion</b></summary>
+<summary><b>Scenario 37 (conclusion)</b></summary>
 
 First Printing Only: Add blueprints for Item 067 to the scenario reward.
 
@@ -702,87 +702,268 @@ First Printing Only: Section 71.2 indicates you open 47 Blizzard Island. Blizzar
 
 </details>
 
+<details>
+<summary><b>Scenario 45</b></summary>
 
+The requirement of Climbing Gear is correct. Narratively, it could have been either climbing gear, boat, or both - but this is not an error
 
-**Scenario 45 - **[o]The requirement of Climbing Gear is correct. Narratively, it could have been either or both, but this is not an error.[/o]
+</details>
 
-**Scenario 55 Conclusion - **[o]Remove the cards you're directed to remove from both Available [i]and[/i] Unavailable Event Decks.[/o]
+<details>
+<summary><b>Scenario 55 (conclusion)</b></summary>
 
-**Scenario 58 Conclusion - **[o]Remove the cards you're directed to remove from both Available [i]and[/i] Unavailable Event Decks.[/o]
+Remove the cards you're directed to remove from both Available and Unavailable Event Decks.
 
-**Scenario 59 Conclusion - **[o]Remove the cards you're directed to remove from both Available [i]and[/i] Unavailable Event Decks.[/o]
+</details>
 
-**Scenario 60** - Boss Special Rules [o]The intent for 'everlasting' elements is that they become Strong at the start of every figure's turn. Even with this special, a single element cannot be consumed twice in a single turn.[/o]**Conclusion - **[o]Remove the cards you're directed to remove from both Available [i]and[/i] Unavailable Event Decks. Add Item 224 to Scenario Rewards.[/o]
+<details>
+<summary><b>Scenario 58 (conclusion)</b></summary>
 
-**Scenario 62** - [o]This scenario uses "a" tokens for both Crain's present location, and his starting (and first goal) location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself.[/o]
+Remove the cards you're directed to remove from both Available and Unavailable Event Decks.
 
-**Scenario 65** [o]Section 89.1 [o]The Named Ice Wraith starts using the "elite" stats, and switches forms like other ice wraiths. Just use normal white and yellow bases for it, but it's still considered a named monster.[/o][/o]
+</details>
 
-**Scenario 70** - [o]As mentioned in the Errata, there is only one random item in the loot deck.[/o]
+<details>
+<summary><b>Scenario 59 (conclusion)</b></summary>
 
-**Scenario 71** [o]Section 111.2 - One piranha pig spawns at each F.[/o]
+Remove the cards you're directed to remove from both Available and Unavailable Event Decks.
 
-**Scenario 73 and Coral Class** - [o]Yes, these hexes count as Water for your abilities and perks.[/o]
+</details>
 
-**Scenario 78 - **First Printing Errata repeated here - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page). Do not change the door positions on entering new rooms.
+<details>
+<summary><b>Scenario 60</b></summary>
 
-**Scenario 81 - **[o]Aesther Ashblades cannot teleport to a room unless all doors between their current room and their destination room have been opened.[/o]
+Boss Special Rules [o]The intent for 'everlasting' elements is that they become Strong at the start of every figure's turn. Even with this special, a single element cannot be consumed twice in a single turn.
 
-**Scenario 82 - ** If you have questions on how some aspects of this scenario operate, please reference [thread=3070490]this thread[/thread]
+Conclusion - Remove the cards you're directed to remove from both Available and Unavailable Event Decks. 
 
-**Scenario 83 - ** [o]The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is [i]only [/i]used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.[/o]
+First Printing Only - Add Item 224 to Scenario Rewards
 
-**Scenario 84 - [o]What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..." ** Effectively the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.[/o] 
+</details>
 
-**Scenario 90 - **[o]This scenario does not require a boat. It's not necessarily your boat.[/o]
+<details>
+<summary><b>Scenario 62</b></summary>
 
-**Scenario 92 - **[o]Your ally can be moved through by its allies. Enemies cannot move through them. They are unaffected by placed overlays and tiles.[/o]
+This scenario uses "a" tokens for both Crain's present location, and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself.
 
-**Scenario 96 - **[o]The stairs are there for aesthetic reasons. The platform follows all normal corridor rules and you can hop on or off as you see fit. When the platform opens doors at the end of the round, newly revealed enemies do not activate.[/o]
+</details>
 
-**Scenario 101 - **[o]The "goal treasure tiles" have been replaced by numbered tokens due to component count issues. References to goal tiles refer to the numbered tokens.[/o]
+<details>
+<summary><b>Scenario 65 - Section 89.1</b></summary>
 
-**Scenario 104 - ** [o]The special rule should include "Each element can be consumed only once per turn."[/o]
+The Named Ice Wraith starts on "elite" stats, and switches forms like other ice wraiths. Just use normal white and yellow bases for it, but it's still considered a named monster.
 
-**Scenario 107** [o]Section 168.4 [o]Treat the new monsters as spawns. If the space they are supposed to appear in is not empty, place them in the nearest empty hex possible.[/o][/o]
+</details>
 
-**Scenario 109** - [o]The special rule should reference Initiative 52, not 54.[/o]
+<details>
+<summary><b>Scenario 70</b></summary>
 
-**Scenario 110** - [o]The water hexes are difficult terrain, not corridor. If you move/destroy the water hexes or put other overlays into the corridor hexes, the electrification hexes are not affected. Just keep the electrification pattern as it was at the start of the scenario.[/o]
+As mentioned in the Errata, there is only one random item in the loot deck.
 
-**Scenario 111** - [o]The door positions in Section 182.2 are correct. On 138.2 the section link should be to 147.2[/o]
+</details>
 
-**Scenario 117 **- [o]This scenario setup has 5 Polar bears but there are only 4 standees. A fifth Polar bear should be 'proxied' from other available standees or minis.[/o]
+<details>
+<summary><b>Scenario 71 - Section 111.2</b></summary>
 
-**Scenario 118** - [o]Letter tokens don't have an 'upside down'; just ignore this instruction. The specific letter isn't relevant to the scenario rules.[/o]
+One piranha pig spawns at *each* F
 
-**Scenario 120** - [o]If there is a Geminate in the party, they should split their hand into two piles based on form. If you lose a card to damage, you can lose a card of your choice from your set-aside hand[/o]
+</details>
 
-**Scenario 134** - [o]A jump or ranged attack between the "balconies" does require counting the range. You can use extra corridor hexes to measure.[/o]
+<details>
+<summary><b>Scenario 73 and Coral Class</b></summary>
 
-[color=#006eff]## **#9# Solo Scenario Questions**
+Yes, these hexes count as Water for your abilities and perks.
+
+</details>
+
+<details>
+<summary><b>Scenario 78</b></summary>
+
+First Printing Errata repeated here - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page). Do not change the door positions on entering new rooms.
+
+</details>
+
+<details>
+<summary><b>Scenario 81</b></summary>
+
+Aesther Ashblades cannot teleport to a room unless all doors between their current room and their destination room have been opened.
+
+</details>
+
+<details>
+<summary><b>Scenario 82</b></summary>
+
+If you have questions on how some aspects of this scenario operate, please reference [this thread](https://boardgamegeek.com/thread/3070490/scenario-82-corridors-when-they-are-not-there-spoi)
+
+</details>
+
+<details>
+<summary><b>Scenario 83</b></summary>
+
+The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is *only* used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.
+
+</details>
+
+<details>
+<summary><b>Scen</b></summary>
+
+XXXXXXXXX
+
+</details>
+
+<details>
+<summary><b>Scenario 84</b></summary>
+
+What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..." Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.
+
+</details>
+
+<details>
+<summary><b>Scenario 90</b></summary>
+
+This scenario does not require the boat to be built at the workshop. It's not necessarily *your* boat.
+
+</details>
+
+<details>
+<summary><b>Scenario 92</b></summary>
+
+See Section 4.9 if you're wondering how your scenario ally works.
+
+</details>
+
+<details>
+<summary><b>Scenario 96</b></summary>
+
+The stairs are there for aesthetic reasons. The platform follows all normal corridor rules, and you can move on or off as you see fit. When the platform opens doors at the end of the round, newly revealed enemies do not activate.
+
+</details>
+
+<details>
+<summary><b>Scenario 101</b></summary>
+
+The "goal treasure tiles" have been replaced by numbered tokens due to component count issues. References to goal tiles refer to the numbered tokens.
+
+</details>
+
+<details>
+<summary><b>Scenario 104</b></summary>
+
+The special rule should include "Each element can be consumed only once per turn."
+
+</details>
+
+<details>
+<summary><b>Scenario 107 - Section 168.4</b></summary>
+
+Treat the new monsters as spawns. If the space they are supposed to appear in is not empty, place them in the nearest empty hex possible.
+
+</details>
+
+<details>
+<summary><b>Scenario 109</b></summary>
+
+The special rule should reference Initiative 52, not 54.
+
+</details>
+
+<details>
+<summary><b>Scenario 110</b></summary>
+
+The water hexes are difficult terrain, not corridor. If you move or destroy the water hexes, or put other overlays into the corridor hexes, the electrification hexes are not affected. Just keep the electrification pattern as it was at the start of the scenario.
+
+</details>
+
+<details>
+<summary><b>Scenario 111</b></summary>
+
+The door positions in Section 182.2 are correct. On 138.2 the section link should be to 147.2.
+
+</details>
+
+<details>
+<summary><b>Scenario 117</b></summary>
+
+First Printing Only: This scenario setup requires 5 Polar bears but there are only 4 standees. A fifth Polar bear should be 'proxied' from other available standees or minis
+
+</details>
+
+<details>
+<summary><b>Scenario 118</b></summary>
+
+Letter tokens don't have an 'upside down'; just ignore this instruction. The specific letter isn't relevant to the scenario rules.
+
+</details>
+
+<details>
+<summary><b>Scenario 120</b></summary>
+
+If there is a Geminate in the party, they should split their hand into two piles based on form. If you lose a card to damage, you can lose a card of your choice from your set-aside hand.
+
+</details>
+
+<details>
+<summary><b>Scenario 134</b></summary>
+
+A jump or ranged attack between the "balconies" requires counting the distance. You can use extra corridor hexes to measure.
+
+</details>
+
+### 7.2 Solo Scenario Questions
 **Can I gain Masteries or Battle Goals during a Solo Scenario? Can I progress my PQ? Do I gain Inspiration?** You can pursue Masteries and Battle Goals, but solo scenarios are probably enough of a challenge without them! You can also progress towards retirement. You do not gain Inspiration - Inspiration is based on party size, and both the minimum and maximum party size for a solo scenario is 1.
-
-**Can I level up, craft, purchase items, or purchase enhancements after my solo scenario is complete?** These activities need to wait until the next campaign Downtime phase, whenever that happens over the normal course of play. Solo scenarios take place outside of the normal Scenario/Outpost flow, and those activities are limited to Downtime.
-
-**Building 42 Mechanic - [o]Can I buy Blessings before a solo scenario?** No. [/o]
-
-**Building 74 Mechanic - [o]Should I include the special coin cards in a solo scenario loot deck?[/o] Yes.**
-
-**Building 81 Mechanic - [o]Do I use a Trial? Or any of the rewards from completing them?** No. [/o]
-
-**Building 88 Mechanic - [o]Can I bring a Pet to a solo scenario?** No. [/o]
-
-**Building 90 Mechanic - [o]Do I draw a Challenge on a solo scenario?** No. [/o]
 
 **Do I need to kill enemies that have not yet spawned in order to beat this solo scenario?** Many solo scenarios have a win condition of "when all enemies in it are dead" along with set spawns for specific rounds. (See: Banner Spear, Geminate, Deathwalker, etc.)  Spawns that haven't appeared yet are still considered part of the scenario, and must be defeated.
 
-**Trap Solo Scenario - ** [o]The special range rule does not affect the Snowspeaker's inherent retaliate.[/o]
+**Can I level up, craft, purchase items, or purchase enhancements after my solo scenario is complete?** These activities need to wait until the next campaign Downtime phase, whenever that happens over the normal course of play. Solo scenarios take place outside of the normal Scenario/Outpost flow, and those activities are limited to Downtime.
 
-[color=#006eff]## **#10# Characters**
-[imageid=7298580 inline][size=14]**Drifter**
+<details>
+<summary><b>Building 42 Mechanic</b></summary>
 
-**When do I get XP for the persistent abilities?** Only when moving forward on the track, never when moving backwards even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
+**Can I buy Blessings before a solo scenario?** No.
+
+</details>
+
+<details>
+<summary><b>Building 74 Mechanic</b></summary>
+
+**Should I include the special coin cards in a solo scenario loot deck?** Yes.
+
+</details>
+
+<details>
+<summary><b>Building 81 Mechanic</b></summary>
+
+**Does my Trial affect this scenario? Can I use any of the rewards from completing them?** No.
+
+</details>
+
+<details>
+<summary><b>Building 88 Mechanic</b></summary>
+
+**Can I bring a Pet to a solo scenario?** No.
+**Can I capture a Pet in a solo scenario?** Yes.
+
+</details>
+
+<details>
+<summary><b>Building 90 Mechanic</b></summary>
+
+**Do I draw Challenges on a solo scenario?** No.
+
+</details>
+
+<details>
+<summary><b>Trap Solo Scenario</b></summary>
+
+The special range rule does not affect the Snowspeaker's inherent retaliate.
+
+</details>
+
+## **8.0 Characters**
+
+### **8.1 Drifter**
+
+**When do I get XP for my persistent abilities?** Only when moving forward on the track, never when moving backwards even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
 
 **Let’s say I am on the last charge of Crushing Weight (1). If I attack with the top of Sustained Momentum, can I keep Crushing Weight up on its last charge?  **No. The attack has already dropped Crushing Weight off the last use slot, and the card was already lost. This same answer applies for any other similar abilities; once you use the last use slot, the card is lost immediately after the ability concludes.
 
@@ -796,23 +977,23 @@ First Printing Only: Section 71.2 indicates you open 47 Blizzard Island. Blizzar
 
 **Can I use my Scavenger perk to help me complete a loot-based PQ like A Study of Plants?** No. These quests specify "through loot tokens" so this perk can't help with them. 
 
-[imageid=7298582 inline][size=14]**Blinkblade**
+### **8.2 Blinkblade**
 **General Note about Range modifications** - You have several abilities which add Range to a Melee attack. Note that if you add Range to a Melee attack, you add the modifier to 1 and it becomes a Ranged attack. (So if you use Kinetic Transfer top while Slow, your Attack becomes Ranged and has Range 2.) As it says on your board, this range modification is mandatory and cannot be skipped.
 
-**What does “Mandatory” mean on the player board for Fast and Slow Attacks and Abilities? **
-[c]  *   [/c]All added abilities are mandatory. (See below for a detailed explanation.)
-[c]  *   [/c]All added effects must be applied to the ability they are tied to, but once that is done, the player can use that ability as normal (i.e. not apply a wound, not attack extra targets).
-[c]  *   [/c]If an ability or effect has the player pay a cost to trigger something (i.e. spending a time token or poisoning themselves), the player doesn't have to pay the cost and can instead skip the trigger.
+**What does “Mandatory” mean on the player board for Fast and Slow Attacks and Abilities?**
+- All added abilities are mandatory. (See below for a detailed explanation.)
+- All added effects must be applied to the ability they are tied to, but once that is done, the player can use that ability as normal (i.e. not apply a wound, not attack extra targets).
+- If an ability or effect has the player pay a cost to trigger something (i.e. spending a time token or poisoning themselves), the player doesn't have to pay the cost and can instead skip the trigger.
 
-**What does it mean that added Abilities are mandatory? Does this mean I must Move if I use Twin Strike (1, top) while Fast? Does this mean I must Attack if I use Precision Timing (4, bot) while Fast? **Yes to both. If you are able to perform the added ability when it comes up during your action, you must do so.
-[c]  *   [/c]With an added Move, you must move at least 1 hex if you are able to; there is no Move 0 in Frosthaven. You can generally move right back into the hex you exited if you have at least Move 2.
-[c]  *   [/c]With an added Attack, if you are within range of a targetable enemy, you must perform the Attack. You are not forced to use a Move to get within range of a targetable enemy, are not compelled to add any additional effects, and are not forced to attack the maximum targets. But, you must perform an Attack if you can.
-[c]  *   [/c]If you are unable to perform the added ability (because you are Immobilized, surrounded by enemies, there is no enemy in range of an attack, you are Disarmed, etc.) a mandatory Fast or Slow ability is still skipped.
-[c]  *   [/c]Note that this does not apply to abilities which are just modified by (as opposed to added by) Fast or Slow timing; those can be skipped as normal.
+**What does it mean that added Abilities are mandatory? Does this mean I must Move if I use Twin Strike (1, top) while Fast? Does this mean I must Attack if I use Precision Timing (4, bot) while Fast?** Yes to both. If you are able to perform the added ability when it comes up during your action, you must do so.
+- With an added Move, you must move at least 1 hex if you are able to; there is no Move 0 in Frosthaven. You can generally move right back into the hex you exited if you have at least Move 2.
+- With an added Attack, if you are within range of a targetable enemy, you must perform the Attack. You are not forced to use a Move to get within range of a targetable enemy, are not compelled to add any additional effects, and are not forced to attack the maximum targets. But, you must perform an Attack if you can.
+- If you are unable to perform the added ability (because you are Immobilized, surrounded by enemies, there is no enemy in range of an attack, you are Disarmed, etc.) a mandatory Fast or Slow ability is still skipped.
+- Note that this does not apply to abilities which are just modified by (as opposed to added by) Fast or Slow timing; those can be skipped as normal.
 
 **If I use a Default Action, do the Fast or Slow effects apply?** No, the default Move 2 and Attack 2 are not affected by the Fast or Slow modifiers on that card half. You are still Fast or Slow for all other considerations.
 
-**Hit and Run (1, bottom) - What qualifies as an “attack action” here?  If I use the top of Twin Strike but never make an attack will I be able to Move 3 afterwards?** You need to perform at least one attack ability during an action for it to be considered an attack action.
+**Hit and Run (1, bottom) - What qualifies as an “attack action” here?  If I use the top of Twin Strike, but never make an attack, will I be able to Move 3 afterwards?** You need to perform at least one attack ability during an action for it to be considered an attack action. Note that Attacks provided by items aren't Actions or parts of Actions.
 
 **Overdrive (1) - When do I gain the Shield 1 if I am going Slow?** As soon as Slow is declared; it is active the entire round.
 
@@ -820,16 +1001,16 @@ First Printing Only: Section 71.2 indicates you open 47 Blizzard Island. Blizzar
 
 **Fractured Timeline (9, top) - If I spawn a summoning ally, are their summons also my allies?** No. In all cases for all classes, when you are controlling a monster, you don't control their summons. Their summons will be enemies to you (and to them). 
 
-[imageid=7298583 inline][size=14]**Banner Spear**
-**How much can I communicate with my party about where I would like them to be for a formation?** The only things you can't communicate are [i]specific numbers[/i] and [i]specific card names[/i]. (And things that are "basically numbers" - like "voting age" or "exactly half" or something similar.) Everything else is allowed and frankly, for Banner Spear, encouraged. You can tell people where you need to be, ask where they will end up, ask them if they can go to a certain hex, tell them the kinds of conditions you'll be applying, the specific monsters you hope to attack, etc. It's okay if this lets them guess your card, your initiative, etc. - that's part of learning to work together as a team.
+### **8.3 Banner Spear**
+**How much can I communicate with my party about where I would like them to be for a formation?** The only things you can't communicate are *specific numbers* and *specific card names*. (This includes things that are "basically numbers" - like "voting age" or "exactly half" or something similar.) Everything else is allowed and frankly, for Banner Spear, encouraged. You can tell people where you need to be, ask where they will end up, ask them if they can go to a certain hex, tell them the kinds of conditions you'll be applying, the specific monsters you hope to attack, etc. It's okay if this lets them guess your card, your initiative, etc. - that's part of learning to work together as a team.
 
-**Can my Banners move if I grant them move abilities? **Yes, and it’s very important for keeping them relevant!  Remember that when you Grant a summoned ally any ability, you decide how they execute it - such as where they move. Also note that while you can grant a Banner Move X (like Move 2), abilities which grant Move +X (like Move +2) won’t work because the Banner has no innate movement stat.
+**Can my Banners move if I grant them move abilities?** Yes, and it’s very important for keeping them relevant!  Remember that when you Grant a summoned ally any ability, you decide how they execute it - such as where they move. Also note that while you can grant a Banner Move X (like Move 2), abilities which grant Move +X (like Move +2) won’t work because the Banner has no innate movement stat.
 
-**Do my Banners grant me their bonuses?  **Yes, they are Summons; you are your Banner’s ally.
+**Do my Banners grant me their bonuses?** Yes, they are Summons; you are your Banner’s ally.
 
 **Do my Banners count as allies for formation attacks?** Yes, they are allies just like any summon.
 
-**Can I modify the patterns for my formation attacks? **Yes, but only within the same limits as any Area of Effect pattern.  You can rotate it around, and you can ‘mirror’ flip it as well. For example, on Combined Effort you may be to the right or left of your ally.
+**Can I modify the patterns for my formation attacks?** Yes, but only within the same limits as any Area of Effect pattern.  You can rotate it around, and you can ‘mirror’ flip it as well. For example, on Combined Effort you may be to the right or left of your ally.
 
 **Do I need Line of Sight to my blue hex ally?** Yes. 
 
@@ -837,24 +1018,24 @@ First Printing Only: Section 71.2 indicates you open 47 Blizzard Island. Blizzar
 
 **Can I use items like Crude Spear for an attack like Combined Effort (1), which has a single red hex?** No. An attack with a red hex AoE pattern is not considered a "single target attack" for purposes of item use, no matter how many enemies you are targeting with it.
 
-**Can I use items like 136 [o]Battle Axe[/o] to change the pattern of an attack like Combined Effort (1), which has a single red hex?** No. A red hex AoE pattern is not considered a "single target attack" for purposes of item use, no matter how many enemies you are targeting with it. 
+**Can I use items like [136](https://github.com/any2cards/frosthaven/blob/master/images/items/frosthaven/129-167/fh-136-battle-axe.png) to change the pattern of an attack like Combined Effort (1), which has a single red hex?** No. A red hex AoE pattern is not considered a "single target attack" for purposes of item use, no matter how many enemies you are targeting with it. 
 
 **How does my Formation Attack mastery work?** You must attack at least three enemies in each of three different formation attack actions. The enemies do not need to be different, but the formation actions do. This Mastery is generally not possible until Level 3 at the earliest, though some items may enable it.
 
-**Some formation attack actions like Let Them Come (3) have abilities after the attack. Do I need to perform the attack to do these abilities?** Any abilities in an action with a formation attack that reference the formation for targeting require the formation attack to have been performed. In the case of Let Them Come, if no enemies were attacked in this formation, no heal takes place. 
+**Some formation attack actions like Let Them Come (3) have abilities after the attack which reference the attack's  hexes. Do I need to perform the attack to do these abilities?** Any abilities in an action with a formation attack that reference the formation for targeting require the formation attack to have been performed. In the case of Let Them Come, if no enemies were attacked in this formation, no heal takes place. 
 
-**Set for the Charge (1)** - the top works on forced movement as well as normal movement. 
+**Set for the Charge (1, top)** - the top works on forced movement as well as normal movement. 
 
-**Boldening Blow (4) (top) - **The target limitation applies to both the Attack and the Disarm. You are attacking and disarming [i]one[/i] target in the red hexes.
+**Boldening Blow (4, top)** - The target limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
 
-[imageid=7298584 inline]**[size=14]Deathwalker**
-**A general update regarding Adjacency - **Placed shadows should be considered adjacent to their own hexes for all purposes. When you place a new shadow, though, follow normal adjacency rules.  This was a bit confusing for players to figure out, and it's altogether easier to just make this a general rule instead of limiting it to 'targeting'. 
+### **8.4 Deathwalker**
+**A general update regarding Adjacency** - Placed shadows should be considered adjacent to their own hexes for all purposes. When you place a new shadow, though, follow normal adjacency rules.  This was a bit confusing for players to figure out, and it's altogether easier to just make this a general rule instead of limiting it to 'targeting'. (Note that this rule is on the Deathwalker board in Second Printing)
 
-**General Rule Update - **If scenario rules force you to move character summons onto a newly revealed tile, also move your Shadows in the same way on your initiative.
+**General Rule Update** - If scenario rules force you to move character summons onto a newly revealed tile, also move your Shadows in the same way on your initiative. (Note that this rule is on the Deathwalker board in Second Printing)
 
-**Do I suffer Retaliate damage when I attack ‘as if I occupied’ a hex with a Shadow (example: Fluid Night)?**Only if the Deathwalker herself is within that Retaliate range.
+**Do I suffer Retaliate damage when I attack ‘as if I occupied’ a hex with a Shadow (example: Fluid Night)?** Only if the Deathwalker herself is within the target's Retaliate range.
 
-**Do I need Line of Sight to perform an ‘as if I occupied’ attack?**Line of Sight is drawn from the shadow token when you perform these abilities. Neither it nor the enemy needs to be within line of sight of the Deathwalker.
+**Do I need Line of Sight to perform an ‘as if I occupied’ attack?** Line of Sight is drawn from the shadow token when you perform these abilities. Neither it nor the enemy needs to be within line of sight of the Deathwalker.
 
 **Is an ‘as if I occupied’ attack melee or ranged?** If there is no range specified, these count as melee attacks. If there is a range listed, they are ranged attacks.
 
@@ -864,78 +1045,81 @@ First Printing Only: Section 71.2 indicates you open 47 Blizzard Island. Blizzar
 
 **Can my Shadow tokens open doors? Can they go to undiscovered rooms? Can they sit on closed doors?** No. Closed doors are treated as Walls until opened, and only characters can open doors (barring any specific scenario rules which overrule that).
 
-**If I draw multiple Heal Ally modifier draws, do they combine into one heal or is each one separate?** They all combine into one ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.
+**If I draw multiple Heal Ally modifier draws, do they combine into one heal or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.
 
 **Do shadows I have to remove because I'm over the limit count for my Masteries?** Yes. 
 
-**Call of the Abyss (1, top) - Can I have more than one character token on an enemy?**Not using this card, no. If you choose a different enemy to ‘mark’ on a later attack, first remove your character token from the enemy it’s on and then place it on your new choice.
+**Call of the Abyss (1, top) - Can I have more than one character token on an enemy?** Not using this card, no. If you choose a different enemy to ‘mark’ on a later attack, first remove your character token from the enemy it’s on and then place it on your new choice.
 
 **Call of the Abyss (1, top) - Can I mark an objective with Call to the Abyss?** While you could mark it, objectives are destroyed, not killed, so it won't create a shadow. 
 
-**Wave of Anguish (X, top) - Can I target a single enemy with all the attacks?**Yes, if your Shadows are all adjacent to the same target. You perform a separate Attack 3 ability for each Shadow on the board. 
+**Wave of Anguish (X, top) - Can I target a single enemy with all the attacks?** Yes, if your Shadows are all adjacent to the same target. You perform a separate Attack 3 ability for each Shadow on the board. 
 
-**Fluid Night (1, top) - Can this just be used as an Attack 5 without a Shadow token?** No. Attacking from a hex with a shadow on this and all "as if you occupied" attacks is not optional, nor is removing that shadow.
+**Fluid Night (1, top) - Can this just be used as an Attack 5 without a Shadow token?** No. Attacking from a hex with a shadow on this (and all "as if you occupied" attacks) is not optional, nor is removing that shadow.
 
-**Fluid Night (1, bot) - If I am standing on a shadow, can I teleport to my own hex?** Yes; there is precedent with swapping figures via teleport, so this would work. 
+**Fluid Night (1, bot) - If I am standing on a shadow, can I teleport to my own hex?** Yes; there is precedent with swapping figures via teleport, so this would work. You're swapping places with yourself.
 
 **Strength of the Abyss (1, bot) - Can I remove a shadow I am using for another action - like the shadow I'm using as my hex for Fluid Night while I'm attacking with Fluid Night?** No. You cannot use Strength of the Abyss to remove a shadow that's being used by the action you're trying to modify. ("Used by" includes being counted for bonuses, used as an attack origin, removed as a cost, etc. If it's considered for an action you want to modify in any way, you can't remove it with Strength of the Abyss.) 
 
-**Shadow Step (1, top) - Can I open a door with this movement? What happens if opening the door causes something that makes it so I no longer have a shadow for my destination hex?** Yes, you can open a door with this action, assuming you have a hex with a shadow to end your move in. If something happens after opening the door which makes it impossible for you to end your move in a shadow, your move ability immediately ends. 
+**Shadow Step (1, top) - Can I open a door with this movement? What happens if opening the door causes something that makes it so I no longer have a shadow for my destination hex?** Yes, you can open a door with this action, assuming you have a hex with a shadow to end your move in. If something happens after opening the door which makes it impossible for you to end your move in a shadow, your move ability immediately ends.
+**Can I choose a path that I know will make it impossible to end in a shadow? Say, into an Immobilize trap?** No. You must perform this action "in good faith" with a path that will end your movement in a shadow.
 
-[imageid=7298585 inline]**[size=14]Boneshaper**
-**For my "15 Kills" Mastery, what counts as ‘killing’ one of my summons? And do I really need to do it within one scenario? **You have specific abilities and attack modifiers (example: Exploding Corpse) which kill one of your summons. It has to be done through these. Unsummoning does not count, moving them into traps does not count, etc. Yes, this needs to be completed in one scenario.
+### **8.5 Boneshaper**
+**For my "15 Kills" Mastery, what counts as ‘killing’ one of my summons? And do I really need to do it within one scenario?** You have specific abilities and attack modifiers (example: Exploding Corpse) which kill one of your summons. It has to be done through these. Unsummoning does not count, moving them into traps does not count, etc. Yes, this needs to be completed in one scenario.
 
 **For my "Keep a Summon alive" mastery, can I exhaust mid-scenario?** No; the summon needs to survive the entire scenario.
 
-**Can I command one of my summons to open a door?  **No, unless specific scenario rules state otherwise, only characters can open doors.
+**Can I command one of my summons to open a door?** No. Unless specific scenario rules state otherwise, only characters can open doors.
 
-**How does my Heal 1 modifier card work with the skull? Who gets healed? **These are Heal 1, target the Boneshaper. Whether your summons draw this, or you draw it, it heals you. Line of sight is still required, as Heal is a targeted ability.
+**How does my Heal 1 modifier card work with the skull? Who gets healed?** These are Heal 1, target the Boneshaper. Whether your summons draw this, or you draw it, it heals you. Line of sight is still required from your summon, as Heal is a targeted ability.
 
-**Is my "kill the attacking summon to instead add +4" attack modifier mandatory or optional?** All non-numeric, non-mandatory portions of an attack modifier card, are optional - including this one. You may choose not to kill the summon to just use the +1.
+**Is my "kill the attacking summon to instead add +4" attack modifier mandatory or optional?** All non-numeric, non-mandatory portions of an attack modifier card, are optional - including this one. You may choose not to kill the Summon to just use the +1.
 
-**Does my summons' looting count as me looting for battle goals and item use? **Yes. 
+**Does my summons' looting count as me looting for battle goals and item use?** Yes. 
 
 **I have questions about the two-mark Dead on Arrival perk...**
-[c]  * [/c]You gain XP and suffer damage, if any, as normal for the summon action.
-[c]  * [/c]Your Dead on Arrival summon will act immediately before your turn, starting on Round 1 of the scenario.
-[c]  * [/c]If you use this to summon the Wraith on Angry Spirits, Dark will be infused and is Strong at the start of Round 1.
+- You gain XP and suffer damage, if any, as normal for the summon action.
+- Your Dead on Arrival summon will act immediately before your turn, starting on Round 1 of the scenario.
+- If you use this to summon the Wraith on Angry Spirits, Dark will be infused and is Strong at the start of Round 1.
 
-**Exploding Corpse (X) - If the designated Summon is surrounded by Retaliating enemies, can it die before the attack concludes?** No; Exploding Corpse isn’t the Summon attacking; it’s the Boneshaper making all the attacks. Retaliate won’t happen unless the Boneshaper themself is within a monster’s Retaliate range.
+**Exploding Corpse (X) - If the designated Summon is surrounded by Retaliating enemies, can it die before the attack concludes?** No. Exploding Corpse isn’t the Summon attacking; it’s the Boneshaper attacking enemies adjacent to the Summon. An enemy's Retaliate won’t happen unless the Boneshaper themself is within a monster’s Retaliate range.
 
-**Putrid Cloud (3) - When does damage happen on the persistent effect? ** All damage is resolved immediately following each attack. It’s possible for an enemy to die before they complete all of their attacks on a multi-target attack ability. 
+**Putrid Cloud (3) - When does damage happen on the persistent effect?** All damage is resolved immediately following each attack. It’s possible for an enemy to die before they complete all of their attacks on a multi-target attack ability. 
 
 **Endless Numbers (8 top) - If one of my skeletons moves through the Bone Horde, but would not normally end its move there, can I choose to have it end its move early?** No. The "may end" verbiage on Bone Horde allows a skeleton end its normal movement in the Bone Horde's hex, but is not indicating you may choose end its movement early.
 
-[imageid=7298586 inline][size=14]**Geminate**
-**General Note - **Although it can be helpful to think of the Geminate as having two separate hands, they really have only one hand with restrictions on which cards they can play based on their current form. This may help if you’re wondering about losing cards to negate damage, or how rests work out. You still need to bring 7 cards for each form to every scenario.
+### **8.6 Geminate**
+**General Note -** Although it can be helpful to think of the Geminate as having two separate hands, they really have only one hand with restrictions on which cards they can play based on their current form. This may help if you’re wondering about losing cards to negate damage, or how rests work out. You still need to bring 7 cards for each form to every scenario.
 
-**Do I swap forms if I play a card with the Swap icon but don’t perform any of the abilities on the card? **No, changing forms is not an ability itself. You must perform at least one ability on the card. (Slightly revised 2023-02-17)
+**Do I swap forms if I play a card with the Swap icon but don’t perform any of the abilities on the card?** No; changing forms is not an ability itself. You must perform at least one ability on the action.
 
-**How do my precise range bands interact with red hex AoE patterns?** An enemy must be [i]both[/i] within the red hex AoE [i]and[/i] within the precise range bands for the ability to target them. This is addressed on your character board.
+**How do my precise range bands interact with red hex AoE patterns?** An enemy must be *both* within the red hex AoE *and* within the precise range bands for the attack ability to target them. This is addressed on your character board.
 
-**How do items and abilities that increase or decrease range interact with my ‘precise ranges’?  **They don’t. If your card lists precise ranges (like “only range 3/4") then it doesn’t do anything at all to it. These are usually not good item choices for you. 
+**How do items and abilities that increase or decrease range interact with my ‘precise ranges’?** They don’t. If your card lists precise ranges (like “only range 3/4") then it doesn’t do anything at all to it. 
 
-**Do persistent losses count for my lost card mastery, even if they stay in play? ** Yes. If you play a persistent loss card, it counts as losing a card for this mastery. 
+**Do persistent losses count for my lost card mastery, even if they stay in play?** Yes. If you play a persistent loss card, it counts as losing a card for this mastery. 
 
 **How does my x2 Brittle card work for ambiguity on a disadvantaged draw?** The rules treat all non-numeric parts of a modifier card as positive but undefined; there's no exceptions for negative conditions such as Brittle. This means that a normal x2 is considered "worse" than the x2 Brittle on a disadvantaged draw. 
 
-**Hornet Stingers (1) - Can I skip the attack, poison an ally, and change forms? **No. Any ability which references an attack ability requires that attack ability to have been performed. If you have not attacked, you cannot poison your allies, and cannot shift forms. 
+**Hornet Stingers (1) - Can I skip the attack, poison an ally, and change forms?** No. Any ability which references an attack ability requires that attack ability to have been performed. If you have not attacked, you cannot poison your allies, and cannot shift forms.
 
 **Feeding Frenzy (X, bot) - The damage effect is not mandatory. Can I choose not to damage my allies?** There is a relevant GH2e rulebook tweak here that should be considered as a Frosthaven ruling. You can't perform just part of a "sentence." Because this ability is not mandatory, it can be skipped entirely - but if you perform it, it affects both allies and enemies.
 
-**Smoldering Hatred (1)** **- When do I get **Cursed and Muddled? Because this is a ‘cost’, the Curse and Muddle happen before you make any attacks.
+**Smoldering Hatred (1) - When do I get Cursed and Muddled?** Because this is a ‘cost’, the Curse and Muddle happen before you make any attacks.
 
-**Can I Muddle myself if I am already Muddled? ** Yes. Unless the wording of the card forbids it, you can inflict conditions on yourself that you already have. Note that for conditions like Muddle that last until the end of your next turn, this will reset the timer. 
+**Can I Muddle myself if I am already Muddled?** Yes. Unless the wording of the card forbids it, you can inflict conditions on yourself that you already have. Note that for conditions like Muddle that last until the end of your next turn, this will reset the timer. 
 
-**How do cards like Changeling's Boon work? Do I do all parts of it every round? 
-** No. This card, like many other Persistent cards, has both one-time abilities and persistent abilities. For this card, you Bless yourself once. You change form at the end of your turn. Afterwards, you have an active persistent ability which lets you convert any element into fire or light at the end of your turns. You can tell which part is persistent by how it's worded. 
+**How do cards like Changeling's Boon work? Do I do all parts of it every round?** No. This card, like many other Persistent cards, has both one-time abilities and persistent abilities. For this card, you Bless yourself once. You change form at the end of your turn. After putting it into your Active area, you have an active persistent bonus which lets you convert any element into fire or light at the end of your turns. You can tell which part is persistent by how it's worded. 
 
-**Can I use the persistent abilities of Changeling's Boon or Harvest the Essence to consume an element I infused this turn? Both effects happen at the end of my turn, right?** You can only consume an element that was already there at the start of your turn. Elements aren't moved to Strong until the end of turn wrap-up step. See section #3d5# for discussion. 
+**Can I use the persistent abilities of Changeling's Boon or Harvest the Essence to consume an element I infused this turn? Both effects happen at the end of my turn, right?** You can only consume an element that was already there at the start of your turn. Elements aren't moved to Strong until the end of turn wrap-up step. See section 4.5 for discussion. 
 
-**If I use an item or effect that lets me take another action at the end of my turn, but I have already played an action that would make me Switch Form, which Form is the new card in?** Form changes happen during the end of turn wrap-up (see section #3d5#). You would still play cards from the form you are presently in.
+**If I use an item or effect that lets me take another action at the end of my turn, but I have already played an action that would make me Switch Form, which Form is the new card in?** Form changes happen during the end of turn wrap-up (see section 4.5). You would still play cards from the form you are presently in.
 
-[imageid=7298588 inline][size=14]**“Astral” or “Moon and Star”**
-[o]
+### **8.7 “Astral” or “Moon and Star”**
+
+<details>
+<summary><b>Spoilers</b></summary>
+
 **Can you explain how Infusions work?** When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met. 
 
 The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion. 
@@ -952,9 +1136,18 @@ If, later, I play Caress of the Night (spending its elements), I can Strengthen 
 
 **The Animated Claymore from Imbue with Life (X) says it is affected by all your active Infusions. Does this mean it gets the Infusion Triggers too?**  No; compare to the Spiritbound Falchion from Untether the Shackles (8).
 
-Note on an Interaction with **Shackles** (spoilers for that class): 
-[o]**What happens if I have my Animated Claymore summoned from Imbue with Life (top) and my Shackles ally has Blood Ritual (bot) active?** Because the Claymore has a mandatory persistent effect of "Whenever you do not have Disarm, gain Disarm," you will always have Disarm as long as that card is active. If they attempt to use Blood Ritual to continually take Disarm from you, the game can't resume until they decide to stop, at which point you will gain Disarm again.[/o]
-[/o]
+Note on an Interaction with **Shackles** 
+
+<details>
+<summary><i>(spoilers for that class)</i></summary>
+
+**What happens if I have my Animated Claymore summoned from Imbue with Life (top) and my Shackles ally has Blood Ritual (bot) active?** Because the Claymore has a mandatory persistent effect of "Whenever you do not have Disarm, gain Disarm," you will always have Disarm as long as that card is active. If they attempt to use Blood Ritual to continually take Disarm from you, the game can't resume until they decide to stop, at which point you will gain Disarm again.
+
+</details>
+
+</details>
+
+
 
 [imageid=7298589 inline]**[size=14]“Meteor”**
 [o]
