@@ -1,50 +1,50 @@
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 *Last Updated 7/1/2024*
 
-1.0 First Printing Production Errors and Typos<p>
-  1.1 Second Printing Changes<p>
-2.0 Component and Setup Questions<p>
-3.0 General Gameplay Questions (Outside Scenarios)<p>
-  3.1 Masteries<p>
-  3.2 Personal Quests<p>
-  3.3 Events and Traits<p>
-4.0 General Gameplay Questions (Scenarios)<p>
-  4.1 Rooms, Movement, Forced Movement, and Overlays<p>
-  4.2 Damage, Shield, Ward, and Brittle<p>
-  4.3 AMD Draws, Advantage, and Disadvantage<p>
-  4.4 Negative Conditions<p>
-  4.5 General Player Ability Questions and Clarifications<p>
-  4.6 Loot Deck Questions<p>
-  4.7 Objectives<p>
-  4.8 Monster Focus, Abilities, Stats, and AI<p>
-  4.9 Uncategorized<p>
-  4.10 Challenges<p>
-5.0 Outpost General Questions<p>
-  5.1 Specific Building Questions<p>
-  5.2 Enhancements<p>
-6.0 Monster Questions<p>
-7.0 General Scenario Questions<p>
-  7.1 Specific Scenario Questions<p>
-  7.2 Solo Scenario Questions<p>
-8.0 Characters<p>
-  8.1 Drifter<p>
-  8.2 Blinkblade<p>
-  8.3 Banner Spear<p>
-  8.4 Deathwalker<p>
-  8.5 Boneshaper<p>
-  8.6 Geminate<p>
-  8.7 "Astral"<p>
-  8.8 "Meteor"<p>
-  8.9 "Shards"<p>
-  8.10 "Trap"<p>
-  8.11 "Shackles"<p>
-  8.12 "Snowflake"<p>
-  8.13 "Fist"<p>
-  8.14 "Kelp"<p>
-  8.15 "Coral"<p>
-  8.16 "Prism"<p>
-  8.17 "Drill"<p>
-9.0 Items<p>
+1.0 First Printing Production Errors and Typos
+  1.1 Second Printing Changes
+2.0 Component and Setup Questions
+3.0 General Gameplay Questions (Outside Scenarios)
+  3.1 Masteries
+  3.2 Personal Quests
+  3.3 Events and Traits
+4.0 General Gameplay Questions (Scenarios)
+  4.1 Rooms, Movement, Forced Movement, and Overlays
+  4.2 Damage, Shield, Ward, and Brittle
+  4.3 AMD Draws, Advantage, and Disadvantage
+  4.4 Negative Conditions
+  4.5 General Player Ability Questions and Clarifications
+  4.6 Loot Deck Questions
+  4.7 Objectives
+  4.8 Monster Focus, Abilities, and Stats
+  4.9 Uncategorized
+  4.10 Challenges
+5.0 Outpost General Questions
+  5.1 Specific Building Questions
+  5.2 Enhancements
+6.0 Monster Questions
+7.0 General Scenario Questions
+  7.1 Specific Scenario Questions
+  7.2 Solo Scenario Questions
+8.0 Characters
+  8.1 Drifter
+  8.2 Blinkblade
+  8.3 Banner Spear
+  8.4 Deathwalker
+  8.5 Boneshaper
+  8.6 Geminate
+  8.7 "Astral"
+  8.8 "Meteor"
+  8.9 "Shards"
+  8.10 "Trap"
+  8.11 "Shackles"
+  8.12 "Snowflake"
+  8.13 "Fist"
+  8.14 "Kelp"
+  8.15 "Coral"
+  8.16 "Prism"
+  8.17 "Drill"
+9.0 Items
 
 ## 0.0 Introduction
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions.
@@ -533,7 +533,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **If there is a calculation, but no indication of the direction of rounding, what direction do you round?** Usually a calculation will tell you the intended direction of rounding. If it does not, assume it rounds up.
 
-##8.0 Specific Scenario Questions
+### 7.1 Specific Scenario Questions
 
 **Scenario 0** Masteries cannot be completed in this scenario. This is a rule in the second printing.
 
@@ -557,47 +557,152 @@ The special rules should not mention Priests. There are no Priests in this scena
 
 </details>
 
-**Scenario 7** - Conclusion - [o]the sticker you are looking for, here, is one labeled "Coral Crown" on the campaign sheet.[/o]
+<details>
+<summary><b>Scenario 7 - Conclusion</b></summary>
 
-**Scenario 9 **- [o]The switches are the wall hexes. They are targetable in melee by standing in the adjacent hex, or ranged by targeting that wall hex.[/o]
+The campaign sticker is labeled "Coral Crown" on the 1st Printing sticker sheet
 
-**Scenario 10** - [o]The sled is required; see Section 2 of the FAQ for production errors. On opening the door and reading the section number - [o]Deathwalker shadows will move to the new room with you. See the Deathwalker section of the FAQ for details.[/o][/o]
+</details>
 
-**Scenario 11** [o]**Does Boss Special 2 affect invisible characters**? Yes [/o]
+<details>
+<summary><b>Scenario 9</b></summary>
 
-**Scenario 13** - [o]The monsters will not target the scenario as a secondary target for multi-target attacks. Remember that direct damage abilities are not attacks, and so will never go to the scenario.[/o]
+The switches are the wall hexes. They are targetable in melee by standing in the adjacent hex, or ranged by targeting that wall hex.
 
-**Scenario 15** - [o]Note - The special rules have a small error. The first sentence in paragraph 3 should specify [i]ranged[/i] abilities instead of just abilities. The chaos demon will focus on an enemy on 1-B and 6-B over enemies in 15-D, provided no extra movement is required to target them. 
+</details>
+
+<details>
+<summary><b>Scenario 10 Section 65.3</b></summary>
+
+Deathwalker shadows will move to the new room with you. See the Deathwalker section of the FAQ for details.
+
+</details>
+
+<details>
+<summary><b>Scenario 11</b></summary>
+
+**Does Boss Special 2 affect invisible characters**? Yes
+
+</details>
+
+<details>
+<summary><b>Scenario 13</b></summary>
+
+The monsters will not target the scenario as a secondary target for multi-target attacks. Remember that direct damage abilities are not attacks, and so will never go to the scenario.
+
+</details>
+
+<details>
+<summary><b>Scenario 15</b></summary>
+
+Note - The special rules have a small error. The first sentence in paragraph 3 should specify *ranged* abilities instead of just abilities. The chaos demon will focus on an enemy on 1-B and 6-B over enemies in 15-D, provided no extra movement is required to target them.
 
 The special targeting rules are easier to understand if you picture it as the chaos demon on some scaffolding above the ground floor where the characters enter.[/o]
 
-**Scenario 16 - Section 27.2** [o]If player-created overlays are in any "a" hex, the new rubble will replace them. This applies to any future newly-created overlays for this scenario, as well.[/o]
+</details>
 
-**Scenario 17 - Section 25.3** [o]1st Printing Errata - Instead of "When Door 3 is opened read 62.3," it should refer to Door 1 to open that section.[/o]
+<details>
+<summary><b>Scenario 16 - Section 27.2</b></summary>
 
-**Scenario 21 **- **Section 51.1 **[o]The special rules should include ‘character tokens’ here to specifically include the Deathwalker’s shadow tokens. The rules text regarding the door unlocking is correct. It does not open as the narrative text would indicate; it just becomes unlocked.[/o]
+If player-created overlays are in any "a" hex, the new rubble will replace them. This applies to any future player-created overlays for this scenario, as well.
 
-**Scenario 22** - Section 41.2 [o](1) the water tiles on the border hexes (the half-hexes on the edge of the map tile) count towards the fail state for the scenario. (2) Note that a monster who attacks the boat instead of any characters will only attack ONE hex even if they have drawn an AoE attack or multitarget attack this turn. (3) If a Wavethrower creates water, it counts towards the scenario's fail state just like any other water.[/o] 
+</details>
 
-**Scenario 24 **- [o]Character summons do not treat the special corridor hexes as negative. Also, it is possible to end up in a situation where the scenario becomes unwinnable based on random chance. To avoid this, 83.2: Section Links should read "When all enemies on tile 8-A are dead..." and 74.2: Section Links should read "When all enemies on tile 4-B are dead..."[/o]
+<details>
+<summary><b>Scenario 17 - Section 25.3</b></summary>
 
-**Scenario 28 - ** [o]Note in the errata - the guard and archer spawns are reversed, as are the exit hexes. Guards should spawn at E and Archers should spawn at D. [i](this is only for the first printing; the second printing has corrected the issue by changing the map.)[/i][/o]
+1st Printing Errata - Instead of "When Door 3 is opened read 62.3," it should refer to Door 1 to open that section
 
-**Scenario 29 Conclusion - **[o]Remove the cards you're directed to remove from both Available [i]and[/i] Unavailable Event Decks.[/o]
+</details>
 
-**Scenario 30 Conclusion - **[o]Remove the cards you're directed to remove from both Available [i]and[/i] Unavailable Event Decks.[/o]
+<details>
+<summary><b>Scenario 21 - Section 51.1</b></summary>
 
-**Scenario 34** - [o]The Chaos Beam effects happen even if you are jumping or flying.[/o]
+The special rules should include ‘character tokens’ here to specifically include the Deathwalker’s shadow tokens. The rules text regarding the door unlocking is correct. It does not open as the narrative text would indicate; it just becomes unlocked.
 
-**Scenario 36 Conclusion - **[o]Add blueprints for Item 067 to the scenario reward.[/o]
+</details>
 
-**Scenario 37 Conclusion - **[o]Add blueprints for Item 067 to the scenario reward.[/o]
+<details>
+<summary><b>Scenario 22 - Section 41.2</b></summary>
 
-**Scenario 38, Section 23.1 - **[o]The "at each" is unnecessary at 3p spawns. Both 2p and 3p spawn a total of two normal hounds, one at each.[/o]
+- The water tiles on the border hexes (the half-hexes on the edge of the map tile) count towards the fail state for the scenario. 
+- Note that a monster who attacks the boat instead of any characters will only attack ONE hex even if they have drawn an AoE attack or multitarget attack this turn.
+- If a Wavethrower creates water, it counts towards the scenario's fail state just like any other water
 
-**Scenario 39** - [o]If you cannot replace a dead ally standee with a Frozen Corpse because all Frozen Corpses are on the board, they remain until Frozen Corpse standees become available and they can be replaced.[/o]
+</details>
 
-**Scenario 40** - [o]Section 71.2 indicates you open 47 Blizzard Island. Blizzard Island is correct but the number is 48.[/o]
+<details>
+<summary><b>Scenario 24</b></summary>
+
+Character summons do not treat the special corridor hexes as negative. 
+Also, it is possible to end up in a situation where the scenario becomes unwinnable based on random chance. To avoid this, 83.2: Section Links, should read "When all enemies on tile 8-A are dead..." and 74.2: Section Links should read "When all enemies on tile 4-B are dead...
+
+</details>
+
+<details>
+<summary><b>Scenario 28</b></summary>
+
+Note in the errata - the guard and archer spawns are reversed, as are the exit hexes. Guards should spawn at E and Archers should spawn at D. *this is only for the first printing; the second printing has corrected the issue by changing the location of letter tokesn on the map.*
+
+</details>
+
+<details>
+<summary><b>Scenario 29 (onclusion)/b></summary>
+
+Remove the cards you're directed to remove from both Available *and* Unavailable Event Decks
+
+</details>
+
+<details>
+<summary><b>Scenario 30 (conclusion)</b></summary>
+
+Remove the cards you're directed to remove from both Available *and* Unavailable Event Decks.
+
+</details>
+
+<details>
+<summary><b>Scenario 34</b></summary>
+
+The Chaos Beam effects happen even if you are jumping or flying.
+
+</details>
+
+<details>
+<summary><b>Scenario 36 (conclusion)</b></summary>
+
+First Printing Only: Add blueprints for Item 067 to the scenario reward.
+
+</details>
+
+<details>
+<summary><b>Scenario 37 Conclusion</b></summary>
+
+First Printing Only: Add blueprints for Item 067 to the scenario reward.
+
+</details>
+
+<details>
+<summary><b>Scenario 38, Section 23.1</b></summary>
+
+The "at each" is unnecessary at 3p spawns. Both 2p and 3p spawn a total of two normal hounds, one at each.
+
+</details>
+
+<details>
+<summary><b>Scenario 39</b></summary>
+
+If you cannot replace a dead ally standee with a Frozen Corpse because all Frozen Corpses are on the board, they remain until Frozen Corpse standees become available and they can be replaced.
+
+</details>
+
+<details>
+<summary><b>Scenario 40 (conclusion)</b></summary>
+
+First Printing Only: Section 71.2 indicates you open 47 Blizzard Island. Blizzard Island is correct but the number is 48.
+
+</details>
+
+
 
 **Scenario 45 - **[o]The requirement of Climbing Gear is correct. Narratively, it could have been either or both, but this is not an error.[/o]
 
