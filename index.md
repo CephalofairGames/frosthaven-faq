@@ -1,10 +1,6 @@
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 *Last Updated 7/1/2024*
 
-0.0 Introduction
-    0.1 Spoilers
-    0.2 About Me
-	
 1 First Printing Production Errors and Typos
   1 Second Printing Changes
 1 Component and Setup Questions
@@ -544,20 +540,21 @@ Level 3 should have a building prerequisite of already owning the first three An
 **Scenario 1** - Although the City Guards don't take turns, they expire "end of next turn" conditions (such as Disarm and Immobilize) on Initiative 50.
 
 <details>
-<summary>Scenario 2</summary>
+<summary><b>Scenario 2</b></summary>
 
 The door is placed incorrectly after opening the final section. Don’t move the door.
 
 </details>
 
 <details>
-<summary>Scenario 4</summary>
+<summary><b>Scenario 4</b></summary>
 
 The special rules should not mention Priests. There are no Priests in this scenario.
 
-Final room - The references to other monsters are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.
+**Final room** - The references to other monsters are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.
 
-Conclusion - Like all other scenarios, you **cannot** replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.
+**Conclusion** - Like all other scenarios, you **cannot** replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.
+
 </details>
 
 **Scenario 7** - Conclusion - [o]the sticker you are looking for, here, is one labeled "Coral Crown" on the campaign sheet.[/o]
