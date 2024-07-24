@@ -805,13 +805,6 @@ The giant piranha pig still acts like a normal piranha pig, using the piranha pi
 </details>
 
 <details>
-<summary><b>Scen</b></summary>
-
-XXXXXXXXX
-
-</details>
-
-<details>
 <summary><b>Scenario 84</b></summary>
 
 What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..." Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.
