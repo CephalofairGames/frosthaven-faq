@@ -4,11 +4,11 @@
 
 *Last Updated 7/1/2024*
 
-1.0 First Printing Production Errors and Typos
-  1.1 Second Printing Changes
-2.0 Component and Setup Questions
-3.0 General Gameplay Questions (Outside Scenarios)
-  3.1 Masteries
+<h4>1.0 First Printing Production Errors and Typos</h4>
+<p>...1.1 Second Printing Changes</p>
+<h4>2.0 Component and Setup Questions</h4>
+<h4>3.0 General Gameplay Questions (Outside Scenarios)</h4>
+<p>...3.1 Masteries</p>
   3.2 Personal Quests
   3.3 Events and Traits
 4.0 General Gameplay Questions (Scenarios)
@@ -1035,7 +1035,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **Boldening Blow (4, top)** - The "one target" limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
 
-### !(Deathwalker Icon)[/assets/images/04_ddeathwalker] **8.4 Deathwalker**
+### !(Deathwalker Icon)[/assets/images/04_deathwalker] **8.4 Deathwalker**
 **A general update regarding Adjacency** - Placed shadows should be considered adjacent to their own hexes for all purposes, not just for targeting. When you place a new shadow, though, follow normal adjacency rules.  (Note that this rule is on the Deathwalker board in Second Printing)
 
 **General Rule Update** - If scenario rules force you to move character summons onto a newly revealed tile, also move your Shadows in the same way on your initiative. (Note that this rule is on the Deathwalker board in Second Printing)
