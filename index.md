@@ -955,7 +955,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 ## **8.0 Characters**
 
 ### **8.1 Drifter**
-![Drifter](/assets/images/drifter.webp)
+![Drifter](/assets/images/01 drifter.webp)
 
 **When do I get XP for my persistent abilities?** Only when moving forward on the track, never when moving backwards even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
 
