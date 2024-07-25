@@ -1,0 +1,145 @@
+img {
+	max-width: 100%;
+	vertical-align: baseline;
+} 
+
+h1,h2,h3,h4,h5,h6 { font-weight:600 } 
+
+hr {
+	border-top: 1px;
+	color: #888;
+	margin-top: 8px;
+	margin-bottom: 8px
+}
+
+blockquote {
+	color:#111;
+	background-color: #d8d0e7;
+	border-left: 4px solid #b59de1;
+	padding: 15px;
+	font-size:16px;
+	letter-spacing:0px;
+	font-style:normal
+}
+
+.new-to-bnb {
+	background-color: #d8d0e7;
+}
+
+.page-anchor {
+	margin: 0
+}
+
+.page-anchor a { color:#888; text-decoration:none } 
+.page-anchor a:visited { color:#888 } 
+.page-anchor a:hover { color:#888; text-decoration:none } 
+
+.page-number { font-weight:700 }
+
+.two-columns {
+	padding-bottom: 15px;
+}
+
+.two-columns table, .two-columns td {
+	border: none;
+	vertical-align: top;
+}
+
+.two-columns td {
+	width: 50%;
+}
+
+.two-columns h3 {
+	font-size:16px;
+	font-weight:600;
+	margin-top: 8px;
+	margin-bottom: 0px;
+}
+
+.two-columns h4 {
+	font-size:14px;
+	font-weight:600;
+	margin-top: 8px;
+	margin-bottom: 0px;
+}
+
+.two-columns p {
+	font-size:14px;
+	margin: 0px;
+}
+
+.two-columns ol {
+	font-size:14px;
+	list-style-position: inside;
+	margin: 0px;
+}
+
+.two-columns ul {
+	font-size:14px;
+	list-style-position: inside;
+	margin: 0px;
+}
+
+.three-columns {
+	padding-bottom: 15px;
+}
+
+.three-columns table, .three-columns td {
+	border: none;
+	vertical-align: top;
+}
+
+.three-columns td {
+	width: 33%;
+}
+
+.three-columns h3, .three-columns h4 {
+	font-size:14px;
+	font-weight:600;
+	margin-top: 8px;
+	margin-bottom: 0px;
+}
+
+.three-columns p {
+	font-size:12px;
+	margin: 0px;
+}
+
+.three-columns ul {
+	list-style-type: none;
+}
+
+.float-container {
+}
+
+.floating-image {
+	vertical-align: top;
+	float: left;
+	width: 56px;
+}
+
+.inline-icon {
+	height: 18px;
+	vertical-align: -10%;
+}
+
+.inline-condition {
+	height: 22px;
+	vertical-align: -20%;
+}
+
+.inline-element {
+	height: 20px;
+	vertical-align: -15%;
+}
+
+.hidden {
+	color: tranparent;
+	background-color: black;
+}
+
+.visible {
+	color: inherit;
+	background-color: inherit;
+}
+
