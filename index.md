@@ -954,8 +954,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ## **8.0 Characters**
 
-### **8.1 Drifter**
-![Drifter Icon](/assets/images/01_drifter.webp)
+### ![Drifter Icon](/assets/images/01_drifter.webp) **8.1 Drifter**
 
 **When do I get XP for my persistent abilities?** Only when moving forward on the track, never when moving backwards even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
 
@@ -996,9 +995,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **Fractured Timeline (9, top) - If I spawn a summoning ally, are their summons also my allies?** No. In all cases for all classes, when you are controlling a monster, you don't control their summons. Their summons will be enemies to you (and to them). 
 
-![Banner Spear Icon](/assets/images/03_banner_spear.webp)
-### **8.3 Banner Spear**
-
+### ![Banner Spear Icon](/assets/images/03_banner_spear.webp) **8.3 Banner Spear**
 
 **How much can I communicate with my party about where I would like them to be for a formation?** The only things you can't communicate are *specific numbers* and *specific card names*. (This includes things that are "basically numbers" - like "voting age" or "exactly half" or something similar.) Everything else is allowed and frankly, for Banner Spear, encouraged. You can tell people where you need to be, ask where they will end up, ask them if they can go to a certain hex, tell them the kinds of conditions you'll be applying, the specific monsters you hope to attack, etc. It's okay if this lets them guess your card, your initiative, etc. - that's part of learning to work together as a team.
 
@@ -1020,16 +1017,18 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **How does my Formation Attack mastery work?** You must attack at least three enemies in each of three different formation attack actions. The enemies do not need to be different, but the formation actions do. This Mastery is generally not possible until Level 3 at the earliest, though some items may enable it.
 
-**Some formation attack actions like Let Them Come (3) have abilities after the attack which reference the attack's  hexes. Do I need to perform the attack to do these abilities?** Any abilities in an action with a formation attack that reference the formation for targeting require the formation attack to have been performed. In the case of Let Them Come, if no enemies were attacked in this formation, no heal takes place. 
+**Some formation attack actions like Let Them Come (3) have abilities after the attack which reference the attack's hexes. Do I need to perform the attack to perform these abilities?** Yes. An ability in an action with a formation attack that references the attack's hexes requires the formation attack to have been performed. In the case of Let Them Come, if no enemies were attacked in this formation, no heal takes place. 
 
-**Set for the Charge (1, top)** - the top works on forced movement as well as normal movement. 
+**Set for the Charge (1, top)** - The top works on forced movement as well as normal movement. 
 
-**Boldening Blow (4, top)** - The target limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
+**Boldening Blow (4, top)** - The "one target" limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
 
-### **8.4 Deathwalker**
-**A general update regarding Adjacency** - Placed shadows should be considered adjacent to their own hexes for all purposes. When you place a new shadow, though, follow normal adjacency rules.  This was a bit confusing for players to figure out, and it's altogether easier to just make this a general rule instead of limiting it to 'targeting'. (Note that this rule is on the Deathwalker board in Second Printing)
+### !(Deathwalker Icon)[/assets/images/04_ddeathwalker] **8.4 Deathwalker**
+**A general update regarding Adjacency** - Placed shadows should be considered adjacent to their own hexes for all purposes, not just for targeting. When you place a new shadow, though, follow normal adjacency rules.  (Note that this rule is on the Deathwalker board in Second Printing)
 
 **General Rule Update** - If scenario rules force you to move character summons onto a newly revealed tile, also move your Shadows in the same way on your initiative. (Note that this rule is on the Deathwalker board in Second Printing)
+
+**What does 'as if I occupied a hex with a shadow' mean?** All parts of the attack ability are performed as if the Deathwalker was standing where the shadow is. If there's a Banner of Strength out, the shadow needs to be in its aura, not the Deathwalker. If there's a pull or push rider on the attack, it's measured from the shadow token, not the Deathwalker. In every respect except for Retaliate, the Deathwalker is considered to be in that hex for the attack. 
 
 **Do I suffer Retaliate damage when I attack ‘as if I occupied’ a hex with a Shadow (example: Fluid Night)?** Only if the Deathwalker herself is within the target's Retaliate range.
 
@@ -1039,11 +1038,9 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **How can I tell if an attack is melee or ranged? For example, Deepening Despair (2, top)** A range icon means an attack is ranged. Without "as if you occupy" wording, it means your figure needs line of sight to the target. So, a card like Deepening Despair is ranged. 
 
-**Can you go into more detail on what 'as if I occupied a hex with a shadow' means?** All parts of the attack ability are performed as if the Deathwalker was standing where the shadow is. If there's a Banner of Strength out, the shadow needs to be in its aura, not the Deathwalker. If there's a pull or push, it's measured from the shadow token, not the Deathwalker. In every respect except for Retaliate, the Deathwalker is considered to be in that hex for the attack. 
+**Can my Shadow tokens open doors? Can they go to unrevealed rooms? Can they be placed on hexes with closed doors?** No. Closed doors are treated as Walls until opened, and only characters can open doors (barring any specific scenario rules which overrule that).
 
-**Can my Shadow tokens open doors? Can they go to undiscovered rooms? Can they sit on closed doors?** No. Closed doors are treated as Walls until opened, and only characters can open doors (barring any specific scenario rules which overrule that).
-
-**If I draw multiple Heal Ally modifier draws, do they combine into one heal or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.
+**If I draw multiple Heal Ally modifier draws, do they combine into one heal, or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.
 
 **Do shadows I have to remove because I'm over the limit count for my Masteries?** Yes. 
 
@@ -1245,8 +1242,9 @@ For convenience, I am repeating, here, questions from #3d2# about damage "suffer
 **Am I limited on the amount of Hazardous Terrain I can generate?**  No; use any suitable overlay tiles.
 
 **Will a Pull or Push 0 trigger Chilling Impact’s (1) effect?  **No. There’s specific wording on Chilling Impact that prevents this. 
+**If I draw multiple Heal Ally modifier draws, do they combine into one heal, or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.
 
-**What's the range on my Ally Heal modifier cards?** It has unlimited range but, as a Heal, it is targeted and therefore requires Line of Sight. 
+**What's the range on my Heal Ally modifier cards?** They have unlimited range but, as a Heal, they are targeted and therefore require Line of Sight. 
 
 **My second mastery says, "Ensure the first ally to suffer damage each round, directly before suffering the damage, has at least one condition you applied.” If none of my allies take damage at all this scenario, do I succeed?** Yes, just like you would for a Battle Goal involving Rests if you didn’t Rest at all.
 
