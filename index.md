@@ -955,11 +955,11 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 ## **8.0 Characters**
 
 ### **8.1 Drifter**
-![Drifter](/assets/images/01_drifter.webp)
+![Drifter Icon](/assets/images/01_drifter.webp)
 
 **When do I get XP for my persistent abilities?** Only when moving forward on the track, never when moving backwards even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
 
-**Let’s say I am on the last charge of Crushing Weight (1). If I attack with the top of Sustained Momentum, can I keep Crushing Weight up on its last charge?  **No. The attack has already dropped Crushing Weight off the last use slot, and the card was already lost. This same answer applies for any other similar abilities; once you use the last use slot, the card is lost immediately after the ability concludes.
+**Let’s say I am on the last charge of Crushing Weight (1). If I attack with the top of Sustained Momentum, can I keep Crushing Weight up on its last charge?** No. The attack has already dropped Crushing Weight off the last use slot, and the card was already lost. This same answer applies for any other similar abilities; once you use the last use slot, the card is lost immediately after the ability concludes.
 
 **How does Precision Aim (1) work with a multitarget attack ability if I run out of use slots?  Does it stay active with +1 range for all attacks?** If you are using a red hex AoE ability such as Destructive Fury (bottom), the range is set by the first attack, and you keep that range for the whole ability. Otherwise, you instantly lose the range bonus when you run out of charges.
 
@@ -971,7 +971,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **Can I use my Scavenger perk to help me complete a loot-based PQ like A Study of Plants?** No. These quests specify "through loot tokens" so this perk can't help with them. 
 
-### **8.2 Blinkblade**
+### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) **8.2 Blinkblade**
+
 **General Note about Range modifications** - You have several abilities which add Range to a Melee attack. Note that if you add Range to a Melee attack, you add the modifier to 1 and it becomes a Ranged attack. (So if you use Kinetic Transfer top while Slow, your Attack becomes Ranged and has Range 2.) As it says on your board, this range modification is mandatory and cannot be skipped.
 
 **What does “Mandatory” mean on the player board for Fast and Slow Attacks and Abilities?**
@@ -995,7 +996,10 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **Fractured Timeline (9, top) - If I spawn a summoning ally, are their summons also my allies?** No. In all cases for all classes, when you are controlling a monster, you don't control their summons. Their summons will be enemies to you (and to them). 
 
+![Banner Spear Icon](/assets/images/03_banner_spear.webp)
 ### **8.3 Banner Spear**
+
+
 **How much can I communicate with my party about where I would like them to be for a formation?** The only things you can't communicate are *specific numbers* and *specific card names*. (This includes things that are "basically numbers" - like "voting age" or "exactly half" or something similar.) Everything else is allowed and frankly, for Banner Spear, encouraged. You can tell people where you need to be, ask where they will end up, ask them if they can go to a certain hex, tell them the kinds of conditions you'll be applying, the specific monsters you hope to attack, etc. It's okay if this lets them guess your card, your initiative, etc. - that's part of learning to work together as a team.
 
 **Can my Banners move if I grant them move abilities?** Yes, and it’s very important for keeping them relevant!  Remember that when you Grant a summoned ally any ability, you decide how they execute it - such as where they move. Also note that while you can grant a Banner Move X (like Move 2), abilities which grant Move +X (like Move +2) won’t work because the Banner has no innate movement stat.
