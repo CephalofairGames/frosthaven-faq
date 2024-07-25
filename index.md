@@ -955,6 +955,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 ## **8.0 Characters**
 
 ### **8.1 Drifter**
+![Drifter](/assets/images/drifter.webp)
 
 **When do I get XP for my persistent abilities?** Only when moving forward on the track, never when moving backwards even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
 
@@ -1140,10 +1141,11 @@ Note on an Interaction with **Shackles**
 
 </details>
 
+###8.8 **Meteor**
 
+<details>
+<summary><b>Spoilers</b></summary>
 
-[imageid=7298589 inline]**[size=14]“Meteor”**
-[o]
 **If I place hazardous terrain on the same hex as an enemy, do they take hazardous terrain damage?** Not unless it says it on the card. Hazardous terrain causes damage when entering the hex. 
 
 **If I create Hazardous Terrain via an item, does it use my tiles and count against my limit?** Yes, all Hazardous Terrain created by you uses your class-specific overlay files and counts towards your limit no matter how it's made. 
@@ -1167,14 +1169,21 @@ Note on an Interaction with **Shackles**
 **Can I place hazardous terrain from my attack modifier card if the target was killed by the attack's damage?** Yes. It is part of the attack ability and thus works even if the enemy dies. [i]Note - this overturns a previous ruling[/i]
 
 **What happens to my Hazardous Terrain if I exhaust? If I have the three-check perk (Dormant Peace), will my Hazardous Terrain remain safe for my allies?** Your Hazardous Terrain are overlays  and will remain on the map after you exhaust. However, your three-check perk is much like an active effect - if you exhaust, your allies are no longer safe from its effects.
-[/o]
 
-[imageid=7298590 inline]**[size=14]“Shards”**
-[o]
+</details>
+
+### **8.9 Shards**
+
+<details>
+<summary><b>Spoilers</b></summary>
+
 **Can I Bless the same character more than once with Shape the Path (3)? **Yes, you can.
 
 **Can I adjust a Default Move or Default Attack with Empowering Note (5)?  **Yes, you can - they are abilities.
-[/o]
+
+</details>
+
+
 
 [imageid=7298592 inline]**[size=14]“Trap”**
 [o]
