@@ -11,45 +11,43 @@
    1. Masteries
    1. Personal Quests
    1. Events and Traits
-  
- 
-4.0 General Gameplay Questions (Scenarios)
-  4.1 Rooms, Movement, Forced Movement, and Overlays
-  4.2 Damage, Shield, Ward, and Brittle
-  4.3 AMD Draws, Advantage, and Disadvantage
-  4.4 Negative Conditions
-  4.5 General Player Ability Questions and Clarifications
-  4.6 Loot Deck Questions
-  4.7 Objectives
-  4.8 Monster Focus, Abilities, and Stats
-  4.9 Uncategorized
-  4.10 Challenges
-5.0 Outpost General Questions
-  5.1 Specific Building Questions
-  5.2 Enhancements
-6.0 Monster Questions
-7.0 General Scenario Questions
-  7.1 Specific Scenario Questions
-  7.2 Solo Scenario Questions
-8.0 Characters
-  8.1 Drifter
-  8.2 Blinkblade
-  8.3 Banner Spear
-  8.4 Deathwalker
-  8.5 Boneshaper
-  8.6 Geminate
-  8.7 "Astral"
-  8.8 "Meteor"
-  8.9 "Shards"
-  8.10 "Trap"
-  8.11 "Shackles"
-  8.12 "Snowflake"
-  8.13 "Fist"
-  8.14 "Kelp"
-  8.15 "Coral"
-  8.16 "Prism"
-  8.17 "Drill"
-9.0 Items
+1. General Gameplay Questions (Scenarios)
+   1. Rooms, Movement, Forced Movement, and Overlays
+   1. Damage, Shield, Ward, and Brittle
+   1. AMD Draws, Advantage, and Disadvantage
+   1. Negative Conditions
+   1. General Player Ability Questions and Clarifications
+   1. Loot Deck Questions
+   1. Objectives
+   1. Monster Focus, Abilities, and Stats
+   1. Uncategorized
+   1. Challenges
+1. Outpost General Questions
+   1. Specific Building Questions
+   1. Enhancements
+1. Monster Questions
+   1. General Scenario Questions
+   1. Specific Scenario Questions
+   1. Solo Scenario Questions
+1. Characters
+   1. Drifter
+   1. Blinkblade
+   1. Banner Spear
+   1. Deathwalker
+   1. Boneshaper
+   1. Geminate
+   1. "Astral"
+   1. "Meteor"
+   1. "Shards"
+   1. "Trap"
+   1. "Shackles"
+   1. "Snowflake"
+   1. "Fist"
+   1. "Kelp"
+   1. "Coral"
+   1. "Prism"
+   1. "Drill"
+1. Items
 
 ## 0.0 Introduction
 
