@@ -4,13 +4,15 @@
 
 *Last Updated 7/1/2024*
 
-<h4>1.0 First Printing Production Errors and Typos</h4>
-<p>...1.1 Second Printing Changes</p>
-<h4>2.0 Component and Setup Questions</h4>
-<h4>3.0 General Gameplay Questions (Outside Scenarios)</h4>
-<p>...3.1 Masteries</p>
-  3.2 Personal Quests
-  3.3 Events and Traits
+1 First Printing Production Errors and Typos
+  1 Second Printing Changes
+1 Component and Setup Questions
+1 General Gameplay Questions (Outside Scenarios)
+  1 Masteries
+  1 Personal Quests
+  1 Events and Traits
+  
+ 
 4.0 General Gameplay Questions (Scenarios)
   4.1 Rooms, Movement, Forced Movement, and Overlays
   4.2 Damage, Shield, Ward, and Brittle
