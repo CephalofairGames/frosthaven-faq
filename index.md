@@ -139,7 +139,6 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **How do I get Town Guard perks? I see them on the Campaign Sheet.** These are related to an unlockable campaign mechanic and should not be used yet.
 
 **What’s a Brummix Sticker? Where are Coral Shard stickers?** (First Printing Only) - There are similarly-named stickers on the sticker sheets. 
-
 - Brummix = Brummix Tracks
 - Coral Shard = Coral Crown
 
@@ -563,9 +562,9 @@ The door is placed incorrectly after opening the final section. Don’t move the
 
 The special rules should not mention Priests. There are no Priests in this scenario.
 
-**Final room** - The references to other monsters are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.
+<strong>Final room</strong> - <span class="hidden">The references to other monsters are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.</span>
 
-**Conclusion** - Like all other scenarios, you **cannot** replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.
+<strong>Conclusion</strong> - <span class="hidden">Like all other scenarios, you <strong>cannot</strong> replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.</span>
 
 </details>
 
@@ -593,7 +592,7 @@ Deathwalker shadows will move to the new room with you. See the Deathwalker sect
 <details>
 <summary><b>Scenario 11</b></summary>
 
-**Does Boss Special 2 affect invisible characters**? Yes
+<strong>Does Boss Special 2 affect invisible characters</strong>? Yes
 
 </details>
 
@@ -607,9 +606,9 @@ The monsters will not target the scenario as a secondary target for multi-target
 <details>
 <summary><b>Scenario 15</b></summary>
 
-Note - The special rules have a small error. The first sentence in paragraph 3 should specify *ranged* abilities instead of just abilities. The chaos demon will focus on an enemy on 1-B and 6-B over enemies in 15-D, provided no extra movement is required to target them.
+Note - The special rules have a small error. The first sentence in paragraph 3 should specify <strong>ranged</strong> abilities instead of just abilities. The chaos demon will focus on an enemy on 1-B and 6-B over enemies in 15-D, provided no extra movement is required to target them.
 
-The special targeting rules are easier to understand if you picture it as the chaos demon on some scaffolding above the ground floor where the characters enter.[/o]
+The special targeting rules are easier to understand if you picture it as the chaos demon on some scaffolding above the ground floor where the characters enter.
 
 </details>
 
@@ -654,21 +653,21 @@ Also, it is possible to end up in a situation where the scenario becomes unwinna
 <details>
 <summary><b>Scenario 28</b></summary>
 
-Note in the errata - the guard and archer spawns are reversed, as are the exit hexes. Guards should spawn at E and Archers should spawn at D. *this is only for the first printing; the second printing has corrected the issue by changing the location of letter tokesn on the map.*
+Note in the errata - the guard and archer spawns are reversed, as are the exit hexes. Guards should spawn at E and Archers should spawn at D. <i>this is only for the first printing; the second printing has corrected the issue by changing the location of letter tokesn on the map.</i>
 
 </details>
 
 <details>
 <summary><b>Scenario 29 (conclusion)</b></summary>
 
-Remove the cards you're directed to remove from both Available *and* Unavailable Event Decks
+Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks
 
 </details>
 
 <details>
 <summary><b>Scenario 30 (conclusion)</b></summary>
 
-Remove the cards you're directed to remove from both Available *and* Unavailable Event Decks.
+Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.
 
 </details>
 
@@ -724,28 +723,28 @@ The requirement of Climbing Gear is correct. Narratively, it could have been eit
 <details>
 <summary><b>Scenario 55 (conclusion)</b></summary>
 
-Remove the cards you're directed to remove from both Available and Unavailable Event Decks.
+Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.
 
 </details>
 
 <details>
 <summary><b>Scenario 58 (conclusion)</b></summary>
 
-Remove the cards you're directed to remove from both Available and Unavailable Event Decks.
+Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.
 
 </details>
 
 <details>
 <summary><b>Scenario 59 (conclusion)</b></summary>
 
-Remove the cards you're directed to remove from both Available and Unavailable Event Decks.
+Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.
 
 </details>
 
 <details>
 <summary><b>Scenario 60</b></summary>
 
-Boss Special Rules [o]The intent for 'everlasting' elements is that they become Strong at the start of every figure's turn. Even with this special, a single element cannot be consumed twice in a single turn.
+Boss Special Rules: The intent for 'everlasting' elements is that they become Strong at the start of every figure's turn. Even with this special, a single element cannot be consumed twice in a single turn.
 
 Conclusion - Remove the cards you're directed to remove from both Available and Unavailable Event Decks. 
 
@@ -777,7 +776,7 @@ As mentioned in the Errata, there is only one random item in the loot deck.
 <details>
 <summary><b>Scenario 71 - Section 111.2</b></summary>
 
-One piranha pig spawns at *each* F
+One piranha pig spawns at <i>each</i> F
 
 </details>
 
@@ -805,14 +804,14 @@ Aesther Ashblades cannot teleport to a room unless all doors between their curre
 <details>
 <summary><b>Scenario 82</b></summary>
 
-If you have questions on how some aspects of this scenario operate, please reference [this thread](https://boardgamegeek.com/thread/3070490/scenario-82-corridors-when-they-are-not-there-spoi)
+If you have questions on how some aspects of this scenario operate, please reference <a href="https://boardgamegeek.com/thread/3070490/scenario-82-corridors-when-they-are-not-there-spoi>this thread</a>
 
 </details>
 
 <details>
 <summary><b>Scenario 83</b></summary>
 
-The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is *only* used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.
+The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.
 
 </details>
 
@@ -826,7 +825,7 @@ What is meant by, "If the Elder Ooze would ever suffer damage greater than a nor
 <details>
 <summary><b>Scenario 90</b></summary>
 
-This scenario does not require the boat to be built at the workshop. It's not necessarily *your* boat.
+This scenario does not require the boat to be built at the workshop. It's not necessarily <i>your</i> boat.
 
 </details>
 
@@ -922,38 +921,38 @@ A jump or ranged attack between the "balconies" requires counting the distance. 
 **Can I level up, craft, purchase items, or purchase enhancements after my solo scenario is complete?** These activities need to wait until the next campaign Downtime phase, whenever that happens over the normal course of play. Solo scenarios take place outside of the normal Scenario/Outpost flow, and those activities are limited to Downtime.
 
 <details>
-<summary><b>Building 42 Mechanic</b></summary>
+<summary><b>Building 42 Mechanic and Solo Scenarios</b></summary>
 
-**Can I buy Blessings before a solo scenario?** No.
-
-</details>
-
-<details>
-<summary><b>Building 74 Mechanic</b></summary>
-
-**Should I include the special coin cards in a solo scenario loot deck?** Yes.
+<b>Can I buy Blessings before a solo scenario?</b> No.
 
 </details>
 
 <details>
-<summary><b>Building 81 Mechanic</b></summary>
+<summary><b>Building 74 Mechanic and Solo Scenarios/b></summary>
 
-**Does my Trial affect this scenario? Can I use any of the rewards from completing them?** No.
-
-</details>
-
-<details>
-<summary><b>Building 88 Mechanic</b></summary>
-
-**Can I bring a Pet to a solo scenario?** No.
-**Can I capture a Pet in a solo scenario?** Yes.
+<b>Should I include the special coin cards in a solo scenario loot deck?</b> Yes.
 
 </details>
 
 <details>
-<summary><b>Building 90 Mechanic</b></summary>
+<summary><b>Building 81 Mechanic and Solo Scenarios</b></summary>
 
-**Do I draw Challenges on a solo scenario?** No.
+<b>Does my Trial affect this scenario? Can I use any of the rewards from completing them?</b> No.
+
+</details>
+
+<details>
+<summary><b>Building 88 Mechanic and Solo Scenarios</b></summary>
+
+<b>Can I bring a Pet to a solo scenario?</b> No.
+<b>Can I capture a Pet in a solo scenario?</b> Yes.
+
+</details>
+
+<details>
+<summary><b>Building 90 Mechanic and Solo Scenarios</b></summary>
+
+<b>Do I draw Challenges on a solo scenario?</b> No.
 
 </details>
 
@@ -1071,7 +1070,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 **Shadow Step (1, top) - Can I open a door with this movement? What happens if opening the door causes something that makes it so I no longer have a shadow for my destination hex?** Yes, you can open a door with this action, assuming you have a hex with a shadow to end your move in. If something happens after opening the door which makes it impossible for you to end your move in a shadow, your move ability immediately ends.
 **Can I choose a path that I know will make it impossible to end in a shadow? Say, into an Immobilize trap?** No. You must perform this action "in good faith" with a path that will end your movement in a shadow.
 
-### **8.5 Boneshaper**
+### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) **8.5 Boneshaper**
 **For my "15 Kills" Mastery, what counts as ‘killing’ one of my summons? And do I really need to do it within one scenario?** You have specific abilities and attack modifiers (example: Exploding Corpse) which kill one of your summons. It has to be done through these. Unsummoning does not count, moving them into traps does not count, etc. Yes, this needs to be completed in one scenario.
 
 **For my "Keep a Summon alive" mastery, can I exhaust mid-scenario?** No; the summon needs to survive the entire scenario.
@@ -1095,7 +1094,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **Endless Numbers (8 top) - If one of my skeletons moves through the Bone Horde, but would not normally end its move there, can I choose to have it end its move early?** No. The "may end" verbiage on Bone Horde allows a skeleton end its normal movement in the Bone Horde's hex, but is not indicating you may choose end its movement early.
 
-### **8.6 Geminate**
+### ![Geminate Icon](/assets/images/06_geminate.webp) **8.6 Geminate**
 **General Note -** Although it can be helpful to think of the Geminate as having two separate hands, they really have only one hand with restrictions on which cards they can play based on their current form. This may help if you’re wondering about losing cards to negate damage, or how rests work out. You still need to bring 7 cards for each form to every scenario.
 
 **Do I swap forms if I play a card with the Swap icon but don’t perform any of the abilities on the card?** No; changing forms is not an ability itself. You must perform at least one ability on the action.
@@ -1122,12 +1121,12 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **If I use an item or effect that lets me take another action at the end of my turn, but I have already played an action that would make me Switch Form, which Form is the new card in?** Form changes happen during the end of turn wrap-up (see section 4.5). You would still play cards from the form you are presently in.
 
-### **8.7 “Astral” or “Moon and Star”**
+### ![Astral Icon](/assets/images/07_astral.webp) **8.7 “Astral” or “Moon and Star”**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-**Can you explain how Infusions work?** When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met. 
+<p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met.</p> 
 
 The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion. 
 
