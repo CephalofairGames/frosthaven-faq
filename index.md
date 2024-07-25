@@ -4,13 +4,13 @@
 
 *Last Updated 7/1/2024*
 
-1 First Printing Production Errors and Typos
-  1 Second Printing Changes
-1 Component and Setup Questions
-1 General Gameplay Questions (Outside Scenarios)
-  1 Masteries
-  1 Personal Quests
-  1 Events and Traits
+1. First Printing Production Errors and Typos
+   1. Second Printing Changes
+1. Component and Setup Questions
+1. General Gameplay Questions (Outside Scenarios)
+   1. Masteries
+   1. Personal Quests
+   1. Events and Traits
   
  
 4.0 General Gameplay Questions (Scenarios)
