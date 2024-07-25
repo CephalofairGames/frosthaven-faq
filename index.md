@@ -1,31 +1,4 @@
-<style>
-    .hidden {
-    	color: tranparent;
-        background-color: black;
-    }
-    
-    .visible {
-    	color: inherit;
-        background-color: inherit;
-    }
-</style>
-
-<script>
-	function reveal(obj) {
-	  console.log(this);
-	  obj.className = "visible";
-	}
-
-	const hiddens = document.getElementsByClassName("hidden");
-	  
-	for (let i = 0; i < hiddens.length; i++) {
-		var hidden = hiddens[i];
-		hidden.onclick = function() {
-			reveal(this);
-		}
-	}
-</script>
-
+<link rel="stylesheet" href="override-markdown-styles.css"/>
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
@@ -1436,3 +1409,22 @@ This potion [i]can[/i] be used if the modifier is flipped for a Summon's attack.
 **Can this apply to modifications to abilities, or only the base values?**  This can only apply to the base values; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.[/o] 
 
 **Item 253 - **[o]This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.[/o]
+
+
+
+<script>
+	function reveal(obj) {
+	  console.log(this);
+	  obj.className = "visible";
+	}
+
+	const hiddens = document.getElementsByClassName("hidden");
+	  
+	for (let i = 0; i < hiddens.length; i++) {
+		var hidden = hiddens[i];
+		hidden.onclick = function() {
+			reveal(this);
+		}
+	}
+</script>
+
