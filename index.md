@@ -26,7 +26,7 @@
    1. Specific Building Questions
    1. Enhancements
 1. Monster Questions
-   1. General Scenario Questions
+1. General Scenario Questions
    1. Specific Scenario Questions
    1. Solo Scenario Questions
 1. Characters
@@ -177,7 +177,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If I abandon a character in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests and looted random items from the loot deck remain looted. 
 
-**PQ 02 Searching for the Oak **- <span class="hidden">**Scenario 69 has a prerequisite of "Into the Forest." How do I get that?** This campaign banner is earned by successfully completing a scenario. Specifically, it's </span><span class="hidden">Scenario 32</span>
+**PQ 02 Searching for the Oak** - <span class="hidden">**Scenario 69 has a prerequisite of "Into the Forest." How do I get that?** This campaign banner is earned by successfully completing a scenario. Specifically, it's </span><span class="hidden">Scenario 32</span>
 
 **PQ 05 Build, Not Destroy - Does a Workshop Upgrade count as experiencing a building upgrade?** Yes, they are Building Upgrades in every respect including this one.
 
