@@ -1,4 +1,34 @@
+<style>
+    .hidden {
+    	color: tranparent;
+        background-color: black;
+    }
+    
+    .visible {
+    	color: inherit;
+        background-color: inherit;
+    }
+</style>
+
+<script>
+	function reveal(obj) {
+	  console.log(this);
+	  obj.className = "visible";
+	}
+
+	const hiddens = document.getElementsByClassName("hidden");
+	  
+	for (let i = 0; i < hiddens.length; i++) {
+		var hidden = hiddens[i];
+		hidden.onclick = function() {
+			reveal(this);
+		}
+	}
+</script>
+
+
 # **OFFICIAL FAQ FOR FROSTHAVEN**
+
 *Last Updated 7/1/2024*
 
 1.0 First Printing Production Errors and Typos
@@ -47,34 +77,38 @@
 9.0 Items
 
 ## 0.0 Introduction
+
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions.
 
 ### 0.1 Spoilers 
+
 I follow official Spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class icon, envelope/building number, scenario number, or item number. Note that starting buildings, higher-level cards for starters, scenarios 0-1, Personal Quests 01-10, and actions/statistics for common monsters are not spoilers, and will not be treated as such.
 
 ### 0.2 About Me
+
 I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
 
 ## 1.0 First Printing Production Errors and Typos
+
 - Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
-  - Envelope 24 should list sticker 10
-  - Envelope 37 should list stickers 11 and 13
-  - Envelope 44 should list stickers 12 and 14
-  - Envelope 85 should list sticker 15
-  - Envelope 90 should list stickers 1, 5, 8, and 9
- -There is a deck of cards in envelope 81 whose order should be reversed. If you pull it out and the visible card is titled "T___ of W___", reverse the order of the deck so that card is the first drawn when the deck is face-down.
+- Envelope 24 should list sticker 10
+- Envelope 37 should list stickers 11 and 13
+- Envelope 44 should list stickers 12 and 14
+- Envelope 85 should list sticker 15
+- Envelope 90 should list stickers 1, 5, 8, and 9
+-There is a deck of cards in envelope 81 whose order should be reversed. If you pull it out and the visible card is titled "T___ of W___", reverse the order of the deck so that card is the first drawn when the deck is face-down.
 - Town Guard Cards 1451 and 1452 should be "+2 material resources"
 - Winter road events back    WR-47    In the first A outcome, "winter road deck" should be "summer road deck". In the B outcome, "Remove event WR-47 from the winter road deck" should be "Remove event SR-49 from the summer road deck".
 - Three monster cards have misprints: 
-  - Chaos Demon’s “Chilling Breath” is missing the Retaliate value on elemental consumption. It should be Retaliate 2, Range 2.
-  - Savvas Icestorm’s “Frozen Shell” has an incorrect Earth consumption. It should be Ice consumption.
-  - Elite Wind Demon Level 0 should have Move 3.
+- Chaos Demon’s “Chilling Breath” is missing the Retaliate value on elemental consumption. It should be Retaliate 2, Range 2.
+- Savvas Icestorm’s “Frozen Shell” has an incorrect Earth consumption. It should be Ice consumption.
+- Elite Wind Demon Level 0 should have Move 3.
 - Some scenario requirements aren’t matching between the flowchart and the scenario book. In all cases, the Scenario Book’s requirements are correct and should be followed.
-  - On flowchart 1, scenario 10 should have a sled icon.
-  - On flowchart 2, scenario 22 should have a boat icon and scenario 42 should have a boat icon.
-  - On flowchart 3, scenarios 50, 54, 49, 53, and 60 are missing boat icons.
-  - On flowchart 5, scenario 132 should have a climbing gear icon.
-  - Scenarios 25 and 26 are exclusive.
+- On flowchart 1, scenario 10 should have a sled icon.
+- On flowchart 2, scenario 22 should have a boat icon and scenario 42 should have a boat icon.
+- On flowchart 3, scenarios 50, 54, 49, 53, and 60 are missing boat icons.
+- On flowchart 5, scenario 132 should have a climbing gear icon.
+- Scenarios 25 and 26 are exclusive.
 - Many character sheets have a weird typesetting issue with “fi” as in the beginning of “first” up to a certain point in the print run. Later copies don't have this error.
 - Scenario 0, Section 197.1 has outdated descriptions and names of some cards. 
 - Scenario 17, Section 25.3  - instead of Door 3 opening Section 62.3, this should read Door 1.
@@ -97,25 +131,28 @@ I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, a
 - Solo Book p13 - Special rules: "Snowspeaker" should be "Icespeaker"
 - Rulebook p30 - add the following to the end of Active Bonuses - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting."
 - Rulebook p33 - Recover is not a targeted effect.
-- Rulebook Appendix F (pg 79) [o]"Wealth" now costs 2 points, not 1.[/o]
+- Rulebook Appendix F (pg 79) <span class="hidden">"Wealth" now costs 2 points, not 1.</span>
 - Boss Stat Card for Render - All instances of "totem" should be "carving". 
 - Puzzle Book p4 The 6th character on the bottom row is missing a dot. 
 - Puzzle Book p26 There is an extraneous dot on the letter to the lowest left. It's not a clue.
 - Item 049 - This item is missing a Spent symbol. 
 - Item 225 - This item is a 1-hand slot item, not a chest item.
-- Building 74 Level 3 [o]This should have a requirement to build of already having 3 coins.[/o]
+- Building 74 Level 3 <span class="hidden">This should have a requirement to build of already having 3 coins.</span>
 - The following scenarios are exceeding counts for some overlay tiles: Scenario 17 (needs 5 pressure plates), Scenario 45 (only 2 barrels in game), 52 (6 Snow Rocks, only 5 in the box), 83 (too many dungeon corridors), 109 (6 single debris tiles, only 5 in the box), and 120 (only 2 barrels in game). Thanks to waitepb for collecting these and sending them to me.
 
 **Bonus** - If you think you are missing **two boss standees**, you are probably not. See the Component and First Time Setup Questions, below.
 
 ### 1.1 Second Printing Changes
+
 In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
+
 - The Deathwalker board changes regarding adjacency noted in her class section are now on the Deathwalker board.
 - Blinkblade 3 Make It Count (bot) - the green box with Move 1 now has Move 2.
-- Shackles Level 8 [o]"Wave of Anguish" card name has been changed to "Wave of Suffering" to resolve the card name duplication with Deathwalker.[/o]
+- Shackles Level 8 <span class="hidden">"Wave of Anguish" card name has been changed to "Wave of Suffering" to resolve the card name duplication with Deathwalker.</span>
 
 
 ## 2.0 Component and First Time Setup Questions
+
 **General -** As a legacy game, the general rule is that if you don’t see something referenced in the rules, it probably relates to unlockable content. Check this FAQ if you are unsure.
 
 **What should I do with the two weird coin cards (loot cards 1418 & 1419) with numbers and checkboxes?** They are related to an unlockable campaign mechanic and should not be used right now. If you wish, you can put them in Envelope 74; just don’t examine the other envelope contents. (Note - 2nd Printing moved these cards to their proper envelope.) 
@@ -129,6 +166,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **How do I get Town Guard perks? I see them on the Campaign Sheet.** These are related to an unlockable campaign mechanic and should not be used yet.
 
 **What’s a Brummix Sticker? Where are Coral Shard stickers?** (First Printing Only) - There are similarly-named stickers on the sticker sheets. 
+
 - Brummix = Brummix Tracks
 - Coral Shard = Coral Crown
 
@@ -147,6 +185,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 ## 3.0 General Gameplay Questions (Non-Scenario)
 
 ### 3.1 Masteries
+
 **Can I complete my Mastery in Scenario 0?** No. This was be added to the scenario rules in the second printing. Scenario 0 is intentionally easy. 
 
 **Do I need to complete a Mastery within a single scenario?** Yes, the entire mastery must be completed within one scenario, and the scenario must have been won. It’s fine if you yourself exhausted, so long as the scenario was successfully completed. (Note that Gloomhaven Second Edition has different Mastery rules here.)
@@ -165,7 +204,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If I abandon a character in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests and looted random items from the loot deck remain looted. 
 
-**PQ 02 Searching for the Oak **- [o]**Scenario 69 has a prerequisite of "Into the Forest." How do I get that?** This campaign banner is earned by successfully completing a scenario. Specifically, it's [o]Scenario 32[/o][/o]
+**PQ 02 Searching for the Oak **- <span class="hidden">**Scenario 69 has a prerequisite of "Into the Forest." How do I get that?** This campaign banner is earned by successfully completing a scenario. Specifically, it's </span><span class="hidden">Scenario 32</span>
 
 **PQ 05 Build, Not Destroy - Does a Workshop Upgrade count as experiencing a building upgrade?** Yes, they are Building Upgrades in every respect including this one.
 
@@ -176,11 +215,11 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **PQ 10 Explore the Reaches - I need to finish 5 scenarios that require Workshop Upgrades. What counts for that?**  Only scenarios that have those upgrades specifically listed in their scenario page count for this quest.
 
-**PQ 11** [o]You only count the 'item ingredients' of items you currently own. If those item ingredients themselves had other items as ingredients, those don't count. Item recipes don't have a 'memory' like that.[/o]
+**PQ 11** <span class="hidden">You only count the 'item ingredients' of items you currently own. If those item ingredients themselves had other items as ingredients, those don't count. Item recipes don't have a 'memory' like that.</span>
 
-**PQ 19** [o]"Gain the blueprint for the Abyss Axe" is an instruction for the player, not a PQ requirement. You gain this blueprint in your Craftable Supply (not the item itself) upon starting the quest, regardless of the level of your Craftsman. The activated ability of the Axe must be used on the hit that kills the enemy for it to count.[/o]
+**PQ 19** <span class="hidden">"Gain the blueprint for the Abyss Axe" is an instruction for the player, not a PQ requirement. You gain this blueprint in your Craftable Supply (not the item itself) upon starting the quest, regardless of the level of your Craftsman. The activated ability of the Axe must be used on the hit that kills the enemy for it to count.</span>
 
-**PQ 23** [o]When you complete this quest and open Envelope A, [o]immediately upgrade Building 81 to Level 2 at no cost.[/o][/o]
+**PQ 23** <span class="hidden">When you complete this quest and open Envelope A, </span><span class="hidden">immediately upgrade Building 81 to Level 2 at no cost.</span>
 
 ### 3.3 Events and Traits
 **Is my Ancestry another trait?** Effectively, yes, your Ancestry (quatryl, human, etc.) can operate as an additional Trait for your character. It operates like all other Traits on your character board. 
