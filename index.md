@@ -283,7 +283,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **What happens if I get Bane on my turn while I already have Bane?** While this is unlikely, any new condition overwrites the old condition; Bane will now trigger at the end of your next turn. This can happen to monsters, as well.
 
-**Can I target an enemy with a condition they're immune to? **Yes. It still won't put the condition on the enemy, but this may be important for effects like Boneshaper's Bone Dagger. *This is a change from Gloomhaven 1e* 
+**Can I target an enemy with a condition they're immune to?** Yes. It still won't put the condition on the enemy, but this may be important for effects like Boneshaper's Bone Dagger. *This is a change from Gloomhaven 1e* 
 
 **Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item like Crude Shield, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to the remaining attack modifier deck. Once in an attack modifier deck, the Curse is no longer considered a negative condition.
 
@@ -560,11 +560,11 @@ The door is placed incorrectly after opening the final section. Don’t move the
 <details>
 <summary><b>Scenario 4</b></summary>
 
-The special rules should not mention Priests. There are no Priests in this scenario.
+<p>The special rules should not mention Priests. There are no Priests in this scenario.</p>
 
-<strong>Final room</strong> - <span class="hidden">The references to other monsters are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.</span>
+<p><strong>Final room</strong> - <span class="hidden">The references to other monsters are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.</span></p>
 
-<strong>Conclusion</strong> - <span class="hidden">Like all other scenarios, you <strong>cannot</strong> replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.</span>
+<p><strong>Conclusion</strong> - <span class="hidden">Like all other scenarios, you <strong>cannot</strong> replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.</span></p>
 
 </details>
 
@@ -913,6 +913,7 @@ A jump or ranged attack between the "balconies" requires counting the distance. 
 
 </details>
 
+
 ### 7.2 Solo Scenario Questions
 **Can I gain Masteries or Battle Goals during a Solo Scenario? Can I progress my PQ? Do I gain Inspiration?** You can pursue Masteries and Battle Goals, but solo scenarios are probably enough of a challenge without them! You can also progress towards retirement. You do not gain Inspiration - Inspiration is based on party size, and both the minimum and maximum party size for a solo scenario is 1.
 
@@ -928,7 +929,7 @@ A jump or ranged attack between the "balconies" requires counting the distance. 
 </details>
 
 <details>
-<summary><b>Building 74 Mechanic and Solo Scenarios/b></summary>
+<summary><b>Building 74 Mechanic and Solo Scenarios</b></summary>
 
 <b>Should I include the special coin cards in a solo scenario loot deck?</b> Yes.
 
