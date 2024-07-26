@@ -1419,25 +1419,25 @@ Basically, if an item only makes sense if used within another ability or in reac
 
 **Item 049** - <span class="hidden">**Cruel Dagger** This item is missing a Spent symbol.</span> 
 
-**Item 076 ** - <span class="hidden">**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
+**Item 076** - <span class="hidden">**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
 
-**Item 084 - **<span class="hidden">Level X cards are Level 1 cards for all purposes.</span>
+**Item 084** - <span class="hidden">Level X cards are Level 1 cards for all purposes.</span>
 
-**Item 093 - ** <span class="hidden">You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.
-This potion [i]can[/i] be used if the modifier is flipped for a Summon's attack.</span>
+**Item 093** - <span class="hidden">You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.
+This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.</span>
 
-**Item 098** - <span class="hidden">**If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?  **For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not ‘remember’ which specific ingredients your original potion was made from, the alchemy board does.
+**Item 098, Question 1** - <span class="hidden">**If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?  **For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not ‘remember’ which specific ingredients your original potion was made from, the alchemy board does.</span>
 
-**This item has no cost in the card. Can I just take it whenever I want for free?** No. Potion costs are set by the alchemy board, not the item card.
+**Item 098, Question 2** - <span class="hidden">**This item has no cost in the card. Can I just take it whenever I want for free?** No. Potion costs are set by the alchemy board, not the item card.</span>
 
-**I don't get it, this item is terrible.** This can be used for crafting and a few other uses. It can also be distilled to 'transform' herbs as described above.</span>
+**Item 098, Question 3** - <span class="hidden">**I don't get it, this item is terrible.** This can be used for crafting and a few other uses. It can also be distilled to 'transform' herbs as described above.</span>
 
-**Item 109 - <span class="hidden">Can I use the same potion twice in one turn with this?**  Sometimes. If a potion does not have a round bonus icon (like a healing potion), you can refresh it and use it again during your turn.  If a potion has a round bonus (like Item 088), it cannot be; round bonuses can't be dismissed, and even if you could, dismissing it would end the first potion's effect.</span>
+**Item 109** - <span class="hidden">**Can I use the same potion twice in one turn with this?**  Sometimes. If a potion does not have a round bonus icon (like a healing potion), you can refresh it and use it again during your turn.  If a potion has a round bonus (like Item 088), it cannot be; round bonuses can't be dismissed, and even if you could, dismissing it would end the first potion's effect.</span>
 
-**Item 110 - **<span class="hidden">You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.  
-This potion [i]can[/i] be used if the modifier is flipped for a Summon's attack.</span>
+**Item 110** - <span class="hidden">You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.  
+This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.</span>
 
-**Item 113 - **<span class="hidden">If the card chosen has one Lost action and one non-loss persistent, the persistent effectively becomes a Persistent Loss. It will go to the lost pile, not discard, when the persistent is removed.</span>
+**Item 113** - <span class="hidden">If the card chosen has one Lost action and one non-loss persistent, the persistent effectively becomes a Persistent Loss. It will go to the lost pile, not discard, when the persistent is removed.</span>
 
 **Item 115** - <span class="hidden">**How does this work for effects that require multiple elements to be consumed? **You still need to consume any other elements needed. This only lets you ignore one.</span>
 
@@ -1455,12 +1455,13 @@ This potion [i]can[/i] be used if the modifier is flipped for a Summon's attack.
 
 **Item 226** - <span class="hidden">The "numeric value" referred to here is only the actual attack modification value, such as the "+1".</span>
 
-**Item 242 - **<span class="hidden">A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
+**Item 242** - <span class="hidden">A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
 
-**Item 244** <span class="hidden">**I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?** Just one. This item affects one ability, not the entire action - even if an ability gets repeated.
-**Can this apply to modifications to abilities, or only the base values?**  This can only apply to the base values; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.</span> 
+**Item 244, Question 1** <span class="hidden">**I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?** Just one. This item affects one ability, not the entire action - even if an ability gets repeated.</span>
 
-**Item 253 - **<span class="hidden">This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
+**Item 244, Question 2** <span class="hidden">**Can this apply to modifications to abilities, or only the base values?**  This can only apply to the base values; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.</span> 
+
+**Item 253** - <span class="hidden">This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
 
 
