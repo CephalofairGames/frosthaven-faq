@@ -1263,120 +1263,125 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 <details>
 <summary><b>Snowflake Spoilers</b></summary>
 
-**Am I limited on the amount of Hazardous Terrain I can generate?** No; use any suitable overlay tiles.
+<p><b>Am I limited on the amount of Hazardous Terrain I can generate?</b> No; use any suitable overlay tiles.</p>
 
-**If I draw multiple Heal Ally modifier draws, do they combine into one heal, or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.
+<p><b>If I draw multiple Heal Ally modifier draws, do they combine into one heal, or is each one separate?</b> They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.</p>
 
-**What's the range on my Heal Ally modifier cards?** They have unlimited range but, as a Heal, they are targeted and therefore require Line of Sight. 
+<p><b>What's the range on my Heal Ally modifier cards?</b> They have unlimited range but, as a Heal, they are targeted and therefore require Line of Sight.</p>
 
-**My second mastery says, "Ensure the first ally to suffer damage each round, directly before suffering the damage, has at least one condition you applied.” If none of my allies take damage at all this scenario, do I succeed?** Yes, just like you would for a Battle Goal involving Rests if you didn’t Rest at all.
+<p><b>My second mastery says, "Ensure the first ally to suffer damage each round, directly before suffering the damage, has at least one condition you applied.” If none of my allies take damage at all this scenario, do I succeed?</b> Yes, just like you would for a Battle Goal involving Rests if you didn’t Rest at all.</p>
 
-**Will a Pull or Push 0 trigger Chilling Impact’s (1) effect?** No. Not only is this forbidden by the card text, but Push 0 and Pull 0 have been ruled as 'not forced movement'. 
+<p><b>Will a Pull or Push 0 trigger Chilling Impact’s (1) effect?</b> No. Not only is this forbidden by the card text, but Push 0 and Pull 0 have been ruled as 'not forced movement'.</p>
 
-**How does the wind consumption ability on Storm Wall (7) work? Does it include the attack's red hexes?** No. It only damages hexes directly *outside* the AoE pattern. It is a separate ability (as denoted by the line), so it is possible to force move enemies outside of the pattern before the damage ability.
+<p><b>How does the wind consumption ability on Storm Wall (7) work? Does it include the attack's red hexes?</b> No. It only damages hexes directly <i>outside</i> the AoE pattern. It is a separate ability (as denoted by the line), so it is possible to force move enemies outside of the pattern before the damage ability.</p>
 
 </details>
+<br>
 
 ### ![Fist Icon](/assets/images/13_fist.webp) **8.13 "Fist"**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-**What is the timing on my "Place Icy Terrain" modifier card? Is it before or after forced movement?** Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.
+<p><b>What is the timing on my "Place Icy Terrain" modifier card? Is it before or after forced movement?</b> Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.</p>
 
-**When I place an Icy Terrain tile 'adjacent' to my target, can I place it underneath them?** No; while some class abilities offer exceptions to this rule, a monster’s own hex is not adjacent to the monster for your abilities' targeting.
+<p><b>When I place an Icy Terrain tile 'adjacent' to my target, can I place it underneath them?</b> No; while some class abilities offer exceptions to this rule, a monster’s own hex is not adjacent to the monster for your abilities' targeting.</p>
 
-**Can I place icy terrain from my attack modifier card if the target was killed by the attack's damage?** Yes. An attack modifier card is part of the attack ability, not a subsequent ability. It will function even if the enemy dies.
+<p><b>Can I place icy terrain from my attack modifier card if the target was killed by the attack's damage?</b> Yes. An attack modifier card is part of the attack ability, not a subsequent ability. It will function even if the enemy dies.</p>
 
-**"Sure Footing" Perk - do you get the +1 Move if you jump over the icy terrain?** You do not gain the move bonus while jumping, because this perk replaces the normal effect of icy terrain for you. If you are jumping, icy terrain has no effect on you to replace. 
+<p><b>"Sure Footing" Perk - do you get the +1 Move if you jump over the icy terrain?</b> You do not gain the move bonus while jumping, because this perk replaces the normal effect of icy terrain for you. If you are jumping, icy terrain has no effect on you to replace.</p>
 
-**Frost Eruption (1) - Can I just use this to make Icy Terrain and get my Ice infusion, without attacking any enemy?** No. Any abilities which refer to an attack pattern require that attack ability to have been performed. 
+<p><b>Frost Eruption (1) - Can I just use this to make Icy Terrain and get my Ice infusion, without attacking any enemy?</b> No. Any abilities which refer to an attack pattern require that attack ability to have been performed.</p>
 
-**With One with the Mountain (1 top) If I take damage, when I you get Regenerate back?** It's immediate. You always have Regenerate while the card is in play. If you lose it, you immediately regain it, no matter when that occurs.
+<p><b>With One with the Mountain (1 top) If I take damage, when I you get Regenerate back?</b> It's immediate. You always have Regenerate while the card is in play. If you lose it, you immediately regain it, no matter when that occurs.</p>
 
 </details>
+<br>
 
 ### ![Kelp Icon](/assets/images/14_kelp.webp) **8.14 "Kelp" (or "Seaweed")**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-**General note** - Several of your abilities trigger on a "kill." Note that objectives are destroyed, not killed, so will not trigger your on-kill effects.
+<p><b>General note</b> - Several of your abilities trigger on a "kill." Note that objectives are destroyed, not killed, so will not trigger your on-kill effects.</p>
 
-**Does Ink Cloud’s (1) bottom action also affect enemies? Does it affect me?** As a positive effect targeting all within range, it affects you and all your allies in range. It does not make enemies invisible.
+<p><b>Does Ink Cloud’s (1) bottom action also affect enemies? Does it affect me?</b> As a positive effect targeting all within range, it affects you and all your allies in range. It does not make enemies invisible.</p>
 
-**Can I poison multiple enemies in one turn with the persistent of Skull Collection (1)?**  Yes as long as you have enough trophies.
+<p><b>Can I poison multiple enemies in one turn with the persistent of Skull Collection (1)?</b>  Yes as long as you have enough trophies.</p>
 
 </details>
-
+<br>
 
 ### ![Coral Icon](/assets/images/15_coral.webp) **8.15 "Coral" (or "Anemone")**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-**Do I need to discard all my Tides on any rest, or only when I'm forced to rest due to running out of cards?** The board is being a bit poetic and not literal, here - Active Tides are discarded on any of your rests, even if you still have cards in hand. (Cards with Tides on them in your hand and lost piles stay where they are.)
+<p><b>Do I need to discard all my Tides on any rest, or only when I'm forced to rest due to running out of cards?</b> The board is being a bit poetic and not literal, here - Active Tides are discarded on any of your rests, even if you still have cards in hand. (Cards with Tides on them in your hand and lost piles stay where they are.)</p>
 
-**Does a Tide card that infuses an element generate an element every turn?** No, Infusions only occur when a card is played.
+<p><b>Does a Tide card that infuses an element generate an element every turn?</b> No, Infusions only occur when a card is played.</p>
 
-**Rising Flood (1, bot) - Can I use this as just a Move 3 without a water tile to designate?** Yes; this action says you do this *and* do that, not do this *to* to that.
+<p><b>Rising Flood (1, bot) - Can I use this as just a Move 3 without a water tile to designate?</b> Yes; this action says you do this <i>and</i> do that, not do this <i>to</i> to that.</p>
 
-**Smashing Torrent (2) - Does the Tide effect trigger when an ally grants me a move ability?** Yes; this happens on a different turn, and it’s still you taking a move ability.
+<p><b>Smashing Torrent (2) - Does the Tide effect trigger when an ally grants me a move ability?</b> Yes; this happens on a different turn, and it’s still you taking a move ability.</p>
 
 </details>
+<br>
 
 ### ![Prism Icon](/assets/images/16_prism.webp) **8.16 "Prism" (or "Diamond")**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-**Do I gain XP from the card I play for my initial Mode?** Yes.
+<p><b>Do I gain XP from the card I play for my initial Mode?</b> Yes.</p>
 
-**If I have a Summon flying over an Obstacle, can I transfer to them?** No, unless HIVE is also flying. Transfer uses the Teleport keyword, which specifies you must have a valid destination hex which you can occupy.
+<p><b>If I have a Summon flying over an Obstacle, can I transfer to them?</b> No, unless HIVE is also flying. Transfer uses the Teleport keyword, which specifies you must have a valid destination hex which you can occupy.</p>
 
-**Is my first perk a misprint?** No. It thins your deck by removing both your -2 and a +1.
+<p><b>Is my first perk a misprint?</b> No. It thins your deck by removing both your -2 and a +1.</p>
 
-**If one of my summons draws a "+0, grant one of your summons Move 2" modifier card, what happens?** When cards refer to specific class mechanics, they always benefit the owner of the modifier card. In this case, the HIVE can grant one of their summons a Move 2.
+<p><b>If one of my summons draws a "+0, grant one of your summons Move 2" modifier card, what happens?</b> When cards refer to specific class mechanics, they always benefit the owner of the modifier card. In this case, the HIVE can grant one of their summons a Move 2.</p>
 
-**Launch Pod (1) - Does my target need to survive for me to play a Summon?** - No. You can summon even if the target dies. (Note - this is not well-supported with the game's present rules and current card syntax, but has been ruled this way for thematic reasons.)
+<p><b>Launch Pod (1) - Does my target need to survive for me to play a Summon?</b> - No. You can summon even if the target dies. (Note - this is not well-supported with the game's present rules and current card syntax, but has been ruled this way for thematic reasons.)</p>
 
-**Coiled Limbs - Leaper summon (1) - If the Leaper cannot reach its focus, will it attack another enemy it ends its movement adjacent to?** No. Absent specific rules on an ability card, there's no general provisions for monsters to attack enemies other than their focus.
-**How is the furthest enemy determined?** It is determined first by longest movement distance to a valid attack hex, and then by longest range distance. Afterwards, the initiative tiebreaker is as usual. It will move towards its focus like any other monster with a Jump movement would.
+<p><b>Coiled Limbs - Leaper summon (1) - If the Leaper cannot reach its focus, will it attack another enemy it ends its movement adjacent to?</b> No. Absent specific rules on an ability card, there's no general provisions for monsters to attack enemies other than their focus.</p>
+<p><b>How is the furthest enemy determined?</b> It is determined first by longest movement distance to a valid attack hex, and then by longest range distance. Afterwards, the initiative tiebreaker is as usual. It will move towards its focus like any other monster with a Jump movement would.</p>
 
-**Long Range Missile (2)** Add the following sentence to the end: "If this damage was from an attack that had any additional conditions or effects, you are subject to them instead."  This resolves some potentially weird situations regarding conditions like Poison or Curse, or Pushes/Pulls. If, for example, your Summon has been damaged by an Attack 3 Poison, you would be Poisoned. If your Summon is going to be Pushed, you will be Pushed instead.
+<p><b>Long Range Missile (2)</b> Add the following sentence to the end: "If this damage was from an attack that had any additional conditions or effects, you are subject to them instead."  This resolves some potentially weird situations regarding conditions like Poison or Curse, or Pushes/Pulls. If, for example, your Summon has been damaged by an Attack 3 Poison, you would be Poisoned. If your Summon is going to be Pushed, you will be Pushed instead.</p>
 
-**Long Range Missile (2) - If I use the bottom action here, and Transfer after an attack where a Living Bones has drawn its "attack one enemy" card, will the remaining attacks fail?** Yes. The Living Bones's focus is no longer in melee range.
+<p><b>Long Range Missile (2) - If I use the bottom action here, and Transfer after an attack where a Living Bones has drawn its "attack one enemy" card, will the remaining attacks fail?</b> Yes. The Living Bones's focus is no longer in melee range.</p>
 
-**Long Range Missile (2) - If I have the bottom action prepared, and a Shrike Fiend damages all enemies within X hexes, what happens if I Transfer to my summon after it takes damage?** Targets are chosen sequentially, not all at once. First, when your Summon would take damage, you'll take that damage -1. Then, you will take the damage because you're a valid target. Then, if your previous Mode summon was in the damage radius, it will take damage, as well.
+<p><b>Long Range Missile (2) - If I have the bottom action prepared, and a Shrike Fiend damages all enemies within X hexes, what happens if I Transfer to my summon after it takes damage?</b> Targets are chosen sequentially, not all at once. First, when your Summon would take damage, you'll take that damage -1. Then, you will take the damage because you're a valid target. Then, if your previous Mode summon was in the damage radius, it will take damage, as well.</p>
 
-**Mortar Shells (7) - If I grant this summon a melee attack, does it get this AoE pattern?** No. This red hex pattern only works on ranged attacks.
+<p><b>Mortar Shells (7) - If I grant this summon a melee attack, does it get this AoE pattern?</b> No. This red hex pattern only works on ranged attacks.</p>
 
-**Swarming Bulwark (8) - how does the Shield Spider choose its target for Ward?** It will choose itself if it does not already have Ward; or if it does, it will choose the closest ally that does not already have Ward. The HIVE player resolves ties.
+<p><b>Swarming Bulwark (8) - how does the Shield Spider choose its target for Ward?</b> It will choose itself if it does not already have Ward; or if it does, it will choose the closest ally that does not already have Ward. The HIVE player resolves ties.</p>
 
 </details>
+<br>
 
 ### ![Drill Icon](/assets/images/17_drill.webp) **8.17 "Drill"**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-**General Note on Pressure Changes** - Pressure changes are not standalone abilities. They are mandatory if you perform any part of the action or ability they are attached to. They are not "costs" - you can perform any ability your current pressure allows, even if you can't execute the pressure change afterwards. (For example, if you are at Low Pressure, you can still use actions which would make you lose pressure.) 
+<p><b>General Note on Pressure Changes</b> - Pressure changes are not standalone abilities. They are mandatory if you perform any part of the action or ability they are attached to. They are not "costs" - you can perform any ability your current pressure allows, even if you can't execute the pressure change afterwards. (For example, if you are at Low Pressure, you can still use actions which would make you lose pressure.)</p>
 
-**For the three-mark perk, does “losing all your cards” include any that you were about to play?** Yes.
+<p><b>For the three-mark perk, does “losing all your cards” include any that you were about to play?</b> Yes.</p>
 
-**When do my pressure changes happen?** Per the board text, when each Action (that is, one card half) fully resolves. 
+<p><b>When do my pressure changes happen?</b> Per the board text, when each Action (that is, one card half) fully resolves.</p>
 
-**Can I use the top of Curious Gear (1) to destroy a trap even if there's no enemy to spring it on?** No. It needs to be applied to an enemy.
+<p><b>Can I use the top of Curious Gear (1) to destroy a trap even if there's no enemy to spring it on?</b> No. It needs to be applied to an enemy.</p>
 
-**Beam Axe (1, bot) - When do these pressure effects trigger?** The over-pressure effect doesn't need any adjacent enemies because damage is not targeted. If you are over-pressure, you will always gain xp and lose pressure. The Low Pressure heal is targeted, so the pressure change and XP will only trigger if you have an ally in range to heal.
+<p><b>Beam Axe (1, bot) - When do these pressure effects trigger?</b> The over-pressure effect doesn't need any adjacent enemies because damage is not targeted. If you are over-pressure, you will always gain xp and lose pressure. The Low Pressure heal is targeted, so the pressure change and XP will only trigger if you have an ally in range to heal.</p>
 
-**Steel Piston (1, top)** - When you use the attack bonus, this pressure change happens along with any other pressure changes at the end of the action you're performing. The timing is ambiguous, so this can be before or after the rest of the pressure changes.
+<p><b>Steel Piston (1, top) - When do these pressure changes happen?</b> - When you use the attack bonus, this pressure change happens along with any other pressure changes at the end of the action you're performing. The timing is ambiguous, so this can be before or after the rest of the pressure changes.</p>
 
-**In Bronze Plating (2 top), what effects are persistent?** The shield and inability to move are both persistent. Shields always last as long as a card is active, and the mandatory box is phrased as an ongoing effect. The pressure check, xp, regenerate, and pressure change are a one-time effect and resolved when the card is played.
+<p><b>In Bronze Plating (2 top), what effects are persistent?</b> The shield and inability to move are both persistent. Shields always last as long as a card is active, and the mandatory box is phrased as an ongoing effect. The pressure check, xp, regenerate, and pressure change are a one-time effect and resolved when the card is played.</p>
 
-**Unstable Core (9, bot) - Is there anything stopping me from discarding the card before taking this damage?** No, there isn't. It does synergize well with Radiation, though, of course.
+<p><b>Unstable Core (9, bot) - Is there anything stopping me from discarding the card before taking this damage?</b> No, there isn't. It does synergize well with Radiation, though, of course.</p>
 
 </details>
+<br>
 
 ## **9.0 Items**
 
