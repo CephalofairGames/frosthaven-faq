@@ -50,9 +50,11 @@
    1. "Drill"
 1. Items
 
+![divider](/assets/images/divider.png)
+
 ## 0.0 Introduction
 
-This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions.
+This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries.
 
 ### 0.1 Spoilers 
 
@@ -60,7 +62,9 @@ I follow official Spoiler rules in this FAQ. I will spoiler-tag all locked conte
 
 ### 0.2 About Me
 
-I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
+I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
+
+![divider](/assets/images/divider.png)
 
 ## 1.0 First Printing Production Errors and Typos
 
