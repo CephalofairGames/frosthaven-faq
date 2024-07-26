@@ -52,11 +52,11 @@
 
 ![divider](/assets/images/divider.png)
 
-## ![left](/assets/images/leftsmall.png) 0.0 Introduction ![right](/assets/images/rightsmall)
+## ![left](/assets/images/leftsmall.png) 0.0 Introduction ![right](/assets/images/rightsmall.png)
 
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries.
 
-### ![left](/assets/images/leftsmall.png) 0.1 Spoilers ![right](/assets/images/rightsmall)
+### ![left](/assets/images/leftsmall.png) 0.1 Spoilers ![right](/assets/images/rightsmall.png)
 
 I follow official Spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class icon, envelope/building number, scenario number, or item number. Note that starting buildings, higher-level cards for starters, scenarios 0-1, Personal Quests 01-10, and actions/statistics for common monsters are not spoilers, and will not be treated as such.
 
