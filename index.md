@@ -1146,7 +1146,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 <p><b>The Animated Claymore from Imbue with Life (X) says it is affected by all your active Infusions. Does this mean it gets the Infusion Triggers too?</b>  No; compare to the Spiritbound Falchion from Untether the Shackles (8).</p>
 
-<p>Note on an Interaction with <b>Shackles</b>
+<p>Note on an Interaction with <b>Shackles</b></p>
 
 <p><span class="hidden"><b>What happens if I have my Animated Claymore summoned from Imbue with Life (top) and my Shackles ally has Blood Ritual (bot) active?</b> Because the Claymore has a mandatory persistent effect of "Whenever you do not have Disarm, gain Disarm," you will always have Disarm as long as that card is active. If they attempt to use Blood Ritual to continually take Disarm from you, the game can't resume until they decide to stop, at which point you will gain Disarm again.</span></p>
 
