@@ -1151,7 +1151,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 <p><span class="hidden"><b>What happens if I have my Animated Claymore summoned from Imbue with Life (top) and my Shackles ally has Blood Ritual (bot) active?</b> Because the Claymore has a mandatory persistent effect of "Whenever you do not have Disarm, gain Disarm," you will always have Disarm as long as that card is active. If they attempt to use Blood Ritual to continually take Disarm from you, the game can't resume until they decide to stop, at which point you will gain Disarm again.</span></p>
 
 </details>
-
+<br>
 ### ![Meteor Icon](/assets/images/08_meteor.webp) 8.8 **"Meteor"**
 
 <details>
@@ -1159,38 +1159,38 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 <p><b>If I place hazardous terrain on the same hex as an enemy, do they take hazardous terrain damage?</b> Not unless it says so on the card. Hazardous terrain causes damage when a non-flying, non-jumping figure enters the hex.</p>
 
-**If I create Hazardous Terrain via an item, does it use my tiles and count against my limit?** Yes, all Hazardous Terrain created by you uses your class-specific overlay files and counts towards your limit no matter how it's made. 
+<p><b>If I create Hazardous Terrain via an item, does it use my tiles and count against my limit?</b> Yes, all Hazardous Terrain created by you uses your class-specific overlay files and counts towards your limit no matter how it's made.</p> 
 
-**Quenched Rage (top) - What happens if an obstacle would be placed in an illegal hex via this action?** The hazardous terrain is removed but an obstacle is not created. 
+<p><b>Quenched Rage (top) - What happens if an obstacle would be placed in an illegal hex via this action?</b> The hazardous terrain is removed but an obstacle is not created.</p>
 
-**Quenched Rage (top)** - **What's the range on the push?** It's Range 1
+<p><b>Quenched Rage (top) - What's the range on the push?</b> It's Range 1</p>
 
-**Quenched Rage (top) - What does 'through' mean here?** It means the enemy both enters and exits a hex as a result of your push action. If the push starts and/or ends on hazardous terrain, it won't trigger the added effects from this card for those hexes.
+<p><b>Quenched Rage (top) - What does 'through' mean here?</b> It means the enemy both enters and exits a hex as a result of your push action. If the push starts and/or ends on hazardous terrain, it won't trigger the added effects from this card for those hexes.</p>
 
-**Quenched Rage (top) - How does the doubling damage interact with Brittle or Ward?** While normally hazardous terrain damage procs as soon as a figure enters the hex, this card creates an exception to this rule for any figure pushed [i]through[/i] a hazardous terrain hex (that is, both entering and exiting). If the figure is Brittle, the first hazardous terrain damage will be doubled twice. If Warded, it will be normal (or doubled and halved if you prefer).
+<p><b>Quenched Rage (top) - How does the doubling damage interact with Brittle or Ward?</b> While normally hazardous terrain damage procs as soon as a figure enters the hex, this card creates an exception to this rule for any figure pushed <i>through</i> a hazardous terrain hex (that is, both entering and exiting). If the figure is Brittle, the first hazardous terrain damage will be doubled twice. If Warded, it will be normal (or doubled and halved if you prefer).</p>
 
-**Quenched Rage (bot) - Why does it have 4 circles but only giving me -1 attack to the next three attacks?**  The 1st, 2nd, and 3rd circle are for the -1's to attacks. The 4th circle is for the double damage effect and is not subject to the -1 effect. 
+<p><b>Quenched Rage (bot) - Why does it have 4 circles but only giving me -1 attack to the next three attacks?</b>  The 1st, 2nd, and 3rd circle are for the -1's to attacks. The 4th circle is for the double damage effect and is not subject to the -1 effect.</p>
 
-**Under Pressure (1, top) - What is a "hex with a wall"?** This item in the list should simply be read as "walls," and it includes full wall hexes, along with both line borders and partial hexes on the edges of room tiles.
+<p><b>Under Pressure (1, top) - What is a "hex with a wall"?</b> This item in the list should simply be read as "walls," and it includes full wall hexes, along with both line borders and partial hexes on the edges of room tiles.</p>
 
-**Hardened Spike (3)** - The track is missing a mandatory symbol, in error. It follows the same rules as all of your other mandatory persistents.
+<p><b>Hardened Spike (3)</b> - The track is missing a mandatory symbol, in error. It follows the same rules as all of your other mandatory persistents.</p>
 
-**What is the timing on my "Place Hazardous Terrain" modifier card? Is it before or after forced movement?** Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.
+<p><b>What is the timing on my "Place Hazardous Terrain" modifier card? Is it before or after forced movement?</b> Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.</p>
 
-**Can I place hazardous terrain from my attack modifier card if the target was killed by the attack's damage?** Yes. It is part of the attack ability and thus works even if the enemy dies. [i]Note - this overturns a previous ruling[/i]
+<p><b>Can I place hazardous terrain from my attack modifier card if the target was killed by the attack's damage?</b> Yes. It is part of the attack ability and thus works even if the enemy dies.</p>
 
-**What happens to my Hazardous Terrain if I exhaust? If I have the three-check perk (Dormant Peace), will my Hazardous Terrain remain safe for my allies?** Your Hazardous Terrain are overlays  and will remain on the map after you exhaust. However, your three-check perk is much like an active effect - if you exhaust, your allies are no longer safe from its effects.
+<p><b>What happens to my Hazardous Terrain if I exhaust? If I have the three-check perk (Dormant Peace), will my Hazardous Terrain remain safe for my allies?</b> Your Hazardous Terrain are overlays  and will remain on the map after you exhaust. However, your three-check perk is much like an active effect - if you exhaust, your allies are no longer safe from its effects.</p>
 
 </details>
-
+<br>
 ### ![Shards Icon](/assets/images/09_shards.webp) **8.9 "Shards"**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-**Can I Bless the same character more than once with Shape the Path (3)?** Yes, you can.
+<p><b>Can I Bless the same character more than once with Shape the Path (3)?</b> Yes, you can.</p>
 
-**Can I adjust a Default Move or Default Attack with Empowering Note (5)?** Yes, you can - they are abilities.
+<p><b>Can I adjust a Default Move or Default Attack with Empowering Note (5)?</b> Yes, you can - they are abilities.</p>
 
 </details>
 
