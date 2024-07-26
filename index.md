@@ -1426,11 +1426,9 @@ Basically, if an item only makes sense if used within another ability or in reac
 **Item 093** - <span class="hidden">You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.
 This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.</span>
 
-**Item 098, Question 1** - <span class="hidden">**If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?  **For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not ‘remember’ which specific ingredients your original potion was made from, the alchemy board does.</span>
-
-**Item 098, Question 2** - <span class="hidden">**This item has no cost in the card. Can I just take it whenever I want for free?** No. Potion costs are set by the alchemy board, not the item card.</span>
-
-**Item 098, Question 3** - <span class="hidden">**I don't get it, this item is terrible.** This can be used for crafting and a few other uses. It can also be distilled to 'transform' herbs as described above.</span>
+**Item 098** - <span class="hidden"><p><b>If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?</b> For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not ‘remember’ which specific ingredients your original potion was made from, the alchemy board does.</p>
+<p><b>This item has no cost in the card. Can I just take it whenever I want for free?</b> No. Potion costs are set by the alchemy board, not the item card.</p>
+<p><b>I don't get it, this item is terrible.</b> This can be used for crafting and a few other uses. It can also be distilled to 'transform' herbs as described above.</p></span>
 
 **Item 109** - <span class="hidden">**Can I use the same potion twice in one turn with this?**  Sometimes. If a potion does not have a round bonus icon (like a healing potion), you can refresh it and use it again during your turn.  If a potion has a round bonus (like Item 088), it cannot be; round bonuses can't be dismissed, and even if you could, dismissing it would end the first potion's effect.</span>
 
