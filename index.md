@@ -1128,7 +1128,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 ### ![Astral Icon](/assets/images/07_astral.webp) **8.7 "Astral" or "Moon and Star"**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Astral Spoilers</b></summary>
 
 <p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met.</p> 
 
@@ -1152,10 +1152,11 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
 ### ![Meteor Icon](/assets/images/08_meteor.webp) 8.8 **"Meteor"**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Meteor Spoilers</b></summary>
 
 <p><b>If I place hazardous terrain on the same hex as an enemy, do they take hazardous terrain damage?</b> Not unless it says so on the card. Hazardous terrain causes damage when a non-flying, non-jumping figure enters the hex.</p>
 
@@ -1183,80 +1184,84 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
 ### ![Shards Icon](/assets/images/09_shards.webp) **8.9 "Shards"**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Shards Spoilers</b></summary>
 
 <p><b>Can I Bless the same character more than once with Shape the Path (3)?</b> Yes, you can.</p>
 
 <p><b>Can I adjust a Default Move or Default Attack with Empowering Note (5)?</b> Yes, you can - they are abilities.</p>
 
 </details>
+<br>
 
 ### ![Trap Icon](/assets/images/10_trap.webp) **8.10 "Trap"**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Trap Spoilers</b></summary>
 
-**If a monster loses Flying while over an Obstacle, do they take damage?** No; they are simply moved to the nearest hex. *This is a change from Gloomhaven 1e.*
+<p><b>If a monster loses Flying while over an Obstacle, do they take damage?</b> No; they are simply moved to the nearest hex. <i>This is a change from Gloomhaven 1e.</i></p>
 
-**If a monster loses Flying while over a Trap, does the trap trigger?** Yes.
+<p><b>If a monster loses Flying while over a Trap, does the trap trigger?</b> Yes.</p>
 
-**How do I track what a Trap does?** Per the rulebook on pg 14, you put damage tokens and any added effects as tokens on the trap. For Healing, use the damage tokens on top of one of your positive traps.
+<p><b>How do I track what a Trap does?</b> Per the rulebook on pg 14, you put damage tokens and any added effects as tokens on the trap. For Healing, use the damage tokens on top of one of your positive traps.</p>
 
-**Can I stand on traps if I have the Careful Footing perk?** Yes. You can choose not to spring any trap you move through or end your turn on. 
+<p><b>Can I end my movement on traps if I have the Careful Footing perk?</b> Yes. You can choose not to spring any trap you move through or end your turn on.</p>
 
-**Does replacing a trap, like with Improvised Improvement (X), count as "creating" a trap?** Yes; the rulebook defines "replacing" an overlay as first destroying, then creating on page 33.
+<p><b>Does replacing a trap, like with Improvised Improvement (X), count as "creating" a trap?</b> Yes; the rulebook defines "replacing" an overlay as first destroying, then creating on page 33.</p>
 
-**Can I jump from trap to trap with the top of Spring Loaded (X)?** When a movement has Jump, it needs to formally end before you're no longer Jumping, and you can't be Jumping if you want to trigger a trap. So, if a trap is the end of a jump movement, any additional movement gained through Spring Loaded is lost. Note, though, that you can choose not to gain Jump and just gain +2 movement when a trap is triggered like this. So, while you can chain +2 move from one trap to another, you can't chain multiple jumps.
+<p><b>Can I jump from trap to trap with the top of Spring Loaded (X)?</b> When a movement has Jump, it needs to formally end before you're no longer Jumping, and you can't be Jumping if you want to trigger a trap. So, if a trap is the end of a jump movement, any additional movement gained through Spring Loaded is lost. Note, though, that you can choose not to gain Jump and just gain +2 movement when a trap is triggered like this. So, while you can chain +2 move from one trap to another, you can't chain multiple jumps.</p>
 
-**Unavoidable Outcome (2, bot) - Does this trigger on push or pull? Can I quickly discard it if a monster would otherwise trigger a positive trap?** Yes and yes. 
+<p><b>Unavoidable Outcome (2, bot) - Does this trigger on push or pull? Can I quickly discard it if a monster would otherwise trigger a positive trap?</b> Yes and yes.</p>
 
-**Can Proficient Hunter's (5) persistent add 2 Damage or Heal 2 to a trap without a Damage or Heal value? How about my "add damage or Heal" attack modifier cards?**  Yes. Damage or Heal can be added to a trap even if there is no damage or heal value, yet.
+<p><b>Can Proficient Hunter's (5) persistent add 2 Damage or Heal 2 to a trap without a Damage or Heal value? How about my "add damage or Heal" attack modifier cards?</b>  Yes. Damage or Heal can be added to a trap even if there is no damage or heal value, yet.</p>
 
-**What is the timing on Persistent Pitfalls (6, bot)? Can I use this mid-push?** "Immediately" does indeed mean "immediately" here and it can be used mid-push. 
+<p><b>What is the timing on Persistent Pitfalls (6, bot)? Can I use this mid-push?</b> "Immediately" does indeed mean "immediately" here and it can be used mid-push.</p>
 
-**What is the timing on my "Place a Trap" modifier card? Is it before or after forced movement?** Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.
+<p><b>What is the timing on my "Place a Trap" modifier card? Is it before or after forced movement?</b> Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.</p>
 
-**Can I place a trap from my "Place a Trap" modifier card if the target was killed by the attack's damage?** Yes. As a modifier card, it's part of the attack ability, and can still reference the enemy's position.
+<p><b>Can I place a trap from my "Place a Trap" modifier card if the target was killed by the attack's damage?</b> Yes. As a modifier card, it's part of the attack ability, and can still reference the enemy's position.</p>
 
 </details>
+<br>
 
 ### ![Shackles Icon](/assets/images/11_shackles.webp) **8.11 "Shackles"**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Shackles Spoilers</b></summary>
 
-For convenience, I am repeating, here, questions from 4.2 about damage "suffered" or "would suffer":
-**I have an ability that references the damage a monster or I have "suffered." Is this the total damage I dealt?** No. While there's no cap to damage dealt, "damage suffered" is the result of that damage, after all ward, brittle, or negation - and is capped by the figure's remaining HP. This goes for all figures with HP. Damage suffered is basically the equivalent of moving an hp dial.
+<p>For convenience, I am repeating, here, questions from 4.2 about damage "suffered" or "would suffer":</p>
+<p><b>I have an ability that references the damage a monster or I have "suffered." Is this the total damage I dealt?</b> No. While there's no cap to damage dealt, "damage suffered" is the result of that damage, after all ward, brittle, or negation - and is capped by the figure's remaining HP. This goes for all figures with HP. Damage suffered is basically the equivalent of moving an hp dial.</p>
 
-**I have an ability which refers to the damage an ally "would suffer." Is this likewise capped by the ally's HP?** No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.
+<p><b>I have an ability which refers to the damage an ally "would suffer." Is this likewise capped by the ally's HP?</b> No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.</p>
 
-**Can I target a figure immune to a negative condition with an ability like Shared Affliction which would transfer it to them?** Yes. It is still removed from you, but the target never gains the condition.
+<p><b>Can I target a figure immune to a negative condition with an ability like Shared Affliction which would transfer it to them?</b> Yes. It is still removed from you, but the target never gains the condition.</p>
 
-**If I use Blood Ritual’s bottom loss, would abilities that require self-inflicting conditions (like some Geminate cards) still work?** Yes.
+<p><b>If I use Blood Ritual’s bottom loss, would abilities that require self-inflicting conditions (like some Geminate cards) still work?</b> Yes.</p>
 
-**If I have an ability that says I cannot remove my negative conditions (ex: Delayed Malady), am I prevented from using abilities that allow me to remove a condition from myself and give it to another target (ex: Shared Affliction)?** If you cannot remove your own conditions, you cannot use these abilities.
+<p><b>If I have an ability that says I cannot remove my negative conditions (ex: Delayed Malady), am I prevented from using abilities that allow me to remove a condition from myself and give it to another target (ex: Shared Affliction)?</b> If you cannot remove your own conditions, you cannot use these abilities.</p>
 
-**Line of Transference (1, top) - If I turn this into a multi-target attack, what happens?** The condition you remove is applied to all targets.
+<p><b>Line of Transference (1, top) - If I turn this into a multi-target attack, what happens?</b> The condition you remove is applied to all targets.</p>
 
-**Delayed Malady - How does this interact with Curses?** This has no effect on incoming curses. You'd still add a curse card to your deck if you are the target of a curse ability.
+<p><b>Delayed Malady - How does this interact with Curses?</b> This has no effect on incoming curses. You'd still add a curse card to your deck if you are the target of a curse ability.</p>
 
-**Blood Ritual (1, bot) - is the condition still considered caused by the monster who performed the ability?** Yes. This can be relevant for some items. 
+<p><b>Blood Ritual (1, bot) - is the condition still considered caused by the monster who performed the ability?</b> Yes. This can be relevant for some items.</p>
 
-**Burned at Both Ends (3) and Chained by Spite (5) - If I'm brittled or warded, how much damage does the enemy take?** The enemy takes as much damage as you actually suffered. So, if you are Brittle and choose to suffer 4 with 'Burned', you will suffer 8 and so will your target. Likewise, if you are Warded and choose to suffer 4 (the maximum), you and the target will both actually suffer 2.
+<p><b>Burned at Both Ends (3) and Chained by Spite (5) - If I'm brittled or warded, how much damage does the enemy take?</b> The enemy takes as much damage as you actually suffered. So, if you are Brittle and choose to suffer 4 with 'Burned', you will suffer 8 and so will your target. Likewise, if you are Warded and choose to suffer 4 (the maximum), you and the target will both actually suffer 2.</p>
 
-**Reprisal (3), top** is missing a Round Bonus symbol.
+<p><b>Reprisal (3), top</b> is missing a Round Bonus symbol.</p>
 
-**Wracked with Pain (8), top - Can I skip the Wound, here?** Yes. You can just Stun (and potentially Brittle).
+<p><b>Wracked with Pain (8), top - Can I skip the Wound?</b> Yes. You can just Stun (and potentially Brittle).</p>
 
 </details>
+<br>
 
 ### ![Snowflake Icon](/assets/images/12_snowflake.webp) **8.12 "Snowflake"**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Snowflake Spoilers</b></summary>
 
 **Am I limited on the amount of Hazardous Terrain I can generate?** No; use any suitable overlay tiles.
 
