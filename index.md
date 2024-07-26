@@ -128,6 +128,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - Blinkblade 3 Make It Count (bot) - the green box with Move 1 now has Move 2.
 - Shackles Level 8 <span class="hidden">"Wave of Anguish" card name has been changed to "Wave of Suffering" to resolve the card name duplication with Deathwalker.</span>
 
+![divider](/assets/images/divider.png)
 
 ## 2.0 Component and First Time Setup Questions
 
@@ -158,6 +159,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **I think I am missing two boss standees...** You are probably not. If those bosses are "FF" and "SD", it will become clear when you need them.
 
 **There's a blank spot on the flowchart. Is this an easter egg? Should I open it?** No. Leave it alone.
+
+![divider](/assets/images/divider.png)
 
 ## 3.0 General Gameplay Questions (Non-Scenario)
 
@@ -224,6 +227,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **WO-52** <span class="hidden">Buildings are only wrecked if your negative modifier draw is actually applied; negative modifiers drawn in an Advantaged attack will not result in a wreck if they aren't applied.</span>
 
 **WO-81** <span class="hidden">X is set, first, by the number of Coral Shards / Coral Crown stickers you have. Once X is determined, Attack the same building up to X times. If it gets damaged, it's wrecked instead and the next building gets targeted for the remaining attacks. Once X attacks are resolved, in total, the event concludes. There's no option here for the building to get merely damaged - it's Wrecked if you fail any of the Attacks. It will be Wrecked for building operations this outpost phase, and can't be rebuilt until the Build/Upgrade phase.</span>
+
+![divider](/assets/images/divider.png)
 
 ## 4.0 General Gameplay Questions (Scenario)
 
@@ -389,6 +394,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Keep Watch** - <span class="hidden">This is intended to affect both players and summons. Objectives do not take turns, and therefore all your attacks against them would be at Disadvantage.</span>
 
+![divider](/assets/images/divider.png)
+
 ## 5.0 Outpost General Questions
 **How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
 
@@ -487,6 +494,8 @@ Level 3 should have a building prerequisite of already owning the first three An
 </details>
 <br>
 
+![divider](/assets/images/divider.png)
+
 ## 6.0 Monster Questions
 **What are the little symbols on some monster stat cards for?** These are for locked campaign mechanics. You will know what they mean when it’s time.
 
@@ -544,8 +553,10 @@ Level 3 should have a building prerequisite of already owning the first three An
 ### Wind Demon
 **Should Level 0 Elites have more movement than Level 1 Elites?** Level 0 Elites should have Move 3. This is errata.
 
+![divider](/assets/images/divider.png)
+
 ##7.0 General Scenario Questions
-**I don’t understand the difference between Campaign and Casual mode. What does all this mean? **So the confusion is primarily because Frosthaven’s “Casual Mode” is different from Gloomhaven’s.
+**I don’t understand the difference between Campaign and Casual mode. What does all this mean?** So, the confusion is primarily because Frosthaven’s “Casual Mode” is different from Gloomhaven’s.
 - Casual Mode: You get no resources, XP, quest progression, etc. Time does not pass, you don’t do any events, etc. It is really just playing the game to enjoy it, with zero campaign impact. Afterwards there is no Outpost Phase.
 - Campaign Mode: Just like in a normal scenario, you can earn resources, XP, any unlooted treasure chests, and random items if you didn’t already get them. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Frosthaven. After the scenario, you will have an Outpost Phase.
 
@@ -981,6 +992,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 
+![divider](/assets/images/divider.png)
+
 ## **8.0 Characters**
 
 ### ![Drifter Icon](/assets/images/01_drifter.webp) **8.1 Drifter**
@@ -1399,6 +1412,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
+![divider](/assets/images/divider.png)
 
 ## **9.0 Items**
 
