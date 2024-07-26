@@ -1132,11 +1132,11 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 <br>
 <p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met.</p> 
 
-The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion. 
+The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion.<p>
 
-As an example, I want to play Boon of the Tempest. I consume Wind and any other element to play it. While it's in my active area, I will add +1 move and Jump to all my move abilities for the rest of the scenario. I can also Attack 3 now, because I just played this Infusion. 
+As an example, I want to play Boon of the Tempest. I consume Wind and any other element to play it. While it's in my active area, I will add +1 move and Jump to all my move abilities for the rest of the scenario. I can also Attack 3 now, because I just played this Infusion.<p>
 
-If, later, I play Caress of the Night (spending its elements), I can Strengthen myself (from Caress's on-infusion trigger) and Attack 3 (from Tailwind's on-infusion trigger), and that attack will have Wound and Muddle (from Caress's persistent bonus). The order of the trigger abilities is ambiguous, so you can pick any order that suits you.
+If, later, I play Caress of the Night (spending its elements), I can Strengthen myself (from Caress's on-infusion trigger) and Attack 3 (from Tailwind's on-infusion trigger), and that attack will have Wound and Muddle (from Caress's persistent bonus). The order of the trigger abilities is ambiguous, so you can pick any order that suits you.<p>
 
 **If I pay the element cost on an active Infusion on a later turn, can I use its activated ability again?** No. The elements are consumed when playing the action the first time only. 
 
