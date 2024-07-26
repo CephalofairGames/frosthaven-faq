@@ -1281,7 +1281,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 ### ![Fist Icon](/assets/images/13_fist.webp) **8.13 "Fist"**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Fist Spoilers</b></summary>
 
 <p><b>What is the timing on my "Place Icy Terrain" modifier card? Is it before or after forced movement?</b> Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.</p>
 
@@ -1301,7 +1301,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 ### ![Kelp Icon](/assets/images/14_kelp.webp) **8.14 "Kelp" (or "Seaweed")**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Kelp Spoilers</b></summary>
 
 <p><b>General note</b> - Several of your abilities trigger on a "kill." Note that objectives are destroyed, not killed, so will not trigger your on-kill effects.</p>
 
@@ -1315,7 +1315,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 ### ![Coral Icon](/assets/images/15_coral.webp) **8.15 "Coral" (or "Anemone")**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Coral Spoilers</b></summary>
 
 <p><b>Do I need to discard all my Tides on any rest, or only when I'm forced to rest due to running out of cards?</b> The board is being a bit poetic and not literal, here - Active Tides are discarded on any of your rests, even if you still have cards in hand. (Cards with Tides on them in your hand and lost piles stay where they are.)</p>
 
@@ -1331,7 +1331,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 ### ![Prism Icon](/assets/images/16_prism.webp) **8.16 "Prism" (or "Diamond")**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Prism Spoilers</b></summary>
 
 <p><b>Do I gain XP from the card I play for my initial Mode?</b> Yes.</p>
 
@@ -1362,7 +1362,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 ### ![Drill Icon](/assets/images/17_drill.webp) **8.17 "Drill"**
 
 <details>
-<summary><b>Spoilers</b></summary>
+<summary><b>Drill Spoilers</b></summary>
 
 <p><b>General Note on Pressure Changes</b> - Pressure changes are not standalone abilities. They are mandatory if you perform any part of the action or ability they are attached to. They are not "costs" - you can perform any ability your current pressure allows, even if you can't execute the pressure change afterwards. (For example, if you are at Low Pressure, you can still use actions which would make you lose pressure.)</p>
 
@@ -1410,57 +1410,57 @@ Basically, if an item only makes sense if used within another ability or in reac
 
 **Item 013** - <span class="hidden"><b>Dancing Slippers - How does this interact with Retaliate and conditions from the attack?</b> This move happens before Retaliate, but after any added conditions or forced movement from the attack. So, for example, if an attack would Immobilize you, you would not be able to use these in response.</span>
 
-**Item 026** - <span class="hidden>**Truesight Lenses  - Do I need to use these before drawing a modifier?** Yes. These must be used before drawing a card.
+**Item 026** - <span class="hidden">**Truesight Lenses  - Do I need to use these before drawing a modifier?** Yes. These must be used before drawing a card.
 **What happens if I draw a negative modifier with added effects, like "-1 Add Time Token?"** The extra effects are kept but the attack modifier value changes from -1 to +0. In this example, it changes to a +0 Add Time Token.</span>
 
-**Item 033** - <span class="hidden>This item can be used in moves granted to you on others' turns. If so, it is still available for use on your turn. Either way, it will be flipped (once) at the end of your turn. Technically the other side could be used like this too.</span>
+**Item 033** - <span class="hidden">This item can be used in moves granted to you on others' turns. If so, it is still available for use on your turn. Either way, it will be flipped (once) at the end of your turn. Technically the other side could be used like this too.</span>
 
-**Item 046** - <span class="hidden>**Double-Lens Goggles - How do these work if I have, for example, a -1 Add Time Token modifier drawn?** The numeric value of the modifier card changes but all the extra effects are retained. In this example, it changes to a +1 Add Time Token.</span>
+**Item 046** - <span class="hidden">**Double-Lens Goggles - How do these work if I have, for example, a -1 Add Time Token modifier drawn?** The numeric value of the modifier card changes but all the extra effects are retained. In this example, it changes to a +1 Add Time Token.</span>
 
-**Item 049** - <span class="hidden>**Cruel Dagger** This item is missing a Spent symbol.</span> 
+**Item 049** - <span class="hidden">**Cruel Dagger** This item is missing a Spent symbol.</span> 
 
-**Item 076 ** - <span class="hidden>**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
+**Item 076 ** - <span class="hidden">**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
 
-**Item 084 - **<span class="hidden>Level X cards are Level 1 cards for all purposes.</span>
+**Item 084 - **<span class="hidden">Level X cards are Level 1 cards for all purposes.</span>
 
-**Item 093 - ** <span class="hidden>You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.
+**Item 093 - ** <span class="hidden">You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.
 This potion [i]can[/i] be used if the modifier is flipped for a Summon's attack.</span>
 
-**Item 098** - <span class="hidden>**If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?  **For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not ‘remember’ which specific ingredients your original potion was made from, the alchemy board does.
+**Item 098** - <span class="hidden">**If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?  **For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not ‘remember’ which specific ingredients your original potion was made from, the alchemy board does.
 
 **This item has no cost in the card. Can I just take it whenever I want for free?** No. Potion costs are set by the alchemy board, not the item card.
 
 **I don't get it, this item is terrible.** This can be used for crafting and a few other uses. It can also be distilled to 'transform' herbs as described above.</span>
 
-**Item 109 - <span class="hidden>Can I use the same potion twice in one turn with this?**  Sometimes. If a potion does not have a round bonus icon (like a healing potion), you can refresh it and use it again during your turn.  If a potion has a round bonus (like Item 088), it cannot be; round bonuses can't be dismissed, and even if you could, dismissing it would end the first potion's effect.</span>
+**Item 109 - <span class="hidden">Can I use the same potion twice in one turn with this?**  Sometimes. If a potion does not have a round bonus icon (like a healing potion), you can refresh it and use it again during your turn.  If a potion has a round bonus (like Item 088), it cannot be; round bonuses can't be dismissed, and even if you could, dismissing it would end the first potion's effect.</span>
 
-**Item 110 - **<span class="hidden>You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.  
+**Item 110 - **<span class="hidden">You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.  
 This potion [i]can[/i] be used if the modifier is flipped for a Summon's attack.</span>
 
-**Item 113 - **<span class="hidden>If the card chosen has one Lost action and one non-loss persistent, the persistent effectively becomes a Persistent Loss. It will go to the lost pile, not discard, when the persistent is removed.</span>
+**Item 113 - **<span class="hidden">If the card chosen has one Lost action and one non-loss persistent, the persistent effectively becomes a Persistent Loss. It will go to the lost pile, not discard, when the persistent is removed.</span>
 
-**Item 115** - <span class="hidden>**How does this work for effects that require multiple elements to be consumed? **You still need to consume any other elements needed. This only lets you ignore one.</span>
+**Item 115** - <span class="hidden">**How does this work for effects that require multiple elements to be consumed? **You still need to consume any other elements needed. This only lets you ignore one.</span>
 
-**Item 119** - <span class="hidden>Can I distill the Deadly Mixture? What happens?  No, it is forbidden per the Level 3 Alchemist rules.</span>
+**Item 119** - <span class="hidden">Can I distill the Deadly Mixture? What happens?  No, it is forbidden per the Level 3 Alchemist rules.</span>
 
 **Item 124 Winged Shoes - Can I use this in the middle of a move if I suddenly need or want to jump?** No; using Winged Shoes is an ability, and therefore can't be performed in the middle of another ability. Please see the general item rules, above.
 
-**Item 188** - <span class="hidden>The Water hex this item can create is considered Difficult Terrain.</span>
+**Item 188** - <span class="hidden">The Water hex this item can create is considered Difficult Terrain.</span>
 
-**Item 218** - <span class="hidden>The benefits to enemies are considered "negative effects" from the player perspective, and are therefore not skippable.</span>
+**Item 218** - <span class="hidden">The benefits to enemies are considered "negative effects" from the player perspective, and are therefore not skippable.</span>
 
-**Item 219** - <span class="hidden>A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
+**Item 219** - <span class="hidden">A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
 
-**Item 225** - **1st Printing Errata** <span class="hidden>This is a one-handed item not a chest slot.</span>
+**Item 225** - **1st Printing Errata** <span class="hidden">This is a one-handed item not a chest slot.</span>
 
-**Item 226** - <span class="hidden>The "numeric value" referred to here is only the actual attack modification value, such as the "+1".</span>
+**Item 226** - <span class="hidden">The "numeric value" referred to here is only the actual attack modification value, such as the "+1".</span>
 
-**Item 242 - **<span class="hidden>A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
+**Item 242 - **<span class="hidden">A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
 
-**Item 244** <span class="hidden>**I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?** Just one. This item affects one ability, not the entire action - even if an ability gets repeated.
+**Item 244** <span class="hidden">**I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?** Just one. This item affects one ability, not the entire action - even if an ability gets repeated.
 **Can this apply to modifications to abilities, or only the base values?**  This can only apply to the base values; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.</span> 
 
-**Item 253 - **<span class="hidden>This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
+**Item 253 - **<span class="hidden">This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
 
 
