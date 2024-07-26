@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
 
-# `#006eff` **OFFICIAL FAQ FOR FROSTHAVEN**
+# $\color{#006eff}{OFFICIAL~FAQ~FOR~FROSTHAVEN!}$
 
-*Last Updated 7/1/2024*
+*Last Updated 7/26/2024*
 
 1. First Printing Production Errors and Typos
    1. Second Printing Changes
