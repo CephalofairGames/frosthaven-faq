@@ -1151,7 +1151,6 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 <p><span class="hidden"><b>What happens if I have my Animated Claymore summoned from Imbue with Life (top) and my Shackles ally has Blood Ritual (bot) active?</b> Because the Claymore has a mandatory persistent effect of "Whenever you do not have Disarm, gain Disarm," you will always have Disarm as long as that card is active. If they attempt to use Blood Ritual to continually take Disarm from you, the game can't resume until they decide to stop, at which point you will gain Disarm again.</span></p>
 
 </details>
-<br>
 
 ### ![Meteor Icon](/assets/images/08_meteor.webp) 8.8 **"Meteor"**
 
