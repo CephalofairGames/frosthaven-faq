@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
 
-# **OFFICIAL FAQ FOR FROSTHAVEN**
+# `#006eff` **OFFICIAL FAQ FOR FROSTHAVEN**
 
 *Last Updated 7/1/2024*
 
@@ -177,11 +177,11 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If I abandon a character in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests and looted random items from the loot deck remain looted. 
 
-**PQ 02 Searching for the Oak** - <span class="hidden">**Scenario 69 has a prerequisite of "Into the Forest." How do I get that?** This campaign banner is earned by successfully completing a scenario. Specifically, it's </span><span class="hidden">Scenario 32</span>
+**PQ 02 Searching for the Oak** - <span class="hidden">**Scenario 69 has a prerequisite of "Into the Forest." How do I get that?** This campaign banner is usually earned by successfully completing a specific scenario. If you are unsure which one, it's </span><span class="hidden">Scenario 32</span>
 
 **PQ 05 Build, Not Destroy - Does a Workshop Upgrade count as experiencing a building upgrade?** Yes, they are Building Upgrades in every respect including this one.
 
-**PQ 06 Team Building - ** There have been several questions on this one. (1) It should be read as "experience" 8 outpost events or sections; you don't need to be the one reading them, just participate in that outpost phase. (2) You only count outpost phases with at least one name, not the number of names. (3) They don't need to be different names.
+**PQ 06 Team Building** - There have been several questions on this one. (1) It should be read as "experience" 8 outpost events or sections; you don't need to be the one reading them, just participate in that outpost phase. (2) You only count outpost phases with at least one name, not the number of names. (3) They don't need to be different names.
 
 **PQ 07 Aesther Outpost - Do I retire as soon as I finish Scenario 65?** No. This is the first scenario in a chain of four, total. It is recommended to complete Scenario 65 as soon as possible, because there are calendar-based delays between them.
 **Can I do Scenario 65 before completing Scenario 1?** No. Scenario 1 must be successfully completed first for both narrative and mechanical reasons.
@@ -219,7 +219,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **WO-52** <span class="hidden">Buildings are only wrecked if your negative modifier draw is actually applied; negative modifiers drawn in an Advantaged attack will not result in a wreck if they aren't applied.</span>
 
-**WO-81** <span>X is set, first, by the number of Coral Shards / Coral Crown stickers you have. Once X is determined, Attack the same building up to X times. If it gets damaged, it's wrecked instead and the next building gets targeted for the remaining attacks. Once X attacks are resolved, in total, the event concludes. There's no option here for the building to get merely damaged - it's Wrecked if you fail any of the Attacks. It will be Wrecked for building operations this outpost phase, and can't be rebuilt until the Build/Upgrade phase.</span>
+**WO-81** <span class="hidden">X is set, first, by the number of Coral Shards / Coral Crown stickers you have. Once X is determined, Attack the same building up to X times. If it gets damaged, it's wrecked instead and the next building gets targeted for the remaining attacks. Once X attacks are resolved, in total, the event concludes. There's no option here for the building to get merely damaged - it's Wrecked if you fail any of the Attacks. It will be Wrecked for building operations this outpost phase, and can't be rebuilt until the Build/Upgrade phase.</span>
 
 ## 4.0 General Gameplay Questions (Scenario)
 
@@ -474,12 +474,12 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 <p><b>Building 81, Envelope A</b> <span class="hidden">Upon opening this envelope, you should immediately build Level 2 of Building 81 at no cost.</span></p>
 
-<p><b>Building 81 Completion , Errata</b> - <span class="hidden">Rulebook Appendix F - "Wealth" costs 2 points, not 1.</span></p>
+<p><b>Building 81 Completion Rewards, Errata</b> - <span class="hidden">Rulebook Appendix F - "Wealth" costs 2 points, not 1.</span></p>
 
 <h4>Specific Trial Questions</h4>
 <p>Trials are referred to here by their Card Number, which is in the lower left hand corner.</p>
 <p><b>Trial 0355</b> <span class="hidden">The standee number here is for enemies only. It does not include scenario allies or summons.</span></p>
-<p><b>Trial 0359</b> <span class="hidden">You get the check marks for any battle goal you pass while you have this Trial. This may mean you get more than one card's worth per scenario.</span></p>
+<p><b>Trial 0359</b> <span class="hidden">You get the check marks for any battle goal you pass while you have this Trial, potentially multiple goals per scenario.</span></p>
 </details>
 <br>
 
