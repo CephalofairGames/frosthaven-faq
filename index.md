@@ -25,6 +25,7 @@
 1. Outpost General Questions
    1. Specific Building Questions
    1. Enhancements
+   1. Building 81 Questions
 1. Monster Questions
 1. General Scenario Questions
    1. Specific Scenario Questions
@@ -210,17 +211,15 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If an event has us losing XP, can we go below a level threshold?** No. You cannot lose XP beyond the minimum for your current level.
 
-**SR-19** [o]Just as with all events, you must pay the cost if you are able; the "otherwise" only applies when you cannot fulfill the condition.[/o]
+**SR-19** <span class="hidden">Just as with all events, you must pay the cost if you are able; the "otherwise" only applies when you cannot fulfill the condition.</span>
 
-**SO-63** [o]If you choose to abandon a quest which unlocks scenarios, those scenarios become locked and are considered incomplete. The next character to pursue that PQ (if any) would need to do them again.[/o]
+**SO-63** <span class="hidden">If you choose to abandon a quest which unlocks scenarios, those scenarios become locked and are considered incomplete. The next character to pursue that PQ (if any) would need to do them again.</span>
 
-**WO-43** [o]Buildings are only wrecked if your negative modifier draw is actually applied; negative modifiers drawn in an Advantaged attack will not result in a wreck if they are not applied.[/o]
+**WO-43** <span class="hidden">Buildings are only wrecked if your negative modifier draw is actually applied; negative modifiers drawn in an Advantaged attack will not result in a wreck if they are not applied.</span>
 
-**WO-52** [o]Buildings are only wrecked if your negative modifier draw is actually applied; negative modifiers drawn in an Advantaged attack will not result in a wreck if they aren't applied.[/o]
+**WO-52** <span class="hidden">Buildings are only wrecked if your negative modifier draw is actually applied; negative modifiers drawn in an Advantaged attack will not result in a wreck if they aren't applied.</span>
 
-**WO-81** [o]X is set, first, by the number of Coral Shards / Coral Crown stickers you have. Once X is determined, Attack the same building up to X times. If it gets damaged, it's wrecked instead and the next building gets targeted for the remaining attacks. Once X attacks are resolved, in total, the event concludes.
-There's no option here for the building to get merely damaged - it's Wrecked if you fail any of the Attacks. It will be Wrecked for building operations this outpost phase, and can't be rebuilt until the Build/Upgrade phase. 
-[/o]
+**WO-81** <span>X is set, first, by the number of Coral Shards / Coral Crown stickers you have. Once X is determined, Attack the same building up to X times. If it gets damaged, it's wrecked instead and the next building gets targeted for the remaining attacks. Once X attacks are resolved, in total, the event concludes. There's no option here for the building to get merely damaged - it's Wrecked if you fail any of the Attacks. It will be Wrecked for building operations this outpost phase, and can't be rebuilt until the Build/Upgrade phase.</span>
 
 ## 4.0 General Gameplay Questions (Scenario)
 
@@ -236,7 +235,7 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **Can I teleport over gaps between room tiles? If so, how do I measure the distance? There's no hexes to count.** Yes, as long as the destination tile is revealed, and the map tiles aren't free-floating (see below). The gap area between rooms is considered part of the wall. You can use extra corridor overlays to measure the distance, if it's not apparent. 
 
-**Can I teleport to a revealed room tile that is totally disconnected from other room tiles?** Completely disconnected room tiles are an unmeasurable distance apart. Only teleports that ignore distance would work in these cases. (For an example of a scenario with this kind of layout, see Scenario [o]24[/o].) 
+**Can I teleport to a revealed room tile that is totally disconnected from other room tiles?** Completely disconnected room tiles are an unmeasurable distance apart. Only teleports that ignore distance would work in these cases. (For an example of a scenario with this kind of layout, see Scenario <span class="hidden">24</span>.) 
 
 **Can I Push and Pull with the same attack?** Yes, but note that all Pushes are combined together and all Pulls are combined together into the final Push and/or Pull. You must fully complete one before you perform the other. Yes, this can make an enemy take damage from the same hazardous terrain hex twice.
 
@@ -380,11 +379,11 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 
 **What are Challenges? Should I be using them?** While you shuffle the Challenge deck during game setup, they are not supposed to be used until the mechanic for them is unlocked. You will know when you're able to start including them in your game, and what they do. While their existence is not a spoiler, their purpose and contents are.
 
-**General note on single vs. multi-target attacks** - [o]**If a Challenge refers to single-target attacks, but a monster consumes an element to make them AoE or multi-target, what happens?** The timing of monsters' elemental consumption (specifically, before the first monster's turn) means their attack abilities all become multi-target or AoE before any of them can take their turn. They are no longer valid for modification by the Challenge.[/o]
+**General note on single vs. multi-target attacks** - <span class="hidden">**If a Challenge refers to single-target attacks, but a monster consumes an element to make them AoE or multi-target, what happens?** The timing of monsters' elemental consumption (specifically, before the first monster's turn) means their attack abilities all become multi-target or AoE before any of them can take their turn. They are no longer valid for modification by the Challenge.</span>
 
-**Barbed** - [o]The "undamaged" condition is evaluated at the start of the attack.[/o]
+**Barbed** - <span class="hidden">The "undamaged" condition is evaluated at the start of the attack.</span>
 
-**Keep Watch** - [o]This is intended to affect both players and summons. Objectives do not take turns, and therefore all your attacks against them would be at Disadvantage.[/o]
+**Keep Watch** - <span class="hidden">This is intended to affect both players and summons. Objectives do not take turns, and therefore all your attacks against them would be at Disadvantage.</span>
 
 ## 5.0 Outpost General Questions
 **How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
@@ -442,24 +441,20 @@ There's no option here for the building to get merely damaged - it's Wrecked if 
 **Resource Buildings - Who gets the resource? Who pays for it?** Whenever you ‘collectively’ gain one or more resources, they can be taken by any active player or placed into the Frosthaven supply. The costs can likewise be paid by any active player. The player paying the cost does not need to be the player who receives the resource. 
 
 **Building 44**
-- Level 2 - [o]**When does the 10g discount apply? Before or after modifiers for mutli-target, lost card, etc.?**  This cost reduction happens after all other modifiers are applied.[/o]
-- Level 3 - [o]This building effect reduces the level penalties by 10 each, so each one is 15 gold instead of 25 gold. There's no level penalty for Level 1/X cards, so the building can't reduce its level penalty.[/o]
-- Level 4 - [o]This building effect reduces the additional enhancement penalties by 25 each, so each penalty is 50 gold instead of 75 gold. There's no additional enhancement penalty for actions getting their first enhancement, so those costs can't be reduced.[/o]
+- Level 2 - <span class="hidden">**When does the 10g discount apply? Before or after modifiers for mutli-target, lost card, etc.?**  This cost reduction happens after all other modifiers are applied.</span>
+- Level 3 - <span class="hidden">This building effect reduces the level penalties by 10 each, so each one is 15 gold instead of 25 gold. There's no level penalty for Level 1/X cards, so the building can't reduce its level penalty.</span>
+- Level 4 - <span class="hidden">This building effect reduces the additional enhancement penalties by 25 each, so each penalty is 50 gold instead of 75 gold. There's no additional enhancement penalty for actions getting their first enhancement, so those costs can't be reduced.</span>
 
-**Building 74** [o]The Ancient Coins are gained one at a time through the special loot cards and other events. They should be considered party items, don't belong to individual characters, and never return to any Supply. 
+**Building 74** <span class="hidden">The Ancient Coins are gained one at a time through the special loot cards and other events. They should be considered party items, don't belong to individual characters, and never return to any Supply. 
 
-Level 3 should have a building prerequisite of already owning the first three Ancient Coins. It cannot be upgraded to this stage until that prerequisite is met.[/o]
+Level 3 should have a building prerequisite of already owning the first three Ancient Coins. It cannot be upgraded to this stage until that prerequisite is met.</span>
 
-**Building 81** - Do not look through the deck that is included in this envelope. See the errata above for how to handle the deck of cards.
+**Building 81** - See section 5.3 for all questions related to this building.
 
-**Building 81, Envelope A** [o]Upon opening this envelope, you should immediately build Level 2 of Building 81 at no cost.[/o]
+**Building 88** <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
 
-**Building 81 Completion Rewards** - [o]Rulebook Appendix F - "Wealth" costs 2 points, not 1.[/o]
-
-**Building 88** [o]You keep any Pets captured even if you lose a scenario.[/o]
-
-**Building 90** [o]See #3e# for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
-[/o]
+**Building 90** <span class="hidden">See #3e# for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
+</span>
 
 ### 5.2 Enhancements
 *Note: for questions about the building effects at each level, see its building number, above. This section is for general questions about enhancements. This section will not be spoiler-tagged.*
@@ -468,7 +463,25 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **If I am enhancing an ability that can only affect multiple targets when an element is consumed or some other condition is met, does it cost double to enhance?** Yes. If an ability has conditional multi-targets, it still costs double. *This is a change from Gloomhaven.*
 
-**My Summon has an inherent multi-target attack. Will enhancing its Range or Attack cost double the normal cost for a summon?** Yes. 
+**My Summon has an inherent multi-target attack. Will enhancing its Range or Attack cost double the normal cost for a summon?** Yes.
+
+### 5.3 Building 81 Questions
+
+<details>
+<summary><b>Spoilers for Building 81</b></summary>
+
+<p>Do not look through or shuffle the deck that is included in this envelope. If you have a first printing copy of Frosthaven, you will need to reverse the order of this deck. You can quickly check this by looking at the bottom card. If it says "T___ of W______", you need to reverse the order.</p>
+
+<p><b>Building 81, Envelope A</b> <span class="hidden">Upon opening this envelope, you should immediately build Level 2 of Building 81 at no cost.</span></p>
+
+<p><b>Building 81 Completion , Errata</b> - <span class="hidden">Rulebook Appendix F - "Wealth" costs 2 points, not 1.</span></p>
+
+<h4>Specific Trial Questions</h4>
+<p>Trials are referred to here by their Card Number, which is in the lower left hand corner.</p>
+<p><b>Trial 0355</b> <span class="hidden">The standee number here is for enemies only. It does not include scenario allies or summons.</span></p>
+<p><b>Trial 0359</b> <span class="hidden">You get the check marks for any battle goal you pass while you have this Trial. This may mean you get more than one card's worth per scenario.</span></p>
+</details>
+<br>
 
 ## 6.0 Monster Questions
 **What are the little symbols on some monster stat cards for?** These are for locked campaign mechanics. You will know what they mean when it’s time.
@@ -1455,12 +1468,11 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 **Item 242** - <span class="hidden">A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
 
-**Item 244, Question 1** <span class="hidden">**I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?** Just one. This item affects one ability, not the entire action - even if an ability gets repeated.</span>
-
-**Item 244, Question 2** <span class="hidden">**Can this apply to modifications to abilities, or only the base values?**  This can only apply to the base values; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.</span> 
+**Item 244, Question 1** <span class="hidden">**I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?** Just one. This item affects one ability, not the entire action - even if an ability gets repeated. **Can this apply to modifications to abilities, or only the base values?** This can only apply to the base values; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.</span> 
 
 **Item 253** - <span class="hidden">This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
+**Item 259** - <span class="hidden">This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
 
 <script>
