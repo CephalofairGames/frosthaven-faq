@@ -1035,7 +1035,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **Boldening Blow (4, top)** - The "one target" limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
 
-### !(Deathwalker Icon)[/assets/images/04_deathwalker] **8.4 Deathwalker**
+### !(Deathwalker Icon)[/assets/images/04_deathwalker.webp] **8.4 Deathwalker**
+
 **A general update regarding Adjacency** - Placed shadows should be considered adjacent to their own hexes for all purposes, not just for targeting. When you place a new shadow, though, follow normal adjacency rules.  (Note that this rule is on the Deathwalker board in Second Printing)
 
 **General Rule Update** - If scenario rules force you to move character summons onto a newly revealed tile, also move your Shadows in the same way on your initiative. (Note that this rule is on the Deathwalker board in Second Printing)
@@ -1072,6 +1073,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 **Can I choose a path that I know will make it impossible to end in a shadow? Say, into an Immobilize trap?** No. You must perform this action "in good faith" with a path that will end your movement in a shadow.
 
 ### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) **8.5 Boneshaper**
+
 **For my "15 Kills" Mastery, what counts as ‘killing’ one of my summons? And do I really need to do it within one scenario?** You have specific abilities and attack modifiers (example: Exploding Corpse) which kill one of your summons. It has to be done through these. Unsummoning does not count, moving them into traps does not count, etc. Yes, this needs to be completed in one scenario.
 
 **For my "Keep a Summon alive" mastery, can I exhaust mid-scenario?** No; the summon needs to survive the entire scenario.
@@ -1096,6 +1098,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 **Endless Numbers (8 top) - If one of my skeletons moves through the Bone Horde, but would not normally end its move there, can I choose to have it end its move early?** No. The "may end" verbiage on Bone Horde allows a skeleton end its normal movement in the Bone Horde's hex, but is not indicating you may choose end its movement early.
 
 ### ![Geminate Icon](/assets/images/06_geminate.webp) **8.6 Geminate**
+
 **General Note -** Although it can be helpful to think of the Geminate as having two separate hands, they really have only one hand with restrictions on which cards they can play based on their current form. This may help if you’re wondering about losing cards to negate damage, or how rests work out. You still need to bring 7 cards for each form to every scenario.
 
 **Do I swap forms if I play a card with the Swap icon but don’t perform any of the abilities on the card?** No; changing forms is not an ability itself. You must perform at least one ability on the action.
@@ -1122,12 +1125,12 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **If I use an item or effect that lets me take another action at the end of my turn, but I have already played an action that would make me Switch Form, which Form is the new card in?** Form changes happen during the end of turn wrap-up (see section 4.5). You would still play cards from the form you are presently in.
 
-### ![Astral Icon](/assets/images/07_astral.webp) **8.7 “Astral” or “Moon and Star”**
+### ![Astral Icon](/assets/images/07_astral.webp) **8.7 "Astral" or "Moon and Star"**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-<p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met.</p> 
+**Can you explain how Infusions work?** When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met.</p> 
 
 The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion. 
 
@@ -1145,27 +1148,22 @@ If, later, I play Caress of the Night (spending its elements), I can Strengthen 
 
 Note on an Interaction with **Shackles** 
 
-<details>
-<summary><i>(spoilers for that class)</i></summary>
-
-**What happens if I have my Animated Claymore summoned from Imbue with Life (top) and my Shackles ally has Blood Ritual (bot) active?** Because the Claymore has a mandatory persistent effect of "Whenever you do not have Disarm, gain Disarm," you will always have Disarm as long as that card is active. If they attempt to use Blood Ritual to continually take Disarm from you, the game can't resume until they decide to stop, at which point you will gain Disarm again.
+<p><span class="hidden"><b>What happens if I have my Animated Claymore summoned from Imbue with Life (top) and my Shackles ally has Blood Ritual (bot) active?</b> Because the Claymore has a mandatory persistent effect of "Whenever you do not have Disarm, gain Disarm," you will always have Disarm as long as that card is active. If they attempt to use Blood Ritual to continually take Disarm from you, the game can't resume until they decide to stop, at which point you will gain Disarm again.</span></p>
 
 </details>
 
-</details>
-
-###8.8 **Meteor**
+### ![Meteor Icon](/assets/images/08_meteor.webp) 8.8 **"Meteor"**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-**If I place hazardous terrain on the same hex as an enemy, do they take hazardous terrain damage?** Not unless it says it on the card. Hazardous terrain causes damage when entering the hex. 
+**If I place hazardous terrain on the same hex as an enemy, do they take hazardous terrain damage?** Not unless it says so on the card. Hazardous terrain causes damage when a non-flying, non-jumping figure enters the hex. 
 
 **If I create Hazardous Terrain via an item, does it use my tiles and count against my limit?** Yes, all Hazardous Terrain created by you uses your class-specific overlay files and counts towards your limit no matter how it's made. 
 
 **Quenched Rage (top) - What happens if an obstacle would be placed in an illegal hex via this action?** The hazardous terrain is removed but an obstacle is not created. 
 
-**Quenched Rage (top)** - **What's the range on the push? ** It's Range 1
+**Quenched Rage (top)** - **What's the range on the push?** It's Range 1
 
 **Quenched Rage (top) - What does 'through' mean here?** It means the enemy both enters and exits a hex as a result of your push action. If the push starts and/or ends on hazardous terrain, it won't trigger the added effects from this card for those hexes.
 
@@ -1185,26 +1183,27 @@ Note on an Interaction with **Shackles**
 
 </details>
 
-### **8.9 Shards**
+### ![Shards Icon](/assets/images/09_shards.webp) **8.9 "Shards"**
 
 <details>
 <summary><b>Spoilers</b></summary>
 
-**Can I Bless the same character more than once with Shape the Path (3)? **Yes, you can.
+**Can I Bless the same character more than once with Shape the Path (3)?** Yes, you can.
 
-**Can I adjust a Default Move or Default Attack with Empowering Note (5)?  **Yes, you can - they are abilities.
+**Can I adjust a Default Move or Default Attack with Empowering Note (5)?** Yes, you can - they are abilities.
 
 </details>
 
+### ![Trap Icon](/assets/images/10_trap.webp) **8.10 "Trap"**
 
+<details>
+<summary><b>Spoilers</b></summary>
 
-[imageid=7298592 inline]**[size=14]“Trap”**
-[o]
-**If a monster loses Flying while over an Obstacle, do they take damage? **No; they are simply moved to the nearest hex. This is a change from Gloomhaven.
+**If a monster loses Flying while over an Obstacle, do they take damage?** No; they are simply moved to the nearest hex. *This is a change from Gloomhaven 1e.*
 
 **If a monster loses Flying while over a Trap, does the trap trigger?** Yes.
 
-**How do I track what a Trap does?**  Per the rulebook on pg 14, you put damage tokens and any added effects as tokens on the trap. For Healing, use the damage tokens on top of one of your positive traps.
+**How do I track what a Trap does?** Per the rulebook on pg 14, you put damage tokens and any added effects as tokens on the trap. For Healing, use the damage tokens on top of one of your positive traps.
 
 **Can I stand on traps if I have the Careful Footing perk?** Yes. You can choose not to spring any trap you move through or end your turn on. 
 
@@ -1214,18 +1213,22 @@ Note on an Interaction with **Shackles**
 
 **Unavoidable Outcome (2, bot) - Does this trigger on push or pull? Can I quickly discard it if a monster would otherwise trigger a positive trap?** Yes and yes. 
 
-**Can Proficient Hunter's (5) persistent add 2 Damage or Heal 2 to a trap without a Damage or Heal value? How about my "add damage or Heal" AMDs?**  Yes. Damage or Heal can be added to a trap even if there is no damage or heal value, yet.
+**Can Proficient Hunter's (5) persistent add 2 Damage or Heal 2 to a trap without a Damage or Heal value? How about my "add damage or Heal" attack modifier cards?**  Yes. Damage or Heal can be added to a trap even if there is no damage or heal value, yet.
 
 **What is the timing on Persistent Pitfalls (6, bot)? Can I use this mid-push?** "Immediately" does indeed mean "immediately" here and it can be used mid-push. 
 
 **What is the timing on my "Place a Trap" modifier card? Is it before or after forced movement?** Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.
 
-**Can I place a trap from my "Place a Trap" modifier card if the target was killed by the attack's damage?** Yes. As a modifier card, it's part of the attack ability, and can still reference the enemy's position. [i]Note - this overturns a previous ruling.[/i]
-[/o] 
+**Can I place a trap from my "Place a Trap" modifier card if the target was killed by the attack's damage?** Yes. As a modifier card, it's part of the attack ability, and can still reference the enemy's position.
 
-[imageid=7298593 inline][size=14]**“Shackles”**
-[o]
-For convenience, I am repeating, here, questions from #3d2# about damage "suffered" or "would suffer":
+</details>
+
+### ![Shackles Icon](/assets/images/11_shackles.webp) **8.11 "Shackles"**
+
+<details>
+<summary><b>Spoilers</b></summary>
+
+For convenience, I am repeating, here, questions from 4.2 about damage "suffered" or "would suffer":
 **I have an ability that references the damage a monster or I have "suffered." Is this the total damage I dealt?** No. While there's no cap to damage dealt, "damage suffered" is the result of that damage, after all ward, brittle, or negation - and is capped by the figure's remaining HP. This goes for all figures with HP. Damage suffered is basically the equivalent of moving an hp dial.
 
 **I have an ability which refers to the damage an ally "would suffer." Is this likewise capped by the ally's HP?** No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.
@@ -1242,132 +1245,160 @@ For convenience, I am repeating, here, questions from #3d2# about damage "suffer
 
 **Blood Ritual (1, bot) - is the condition still considered caused by the monster who performed the ability?** Yes. This can be relevant for some items. 
 
-**Burned at Both Ends (3) and Chained by Spite (5) - If I'm brittled or warded, how much damage does the enemy take?** The enemy takes as much damage as you actually suffered. So, if you are Brittle and choose 4 with 'Burned', you will suffer 8 and so will your target. 
+**Burned at Both Ends (3) and Chained by Spite (5) - If I'm brittled or warded, how much damage does the enemy take?** The enemy takes as much damage as you actually suffered. So, if you are Brittle and choose to suffer 4 with 'Burned', you will suffer 8 and so will your target. Likewise, if you are Warded and choose to suffer 4 (the maximum), you and the target will both actually suffer 2.
 
 **Reprisal (3), top** is missing a Round Bonus symbol.
 
 **Wracked with Pain (8), top - Can I skip the Wound, here?** Yes. You can just Stun (and potentially Brittle).
-[/o]
 
-[imageid=7298594 inline]**[size=14]“Snowflake”**
-[o]
-**Am I limited on the amount of Hazardous Terrain I can generate?**  No; use any suitable overlay tiles.
+</details>
 
-**Will a Pull or Push 0 trigger Chilling Impact’s (1) effect?  **No. There’s specific wording on Chilling Impact that prevents this. 
+### ![Snowflake Icon](/assets/images/12_snowflake.webp) **8.12 "Snowflake"**
+
+<details>
+<summary><b>Spoilers</b></summary>
+
+**Am I limited on the amount of Hazardous Terrain I can generate?** No; use any suitable overlay tiles.
+
 **If I draw multiple Heal Ally modifier draws, do they combine into one heal, or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.
 
 **What's the range on my Heal Ally modifier cards?** They have unlimited range but, as a Heal, they are targeted and therefore require Line of Sight. 
 
 **My second mastery says, "Ensure the first ally to suffer damage each round, directly before suffering the damage, has at least one condition you applied.” If none of my allies take damage at all this scenario, do I succeed?** Yes, just like you would for a Battle Goal involving Rests if you didn’t Rest at all.
 
-**How does the wind consumption ability on Storm Wall work? Does it include the red hexes?** No. It only damages hexes directly outside the AoE pattern. It is a separate ability, so it is possible to force move enemies outside of the pattern before it procs. 
-[/o]
+**Will a Pull or Push 0 trigger Chilling Impact’s (1) effect?** No. Not only is this forbidden by the card text, but Push 0 and Pull 0 have been ruled as 'not forced movement'. 
 
-[imageid=7298595 inline][size=14]**“Fist”**
-[o]
+**How does the wind consumption ability on Storm Wall (7) work? Does it include the attack's red hexes?** No. It only damages hexes directly *outside* the AoE pattern. It is a separate ability (as denoted by the line), so it is possible to force move enemies outside of the pattern before the damage ability.
+
+</details>
+
+### ![Fist Icon](/assets/images/13_fist.webp) **8.13 "Fist"**
+
+<details>
+<summary><b>Spoilers</b></summary>
+
 **What is the timing on my "Place Icy Terrain" modifier card? Is it before or after forced movement?** Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.
 
-**When I place an Icy Terrain tile ‘adjacent’ to my target, can I place it underneath them?**No; while some class abilities offer exceptions to the rule, a monster’s own hex is not adjacent to the monster.
+**When I place an Icy Terrain tile 'adjacent' to my target, can I place it underneath them?** No; while some class abilities offer exceptions to this rule, a monster’s own hex is not adjacent to the monster for your abilities' targeting.
 
-**Can I place icy terrain from my attack modifier card if the target was killed by the attack's damage?** Yes. An attack modifier card is "part of the attack ability." It will function even if the enemy dies. [i]Note - this overturns a previous ruling.[/i]
+**Can I place icy terrain from my attack modifier card if the target was killed by the attack's damage?** Yes. An attack modifier card is part of the attack ability, not a subsequent ability. It will function even if the enemy dies.
 
-**“Sure Footing” Perk - do you get the +1 Move if you jump over the icy terrain? ** You do not gain the move bonus while jumping, because this perk replaces the normal effect of icy terrain for you. If you are jumping, icy terrain has no effect on you to replace. 
+**"Sure Footing" Perk - do you get the +1 Move if you jump over the icy terrain?** You do not gain the move bonus while jumping, because this perk replaces the normal effect of icy terrain for you. If you are jumping, icy terrain has no effect on you to replace. 
 
-**Frost Eruption (1) - Can I just use this to make Icy Terrain and get my Ice infusion?** No. Any abilities which refer to an attack pattern require that attack ability to have been performed. 
+**Frost Eruption (1) - Can I just use this to make Icy Terrain and get my Ice infusion, without attacking any enemy?** No. Any abilities which refer to an attack pattern require that attack ability to have been performed. 
 
-**With One with the Mountain (1 top) when do you get Regenerate back? **It's immediate. You always have Regenerate while the card is in play. If you lose it, you immediately regain it. 
-[/o]
+**With One with the Mountain (1 top) If I take damage, when I you get Regenerate back?** It's immediate. You always have Regenerate while the card is in play. If you lose it, you immediately regain it, no matter when that occurs.
 
-[imageid=7298597 inline]**[size=14]“Kelp” (or “Seaweed”)**
-[o]
-**General note** - several of your abilities trigger on a "kill." Note that objectives are destroyed, not killed, so will not trigger your on-kill effects.
+</details>
 
-**Does Ink Cloud’s (1) bottom action also affect enemies? Does it affect me?  **As a positive effect targeting all within range, it affects you and all allies in range. It does not make enemies invisible.
+### ![Kelp Icon](/assets/images/14_kelp.webp) **8.14 "Kelp" (or "Seaweed")**
+
+<details>
+<summary><b>Spoilers</b></summary>
+
+**General note** - Several of your abilities trigger on a "kill." Note that objectives are destroyed, not killed, so will not trigger your on-kill effects.
+
+**Does Ink Cloud’s (1) bottom action also affect enemies? Does it affect me?** As a positive effect targeting all within range, it affects you and all your allies in range. It does not make enemies invisible.
 
 **Can I poison multiple enemies in one turn with the persistent of Skull Collection (1)?**  Yes as long as you have enough trophies.
-[/o]
 
-[imageid=7298599 inline]**[size=14]“Coral” (or “Anemone”)**
-[o]
+</details>
+
+
+### ![Coral Icon](/assets/images/15_coral.webp) **8.15 "Coral" (or "Anemone")**
+
+<details>
+<summary><b>Spoilers</b></summary>
+
 **Do I need to discard all my Tides on any rest, or only when I'm forced to rest due to running out of cards?** The board is being a bit poetic and not literal, here - Active Tides are discarded on any of your rests, even if you still have cards in hand. (Cards with Tides on them in your hand and lost piles stay where they are.)
 
-**Does a Tide card that infuses an element generate an element every turn? **No, Infusions only occur when a card is played.
+**Does a Tide card that infuses an element generate an element every turn?** No, Infusions only occur when a card is played.
 
-**Rising Flood (1, bot) - Can I use this as just a Move 3 without a water tile to designate?** Yes; this is do this [i]and[/i] do that, not do this  [i]to[/i] to that.
+**Rising Flood (1, bot) - Can I use this as just a Move 3 without a water tile to designate?** Yes; this action says you do this *and* do that, not do this *to* to that.
 
 **Smashing Torrent (2) - Does the Tide effect trigger when an ally grants me a move ability?** Yes; this happens on a different turn, and it’s still you taking a move ability.
-[/o]
 
-[imageid=7298600 inline]**[size=14]“Prism” (or “Diamond”)**
-[o]
+</details>
+
+### ![Prism Icon](/assets/images/16_prism.webp) **8.16 "Prism" (or "Diamond")**
+
+<details>
+<summary><b>Spoilers</b></summary>
+
 **Do I gain XP from the card I play for my initial Mode?** Yes.
 
 **If I have a Summon flying over an Obstacle, can I transfer to them?** No, unless HIVE is also flying. Transfer uses the Teleport keyword, which specifies you must have a valid destination hex which you can occupy.
 
-**Launch Pod (1) - Does my target need to survive for me to play a Summon?** - No. You can summon even if the target dies. (Note - this is not well-supported with the game's present rules and current card syntax; I expect revised syntax for 2nd printing.)
+**Is my first perk a misprint?** No. It thins your deck by removing both your -2 and a +1.
+
+**If one of my summons draws a "+0, grant one of your summons Move 2" modifier card, what happens?** When cards refer to specific class mechanics, they always benefit the owner of the modifier card. In this case, the HIVE can grant one of their summons a Move 2.
+
+**Launch Pod (1) - Does my target need to survive for me to play a Summon?** - No. You can summon even if the target dies. (Note - this is not well-supported with the game's present rules and current card syntax, but has been ruled this way for thematic reasons.)
 
 **Coiled Limbs - Leaper summon (1) - If the Leaper cannot reach its focus, will it attack another enemy it ends its movement adjacent to?** No. Absent specific rules on an ability card, there's no general provisions for monsters to attack enemies other than their focus.
-**How is the furthest enemy determined?** It is determined first by movement distance and then by range distance. Afterwards, the initiative tiebreaker is as usual, and it will move towards its focus like any other monster with a Jump movement would.
+**How is the furthest enemy determined?** It is determined first by longest movement distance to a valid attack hex, and then by longest range distance. Afterwards, the initiative tiebreaker is as usual. It will move towards its focus like any other monster with a Jump movement would.
 
-**Long Range Missile (2) - NOTE: This card is getting some errata.** Add the following sentence to the end: "If this damage was from an attack that had any additional conditions or effects, you are subject to them instead."  This resolves some potentially weird situations regarding conditions like Poison or Curse, or Pushes/Pulls. If, for example, your Summon has been damaged by an Attack 3 Poison, you would be Poisoned. If your Summon is going to be Pushed, you will be Pushed instead.
+**Long Range Missile (2)** Add the following sentence to the end: "If this damage was from an attack that had any additional conditions or effects, you are subject to them instead."  This resolves some potentially weird situations regarding conditions like Poison or Curse, or Pushes/Pulls. If, for example, your Summon has been damaged by an Attack 3 Poison, you would be Poisoned. If your Summon is going to be Pushed, you will be Pushed instead.
 
-**Long Range Missile (2) - If I use the bottom action here, and Transfer after an attack where a Living Bones has drawn its "attack one enemy" card, will the remaining attacks fail?** Yes.
+**Long Range Missile (2) - If I use the bottom action here, and Transfer after an attack where a Living Bones has drawn its "attack one enemy" card, will the remaining attacks fail?** Yes. The Living Bones's focus is no longer in melee range.
 
 **Long Range Missile (2) - If I have the bottom action prepared, and a Shrike Fiend damages all enemies within X hexes, what happens if I Transfer to my summon after it takes damage?** Targets are chosen sequentially, not all at once. First, when your Summon would take damage, you'll take that damage -1. Then, you will take the damage because you're a valid target. Then, if your previous Mode summon was in the damage radius, it will take damage, as well.
 
 **Mortar Shells (7) - If I grant this summon a melee attack, does it get this AoE pattern?** No. This red hex pattern only works on ranged attacks.
 
-**Swarming Bulwark (8) - how does the Shield Spider choose its target for Ward?** It will choose itself if it does not already have Ward, or if it does, it will choose the closest ally that does not already have Ward.
+**Swarming Bulwark (8) - how does the Shield Spider choose its target for Ward?** It will choose itself if it does not already have Ward; or if it does, it will choose the closest ally that does not already have Ward. The HIVE player resolves ties.
 
-**Is my first perk a misprint?** No. It thins your deck by removing both your -2 and a +1.
+</details>
 
-**If one of my summons draws a "+0, grant one of your summons Move 2" modifier card, what happens?** When cards refer to specific class mechanics, they always benefit the owner of the modifier card. In this case, the HIVE can grant one of their summons a Move 2.
-[/o]
+### ![Drill Icon](/assets/images/17_drill.webp) **8.17 "Drill"**
 
-[imageid=7298603 inline]**[size=14]“Drill”**
-[o]
-**General Note -** Pressure changes are not standalone abilities. They are mandatory if you perform any part of the action or ability they are attached to. They are not "costs" - you can perform any ability your current pressure allows, even if you can't execute the pressure change afterwards. (For example, if you are at Low Pressure, you can still use actions which would make you lose pressure.) 
+<details>
+<summary><b>Spoilers</b></summary>
 
-**For the three-mark perk, does “losing all your cards” include any that you were about to play? **Yes.
+**General Note on Pressure Changes** - Pressure changes are not standalone abilities. They are mandatory if you perform any part of the action or ability they are attached to. They are not "costs" - you can perform any ability your current pressure allows, even if you can't execute the pressure change afterwards. (For example, if you are at Low Pressure, you can still use actions which would make you lose pressure.) 
 
-**When do my pressure changes happen? ** Per the board text, when each Action (that is, one card half) fully resolves. 
+**For the three-mark perk, does “losing all your cards” include any that you were about to play?** Yes.
 
-**Can I use the top of Curious Gear (1) to destroy a trap even if there's no enemy to spring it on? **No. It needs to be applied to an enemy.
+**When do my pressure changes happen?** Per the board text, when each Action (that is, one card half) fully resolves. 
 
-**Beam Axe (1, bot) - When do these pressure effects trigger?** The over-pressure effect doesn't need any adjacent enemies because it is not targeted. If you are over-pressure you will always gain xp and lose pressure. The Low Pressure heal is targeted, so the pressure change and XP will only trigger if you have an ally in range to heal.
+**Can I use the top of Curious Gear (1) to destroy a trap even if there's no enemy to spring it on?** No. It needs to be applied to an enemy.
+
+**Beam Axe (1, bot) - When do these pressure effects trigger?** The over-pressure effect doesn't need any adjacent enemies because damage is not targeted. If you are over-pressure, you will always gain xp and lose pressure. The Low Pressure heal is targeted, so the pressure change and XP will only trigger if you have an ally in range to heal.
 
 **Steel Piston (1, top)** - When you use the attack bonus, this pressure change happens along with any other pressure changes at the end of the action you're performing. The timing is ambiguous, so this can be before or after the rest of the pressure changes.
 
 **In Bronze Plating (2 top), what effects are persistent?** The shield and inability to move are both persistent. Shields always last as long as a card is active, and the mandatory box is phrased as an ongoing effect. The pressure check, xp, regenerate, and pressure change are a one-time effect and resolved when the card is played.
 
 **Unstable Core (9, bot) - Is there anything stopping me from discarding the card before taking this damage?** No, there isn't. It does synergize well with Radiation, though, of course.
-[/o]
 
-[color=#006eff]**## #11# Items**
+</details>
+
+## **9.0 Items**
+
 **Can potions be sold or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
 
 **What happens if I gain an item I can't gain? Say, because all copies of it are owned by other party members?** The rule about duplicate item sales has been expanded to cover this situation. Instead of "When a character gains another copy of an item they already own, they must sell it immediately" it's expanded to, "When a character gains an item they cannot gain (for any reason), they must sell it immediately."
 
-**I have an item that allows me to gain a Resource during a scenario. Do I get to keep this even if we lose the scenario? **Only if you return to Frosthaven. If you retry the scenario, they are lost like other Resources.
+**I have an item that allows me to gain a Resource during a scenario. Do I get to keep this even if we lose the scenario?** Only if you return to Frosthaven. If you retry the scenario, they are lost like other Resources.
 
-**I have an item (such as a Crude Helm) that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied [i]before[/i] the modifier is selected. [i]This is a change from a Gloomhaven FAQ ruling.[/i]
+**I have an item (such as a Crude Helm) that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied *before* the modifier is chosen. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
-**Can I use an item in the middle of my move or attack ability? **Only if it is not itself an ability. If an item allows you to perform another ability (like healing, damaging, destroying an obstacle, etc), you need to finish your ability first. See below for a more detailed answer. Note that this is change from the GH FAQ.
+**Can I use an item in the middle of my move or attack ability?** Only if it is not itself an ability, and it says something like "during your move ability." If an item allows you to perform another ability (like healing, damaging, destroying an obstacle, etc.), you need to finish your ability first. See below for a more detailed answer. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
-**When is item usage an ability?** The following are Abilities as defined in the Frosthaven rulebook - Move, Teleport, Attack, Conditions (positive or negative), Heal, Forced Movement, Loot, Suffer Damage (self, allies, or enemies), Recover (cards or items), Commanding Figures, Manipulating Tiles, and Active Bonuses. Active Bonuses take some interpretation for items because there's not always a Round or Persistent icon, but this was primarily for graphic design reasons - making it less clear, which is why this is complicated. If an Item gives a turn-long, round-long, or persistent bonus such as "add Jump to all your move abilities", it is itself an ability. If it says something more along the lines of "during your attack" or "during your move" or "on the next attacks targeting you" it's not an active bonus with any kind of duration, and therefore not an ability. This distinction is important because you generally can't interrupt your ability with another ability.
+**When is item usage an ability?** The following are Abilities as defined in the Frosthaven rulebook - Move, Teleport, Attack, Conditions (positive or negative), Heal, Forced Movement, Loot, Suffer Damage (self, allies, or enemies), Recover (cards or items), Commanding Figures, Manipulating Tiles, and Active Bonuses. Active Bonuses take some interpretation for items because there's not always a Round or Persistent icon, but this was largely for graphic design reasons - making it less clear, which is why this is complicated. If an Item gives a turn-long, round-long, or persistent bonus such as "add Jump to all your move abilities", it is itself an ability. If it says something more along the lines of "during your attack" or "during your move" or "on the next attacks targeting you" it's not an active bonus with any kind of duration, and therefore not an ability. This distinction is important because you generally can't interrupt your ability with another ability.
 
 Basically, if an item only makes sense if used within another ability or in reaction to one, that's how it's supposed to work and it's not an ability. If it makes sense used independently, it probably is an ability.
 
 **Item 004 Crude Hide Armor - Will this armor influence monster behavior? For example, if an adjacent monster makes a ranged attack against me, will it stay adjacent instead of moving away?** No. The Armor gives the attack disadvantage after the attack is initiated, so it is not considered for monster behavior at all. The same logic holds when it is selecting targets on a multi-target attack.
 
-**Item 005 Crude Boots - Can I use these to improve a Move ability I grant to my summon or another ally? **No. Granted abilities are performed by the ally you grant them to. This holds for all similar items.
+**Item 005 Crude Boots - Can I use these to improve a Move ability I grant to my summon or another ally?** No. Granted abilities are performed by the ally you grant them to. This holds for all similar items.
 
 **Item 006 Flexible Slippers - Can I use these to "loot" an adjacent hex without loot tokens or treasure instead of my own hex that does?** Yes.
 **If I still have Flexible Slippers available when I take a Long Rest, can I use them and immediately recover them like, say, an Amulet of Health?** No. End-of-turn looting happens after refreshing items.
 
 **If I am Impaired or Stunned, will the condition expire before end-of-turn looting?** As long as you were impaired or stunned before your turn, it expires at ambiguous timing with end-of-turn looting. So, you can choose for the condition to expire first. 
 
-**Item 013 ** - [o]**Dancing Slippers - How does this interact with Retaliate and conditions from the attack?** This move happens before Retaliate, but after any added conditions or forced movement from the attack. So, for example, if an attack would Immobilize you, you would not be able to use these in response.[/o]
+**Item 013** - <span class="hidden"><b>Dancing Slippers - How does this interact with Retaliate and conditions from the attack?</b> This move happens before Retaliate, but after any added conditions or forced movement from the attack. So, for example, if an attack would Immobilize you, you would not be able to use these in response.</span>
 
 **Item 026** - [o]**Truesight Lenses  - Do I need to use these before drawing a modifier?** Yes. These must be used before drawing a card.
 **What happens if I draw a negative modifier with added effects, like "-1 Add Time Token?"** The extra effects are kept but the attack modifier value changes from -1 to +0. In this example, it changes to a +0 Add Time Token.[/o]
