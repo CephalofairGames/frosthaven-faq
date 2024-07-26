@@ -1132,21 +1132,21 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 <br>
 <p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met.</p> 
 
-The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion.<p>
+<p>The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion.</p>
 
-As an example, I want to play Boon of the Tempest. I consume Wind and any other element to play it. While it's in my active area, I will add +1 move and Jump to all my move abilities for the rest of the scenario. I can also Attack 3 now, because I just played this Infusion.<p>
+<p>As an example, I want to play Boon of the Tempest. I consume Wind and any other element to play it. While it's in my active area, I will add +1 move and Jump to all my move abilities for the rest of the scenario. I can also Attack 3 now, because I just played this Infusion.</p>
 
-If, later, I play Caress of the Night (spending its elements), I can Strengthen myself (from Caress's on-infusion trigger) and Attack 3 (from Tailwind's on-infusion trigger), and that attack will have Wound and Muddle (from Caress's persistent bonus). The order of the trigger abilities is ambiguous, so you can pick any order that suits you.<p>
+<p>If, later, I play Caress of the Night (spending its elements), I can Strengthen myself (from Caress's on-infusion trigger) and Attack 3 (from Tailwind's on-infusion trigger), and that attack will have Wound and Muddle (from Caress's persistent bonus). The order of the trigger abilities is ambiguous, so you can pick any order that suits you.</p>
 
-**If I pay the element cost on an active Infusion on a later turn, can I use its activated ability again?** No. The elements are consumed when playing the action the first time only. 
+<p><b>If I pay the element cost on an active Infusion on a later turn, can I use its activated ability again?</b> No. The elements are consumed when playing the action the first time only.</p>
 
-**If I have both Propulsive Tailwind (6) and Boon of the Tempest (1) active, can I resolve the Push/Immobilize between the Attack (from the infusion trigger) and Move (from the Infusion persistent)?  Or must the Move immediately follow the Attack?**  Because the push is a separate ability, the move has to be performed first.
+<p><b>If I have both Propulsive Tailwind (6) and Boon of the Tempest (1) active, can I resolve the Push/Immobilize between the Attack (from the infusion trigger) and Move (from the Infusion persistent)?  Or must the Move immediately follow the Attack?</b>  Because the push is a separate ability, the move has to be performed first.</p>
 
-**If my Summon is gaining the benefit from Propulsive Tailwind, who controls the extra movement from the Infusion?** Your summon will use its Monster AI like normal.
+<p><b>If my Summon is gaining the benefit from Propulsive Tailwind, who controls the extra movement from the Infusion?</b> Your summon will use its Monster AI like normal.</p>
 
-**The Animated Claymore from Imbue with Life (X) says it is affected by all your active Infusions. Does this mean it gets the Infusion Triggers too?**  No; compare to the Spiritbound Falchion from Untether the Shackles (8).
+<p><b>The Animated Claymore from Imbue with Life (X) says it is affected by all your active Infusions. Does this mean it gets the Infusion Triggers too?</b>  No; compare to the Spiritbound Falchion from Untether the Shackles (8).</p>
 
-Note on an Interaction with **Shackles** 
+<p>Note on an Interaction with <b>Shackles</b>
 
 <p><span class="hidden"><b>What happens if I have my Animated Claymore summoned from Imbue with Life (top) and my Shackles ally has Blood Ritual (bot) active?</b> Because the Claymore has a mandatory persistent effect of "Whenever you do not have Disarm, gain Disarm," you will always have Disarm as long as that card is active. If they attempt to use Blood Ritual to continually take Disarm from you, the game can't resume until they decide to stop, at which point you will gain Disarm again.</span></p>
 
@@ -1158,7 +1158,7 @@ Note on an Interaction with **Shackles**
 <details>
 <summary><b>Spoilers</b></summary>
 
-**If I place hazardous terrain on the same hex as an enemy, do they take hazardous terrain damage?** Not unless it says so on the card. Hazardous terrain causes damage when a non-flying, non-jumping figure enters the hex. 
+<p><b>If I place hazardous terrain on the same hex as an enemy, do they take hazardous terrain damage?</b> Not unless it says so on the card. Hazardous terrain causes damage when a non-flying, non-jumping figure enters the hex.</p>
 
 **If I create Hazardous Terrain via an item, does it use my tiles and count against my limit?** Yes, all Hazardous Terrain created by you uses your class-specific overlay files and counts towards your limit no matter how it's made. 
 
