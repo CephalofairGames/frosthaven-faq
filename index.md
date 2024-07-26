@@ -1129,7 +1129,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 <details>
 <summary><b>Spoilers</b></summary>
-<br>
+
 <p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met.</p> 
 
 <p>The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion.</p>
