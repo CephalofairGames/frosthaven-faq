@@ -685,7 +685,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 <p>Boss Special Rules: The intent for 'everlasting' elements is that they become Strong at the start of every figure's turn. Even with this special, a single element cannot be consumed twice in a single turn.</p>
 <p>Conclusion - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks. First Printing Only - Add Item 224 to Scenario Rewards</span></p>
 </details>
-
+<br>
 **Scenario 62** - <span class="hidden">This scenario uses "a" tokens for both Crain's present location and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself. Damage tokens are used as time trackers here; there is no way for players to add damage to Crain's goals.</span>
 
 **Scenario 65 - Section 89.1** - <span class="hidden">The Named Ice Wraith starts on "elite" stats, and switches forms like other ice wraiths. Just use normal white and yellow (or white and red) bases for it, but it's still considered a named monster.</span>
@@ -700,7 +700,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **Scenario 81** - <span class="hidden">Aesther Ashblades cannot teleport to a room unless all doors between their current room and their destination room have been opened.</span>
 
-**Scenario 82** - If you have questions on how some aspects of this scenario operate, please reference <a href="https://boardgamegeek.com/thread/3070490/scenario-82-corridors-when-they-are-not-there-spoi>this thread</a>
+**Scenario 82** - If you have questions on how some aspects of this scenario operate, please reference [this thread](https://boardgamegeek.com/thread/3070490/)
 
 **Scenario 83** - <span class="hidden">The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.</span>
 
@@ -732,8 +732,6 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **Scenario 134** - <span class="hidden">A jump or ranged attack between the "balconies" requires counting the distance. You can use extra corridor hexes to measure.</span>
 
-</details>
-
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_72" class="page-number">7.2</a> Solo Scenario Questions
@@ -744,49 +742,18 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **Can I level up, craft, purchase items, or purchase enhancements after my solo scenario is complete?** These activities need to wait until the next campaign Downtime phase, whenever that happens over the normal course of play. Solo scenarios take place outside of the normal Scenario/Outpost flow, and those activities are limited to Downtime.
 
-<details>
-<summary><b>Building 42 Mechanic and Solo Scenarios</b></summary>
+**Building 42 Mechanic and Solo Scenarios** <span class="hidden"><b>Can I buy Blessings before a solo scenario?</b> No.</span>
 
-<b>Can I buy Blessings before a solo scenario?</b> No.
+**Building 74 Mechanic and Solo Scenarios** <span class="hidden"><b>Should I include the special coin cards in a solo scenario loot deck?</b> Yes.</span>
 
-</details>
-<br>
-<details>
-<summary><b>Building 74 Mechanic and Solo Scenarios</b></summary>
+**Building 81 Mechanic and Solo Scenarios** <span class="hidden"><b>Does my Trial affect this scenario? Can I use any of the rewards from completing them?</b> No and no.</span>
 
-<b>Should I include the special coin cards in a solo scenario loot deck?</b> Yes.
+**Building 88 Mechanic and Solo Scenarios** <span class="hidden"><b>Can I bring a Pet to a solo scenario?</b> No.</span>
 
-</details>
-<br>
-<details>
-<summary><b>Building 81 Mechanic and Solo Scenarios</b></summary>
+**Building 90 Mechanic and Solo Scenarios** <span class="hidden"><b>Do I draw Challenges on a solo scenario?</b> No.</span>
 
-<b>Does my Trial affect this scenario? Can I use any of the rewards from completing them?</b> No.
+**Trap Solo Scenario** <span class="hidden">The special range rule does not affect the Snowspeaker's inherent retaliate.</span>
 
-</details>
-<br>
-<details>
-<summary><b>Building 88 Mechanic and Solo Scenarios</b></summary>
-
-<b>Can I bring a Pet to a solo scenario?</b> No.
-<b>Can I capture a Pet in a solo scenario?</b> Yes.
-
-</details>
-<br>
-<details>
-<summary><b>Building 90 Mechanic and Solo Scenarios</b></summary>
-
-<b>Do I draw Challenges on a solo scenario?</b> No.
-
-</details>
-<br>
-<details>
-<summary><b>Trap Solo Scenario</b></summary>
-
-The special range rule does not affect the Snowspeaker's inherent retaliate.
-
-</details>
-<br>
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_8" class="page-number">8.0</a> Characters
