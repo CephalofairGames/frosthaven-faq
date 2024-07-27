@@ -4,9 +4,9 @@
 
 *Last Updated 7/26/2024*
 
-1.  <p><a name="page_1" class="page-number">First Printing Production Errors and Typos</a></p>
-   1. <p><a name="page_11" class="page-number">Second Printing Changes</a></p>
-1. <p><a name="page_2" class="page-number">Component and Setup Questions</a></p>
+1. <a href="#page_1">First Printing Production Errors and Typos</a>
+   1. Second Printing Changes
+1. Component and Setup Questions
 1. General Gameplay Questions (Outside Scenarios)
    1. Masteries
    1. Personal Quests
@@ -66,7 +66,7 @@ I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, a
 
 ![divider](/assets/images/divider.png)
 
-##  <a name="page_1" class="page-number">1.0 First Printing Production Errors and Typos</a>
+##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos
 
 - Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
 - Envelope 24 should list sticker 10
@@ -122,7 +122,7 @@ I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, a
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_11" class="page-number">1.1 Second Printing Changes</a>
+### 1.1 Second Printing Changes
 
 In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
 
@@ -132,7 +132,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_2" class="page-number">2.0 Component and First Time Setup Questions</a>
+## 2.0 Component and First Time Setup Questions
 
 **General -** As a legacy game, the general rule is that if you don’t see something referenced in the rules, it probably relates to unlockable content. Check this FAQ if you are unsure.
 
