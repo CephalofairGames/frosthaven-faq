@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 7/27/2024 v0.931*
+*Last Updated 7/27/2024 v0.942*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -16,7 +16,7 @@
 1. <a href="#page_4">General Gameplay Questions (Scenarios)</a>
    1. <a href="#page_41">Rooms, Movement, Forced Movement, and Overlays</a>
    1. <a href="#page_42">Damage, Shield, Ward, and Brittle</a>
-   1. <a href="#page_43">AMD Draws, Advantage, and Disadvantage</a>
+   1. <a href="#page_43">Attack Modifier Draws, Advantage, and Disadvantage</a>
    1. <a href="#page_44">Negative Conditions</a>
    1. <a href="#page_45">General Player Ability Questions and Clarifications</a>
    1. <a href="#page_46">Loot Deck Questions</a>
@@ -299,7 +299,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_43" class="page-number">4.3</a> AMD Draws, Advantage, and Disadvantage
+### <a name="page_43" class="page-number">4.3</a> Attack Modifier Draws, Advantage, and Disadvantage
 
 **What is the order of operations if I draw a x2 or Null on a draw with rolling modifiers?** If a Null (x0) is included in the final attack modifier draws, no matter where, the final damage will always be 0. If you draw a x2, it can be inserted at any time during attack modification including at the very end. (For example, if I have an Attack 3, draw a rolling +1, and finally a x2, I can decide if my final damage is 7 (3x2) + 1 or 8 (3+1) x2.)
 
