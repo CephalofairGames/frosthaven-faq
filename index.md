@@ -50,7 +50,8 @@
    1. <a href="#page_815">"Coral"</a>
    1. <a href="#page_816">"Prism"</a>
    1. <a href="#page_817">"Drill"</a>
-1. <a href="#page_9">Items
+1. <a href="#page_9">Items (General)</a>
+   1. <a href="#page_91">Items (Specific)</a>
 
 ![divider](/assets/images/divider.png)
 
@@ -1221,7 +1222,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_9" class="page-number">9.0</a> Items
+## <a name="page_9" class="page-number">9.0</a> Items (General)
 
 **Can potions be sold or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
 
@@ -1236,6 +1237,12 @@ Level 3 should have a building prerequisite of already owning the first three An
 **When is item usage an ability?** The following are Abilities as defined in the Frosthaven rulebook - Move, Teleport, Attack, Conditions (positive or negative), Heal, Forced Movement, Loot, Suffer Damage (self, allies, or enemies), Recover (cards or items), Commanding Figures, Manipulating Tiles, and Active Bonuses. Active Bonuses take some interpretation for items because there's not always a Round or Persistent icon, but this was largely for graphic design reasons - making it less clear, which is why this is complicated. If an Item gives a turn-long, round-long, or persistent bonus such as "add Jump to all your move abilities", it is itself an ability. If it says something more along the lines of "during your attack" or "during your move" or "on the next attacks targeting you" it's not an active bonus with any kind of duration, and therefore not an ability. This distinction is important because you generally can't interrupt your ability with another ability.
 
 Basically, if an item only makes sense if used within another ability or in reaction to one, that's how it's supposed to work and it's not an ability. If it makes sense used independently, it probably is an ability.
+
+![divider-narrow](/assets/images/divider2.png)
+
+### <a name="page_91" class="page-number">9.1</a> Items (Specific)
+
+Items are listed by their item number.
 
 **Item 004 Crude Hide Armor - Will this armor influence monster behavior? For example, if an adjacent monster makes a ranged attack against me, will it stay adjacent instead of moving away?** No. The Armor gives the attack disadvantage after the attack is initiated, so it is not considered for monster behavior at all. The same logic holds when it is selecting targets on a multi-target attack.
 
@@ -1265,11 +1272,11 @@ Basically, if an item only makes sense if used within another ability or in reac
 This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.</span>
 
 <details>
-<summary><b>Item 098</b></summary>
+<summary><b>Item 098 Spoilers</b></summary>
 
 <p><b>Unhealthy Mixture - If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?</b> For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not 'remember' which specific ingredients your original potion was made from, the alchemy board does.</p>
 <p><b>This item has no cost in the card. Can I just take it whenever I want for free?</b> No. Potion costs are set by the alchemy board, not the item card.</p>
-<p><b>I don't get it, this item is terrible.</b> This can be used for crafting and a few other uses. It can also be distilled to 'transform' herbs as described above.</p>
+<p><b>I don't get it, this item is terrible.</b> This can be used for crafting certain items, and has a few other uses. It can also be distilled to 'transform' herbs as described above.</p>
 
 </details>
 <br>
@@ -1301,7 +1308,7 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 242** - <span class="hidden">**Lucky Dice** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
 
 <details>
-<summary><b>Item 244</b></summary>
+<summary><b>Item 244 Spoilers</b></summary>
 
 <p><b>Ember Energy Source - I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?</b> Just one. This item affects one ability, not the entire action - even if an ability gets repeated.</p>
 <p><b>Can this apply to modifications to abilities, or only the base values?</b> This can only apply to the base values of an ability; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.</p>
