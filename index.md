@@ -54,11 +54,13 @@
 
 ## 0.0 Introduction
 
-This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries.
+This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible, I will also post changelogs with explanations in that thread.
+
+Why github and not BoardGameGeek? Primarily, because github can be edited by multiple Cephalofair accounts, not just my personal forum account. Github allows for direct linking to sections, richer formatting, and easy version tracking. You can create [issues](https://github.com/CephalofairGames/frosthaven-faq/issues) for potential FAQ questions, and access it easily on more kinds of devices. It has worked excellently for the [Buttons & Bugs Living Rules](https://cephalofairgames.github.io/bnb-rules/), and it seemed sensible to put Official FAQs here, as well.
 
 ### 0.1 Spoilers
 
-I follow official Spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class icon, envelope/building number, scenario number, or item number. Note that starting buildings, higher-level cards for starters, scenarios 0-1, Personal Quests 01-10, and actions/statistics for common monsters are not spoilers, and will not be treated as such.
+I follow official Spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class icon, envelope/building number, scenario number, or item number. Note that starting buildings, higher-level cards for starters, scenarios 0-1, Personal Quests 01-10, and abilities/statistics for common monsters are not spoilers, and will not be treated as such.
 
 ### 0.2 About Me
 
@@ -308,9 +310,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item like Crude Shield, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to the remaining attack modifier deck. Once in an attack modifier deck, the Curse is no longer considered a negative condition.
 
-### <a name="page_45" class="page-number">4.5</a> General Player Ability Questions and Clarifications
-
 ![divider-narrow](/assets/images/divider2.png)
+
+### <a name="page_45" class="page-number">4.5</a> General Player Ability Questions and Clarifications
 
 **If I have an Ability with a “Target All” can I choose to exclude some targets?** If there isn’t a Mandatory box, and it's not a negative effect on you or your allies, you can choose to exclude targets from a Target All effect.
 
@@ -459,7 +461,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If I spend the Morale cost for an extra build/upgrade, can I upgrade the same building twice?** Yes; just make sure you meet all Prosperity requirements and then upgrade it once, and then a second time to trigger any mandatory one-time effects.
 
-**I covered up the build costs for a building on the map. How much did it cost to build? ** 
+**I covered up the build costs for a building on the map. How much did it cost to build?** 
 - Mining Camp - 4 wood, 2 metal, 1 hide, 10 gold 
 - Hunting Lodge - 4 wood, 1 metal, 2 hide, 10 gold
 - Logging Camp - 2 wood, 3 metal, 2 hide, 10 gold
@@ -492,11 +494,11 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 Level 3 should have a building prerequisite of already owning the first three Ancient Coins. It cannot be upgraded to this stage until that prerequisite is met.</span>
 
-**Building 81** - See section 5.3 for all questions related to this building.
+**Building 81** - See section <a href="#page_53">5.3</a> for all questions related to this building.
 
-**Building 88** <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
+**Building 88** - <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
 
-**Building 90** <span class="hidden">See #3e# for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
+**Building 90** - <span class="hidden">See #3e# for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
 </span>
 
 ![divider-narrow](/assets/images/divider2.png)
@@ -559,7 +561,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 **How does the elemental consumption on Thawed Strike work?** This card was written before the FH elemental consumption rules were finalized. If any Corpse performs any ability, they will consume Fire. Any Corpse performing a Move ability (keeping in mind this has to be 1 or more hexes) during their turn will take 2 damage. 
 
 ### Ice Wraith
-**If an Ice Wraith is Stunned during a turn when it would switch forms, does it switch forms? ** No, a stunned ice wraith will not switch forms.
+**If an Ice Wraith is Stunned during a turn when it would switch forms, does it switch forms?** No, a stunned ice wraith will not switch forms.
 
 **What's the timing for changing forms? Do Ice Wraiths all change at once, or one at a time?** One at a time. Each will activate and change on their own turn.
 
@@ -573,10 +575,10 @@ Level 3 should have a building prerequisite of already owning the first three An
 **Can Lightning Eels be force moved out of water?** No. Non-water hexes are obstacles to Lightning Eels. 
 
 ### Living Doom
-**Is it possible for Call for Souls to summon zero Living Spirits? ** Yes. 
+**Is it possible for Call for Souls to summon zero Living Spirits?** Yes. 
 
 ### Lurker Soldier
-**How does Berserk Rage work? ** The Soldier can target its normal amount of enemies (note the lack of 'all' here), but can target enemies within 2 hexes for this attack. These remain melee attacks. 
+**How does Berserk Rage work?** The Soldier can target its normal amount of enemies (note the lack of 'all' here), but can target enemies within 2 hexes for this attack. These remain melee attacks. 
 
 ### Lurker Mindsnipper
 **How does Turn the Weak work? **First, the Mindsnipper finds focus, moves, and attacks as a multi-target enemy will. Then, it makes weak attacks against its targets. Note, if it has innate Muddle, it will muddle the targets at this point. After those attacks resolve, any enemy that it targeted will be forced to attack an adjacent ally using standard focus rules. The enemy will draw from its own modifier deck for this attack. Because this is specifically an Attack 3, this will always be a melee attack, even if this targets one of your Summons with an inherent range.
@@ -872,7 +874,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) <a name="page_85" class="page-number">8.5 Boneshaper</a>
+### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) <a name="page_85" class="page-number">8.5</a> Boneshaper
 
 **For my "15 Kills" Mastery, what counts as ‘killing’ one of my summons? And do I really need to do it within one scenario?** You have specific abilities and attack modifiers (example: Exploding Corpse) which kill one of your summons. It has to be done through these. Unsummoning does not count, moving them into traps does not count, etc. Yes, this needs to be completed in one scenario.
 
@@ -1268,6 +1270,8 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 119** - <span class="hidden">Can I distill the Deadly Mixture? What happens?  No, it is forbidden per the Level 3 Alchemist rules.</span>
 
 **Item 124 Winged Shoes - Can I use this in the middle of a move if I suddenly need or want to jump?** No; using Winged Shoes is an ability, and therefore can't be performed in the middle of another ability. Please see the general item rules, above.
+
+**Item 180** - <span class="hidden"><b>Boots of Greed - do Loot abilities I grant to my Summons count for this item?</b> Yes. Your summons' loot abilities are considered your loot abilities for all purposes.</span>
 
 **Item 188** - <span class="hidden">The Water hex this item can create is considered Difficult Terrain.</span>
 
