@@ -622,7 +622,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 The door is placed incorrectly after opening the final section. Don’t move the door.
 
 </details>
-
+<br>
 <details>
 <summary><b>Scenario 4</b></summary>
 
@@ -633,42 +633,42 @@ The door is placed incorrectly after opening the final section. Don’t move the
 <p><strong>Conclusion</strong> - <span class="hidden">Like all other scenarios, you <strong>cannot</strong> replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.</span></p>
 
 </details>
-
+<br>
 <details>
 <summary><b>Scenario 7 (conclusion)</b></summary>
 
 The campaign sticker is labeled "Coral Crown" on the 1st Printing sticker sheet
 
 </details>
-
+<br>
 <details>
 <summary><b>Scenario 9</b></summary>
 
 The switches are the wall hexes. They are targetable in melee by standing in the adjacent hex, or ranged by targeting that wall hex.
 
 </details>
-
+<br>
 <details>
 <summary><b>Scenario 10 Section 65.3</b></summary>
 
 Deathwalker shadows will move to the new room with you. See the Deathwalker section of the FAQ for details.
 
 </details>
-
+<br>
 <details>
 <summary><b>Scenario 11</b></summary>
 
 <strong>Does Boss Special 2 affect invisible characters</strong>? Yes
 
 </details>
-
+<br>
 <details>
 <summary><b>Scenario 13</b></summary>
 
 The monsters will not target the scenario as a secondary target for multi-target attacks. Remember that direct damage abilities are not attacks, and so will never go to the scenario.
 
 </details>
-
+<br>
 <details>
 <summary><b>Scenario 15</b></summary>
 
@@ -677,14 +677,14 @@ Note - The special rules have a small error. The first sentence in paragraph 3 s
 The special targeting rules are easier to understand if you picture it as the chaos demon on some scaffolding above the ground floor where the characters enter.
 
 </details>
-
+<br>
 <details>
 <summary><b>Scenario 16 - Section 27.2</b></summary>
 
 If player-created overlays are in any "a" hex, the new rubble will replace them. This applies to any future player-created overlays for this scenario, as well.
 
 </details>
-
+<br>
 <details>
 <summary><b>Scenario 17 - Section 25.3</b></summary>
 
@@ -995,21 +995,21 @@ A jump or ranged attack between the "balconies" requires counting the distance. 
 <b>Can I buy Blessings before a solo scenario?</b> No.
 
 </details>
-
+<br>
 <details>
 <summary><b>Building 74 Mechanic and Solo Scenarios</b></summary>
 
 <b>Should I include the special coin cards in a solo scenario loot deck?</b> Yes.
 
 </details>
-
+<br>
 <details>
 <summary><b>Building 81 Mechanic and Solo Scenarios</b></summary>
 
 <b>Does my Trial affect this scenario? Can I use any of the rewards from completing them?</b> No.
 
 </details>
-
+<br>
 <details>
 <summary><b>Building 88 Mechanic and Solo Scenarios</b></summary>
 
@@ -1017,21 +1017,21 @@ A jump or ranged attack between the "balconies" requires counting the distance. 
 <b>Can I capture a Pet in a solo scenario?</b> Yes.
 
 </details>
-
+<br>
 <details>
 <summary><b>Building 90 Mechanic and Solo Scenarios</b></summary>
 
 <b>Do I draw Challenges on a solo scenario?</b> No.
 
 </details>
-
+<br>
 <details>
 <summary><b>Trap Solo Scenario</b></summary>
 
 The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
-
+<br>
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_8" class="page-number">8.0</a> Characters
