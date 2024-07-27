@@ -4,7 +4,7 @@
 
 *Last Updated 7/26/2024*
 
-*For introductions, how to use this FAQ, and helpful links, see <a href="#page_0">Section 0</a>
+**For introductions, how to use this FAQ, and helpful links, see <a href="#page_0">Section 0</a>**
 
 1. <a href="#page_1">First Printing Production Errors and Typos</a>
    1. <a href="#page_11">Second Printing Non-Errata Changes</a>
@@ -1294,7 +1294,7 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 **Item 219** - <span class="hidden">**Tome of Conflict** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
 
-**Item 225** - **1st Printing Errata** <span class="hidden">This is a one-handed item not a chest slot.</span>
+**Item 225, 1st Printing Errata** <span class="hidden">This is a one-handed item, not a chest slot.</span>
 
 **Item 226** - <span class="hidden">**Unfettered Arm** The "numeric value" referred to here is only the actual attack modification value, such as the "+1", and not to anything else, like shield values.</span>
 
