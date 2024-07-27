@@ -5,7 +5,7 @@
 *Last Updated 7/26/2024*
 
 1. <a href="#page_1">First Printing Production Errors and Typos</a>
-   1. Second Printing Changes
+   1. <a href="#page_11">Second Printing Changes</a>
 1. Component and Setup Questions
 1. General Gameplay Questions (Outside Scenarios)
    1. Masteries
@@ -122,7 +122,7 @@ I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, a
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 1.1 Second Printing Changes
+### <a name="page_11" class="page-number">1.1</a> Second Printing Changes
 
 In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
 
