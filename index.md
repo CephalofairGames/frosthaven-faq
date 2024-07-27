@@ -1248,8 +1248,8 @@ Items are listed by their item number.
 
 **Item 005 Crude Boots - Can I use these to improve a Move ability I grant to my summon or another ally?** No. Granted abilities are performed by the ally you grant them to. This holds for all similar items.
 
-**Item 006 Flexible Slippers - Can I use these to "loot" an adjacent hex without loot tokens or treasure instead of my own hex that does?** Yes.
-**If I still have Flexible Slippers available when I take a Long Rest, can I use them and immediately recover them like, say, an Amulet of Health?** No. End-of-turn looting happens after refreshing items.
+**Item 006 Flexible Slippers - Can I use these to "loot" an adjacent hex without loot tokens or treasure instead of my own hex that does?** Yes; Loot isn't a targeted ability, and end-of-turn looting isn't an ability at all.
+**If I still have Flexible Slippers available when I take a Long Rest, can I use them and immediately recover them to have them available after my rest?** No. End-of-turn looting happens after refreshing items.
 
 **If I am Impaired or Stunned, will the condition expire before end-of-turn looting?** As long as you were impaired or stunned before your turn, it expires at ambiguous timing with end-of-turn looting. So, you can choose for the condition to expire first. 
 
@@ -1287,7 +1287,7 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 **Item 113** - <span class="hidden">**Expertise Potion** - If the card chosen has one Lost action and one non-loss persistent, the persistent effectively becomes a Persistent Loss. It will go to the lost pile, not discard, when the persistent is removed.</span>
 
-**Item 115** - <span class="hidden">**Infusion Potion - How does this work for effects that require multiple elements to be consumed? **You still need to consume any other elements needed. This only lets you ignore one.</span>
+**Item 115** - <span class="hidden">**Infusion Potion - How does this work for effects that require multiple elements to be consumed?** You still need to consume any other elements needed. This only lets you ignore one.</span>
 
 **Item 119** - <span class="hidden">**Deadly Mixture - Can I distill the Deadly Mixture? What happens?** No, it is forbidden per the Level 3 Alchemist rules. It can be sold for 6 gold.</span>
 
@@ -1299,9 +1299,9 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 **Item 218** - <span class="hidden">**Tome of Life** - The benefits to enemies are considered "negative effects" from the player perspective, and are not skippable.</span>
 
-**Item 219** - <span class="hidden">**Tome of Conflict** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
+**Item 219** - <span class="hidden">**Tome of Conflict** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards (unless you have a way to mitigate this via other items or abilities).</span>
 
-**Item 225, 1st Printing Errata** <span class="hidden">This is a one-handed item, not a chest slot.</span>
+**Item 225, 1st Printing Errata** <span class="hidden">**Algox Carving** - This is a one-handed item, not a chest item.</span>
 
 **Item 226** - <span class="hidden">**Unfettered Arm** The "numeric value" referred to here is only the actual attack modification value, such as the "+1", and not to anything else, like shield values.</span>
 
