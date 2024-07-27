@@ -2,9 +2,9 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 7/26/2024*
+*Last Updated 7/27/2024 v0.931*
 
-**For introductions, how to use this FAQ, and helpful links, see <a href="#page_0">Section 0</a>**
+**For information about this FAQ and other helpful information, see <a href="#page_0">Section 0</a>**
 
 1. <a href="#page_1">First Printing Production Errors and Typos</a>
    1. <a href="#page_11">Second Printing Non-Errata Changes</a>
