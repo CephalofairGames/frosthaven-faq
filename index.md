@@ -22,33 +22,33 @@
    1. <a href="#page_48">Monster Focus, Abilities, and Stats</a>
    1. <a href="#page_49">Uncategorized</a>
    1. <a href="#page_410">Challenges</a>
-1. Outpost General Questions
-   1. Specific Building Questions
-   1. Enhancements
-   1. Building 81 Questions
-1. Monster Questions
-1. General Scenario Questions
-   1. Specific Scenario Questions
-   1. Solo Scenario Questions
-1. Characters
-   1. Drifter
-   1. Blinkblade
-   1. Banner Spear
-   1. Deathwalker
-   1. Boneshaper
-   1. Geminate
-   1. "Astral"
-   1. "Meteor"
-   1. "Shards"
-   1. "Trap"
-   1. "Shackles"
-   1. "Snowflake"
-   1. "Fist"
-   1. "Kelp"
-   1. "Coral"
-   1. "Prism"
-   1. "Drill"
-1. Items
+1. <a href="#page_5">Outpost General Questions</a>
+   1. <a href="#page_51">Specific Building Questions</a>
+   1. <a href="#page_52">Enhancements</a>
+   1. <a href="#page_53">Building 81 Questions</a>
+1. <a href="#page_6">Monster Questions</a>
+1. <a href="#page_7">General Scenario Questions</a>
+   1. <a href="#page_71">Specific Scenario Questions</a>
+   1. <a href="#page_72">Solo Scenario Questions</a>
+1. <a href="#page_8">Characters</a>
+   1. <a href="#page_81">Drifter</a>
+   1. <a href="#page_82">Blinkblade</a>
+   1. <a href="#page_83">Banner Spear</a>
+   1. <a href="#page_84">Deathwalker</a>
+   1. <a href="#page_85">Boneshaper</a>
+   1. <a href="#page_86">Geminate</a>
+   1. <a href="#page_87">"Astral"</a>
+   1. <a href="#page_88">"Meteor"</a>
+   1. <a href="#page_89">"Shards"</a>
+   1. <a href="#page_810">"Trap"</a>
+   1. <a href="#page_811">"Shackles"</a>
+   1. <a href="#page_812">"Snowflake"</a>
+   1. <a href="#page_813">"Fist"</a>
+   1. <a href="#page_814">"Kelp"</a>
+   1. <a href="#page_815">"Coral"</a>
+   1. <a href="#page_816">"Prism"</a>
+   1. <a href="#page_817">"Drill"</a>
+1. <a href="#page_9">Items
 
 ![divider](/assets/images/divider.png)
 
@@ -425,7 +425,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## 5.0 Outpost General Questions
+## <a name="page_5" class="page-number">5.0</a> Outpost General Questions
 **How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
 
 **Does increasing my Prosperity add more items to the Craftsman?** Kind of - it opens up new levels of the Craftsman and maybe other shops you've unlocked. When you improve those, you add more items to the available pool.
@@ -471,7 +471,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 5.1 Specific Building Questions
+### <a name="page_51" class="page-number">5.1</a> Specific Building Questions
 
 **How do the Workshop Upgrades work?** The three methods of transportation - Climbing Tools, Sled, and Boat - are all considered Building Upgrades. They are constrained by the 1 per Construction Phase build/upgrade limit, and count towards any relevant retirement goals.
 
@@ -501,7 +501,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 5.2 Enhancements
+### <a name="page_52" class="page-number">5.2</a> Enhancements
 *Note: for questions about the building effects at each level, see its building number, above. This section is for general questions about enhancements. This section will not be spoiler-tagged.*
 
 **Is there a limit on the number of enhancements a character can have?** No, there's no limit. This is a change from Gloomhaven.
@@ -512,7 +512,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 5.3 Building 81 Questions
+### <a name="page_53" class="page-number">5.3</a> Building 81 Questions
 
 <details>
 <summary><b>Spoilers for Building 81</b></summary>
@@ -532,7 +532,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 ![divider](/assets/images/divider.png)
 
-## 6.0 Monster Questions
+## <a name="page_6" class="page-number">6.0</a> Monster Questions
 **What are the little symbols on some monster stat cards for?** These are for locked campaign mechanics. You will know what they mean when it’s time.
 
 ### Algox Priests 
@@ -591,7 +591,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 ![divider](/assets/images/divider.png)
 
-##7.0 General Scenario Questions
+## <a name="page_7" class="page-number">7.0</a> General Scenario Questions
 **I don’t understand the difference between Campaign and Casual mode. What does all this mean?** So, the confusion is primarily because Frosthaven’s “Casual Mode” is different from Gloomhaven’s.
 - Casual Mode: You get no resources, XP, quest progression, etc. Time does not pass, you don’t do any events, etc. It is really just playing the game to enjoy it, with zero campaign impact. Afterwards there is no Outpost Phase.
 - Campaign Mode: Just like in a normal scenario, you can earn resources, XP, any unlooted treasure chests, and random items if you didn’t already get them. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Frosthaven. After the scenario, you will have an Outpost Phase.
@@ -610,7 +610,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 7.1 Specific Scenario Questions
+### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
 
 **Scenario 0** Masteries cannot be completed in this scenario. This is a rule in the second printing.
 
@@ -981,7 +981,8 @@ A jump or ranged attack between the "balconies" requires counting the distance. 
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 7.2 Solo Scenario Questions
+### <a name="page_72" class="page-number">7.2</a> Solo Scenario Questions
+
 **Can I gain Masteries or Battle Goals during a Solo Scenario? Can I progress my PQ? Do I gain Inspiration?** You can pursue Masteries and Battle Goals, but solo scenarios are probably enough of a challenge without them! You can also progress towards retirement. You do not gain Inspiration - Inspiration is based on party size, and both the minimum and maximum party size for a solo scenario is 1.
 
 **Do I need to kill enemies that have not yet spawned in order to beat this solo scenario?** Many solo scenarios have a win condition of "when all enemies in it are dead" along with set spawns for specific rounds. (See: Banner Spear, Geminate, Deathwalker, etc.)  Spawns that haven't appeared yet are still considered part of the scenario, and must be defeated.
@@ -1033,9 +1034,9 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider](/assets/images/divider.png)
 
-## **8.0 Characters**
+## <a name="page_8" class="page-number">8.0</a> Characters
 
-### ![Drifter Icon](/assets/images/01_drifter.webp) **8.1 Drifter**
+### ![Drifter Icon](/assets/images/01_drifter.webp) <a name="page_81" class="page-number">8.1</a> Drifter
 
 **When do I get XP for my persistent abilities?** Only when moving forward on the track, never when moving backwards even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
 
