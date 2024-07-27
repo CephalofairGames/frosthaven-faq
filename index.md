@@ -629,49 +629,17 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **Scenario 7 (conclusion)** - <span class="hidden">The campaign sticker is labeled "Coral Crown" on the 1st Printing sticker sheet</span>
 
-</details>
-<br>
-<details>
-<summary><b>Scenario 9</b></summary>
+**Scenario 9, Section 26.1** - <span class="hidden">The switches are the wall hexes. They are targetable in melee by standing in the adjacent hex, or ranged by targeting that wall hex.</span>
 
-The switches are the wall hexes. They are targetable in melee by standing in the adjacent hex, or ranged by targeting that wall hex.
+**Scenario 10, Section 65.3** - <span class="hidden">Deathwalker shadows will move to the new room with you. See <a href="#page_84">8.4 Deathwalker</a> for details.</span>
 
-</details>
-<br>
-<details>
-<summary><b>Scenario 10 Section 65.3</b></summary>
+**Scenario 11** - <span class="hidden"><b>Does Boss Special 2 affect invisible characters</b>? Yes</span>
 
-Deathwalker shadows will move to the new room with you. See the Deathwalker section of the FAQ for details.
+**Scenario 13** - <span class="hidden">The monsters will not target the scenario as a secondary target for multi-target attacks. Remember that direct damage abilities are not attacks, and so will never go to the scenario.</span>
 
-</details>
-<br>
-<details>
-<summary><b>Scenario 11</b></summary>
+**Scenario 15** - <span class="hidden">The special targeting rules are easier to understand if you picture it as the chaos demon on some scaffolding above the ground floor where the characters enter. Note - The special rules have a small error. The first sentence in paragraph 3 should specify <b>ranged</b> abilities instead of just abilities. The chaos demon will focus on an enemy on 1-B and 6-B over enemies in 15-D, provided no extra movement is required to target them.</span>
 
-<strong>Does Boss Special 2 affect invisible characters</strong>? Yes
-
-</details>
-<br>
-<details>
-<summary><b>Scenario 13</b></summary>
-
-The monsters will not target the scenario as a secondary target for multi-target attacks. Remember that direct damage abilities are not attacks, and so will never go to the scenario.
-
-</details>
-<br>
-<details>
-<summary><b>Scenario 15</b></summary>
-
-Note - The special rules have a small error. The first sentence in paragraph 3 should specify <strong>ranged</strong> abilities instead of just abilities. The chaos demon will focus on an enemy on 1-B and 6-B over enemies in 15-D, provided no extra movement is required to target them.
-
-The special targeting rules are easier to understand if you picture it as the chaos demon on some scaffolding above the ground floor where the characters enter.
-
-</details>
-<br>
-<details>
-<summary><b>Scenario 16 - Section 27.2</b></summary>
-
-If player-created overlays are in any "a" hex, the new rubble will replace them. This applies to any future player-created overlays for this scenario, as well.
+**Scenario 16 - Section 27.2** <span class="hidden">If player-created overlays are in any "a" hex, the new rubble will replace them. This applies to any future player-created overlays for this scenario, as well.</span>
 
 </details>
 <br>
@@ -1101,7 +1069,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">8.4 Deathwalker</a>
+### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">8.4</a> Deathwalker
 
 **A general update regarding Adjacency** - Placed shadows should be considered adjacent to their own hexes for all purposes, not just for targeting. When you place a new shadow, though, follow normal adjacency rules.  (Note that this rule is on the Deathwalker board in Second Printing)
 
