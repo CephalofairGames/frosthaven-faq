@@ -4,9 +4,9 @@
 
 *Last Updated 7/26/2024*
 
-1.  <p><a name="page_1" class="page-number">First Printing Production Errors and Typos</a></p>
-   1. <p><a name="page_11" class="page-number">Second Printing Changes</a></p>
-1. <p><a name="page_2" class="page-number">Component and Setup Questions</a></p>
+1. <a name="page_1" class="page-number">First Printing Production Errors and Typos</a>
+   1. <a name="page_11" class="page-number">Second Printing Changes</a>
+1. <a name="page_2" class="page-number">Component and Setup Questions</a>
 1. General Gameplay Questions (Outside Scenarios)
    1. Masteries
    1. Personal Quests
