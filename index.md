@@ -641,299 +641,96 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **Scenario 16 - Section 27.2** <span class="hidden">If player-created overlays are in any "a" hex, the new rubble will replace them. This applies to any future player-created overlays for this scenario, as well.</span>
 
-</details>
-<br>
-<details>
-<summary><b>Scenario 17 - Section 25.3</b></summary>
+**Scenario 17 - Section 25.3** <span class="hidden">First Printing Errata - Instead of "When Door 3 is opened read 62.3," it should refer to Door 1 to open that section</span>
 
-1st Printing Errata - Instead of "When Door 3 is opened read 62.3," it should refer to Door 1 to open that section
+**Scenario 21 - Section 51.1** <span class="hidden">The special rules should include ‘character tokens’ here to specifically include the Deathwalker’s shadow tokens. The rules text regarding the door unlocking is correct. It does not open as the narrative text would indicate; it just becomes unlocked.</span>
 
-</details>
+**Scenario 22 - Section 41.2** <span class="hidden">1. The water tiles on the border hexes (the half-hexes on the edge of the map tile) count towards the fail state for the scenario. 2. Note that a monster who attacks the boat instead of any characters will only attack ONE hex even if they have drawn an AoE attack or multitarget attack this turn. 3. If a Wavethrower creates water, it counts towards the scenario's fail state just like any other water.</span>
 
-<details>
-<summary><b>Scenario 21 - Section 51.1</b></summary>
+**Scenario 24** - <span class="hidden">Character summons do not treat the special corridor hexes as negative. Also, it is possible to end up in a situation where the scenario becomes unwinnable based on random chance. To avoid this, 83.2: Section Links, should read "When all enemies on tile 8-A are dead..." and 74.2: Section Links should read "When all enemies on tile 4-B are dead...</span>
 
-The special rules should include ‘character tokens’ here to specifically include the Deathwalker’s shadow tokens. The rules text regarding the door unlocking is correct. It does not open as the narrative text would indicate; it just becomes unlocked.
+**Scenario 28** - <span class="hidden">First printing only - Note in the errata - the guard and archer spawns are reversed, as are the exit hexes. Guards should spawn at E and Archers should spawn at D. <i>Note - the second printing corrected this issue by changing the location of letter tokens on the map.</i></span>
 
-</details>
+**Scenario 29 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks</span>
 
-<details>
-<summary><b>Scenario 22 - Section 41.2</b></summary>
+**Scenario 30 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
 
-- The water tiles on the border hexes (the half-hexes on the edge of the map tile) count towards the fail state for the scenario. 
-- Note that a monster who attacks the boat instead of any characters will only attack ONE hex even if they have drawn an AoE attack or multitarget attack this turn.
-- If a Wavethrower creates water, it counts towards the scenario's fail state just like any other water
+**Scenario 34** - <span class="hidden">The Chaos Beam effects happen even if you are jumping or flying.</span>
 
-</details>
+**Scenario 36 (conclusion)** - <span class="hidden">First Printing Only: Add blueprints for Item 067 to the scenario reward.</span>
 
-<details>
-<summary><b>Scenario 24</b></summary>
+**Scenario 37 (conclusion)** - <span class="hidden">First Printing Only: Add blueprints for Item 067 to the scenario reward.</span>
 
-Character summons do not treat the special corridor hexes as negative. 
-Also, it is possible to end up in a situation where the scenario becomes unwinnable based on random chance. To avoid this, 83.2: Section Links, should read "When all enemies on tile 8-A are dead..." and 74.2: Section Links should read "When all enemies on tile 4-B are dead...
+**Scenario 38, Section 23.1** - <span class="hidden">The "at each" is unnecessary at 3p spawns. Both 2p and 3p spawn a total of two normal hounds, one at each.</span>
 
-</details>
+**Scenario 39** - <span class="hidden">If you cannot replace a dead ally standee with a Frozen Corpse because all Frozen Corpses are on the board, they remain until Frozen Corpse standees become available and they can be replaced.</span>
 
-<details>
-<summary><b>Scenario 28</b></summary>
+**Scenario 40 (conclusion)** - <span class="hidden">First Printing Only: Section 71.2 indicates you open 47 Blizzard Island. Blizzard Island is correct but the number is 48.</span>
 
-Note in the errata - the guard and archer spawns are reversed, as are the exit hexes. Guards should spawn at E and Archers should spawn at D. <i>this is only for the first printing; the second printing has corrected the issue by changing the location of letter tokesn on the map.</i>
+**Scenario 45** - <span class="hidden">The requirement of Climbing Gear is correct. Narratively, it could have been either climbing gear, boat, or both - but this is not an error.</span>
 
-</details>
+**Scenario 50** - <span class="hidden">Scenario hexes are only treated as water hexes for Lightning Eel summoning and movement, and not for any other purpose. You can place water hexes in the scenario as normal with relevant items and abilities.</span>
 
-<details>
-<summary><b>Scenario 29 (conclusion)</b></summary>
+**Scenario 54** - <span class="hidden">Scenario hexes are only treated as water hexes for Lightning Eel summoning and movement, and not for any other purpose. You can place water hexes in the scenario as normal with relevant items and abilities.</span>
 
-Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks
+**Scenario 55 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
 
-</details>
+**Scenario 58 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
 
-<details>
-<summary><b>Scenario 30 (conclusion)</b></summary>
-
-Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.
-
-</details>
-
-<details>
-<summary><b>Scenario 34</b></summary>
-
-The Chaos Beam effects happen even if you are jumping or flying.
-
-</details>
-
-<details>
-<summary><b>Scenario 36 (conclusion)</b></summary>
-
-First Printing Only: Add blueprints for Item 067 to the scenario reward.
-
-</details>
-
-<details>
-<summary><b>Scenario 37 (conclusion)</b></summary>
-
-First Printing Only: Add blueprints for Item 067 to the scenario reward.
-
-</details>
-
-<details>
-<summary><b>Scenario 38, Section 23.1</b></summary>
-
-The "at each" is unnecessary at 3p spawns. Both 2p and 3p spawn a total of two normal hounds, one at each.
-
-</details>
-
-<details>
-<summary><b>Scenario 39</b></summary>
-
-If you cannot replace a dead ally standee with a Frozen Corpse because all Frozen Corpses are on the board, they remain until Frozen Corpse standees become available and they can be replaced.
-
-</details>
-
-<details>
-<summary><b>Scenario 40 (conclusion)</b></summary>
-
-First Printing Only: Section 71.2 indicates you open 47 Blizzard Island. Blizzard Island is correct but the number is 48.
-
-</details>
-
-<details>
-<summary><b>Scenario 45</b></summary>
-
-The requirement of Climbing Gear is correct. Narratively, it could have been either climbing gear, boat, or both - but this is not an error
-
-</details>
-
-<details>
-<summary><b>Scenario 55 (conclusion)</b></summary>
-
-Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.
-
-</details>
-
-<details>
-<summary><b>Scenario 58 (conclusion)</b></summary>
-
-Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.
-
-</details>
-
-<details>
-<summary><b>Scenario 59 (conclusion)</b></summary>
-
-Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.
-
-</details>
+**Scenario 59 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
 
 <details>
 <summary><b>Scenario 60</b></summary>
-
-Boss Special Rules: The intent for 'everlasting' elements is that they become Strong at the start of every figure's turn. Even with this special, a single element cannot be consumed twice in a single turn.
-
-Conclusion - Remove the cards you're directed to remove from both Available and Unavailable Event Decks. 
-
-First Printing Only - Add Item 224 to Scenario Rewards
-
+<p>Scenario hexes are only treated as water hexes for Lightning Eel summoning and movement, and not for any other purpose. You can place water hexes in the scenario as normal with relevant items and abilities.</p>
+<p>Boss Special Rules: The intent for 'everlasting' elements is that they become Strong at the start of every figure's turn. Even with this special, a single element cannot be consumed twice in a single turn.</p>
+<p>Conclusion - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks. First Printing Only - Add Item 224 to Scenario Rewards</span></p>
 </details>
 
-<details>
-<summary><b>Scenario 62</b></summary>
+**Scenario 62** - <span class="hidden">This scenario uses "a" tokens for both Crain's present location and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself. Damage tokens are used as time trackers here; there is no way for players to add damage to Crain's goals.</span>
 
-This scenario uses "a" tokens for both Crain's present location, and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself.
+**Scenario 65 - Section 89.1** - <span class="hidden">The Named Ice Wraith starts on "elite" stats, and switches forms like other ice wraiths. Just use normal white and yellow (or white and red) bases for it, but it's still considered a named monster.</span>
 
-</details>
+**Scenario 70** - <span class="hidden">As mentioned in the Errata, there is only one random item in the loot deck.</span>
 
-<details>
-<summary><b>Scenario 65 - Section 89.1</b></summary>
+**Scenario 71 - Section 111.2** - <span class="hidden">One piranha pig spawns at <i>each</i> F</span>
 
-The Named Ice Wraith starts on "elite" stats, and switches forms like other ice wraiths. Just use normal white and yellow bases for it, but it's still considered a named monster.
+**Scenario 73 and Coral Class (Spoilers for both)** - <span class="hidden">Yes, these hexes also count as Water for your abilities and perks.</span>
 
-</details>
+**Scenario 78** - <span class="hidden">First Printing Errata repeated here - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page). Do not change the door positions on entering new rooms.</span>
 
-<details>
-<summary><b>Scenario 70</b></summary>
+**Scenario 81** - <span class="hidden">Aesther Ashblades cannot teleport to a room unless all doors between their current room and their destination room have been opened.</span>
 
-As mentioned in the Errata, there is only one random item in the loot deck.
+**Scenario 82** - If you have questions on how some aspects of this scenario operate, please reference <a href="https://boardgamegeek.com/thread/3070490/scenario-82-corridors-when-they-are-not-there-spoi>this thread</a>
 
-</details>
+**Scenario 83** - <span class="hidden">The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.</span>
 
-<details>
-<summary><b>Scenario 71 - Section 111.2</b></summary>
+**Scenario 84** - <span class="hidden"><b>What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..."</b> Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.</span>
 
-One piranha pig spawns at <i>each</i> F
+**Scenario 90** - <span class="hidden">This scenario does not require the boat to be built at the workshop. It's not necessarily <i>your</i> boat.</span>
 
-</details>
+**Scenario 92** - <span class="hidden">See <a href="#page_49">Section 4.9</a> if you're wondering how your scenario ally works.</span>
 
-<details>
-<summary><b>Scenario 73 and Coral Class</b></summary>
+**Scenario 96** - <span class="hidden">The stairs are there for aesthetic reasons. The platform follows all normal corridor rules, and you can move on or off as you see fit. When the platform opens doors at the end of the round, newly revealed enemies do not activate.</span>
 
-Yes, these hexes count as Water for your abilities and perks.
+**Scenario 101** - <span class="hidden">The "goal treasure tiles" have been replaced by numbered tokens due to component count issues. References to goal tiles refer to the numbered tokens.</span>
 
-</details>
+**Scenario 104** - <span class="hidden">The special rule should include "Each element can be consumed only once per turn."</span>
 
-<details>
-<summary><b>Scenario 78</b></summary>
+**Scenario 107 - Section 168.4** - <span class="hidden">Treat the new monsters as spawns. If the space they are supposed to appear in is not empty, place them in the nearest empty hex possible.</span>
 
-First Printing Errata repeated here - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page). Do not change the door positions on entering new rooms.
+**Scenario 109** - <span class="hidden">The special rule should reference Initiative 52, not 54.</span>
 
-</details>
+**Scenario 110** - <span class="hidden">The water hexes are difficult terrain, not corridor, as First Printing erroneously indicates. If you move or destroy the water hexes, or put other overlays into the corridor hexes, the electrification hexes are not affected. Just keep the electrification pattern as it was at the start of the scenario.</span>
 
-<details>
-<summary><b>Scenario 81</b></summary>
+**Scenario 111** - <span class="hidden">The door positions in Section 182.2 are correct. On 138.2 the section link should be to 147.2.</span>
 
-Aesther Ashblades cannot teleport to a room unless all doors between their current room and their destination room have been opened.
+**Scenario 117** - <span class="hidden">First Printing Only: This scenario setup requires 5 Polar bears but there are only 4 standees. A fifth Polar bear should be 'proxied' from other available standees or minis</span>
 
-</details>
+**Scenario 118** - <span class="hidden">Letter tokens don't have an 'upside down'; just ignore this instruction. The specific letter isn't relevant to the scenario rules.</span>
 
-<details>
-<summary><b>Scenario 82</b></summary>
+**Scenario 120** - <span class="hidden">If there is a Geminate in the party, they should split their hand into two piles based on form. If you lose a card to damage, you can lose a card of your choice from your set-aside hand.</span>
 
-If you have questions on how some aspects of this scenario operate, please reference <a href="https://boardgamegeek.com/thread/3070490/scenario-82-corridors-when-they-are-not-there-spoi>this thread</a>
-
-</details>
-
-<details>
-<summary><b>Scenario 83</b></summary>
-
-The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.
-
-</details>
-
-<details>
-<summary><b>Scenario 84</b></summary>
-
-What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..." Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.
-
-</details>
-
-<details>
-<summary><b>Scenario 90</b></summary>
-
-This scenario does not require the boat to be built at the workshop. It's not necessarily <i>your</i> boat.
-
-</details>
-
-<details>
-<summary><b>Scenario 92</b></summary>
-
-See Section 4.9 if you're wondering how your scenario ally works.
-
-</details>
-
-<details>
-<summary><b>Scenario 96</b></summary>
-
-The stairs are there for aesthetic reasons. The platform follows all normal corridor rules, and you can move on or off as you see fit. When the platform opens doors at the end of the round, newly revealed enemies do not activate.
-
-</details>
-
-<details>
-<summary><b>Scenario 101</b></summary>
-
-The "goal treasure tiles" have been replaced by numbered tokens due to component count issues. References to goal tiles refer to the numbered tokens.
-
-</details>
-
-<details>
-<summary><b>Scenario 104</b></summary>
-
-The special rule should include "Each element can be consumed only once per turn."
-
-</details>
-
-<details>
-<summary><b>Scenario 107 - Section 168.4</b></summary>
-
-Treat the new monsters as spawns. If the space they are supposed to appear in is not empty, place them in the nearest empty hex possible.
-
-</details>
-
-<details>
-<summary><b>Scenario 109</b></summary>
-
-The special rule should reference Initiative 52, not 54.
-
-</details>
-
-<details>
-<summary><b>Scenario 110</b></summary>
-
-The water hexes are difficult terrain, not corridor. If you move or destroy the water hexes, or put other overlays into the corridor hexes, the electrification hexes are not affected. Just keep the electrification pattern as it was at the start of the scenario.
-
-</details>
-
-<details>
-<summary><b>Scenario 111</b></summary>
-
-The door positions in Section 182.2 are correct. On 138.2 the section link should be to 147.2.
-
-</details>
-
-<details>
-<summary><b>Scenario 117</b></summary>
-
-First Printing Only: This scenario setup requires 5 Polar bears but there are only 4 standees. A fifth Polar bear should be 'proxied' from other available standees or minis
-
-</details>
-
-<details>
-<summary><b>Scenario 118</b></summary>
-
-Letter tokens don't have an 'upside down'; just ignore this instruction. The specific letter isn't relevant to the scenario rules.
-
-</details>
-
-<details>
-<summary><b>Scenario 120</b></summary>
-
-If there is a Geminate in the party, they should split their hand into two piles based on form. If you lose a card to damage, you can lose a card of your choice from your set-aside hand.
-
-</details>
-
-<details>
-<summary><b>Scenario 134</b></summary>
-
-A jump or ranged attack between the "balconies" requires counting the distance. You can use extra corridor hexes to measure.
+**Scenario 134** - <span class="hidden">A jump or ranged attack between the "balconies" requires counting the distance. You can use extra corridor hexes to measure.</span>
 
 </details>
 
