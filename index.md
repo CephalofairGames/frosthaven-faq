@@ -6,11 +6,11 @@
 
 1. <a href="#page_1">First Printing Production Errors and Typos</a>
    1. <a href="#page_11">Second Printing Changes</a>
-1. Component and Setup Questions
-1. General Gameplay Questions (Outside Scenarios)
-   1. Masteries
-   1. Personal Quests
-   1. Events and Traits
+1. <a href="#page_2">Component and Setup Questions</a>
+1. <a href="#page_3">General Gameplay Questions (Outside Scenarios)</a>
+   1. <a href="#page_31">Masteries</a>
+   1. <a href="#page_32">Personal Quests</a>
+   1. <a href="#page_33">Events and Traits</a>
 1. General Gameplay Questions (Scenarios)
    1. Rooms, Movement, Forced Movement, and Overlays
    1. Damage, Shield, Ward, and Brittle
@@ -132,7 +132,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## 2.0 Component and First Time Setup Questions
+## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions
 
 **General -** As a legacy game, the general rule is that if you don’t see something referenced in the rules, it probably relates to unlockable content. Check this FAQ if you are unsure.
 
@@ -164,9 +164,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## 3.0 General Gameplay Questions (Non-Scenario)
+## <a name="page_3" class="page-number">3.0</a> General Gameplay Questions (Non-Scenario)
 
-### 3.1 Masteries
+### <a name="page_31" class="page-number">3.1</a> Masteries
 
 **Can I complete my Mastery in Scenario 0?** No. This was be added to the scenario rules in the second printing. Scenario 0 is intentionally easy. 
 
@@ -178,7 +178,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 3.2 Personal Quests
+### <a name="page_32" class="page-number">3.2</a> Personal Quests
 
 **My Personal Quest gives me a scenario and says to 'follow it to its conclusion.' What does that mean? Do I retire after the scenario?** You keep going until the game explicitly tells you that your quest is complete in a gold Scenario Rewards box. A general rule is that these take more than one scenario and involve calendar entries and delays between scenarios. The character who owns the PQ must participate in these quest scenarios. It is recommended you complete any scenarios unlocked by your Personal Quest as early as possible, because there are unavoidable calendar-based delays between them.
 
@@ -207,7 +207,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 3.3 Events and Traits
+### <a name="page_33" class="page-number">3.3</a> Events and Traits
 **Is my Ancestry another trait?** Effectively, yes, your Ancestry (quatryl, human, etc.) can operate as an additional Trait for your character. It operates like all other Traits on your character board. 
 
 **Which Road or Outpost Event deck do I draw from?** Draw from the Season indicated by the *next unmarked box* on the campaign calendar.
