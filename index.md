@@ -11,17 +11,17 @@
    1. <a href="#page_31">Masteries</a>
    1. <a href="#page_32">Personal Quests</a>
    1. <a href="#page_33">Events and Traits</a>
-1. General Gameplay Questions (Scenarios)
-   1. Rooms, Movement, Forced Movement, and Overlays
-   1. Damage, Shield, Ward, and Brittle
-   1. AMD Draws, Advantage, and Disadvantage
-   1. Negative Conditions
-   1. General Player Ability Questions and Clarifications
-   1. Loot Deck Questions
-   1. Objectives
-   1. Monster Focus, Abilities, and Stats
-   1. Uncategorized
-   1. Challenges
+1. <a href="#page_4">General Gameplay Questions (Scenarios)</a>
+   1. <a href="#page_41">Rooms, Movement, Forced Movement, and Overlays</a>
+   1. <a href="#page_42">Damage, Shield, Ward, and Brittle</a>
+   1. <a href="#page_43">AMD Draws, Advantage, and Disadvantage</a>
+   1. <a href="#page_44">Negative Conditions</a>
+   1. <a href="#page_45">General Player Ability Questions and Clarifications</a>
+   1. <a href="#page_46">Loot Deck Questions</a>
+   1. <a href="#page_47">Objectives</a>
+   1. <a href="#page_48">Monster Focus, Abilities, and Stats</a>
+   1. <a href="#page_49">Uncategorized</a>
+   1. <a href="#page_410">Challenges</a>
 1. Outpost General Questions
    1. Specific Building Questions
    1. Enhancements
@@ -236,9 +236,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## 4.0 General Gameplay Questions (Scenario)
+## <a name="page_4" class="page-number">4.0</a> General Gameplay Questions (Scenario)
 
-### 4.1 Rooms, Movement, Forced Movement, and Overlays
+### <a name="page_41" class="page-number">4.1</a> Rooms, Movement, Forced Movement, and Overlays
 
 **What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, deathwalker shadows, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven.*
 
@@ -266,7 +266,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 4.2 Damage, Shield, Ward, and Brittle
+### <a name="page_42" class="page-number">4.2</a> Damage, Shield, Ward, and Brittle
 
 **When I lose a card to avoid all damage, do I lose Ward and/or Brittle?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
 
@@ -286,7 +286,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 4.3 AMD Draws, Advantage, and Disadvantage
+### <a name="page_43" class="page-number">4.3</a> AMD Draws, Advantage, and Disadvantage
 
 **What is the order of operations if I draw a x2 or Null on a draw with rolling modifiers?** If a Null (x0) is included in the final attack modifier draws, no matter where, the final damage will always be 0. If you draw a x2, it can be inserted at any time during attack modification including at the very end. (For example, if I have an Attack 3, draw a rolling +1, and finally a x2, I can decide if my final damage is 7 (3x2) + 1 or 8 (3+1) x2.)
 
@@ -296,7 +296,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 4.4 Negative Conditions
+### <a name="page_44" class="page-number">4.4</a> Negative Conditions
 
 (For Brittle, see Section 4.2)
 
@@ -308,7 +308,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item like Crude Shield, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to the remaining attack modifier deck. Once in an attack modifier deck, the Curse is no longer considered a negative condition.
 
-### 4.5 General Player Ability Questions and Clarifications
+### <a name="page_45" class="page-number">4.5</a> General Player Ability Questions and Clarifications
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -345,7 +345,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 4.6 Loot Deck Questions
+### <a name="page_46" class="page-number">4.6</a> Loot Deck Questions
 
 *(please see 2.0 Component Questions if you have questions about the two coin cards with checkboxes)*
 
@@ -363,7 +363,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 4.7 Objectives
+### <a name="page_47" class="page-number">4.7</a> Objectives
 
 **Does destroying an objective count as a "kill" for abilities or battle goals?** No. Objectives are destroyed, not killed. 
 
@@ -377,7 +377,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 4.8 Monster Focus, Abilities, and Stats
+### <a name="page_48" class="page-number">4.8</a> Monster Focus, Abilities, and Stats
 
 **If a monster with a ranged attack is adjacent to one enemy, but could attack another enemy without disadvantage, which enemy will it attack?** Monster focus doesn't consider disadvantage. It will always prioritize the adjacent enemy in this case. If the monster can safely move away from its focus before the attack, it will do so using the minimum number of hexes in order to lose disadvantage.
 
@@ -405,13 +405,13 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 4.9 Uncategorized
+### <a name="page_49" class="page-number">4.9</a> Uncategorized
 
 **I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for Banner Spear formations or anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### 4.10 Challenges
+### <a name="page_410" class="page-number">4.10</a> Challenges
 
 *Note that each Challenge card has a name. For lack of a clear better option, I am using these names to identify which one a FAQ entry refers to. There are, I suppose, minor spoilers in this section as a necessity.*
 
