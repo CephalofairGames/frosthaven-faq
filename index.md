@@ -616,21 +616,11 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **Scenario 1** - Although the City Guards don't take turns, they expire "end of next turn" conditions (such as Disarm and Immobilize) on Initiative 50.
 
-<details>
-<summary><b>Scenario 2</b></summary>
+**Scenario 2** - <span class="hidden">The door is placed incorrectly after opening the final section. Don’t move the door.</span>
 
-The door is placed incorrectly after opening the final section. Don’t move the door.
-
-</details>
-<br>
-<details>
-<summary><b>Scenario 4</b></summary>
-
-<p>The special rules should not mention Priests. There are no Priests in this scenario.</p>
-
-<p><strong>Final room</strong> - <span class="hidden">The references to other monsters are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.</span></p>
-
-<p><strong>Conclusion</strong> - <span class="hidden">Like all other scenarios, you <strong>cannot</strong> replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.</span></p>
+**Scenario 4** - <span class="hidden">The special rules should not mention Priests. There are no Priests in this scenario.</span>
+**Scenario 4, Section 75.1** - <span class="hidden">The references to other monsters in the narrative are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.</span>
+**Scenario 4, Conclusion** - <span class="hidden">Like all other scenarios, you <strong>cannot</strong> replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.</span>
 
 </details>
 <br>
@@ -1054,7 +1044,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) **8.2 Blinkblade**
+### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) <a name="page_82" class="page-number">8.2</a> Blinkblade
 
 **General Note about Range modifications** - You have several abilities which add Range to a Melee attack. Note that if you add Range to a Melee attack, you add the modifier to 1 and it becomes a Ranged attack. (So if you use Kinetic Transfer top while Slow, your Attack becomes Ranged and has Range 2.) As it says on your board, this range modification is mandatory and cannot be skipped.
 
@@ -1081,7 +1071,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Banner Spear Icon](/assets/images/03_banner_spear.webp) **8.3 Banner Spear**
+### ![Banner Spear Icon](/assets/images/03_banner_spear.webp) <a name="page_83" class="page-number">8.3</a> Banner Spear
 
 **How much can I communicate with my party about where I would like them to be for a formation?** The only things you can't communicate are *specific numbers* and *specific card names*. (This includes things that are "basically numbers" - like "voting age" or "exactly half" or something similar.) Everything else is allowed and frankly, for Banner Spear, encouraged. You can tell people where you need to be, ask where they will end up, ask them if they can go to a certain hex, tell them the kinds of conditions you'll be applying, the specific monsters you hope to attack, etc. It's okay if this lets them guess your card, your initiative, etc. - that's part of learning to work together as a team.
 
@@ -1111,7 +1101,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) **8.4 Deathwalker**
+### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">8.4 Deathwalker</a>
 
 **A general update regarding Adjacency** - Placed shadows should be considered adjacent to their own hexes for all purposes, not just for targeting. When you place a new shadow, though, follow normal adjacency rules.  (Note that this rule is on the Deathwalker board in Second Printing)
 
@@ -1150,7 +1140,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) **8.5 Boneshaper**
+### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) <a name="page_85" class="page-number">8.5 Boneshaper</a>
 
 **For my "15 Kills" Mastery, what counts as ‘killing’ one of my summons? And do I really need to do it within one scenario?** You have specific abilities and attack modifiers (example: Exploding Corpse) which kill one of your summons. It has to be done through these. Unsummoning does not count, moving them into traps does not count, etc. Yes, this needs to be completed in one scenario.
 
@@ -1177,7 +1167,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Geminate Icon](/assets/images/06_geminate.webp) **8.6 Geminate**
+### ![Geminate Icon](/assets/images/06_geminate.webp) <a name="page_86" class="page-number">8.6</a> Geminate
 
 **General Note -** Although it can be helpful to think of the Geminate as having two separate hands, they really have only one hand with restrictions on which cards they can play based on their current form. This may help if you’re wondering about losing cards to negate damage, or how rests work out. You still need to bring 7 cards for each form to every scenario.
 
@@ -1207,7 +1197,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Astral Icon](/assets/images/07_astral.webp) **8.7 "Astral" or "Moon and Star"**
+### ![Astral Icon](/assets/images/07_astral.webp) <a name="page_87" class="page-number">8.7</a> "Astral" or "Moon and Star"
 
 <details>
 <summary><b>Astral Spoilers</b></summary>
@@ -1237,7 +1227,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Meteor Icon](/assets/images/08_meteor.webp) 8.8 **"Meteor"**
+### ![Meteor Icon](/assets/images/08_meteor.webp) <a name="page_88" class="page-number">8.8</a> "Meteor"
 
 <details>
 <summary><b>Meteor Spoilers</b></summary>
@@ -1271,7 +1261,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Shards Icon](/assets/images/09_shards.webp) **8.9 "Shards"**
+### ![Shards Icon](/assets/images/09_shards.webp) <a name="page_89" class="page-number">8.9</a> "Shards"
 
 <details>
 <summary><b>Shards Spoilers</b></summary>
@@ -1285,7 +1275,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Trap Icon](/assets/images/10_trap.webp) **8.10 "Trap"**
+### ![Trap Icon](/assets/images/10_trap.webp) <a name="810" class="page-number">8.10</a> "Trap"
 
 <details>
 <summary><b>Trap Spoilers</b></summary>
@@ -1317,7 +1307,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Shackles Icon](/assets/images/11_shackles.webp) **8.11 "Shackles"**
+### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">8.11</a> "Shackles"
 
 <details>
 <summary><b>Shackles Spoilers</b></summary>
@@ -1350,7 +1340,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Snowflake Icon](/assets/images/12_snowflake.webp) **8.12 "Snowflake"**
+### ![Snowflake Icon](/assets/images/12_snowflake.webp) <a name="page_812" class="page-number">8.12</a> "Snowflake"
 
 <details>
 <summary><b>Snowflake Spoilers</b></summary>
@@ -1372,7 +1362,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Fist Icon](/assets/images/13_fist.webp) **8.13 "Fist"**
+### ![Fist Icon](/assets/images/13_fist.webp) <a name="page_813" class="page-number">8.13</a> "Fist"
 
 <details>
 <summary><b>Fist Spoilers</b></summary>
@@ -1394,7 +1384,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Kelp Icon](/assets/images/14_kelp.webp) **8.14 "Kelp" (or "Seaweed")**
+### ![Kelp Icon](/assets/images/14_kelp.webp) <a name="page_814" class="page-number">8.14</a> "Kelp" (or "Seaweed")
 
 <details>
 <summary><b>Kelp Spoilers</b></summary>
@@ -1410,7 +1400,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Coral Icon](/assets/images/15_coral.webp) **8.15 "Coral" (or "Anemone")**
+### ![Coral Icon](/assets/images/15_coral.webp) <a name="page_815" class="page-number">8.15</a> "Coral" (or "Anemone")
 
 <details>
 <summary><b>Coral Spoilers</b></summary>
@@ -1428,7 +1418,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Prism Icon](/assets/images/16_prism.webp) **8.16 "Prism" (or "Diamond")**
+### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">8.16</a> "Prism" (or "Diamond")
 
 <details>
 <summary><b>Prism Spoilers</b></summary>
@@ -1461,7 +1451,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Drill Icon](/assets/images/17_drill.webp) **8.17 "Drill"**
+### ![Drill Icon](/assets/images/17_drill.webp) <a name="page_817" class="page-number">8.17</a> "Drill"
 
 <details>
 <summary><b>Drill Spoilers</b></summary>
@@ -1487,7 +1477,7 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 ![divider](/assets/images/divider.png)
 
-## **9.0 Items**
+## <a name="page_9" class="page-number">9.0</a> Items
 
 **Can potions be sold or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
 
