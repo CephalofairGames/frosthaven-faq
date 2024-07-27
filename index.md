@@ -82,25 +82,25 @@ Most of these questions were asked by the community. If you have a question that
 ##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos
 
 - Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
-- Envelope 24 should list sticker 10
-- Envelope 37 should list stickers 11 and 13
-- Envelope 44 should list stickers 12 and 14
-- Envelope 85 should list sticker 15
-- Envelope 90 should list stickers 1, 5, 8, and 9
--There is a deck of cards in envelope 81 whose order should be reversed. If you pull it out and the visible card is titled "T___ of W___", reverse the order of the deck so that card is the first drawn when the deck is face-down.
+  - Envelope 24 should list sticker 10
+  - Envelope 37 should list stickers 11 and 13
+  - Envelope 44 should list stickers 12 and 14
+  - Envelope 85 should list sticker 15
+  - Envelope 90 should list stickers 1, 5, 8, and 9
+- There is a deck of cards in envelope 81 whose order should be reversed. If you pull it out and the visible card is titled "T___ of W___", reverse the order of the deck so that card is the first drawn when the deck is face-down.
 - Town Guard Cards 1451 and 1452 should be "+2 material resources"
-- Winter road events back    WR-47    In the first A outcome, "winter road deck" should be "summer road deck". In the B outcome, "Remove event WR-47 from the winter road deck" should be "Remove event SR-49 from the summer road deck".
+- Winter road event WR-47 (back) - In the first A outcome, "winter road deck" should be "summer road deck". In the B outcome, "Remove event WR-47 from the winter road deck" should be "Remove event SR-49 from the summer road deck".
 - Three monster cards have misprints: 
-- Chaos Demon’s “Chilling Breath” is missing the Retaliate value on elemental consumption. It should be Retaliate 2, Range 2.
-- Savvas Icestorm’s “Frozen Shell” has an incorrect Earth consumption. It should be Ice consumption.
-- Elite Wind Demon Level 0 should have Move 3.
-- Some scenario requirements aren’t matching between the flowchart and the scenario book. In all cases, the Scenario Book’s requirements are correct and should be followed.
-- On flowchart 1, scenario 10 should have a sled icon.
-- On flowchart 2, scenario 22 should have a boat icon and scenario 42 should have a boat icon.
-- On flowchart 3, scenarios 50, 54, 49, 53, and 60 are missing boat icons.
-- On flowchart 5, scenario 132 should have a climbing gear icon.
-- Scenarios 25 and 26 are exclusive.
-- Many character sheets have a weird typesetting issue with “fi” as in the beginning of “first” up to a certain point in the print run. Later copies don't have this error.
+  - Chaos Demon’s “Chilling Breath” is missing the Retaliate value on elemental consumption. It should be Retaliate 2, Range 2.
+  - Savvas Icestorm’s “Frozen Shell” has an incorrect Earth consumption. It should be Ice consumption.
+  - Elite Wind Demon Level 0 should have Move 3.
+- The flowcharts have some errors. In all cases, the Scenario Book’s requirements are correct and should be followed.
+  - On flowchart 1, scenario 10 should have a sled icon.
+  - On flowchart 2, scenario 22 should have a boat icon and scenario 42 should have a boat icon.
+  - On flowchart 3, scenarios 50, 54, 49, 53, and 60 are missing boat icons.
+  - On flowchart 5, scenario 132 should have a climbing gear icon.
+  - Scenarios 25 and 26 are exclusive but missing Lockout circles.
+- Many character sheets in early print runs have a weird typesetting issue with “fi” as in the beginning of “first”
 - Scenario 0, Section 197.1 has outdated descriptions and names of some cards. 
 - Scenario 17, Section 25.3  - instead of Door 3 opening Section 62.3, this should read Door 1.
 - Scenario 18 - Map layout and map: The right 11 tile should be 11-C.
@@ -355,6 +355,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - Both Attack +X and Attack X will inherit all special attack modifiers for a monster or character summon. This includes extra targets, added conditions, attack patterns, etc.
 - Attack X is always a melee attack at the value provided. It can be granted to a non-objective figure that does not have an inherent Attack value.
 - Attack +X depends on the monster's or summon's inherent attack value. For monsters, this attack is always melee. For a Summon, however, *it will inherit any Range characteristic the Summon always has (if any)*.
+
+**Errata for Active Bonuses and Resting** - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting." For example, if a Boneshaper has three skeletons active and zero cards in their discard pile, they can still declare a Long Rest. At the end of this Long Rest, they must Lose one of their active summons.
 
 ![divider-narrow](/assets/images/divider2.png)
 
