@@ -4,7 +4,7 @@
 
 *Last Updated 7/26/2024*
 
-1. First Printing Production Errors and Typos
+1. <a href="#page_1">First Printing Production Errors and Typos</a>
    1. Second Printing Changes
 1. Component and Setup Questions
 1. General Gameplay Questions (Outside Scenarios)
@@ -67,6 +67,8 @@ I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, a
 ![divider](/assets/images/divider.png)
 
 ## 1.0 First Printing Production Errors and Typos
+
+<p><a name="page_1" class="page-number">1</a></p>
 
 - Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
 - Envelope 24 should list sticker 10
