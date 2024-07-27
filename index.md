@@ -618,16 +618,16 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **Scenario 2** - <span class="hidden">The door is placed incorrectly after opening the final section. Don’t move the door.</span>
 
-**Scenario 4** - <span class="hidden">The special rules should not mention Priests. There are no Priests in this scenario.</span>
-**Scenario 4, Section 75.1** - <span class="hidden">The references to other monsters in the narrative are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.</span>
-**Scenario 4, Conclusion** - <span class="hidden">Like all other scenarios, you <strong>cannot</strong> replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.</span>
 
+<details>
+<summary><b>Scenario 4</b></summary>
+<p>The special rules should not mention Priests. There are no Priests in this scenario.</p>
+<p><b>Scenario 4, Section 75.1</b> - <span class="hidden">The references to other monsters in the narrative are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.</span></p>
+<p><b>Scenario 4, Conclusion</b> - <span class="hidden">Like all other scenarios, you <strong>cannot</strong> replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.</span></p>
 </details>
 <br>
-<details>
-<summary><b>Scenario 7 (conclusion)</b></summary>
 
-The campaign sticker is labeled "Coral Crown" on the 1st Printing sticker sheet
+**Scenario 7 (conclusion)** - <span class="hidden">The campaign sticker is labeled "Coral Crown" on the 1st Printing sticker sheet</span>
 
 </details>
 <br>
