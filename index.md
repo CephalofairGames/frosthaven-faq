@@ -4,7 +4,7 @@
 
 *Last Updated 7/27/2024 v0.931*
 
-**For information about this FAQ and other helpful information, see <a href="#page_0">Section 0</a>**
+**For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
 1. <a href="#page_1">First Printing Production Errors and Typos</a>
    1. <a href="#page_11">Second Printing Non-Errata Changes</a>
