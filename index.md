@@ -4,8 +4,10 @@
 
 *Last Updated 7/26/2024*
 
+*For introductions, how to use this FAQ, and helpful links, see <a href="#page_0">Section 0</a>
+
 1. <a href="#page_1">First Printing Production Errors and Typos</a>
-   1. <a href="#page_11">Second Printing Changes</a>
+   1. <a href="#page_11">Second Printing Non-Errata Changes</a>
 1. <a href="#page_2">Component and Setup Questions</a>
 1. <a href="#page_3">General Gameplay Questions (Outside Scenarios)</a>
    1. <a href="#page_31">Masteries</a>
@@ -52,19 +54,27 @@
 
 ![divider](/assets/images/divider.png)
 
-## 0.0 Introduction
+## <a name="page_0" class="page-number">0.0</a> Introduction
 
-This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible, I will also post changelogs with explanations in that thread.
+This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
 
-Why github and not BoardGameGeek? Primarily, because github can be edited by multiple Cephalofair accounts, not just my personal forum account. Github allows for direct linking to sections, richer formatting, and easy version tracking. You can create [issues](https://github.com/CephalofairGames/frosthaven-faq/issues) for potential FAQ questions, and access it easily on more kinds of devices. It has worked excellently for the [Buttons & Bugs Living Rules](https://cephalofairgames.github.io/bnb-rules/), and it seemed sensible to put Official FAQs here, as well.
+Why github and not BoardGameGeek? Primarily, because github can be edited by multiple Cephalofair accounts, not just my personal forum account. Github also allows for features like direct linking to sections, a clickable table of contents, richer formatting, and easy version tracking. It has worked excellently for the [Buttons & Bugs Living Rules](https://cephalofairgames.github.io/bnb-rules/), and it seemed sensible to put Official FAQs here, as well.
 
 ### 0.1 Spoilers
 
-I follow official Spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class icon, envelope/building number, scenario number, or item number. Note that starting buildings, higher-level cards for starters, scenarios 0-1, Personal Quests 01-10, and abilities/statistics for common monsters are not spoilers, and will not be treated as such.
+I follow official Spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope/building number, scenario number, or item number. Note that starting buildings, all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, and abilities/statistics for common monsters are not spoilers, and will not be treated as such.
 
 ### 0.2 About Me
 
 I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
+
+### 0.3 How to Ask Questions and Helpful links
+
+Most of these questions were asked by the community. If you have a question that you can't find the answer to, I recommend starting there. Frosthaven has an active, knowledgable, and passionate group of fans who are happy to help you out. While none of these communities are directly affiliated with Cephalofair, I am active on all three and will be notified when something needs added. Any of the three can work; use whichever is most appealing to you.
+
+- [/r/Gloomhaven](https://www.reddit.com/r/Gloomhaven/) - The Gloomhaven Subreddit is for Gloomhaven, Frosthaven, and Jaws of the Lion. Spoilers are strictly moderated. There is a pinned "Small Questions" thread, or you can start your own for bigger questions.
+- [BoardGameGeek Frosthaven Forums](https://boardgamegeek.com/boardgame/295770/frosthaven/forums/0) - Another active forum, and the previous home of this FAQ. Spoiler tags are appreciated, but are completely unmoderated.
+- [Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
 
 ![divider](/assets/images/divider.png)
 
@@ -124,13 +134,13 @@ I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, a
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_11" class="page-number">1.1</a> Second Printing Changes
+### <a name="page_11" class="page-number">1.1</a> Second Printing Non-Errata Changes
 
 In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
 
-- The Deathwalker board changes regarding adjacency noted in her class section are now on the Deathwalker board.
 - Blinkblade 3 Make It Count (bot) - the green box with Move 1 now has Move 2.
 - Shackles Level 8 <span class="hidden">"Wave of Anguish" card name has been changed to "Wave of Suffering" to resolve the card name duplication with Deathwalker.</span>
+- Building 74 Conclusion <span class="hidden">The solution to the Ancient Coin puzzle changed between printings. All references to the puzzle solution section were changed as well. It is solvable in both printings.</span>
 
 ![divider](/assets/images/divider.png)
 
@@ -1241,55 +1251,66 @@ Basically, if an item only makes sense if used within another ability or in reac
 **Item 026** - <span class="hidden">**Truesight Lenses  - Do I need to use these before drawing a modifier?** Yes. These must be used before drawing a card.
 **What happens if I draw a negative modifier with added effects, like "-1 Add Time Token?"** The extra effects are kept but the attack modifier value changes from -1 to +0. In this example, it changes to a +0 Add Time Token.</span>
 
-**Item 033** - <span class="hidden">This item can be used in moves granted to you on others' turns. If so, it is still available for use on your turn. Either way, it will be flipped (once) at the end of your turn. Technically the other side could be used like this too.</span>
+**Item 033** - <span class="hidden">**Volatile Boots** - This item can be used in moves granted to you on others' turns. If so, it is still available for use on your turn. Either way, it will be flipped (once) at the end of your turn. Technically the other side could be used like this too.</span>
 
 **Item 046** - <span class="hidden">**Double-Lens Goggles - How do these work if I have, for example, a -1 Add Time Token modifier drawn?** The numeric value of the modifier card changes but all the extra effects are retained. In this example, it changes to a +1 Add Time Token.</span>
 
-**Item 049** - <span class="hidden">**Cruel Dagger** This item is missing a Spent symbol.</span> 
+**Item 049, 1st Printing Errata** - <span class="hidden">**Cruel Dagger** This item is missing a Spent symbol.</span> 
 
 **Item 076** - <span class="hidden">**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
 
-**Item 084** - <span class="hidden">Level X cards are Level 1 cards for all purposes.</span>
+**Item 084** - <span class="hidden">**Stamina Potion** - Level X cards are Level 1 cards for all purposes.</span>
 
-**Item 093** - <span class="hidden">You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.
+**Item 093** - <span class="hidden">**Glancing Potion** - You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.
 This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.</span>
 
-**Item 098** - <span class="hidden"><b>If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?</b> For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not ‘remember’ which specific ingredients your original potion was made from, the alchemy board does.
-<b>This item has no cost in the card. Can I just take it whenever I want for free?</b> No. Potion costs are set by the alchemy board, not the item card.
-<b>I don't get it, this item is terrible.</b> This can be used for crafting and a few other uses. It can also be distilled to 'transform' herbs as described above.</span>
+<details>
+<summary><b>Item 098</b></summary>
 
-**Item 109** - <span class="hidden">**Can I use the same potion twice in one turn with this?**  Sometimes. If a potion does not have a round bonus icon (like a healing potion), you can refresh it and use it again during your turn.  If a potion has a round bonus (like Item 088), it cannot be; round bonuses can't be dismissed, and even if you could, dismissing it would end the first potion's effect.</span>
+<p><b>Unhealthy Mixture - If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?</b> For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not 'remember' which specific ingredients your original potion was made from, the alchemy board does.</p>
+<p><b>This item has no cost in the card. Can I just take it whenever I want for free?</b> No. Potion costs are set by the alchemy board, not the item card.</p>
+<p><b>I don't get it, this item is terrible.</b> This can be used for crafting and a few other uses. It can also be distilled to 'transform' herbs as described above.</p>
 
-**Item 110** - <span class="hidden">You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.  
+</details>
+<br>
+**Item 109** - <span class="hidden">**Major Renewing Potion - Can I use the same potion twice in one turn with this?**  Sometimes. If a potion does not have a round bonus icon (like a healing potion), you can refresh it and use it again during your turn.  If a potion has a round bonus (like Item 088), it cannot be; round bonuses can't be dismissed, and even if you could, dismissing it would end the first potion's effect.</span>
+
+**Item 110** - <span class="hidden">**Precision Potion** - You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.  
 This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.</span>
 
-**Item 113** - <span class="hidden">If the card chosen has one Lost action and one non-loss persistent, the persistent effectively becomes a Persistent Loss. It will go to the lost pile, not discard, when the persistent is removed.</span>
+**Item 113** - <span class="hidden">**Expertise Potion** - If the card chosen has one Lost action and one non-loss persistent, the persistent effectively becomes a Persistent Loss. It will go to the lost pile, not discard, when the persistent is removed.</span>
 
-**Item 115** - <span class="hidden">**How does this work for effects that require multiple elements to be consumed? **You still need to consume any other elements needed. This only lets you ignore one.</span>
+**Item 115** - <span class="hidden">**Infusion Potion - How does this work for effects that require multiple elements to be consumed? **You still need to consume any other elements needed. This only lets you ignore one.</span>
 
-**Item 119** - <span class="hidden">Can I distill the Deadly Mixture? What happens?  No, it is forbidden per the Level 3 Alchemist rules.</span>
+**Item 119** - <span class="hidden">**Deadly Mixture - Can I distill the Deadly Mixture? What happens?** No, it is forbidden per the Level 3 Alchemist rules. It can be sold for 6 gold.</span>
 
 **Item 124 Winged Shoes - Can I use this in the middle of a move if I suddenly need or want to jump?** No; using Winged Shoes is an ability, and therefore can't be performed in the middle of another ability. Please see the general item rules, above.
 
 **Item 180** - <span class="hidden"><b>Boots of Greed - do Loot abilities I grant to my Summons count for this item?</b> Yes. Your summons' loot abilities are considered your loot abilities for all purposes.</span>
 
-**Item 188** - <span class="hidden">The Water hex this item can create is considered Difficult Terrain.</span>
+**Item 188** - <span class="hidden">**Freezing Crystal** - The Water hex this item can create is considered Difficult Terrain.</span>
 
-**Item 218** - <span class="hidden">The benefits to enemies are considered "negative effects" from the player perspective, and are therefore not skippable.</span>
+**Item 218** - <span class="hidden">**Tome of Life** - The benefits to enemies are considered "negative effects" from the player perspective, and are not skippable.</span>
 
-**Item 219** - <span class="hidden">A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
+**Item 219** - <span class="hidden">**Tome of Conflict** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
 
 **Item 225** - **1st Printing Errata** <span class="hidden">This is a one-handed item not a chest slot.</span>
 
-**Item 226** - <span class="hidden">The "numeric value" referred to here is only the actual attack modification value, such as the "+1".</span>
+**Item 226** - <span class="hidden">**Unfettered Arm** The "numeric value" referred to here is only the actual attack modification value, such as the "+1", and not to anything else, like shield values.</span>
 
-**Item 242** - <span class="hidden">A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
+**Item 242** - <span class="hidden">**Lucky Dice** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
 
-**Item 244, Question 1** <span class="hidden">**I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?** Just one. This item affects one ability, not the entire action - even if an ability gets repeated. **Can this apply to modifications to abilities, or only the base values?** This can only apply to the base values; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.</span> 
+<details>
+<summary><b>Item 244</b></summary>
 
-**Item 253** - <span class="hidden">This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
+<p><b>Ember Energy Source - I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?</b> Just one. This item affects one ability, not the entire action - even if an ability gets repeated.</p>
+<p><b>Can this apply to modifications to abilities, or only the base values?</b> This can only apply to the base values of an ability; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.</p>
 
-**Item 259** - <span class="hidden">This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
+</details>
+<br>
+**Item 253** - <span class="hidden">**Mask of Duality** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
+
+**Item 259** - <span class="hidden">**Storm Carving** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
 
 <script>
