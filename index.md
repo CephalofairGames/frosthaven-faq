@@ -52,11 +52,11 @@
 
 ![divider](/assets/images/divider.png)
 
-## ![left](/assets/images/leftsmall.png) 0.0 Introduction ![right](/assets/images/rightsmall.png)
+## 0.0 Introduction
 
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries.
 
-### ![left](/assets/images/leftsmall.png) 0.1 Spoilers ![right](/assets/images/rightsmall.png)
+### 0.1 Spoilers
 
 I follow official Spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class icon, envelope/building number, scenario number, or item number. Note that starting buildings, higher-level cards for starters, scenarios 0-1, Personal Quests 01-10, and actions/statistics for common monsters are not spoilers, and will not be treated as such.
 
@@ -120,6 +120,8 @@ I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, a
 
 **Bonus** - If you think you are missing **two boss standees**, you are probably not. See the Component and First Time Setup Questions, below.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 1.1 Second Printing Changes
 
 In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
@@ -174,6 +176,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Am I allowed to exhaust for a mastery that requires me to keep a summon alive until the end of a scenario?** No. If you exhaust, your summons are removed from the board before the end of the scenario. 
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 3.2 Personal Quests
 
 **My Personal Quest gives me a scenario and says to 'follow it to its conclusion.' What does that mean? Do I retire after the scenario?** You keep going until the game explicitly tells you that your quest is complete in a gold Scenario Rewards box. A general rule is that these take more than one scenario and involve calendar entries and delays between scenarios. The character who owns the PQ must participate in these quest scenarios. It is recommended you complete any scenarios unlocked by your Personal Quest as early as possible, because there are unavoidable calendar-based delays between them.
@@ -200,6 +204,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **PQ 19** <span class="hidden">"Gain the blueprint for the Abyss Axe" is an instruction for the player, not a PQ requirement. You gain this blueprint in your Craftable Supply (not the item itself) upon starting the quest, regardless of the level of your Craftsman. The activated ability of the Axe must be used on the hit that kills the enemy for it to count.</span>
 
 **PQ 23** <span class="hidden">When you complete this quest and open Envelope A, </span><span class="hidden">immediately upgrade Building 81 to Level 2 at no cost.</span>
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### 3.3 Events and Traits
 **Is my Ancestry another trait?** Effectively, yes, your Ancestry (quatryl, human, etc.) can operate as an additional Trait for your character. It operates like all other Traits on your character board. 
@@ -258,6 +264,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Does moving back and forth between two hexes count as moving?** Yes. While there is no such thing as a Move 0 in Frosthaven, you can still end up in your origin hex if you have sufficient movement.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 4.2 Damage, Shield, Ward, and Brittle
 
 **When I lose a card to avoid all damage, do I lose Ward and/or Brittle?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
@@ -276,6 +284,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **I have an ability which refers to the damage an ally "would suffer." Is this likewise capped by the ally's HP?** No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 4.3 AMD Draws, Advantage, and Disadvantage
 
 **What is the order of operations if I draw a x2 or Null on a draw with rolling modifiers?** If a Null (x0) is included in the final attack modifier draws, no matter where, the final damage will always be 0. If you draw a x2, it can be inserted at any time during attack modification including at the very end. (For example, if I have an Attack 3, draw a rolling +1, and finally a x2, I can decide if my final damage is 7 (3x2) + 1 or 8 (3+1) x2.)
@@ -284,7 +294,10 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Which deck do my summons (like Boneshaper skeletons) draw from?** All summons draw from their summoner's deck.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 4.4 Negative Conditions
+
 (For Brittle, see Section 4.2)
 
 **Does removing a summon with a negative condition count as removing a negative condition from it?** No.
@@ -296,6 +309,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item like Crude Shield, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to the remaining attack modifier deck. Once in an attack modifier deck, the Curse is no longer considered a negative condition.
 
 ### 4.5 General Player Ability Questions and Clarifications
+
+![divider-narrow](/assets/images/divider2.png)
 
 **If I have an Ability with a “Target All” can I choose to exclude some targets?** If there isn’t a Mandatory box, and it's not a negative effect on you or your allies, you can choose to exclude targets from a Target All effect.
 
@@ -326,6 +341,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - Attack X is always a melee attack at the value provided. It can be granted to a non-objective figure that does not have an inherent Attack value.
 - Attack +X depends on the monster's or summon's inherent attack value. For monsters, this attack is always melee. For a Summon, however, *it will inherit any Range characteristic the Summon always has (if any)*.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 4.6 Loot Deck Questions
 
 *(please see 2.0 Component Questions if you have questions about the two coin cards with checkboxes)*
@@ -342,6 +359,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Do my summons drop loot tokens when they are killed?** No. Only enemy monsters can drop loot tokens. 
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 4.7 Objectives
 
 **Does destroying an objective count as a "kill" for abilities or battle goals?** No. Objectives are destroyed, not killed. 
@@ -353,6 +372,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **If an Objective occupies more than one hex, can I attack it more than once with a red hex AoE pattern that targets more than one of its hexes?** No. No matter how many hexes an Objective occupies, it's still just one figure.
 
 **If an Objective occupies more than one hex, can I target the hex furthest from me? Say, if I'm adjacent to one hex, can I target my ranged attack at a non-adjacent one to avoid disadvantage? Or to avoid melee Retaliate?** Yes and No. Even though the Objective occupies more than one hex, it's still just one figure, so if you are adjacent to it you'll still have Disadvantage and/or suffer Retaliate. But, with that said, all hexes of the Objective are targetable, for red hex patterns or (e.g.) Geminate's precise ranges. 
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### 4.8 Monster Focus, Abilities, and Stats
 
@@ -380,10 +401,16 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **When does a Monster consume an element? When does a Monster infuse an element?** If any monster in a set is going to perform any ability this round, elements are consumed at the start of the first monster in the set's turn, and elements are infused after the last monster in the set's turn. All monsters in the set benefit from any elemental consumption.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 4.9 Uncategorized
+
 **I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for Banner Spear formations or anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 4.10 Challenges
+
 *Note that each Challenge card has a name. For lack of a clear better option, I am using these names to identify which one a FAQ entry refers to. There are, I suppose, minor spoilers in this section as a necessity.*
 
 **What are Challenges? Should I be using them?** While you shuffle the Challenge deck during game setup, they are not supposed to be used until the mechanic for them is unlocked. You will know when you're able to start including them in your game, and what they do. While their existence is not a spoiler, their purpose and contents are.
@@ -440,7 +467,10 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - Wall M - 4 Prosperity, 4 wood, 3 metal, 3 hide, 10 gold
 - Wall N - 6 Prosperity, 6 wood, 3 metal 2 hide, 10 gold
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 5.1 Specific Building Questions
+
 **How do the Workshop Upgrades work?** The three methods of transportation - Climbing Tools, Sled, and Boat - are all considered Building Upgrades. They are constrained by the 1 per Construction Phase build/upgrade limit, and count towards any relevant retirement goals.
 
 **Is there a way to upgrade the Barracks?** The barracks can only be upgraded under specific circumstances. You will know if you can.
@@ -467,6 +497,8 @@ Level 3 should have a building prerequisite of already owning the first three An
 **Building 90** <span class="hidden">See #3e# for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
 </span>
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### 5.2 Enhancements
 *Note: for questions about the building effects at each level, see its building number, above. This section is for general questions about enhancements. This section will not be spoiler-tagged.*
 
@@ -475,6 +507,8 @@ Level 3 should have a building prerequisite of already owning the first three An
 **If I am enhancing an ability that can only affect multiple targets when an element is consumed or some other condition is met, does it cost double to enhance?** Yes. If an ability has conditional multi-targets, it still costs double. *This is a change from Gloomhaven.*
 
 **My Summon has an inherent multi-target attack. Will enhancing its Range or Attack cost double the normal cost for a summon?** Yes.
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### 5.3 Building 81 Questions
 
@@ -571,6 +605,8 @@ Level 3 should have a building prerequisite of already owning the first three An
 **How much scenario information are we allowed to look at while trying to decide which one to go to next? Can I look at the loot tables, the monsters, etc. before picking in order to get PQ progress?** You can look at anything on the main page(s) of the scenario - including the loot deck, layout, complexity, monster list, presence of treasure tiles, etc. - but not any section links. 
 
 **If there is a calculation, but no indication of the direction of rounding, what direction do you round?** Usually a calculation will tell you the intended direction of rounding. If it does not, assume it rounds up.
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### 7.1 Specific Scenario Questions
 
@@ -941,6 +977,7 @@ A jump or ranged attack between the "balconies" requires counting the distance. 
 
 </details>
 
+![divider-narrow](/assets/images/divider2.png)
 
 ### 7.2 Solo Scenario Questions
 **Can I gain Masteries or Battle Goals during a Solo Scenario? Can I progress my PQ? Do I gain Inspiration?** You can pursue Masteries and Battle Goals, but solo scenarios are probably enough of a challenge without them! You can also progress towards retirement. You do not gain Inspiration - Inspiration is based on party size, and both the minimum and maximum party size for a solo scenario is 1.
@@ -1012,6 +1049,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **Can I use my Scavenger perk to help me complete a loot-based PQ like A Study of Plants?** No. These quests specify "through loot tokens" so this perk can't help with them. 
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) **8.2 Blinkblade**
 
 **General Note about Range modifications** - You have several abilities which add Range to a Melee attack. Note that if you add Range to a Melee attack, you add the modifier to 1 and it becomes a Ranged attack. (So if you use Kinetic Transfer top while Slow, your Attack becomes Ranged and has Range 2.) As it says on your board, this range modification is mandatory and cannot be skipped.
@@ -1036,6 +1075,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 **Blurry Jab (1) - If I'm Fast, can I choose not to Wound?** While it is mandatory that Fast effect has turned this into an Attack 4 Wound, you may, as always, choose not to apply the Wound effect to the Attack 4.
 
 **Fractured Timeline (9, top) - If I spawn a summoning ally, are their summons also my allies?** No. In all cases for all classes, when you are controlling a monster, you don't control their summons. Their summons will be enemies to you (and to them). 
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Banner Spear Icon](/assets/images/03_banner_spear.webp) **8.3 Banner Spear**
 
@@ -1064,6 +1105,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 **Set for the Charge (1, top)** - The top works on forced movement as well as normal movement. 
 
 **Boldening Blow (4, top)** - The "one target" limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) **8.4 Deathwalker**
 
@@ -1102,6 +1145,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 **Shadow Step (1, top) - Can I open a door with this movement? What happens if opening the door causes something that makes it so I no longer have a shadow for my destination hex?** Yes, you can open a door with this action, assuming you have a hex with a shadow to end your move in. If something happens after opening the door which makes it impossible for you to end your move in a shadow, your move ability immediately ends.
 **Can I choose a path that I know will make it impossible to end in a shadow? Say, into an Immobilize trap?** No. You must perform this action "in good faith" with a path that will end your movement in a shadow.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) **8.5 Boneshaper**
 
 **For my "15 Kills" Mastery, what counts as ‘killing’ one of my summons? And do I really need to do it within one scenario?** You have specific abilities and attack modifiers (example: Exploding Corpse) which kill one of your summons. It has to be done through these. Unsummoning does not count, moving them into traps does not count, etc. Yes, this needs to be completed in one scenario.
@@ -1126,6 +1171,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 **Putrid Cloud (3) - When does damage happen on the persistent effect?** All damage is resolved immediately following each attack. It’s possible for an enemy to die before they complete all of their attacks on a multi-target attack ability. 
 
 **Endless Numbers (8 top) - If one of my skeletons moves through the Bone Horde, but would not normally end its move there, can I choose to have it end its move early?** No. The "may end" verbiage on Bone Horde allows a skeleton end its normal movement in the Bone Horde's hex, but is not indicating you may choose end its movement early.
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Geminate Icon](/assets/images/06_geminate.webp) **8.6 Geminate**
 
@@ -1155,6 +1202,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 **If I use an item or effect that lets me take another action at the end of my turn, but I have already played an action that would make me Switch Form, which Form is the new card in?** Form changes happen during the end of turn wrap-up (see section 4.5). You would still play cards from the form you are presently in.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### ![Astral Icon](/assets/images/07_astral.webp) **8.7 "Astral" or "Moon and Star"**
 
 <details>
@@ -1182,6 +1231,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Meteor Icon](/assets/images/08_meteor.webp) 8.8 **"Meteor"**
 
@@ -1215,6 +1266,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 </details>
 <br>
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### ![Shards Icon](/assets/images/09_shards.webp) **8.9 "Shards"**
 
 <details>
@@ -1226,6 +1279,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Trap Icon](/assets/images/10_trap.webp) **8.10 "Trap"**
 
@@ -1256,6 +1311,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Shackles Icon](/assets/images/11_shackles.webp) **8.11 "Shackles"**
 
@@ -1288,6 +1345,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 </details>
 <br>
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### ![Snowflake Icon](/assets/images/12_snowflake.webp) **8.12 "Snowflake"**
 
 <details>
@@ -1307,6 +1366,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Fist Icon](/assets/images/13_fist.webp) **8.13 "Fist"**
 
@@ -1328,6 +1389,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 </details>
 <br>
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### ![Kelp Icon](/assets/images/14_kelp.webp) **8.14 "Kelp" (or "Seaweed")**
 
 <details>
@@ -1341,6 +1404,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Coral Icon](/assets/images/15_coral.webp) **8.15 "Coral" (or "Anemone")**
 
@@ -1357,6 +1422,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Prism Icon](/assets/images/16_prism.webp) **8.16 "Prism" (or "Diamond")**
 
@@ -1388,6 +1455,8 @@ The special range rule does not affect the Snowspeaker's inherent retaliate.
 
 </details>
 <br>
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### ![Drill Icon](/assets/images/17_drill.webp) **8.17 "Drill"**
 
