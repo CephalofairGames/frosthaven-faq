@@ -1026,7 +1026,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 <p><b>Can I adjust a Default Move or Default Attack with Empowering Note (5)?</b> Yes, you can - they are abilities.</p>
 
-<p><b>For the top of Unsustainable Wave, how much damage did an enemy suffer? Was this the total damage I dealt, including overkill?</b> See <a href="#page_52">Section 5.2</a> for a discussion on the differences between "damage dealt" and "damage suffered." In short, it's capped by the monster's remaining HP and will not include "overkill" damage.
+<p><b>For the top of Unsustainable Wave, how much damage did an enemy suffer? Was this the total damage I dealt, including overkill?</b> See <a href="#page_52">Section 5.2</a> for a discussion on the differences between "damage dealt" and "damage suffered." In short, it's capped by the monster's remaining HP and will not include "overkill" damage.</p>
 
 </details>
 <br>
