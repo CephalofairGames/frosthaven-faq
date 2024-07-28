@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 7/27/2024 v0.942*
+*Last Updated 7/28/2024 v0.95*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -13,21 +13,21 @@
    1. <a href="#page_31">Masteries</a>
    1. <a href="#page_32">Personal Quests</a>
    1. <a href="#page_33">Events and Traits</a>
-1. <a href="#page_4">General Gameplay Questions (Scenarios)</a>
-   1. <a href="#page_41">Rooms, Movement, Forced Movement, and Overlays</a>
-   1. <a href="#page_42">Damage, Shield, Ward, and Brittle</a>
-   1. <a href="#page_43">Attack Modifier Draws, Advantage, and Disadvantage</a>
-   1. <a href="#page_44">Negative Conditions</a>
-   1. <a href="#page_45">General Player Ability Questions and Clarifications</a>
-   1. <a href="#page_46">Loot Deck Questions</a>
-   1. <a href="#page_47">Objectives</a>
-   1. <a href="#page_48">Monster Focus, Abilities, and Stats</a>
-   1. <a href="#page_49">Uncategorized</a>
-   1. <a href="#page_410">Challenges</a>
-1. <a href="#page_5">Outpost General Questions</a>
-   1. <a href="#page_51">Specific Building Questions</a>
-   1. <a href="#page_52">Enhancements</a>
-   1. <a href="#page_53">Building 81 Questions</a>
+1. <a href="#page_4">Outpost General Questions</a>
+   1. <a href="#page_41">Specific Building Questions</a>
+   1. <a href="#page_42">Enhancements</a>
+   1. <a href="#page_43">Building 81 Questions</a>
+1. <a href="#page_5">General Gameplay Questions (Scenarios)</a>
+   1. <a href="#page_51">Rooms, Movement, Forced Movement, and Overlays</a>
+   1. <a href="#page_52">Damage, Shield, Ward, and Brittle</a>
+   1. <a href="#page_53">Attack Modifier Draws, Advantage, and Disadvantage</a>
+   1. <a href="#page_54">Negative Conditions</a>
+   1. <a href="#page_55">General Player Ability Questions and Clarifications</a>
+   1. <a href="#page_56">Loot Deck Questions</a>
+   1. <a href="#page_57">Objectives</a>
+   1. <a href="#page_58">Monster Focus, Abilities, and Stats</a>
+   1. <a href="#page_59">Uncategorized</a>
+   1. <a href="#page_510">Challenges</a>
 1. <a href="#page_6">Monster Questions</a>
 1. <a href="#page_7">General Scenario Questions</a>
    1. <a href="#page_71">Specific Scenario Questions</a>
@@ -61,13 +61,19 @@ This is the official FAQ for Frosthaven. It will be continuously updated as more
 
 Why github and not BoardGameGeek? Primarily, because github can be edited by multiple Cephalofair accounts, not just my personal forum account. Github also allows for features like direct linking to sections, a clickable table of contents, richer formatting, and easy version tracking. It has worked excellently for the [Buttons & Bugs Living Rules](https://cephalofairgames.github.io/bnb-rules/), and it seemed sensible to put Official FAQs here, as well.
 
+![divider](/assets/images/divider2.png)
+
 ### 0.1 Spoilers
 
-I follow official Spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope/building number, scenario number, or item number. Note that starting buildings, all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, and abilities/statistics for common monsters are not spoilers, and will not be treated as such.
+I follow official spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope/building number, scenario number, or item number. Note that starting buildings, all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please note that your in-browser Find function can also find words behind spoiler tags.
+
+![divider](/assets/images/divider2.png)
 
 ### 0.2 About Me
 
 I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
+
+![divider](/assets/images/divider2.png)
 
 ### 0.3 How to Ask Questions and Helpful links
 
@@ -131,7 +137,7 @@ Most of these questions were asked by the community. If you have a question that
 - Building 74 Level 3 <span class="hidden">This should have a requirement to build of already having 3 coins.</span>
 - The following scenarios are exceeding counts for some overlay tiles: Scenario 17 (needs 5 pressure plates), Scenario 45 (only 2 barrels in game), 52 (6 Snow Rocks, only 5 in the box), 83 (too many dungeon corridors), 109 (6 single debris tiles, only 5 in the box), and 120 (only 2 barrels in game). Thanks to waitepb for collecting these and sending them to me.
 
-**Bonus** - If you think you are missing **two boss standees**, you are probably not. See the Component and First Time Setup Questions, below.
+**Bonus** - If you think you are missing **two boss standees, FF and SD**, you are probably not. It will become clear when you need them.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -249,9 +255,118 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_4" class="page-number">4.0</a> General Gameplay Questions (Scenario)
+## <a name="page_4" class="page-number">4.0</a> Outpost General Questions
+**How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
 
-### <a name="page_41" class="page-number">4.1</a> Rooms, Movement, Forced Movement, and Overlays
+**Does increasing my Prosperity add more items to the Craftsman?** Kind of - it opens up new levels of the Craftsman and maybe other shops you've unlocked. When you improve those, you add more items to the available pool.
+
+**What happens if I gain Morale as a reward but I'm already at 20 Morale?** Nothing. Morale is capped at 20. 
+
+**How does the Calendar work? What week am I on?** It's not really helpful to think in terms of where you "are." There's basically three rules - 
+1. When adding a section number to the calendar, count from the *last marked box*, whether it's at the end of a scenario, another section, or an event card. (So, for example, if you mark 'in one week' at the end of a scenario, the section will be read on returning to Frosthaven.)
+1. When you X out a box during Passage of Time, read the section numbers from that box. 
+1. Draw from the season corresponding to the *next unmarked box* when drawing event cards. 
+
+**Does this mean I only have 9 summer outpost events during Year 1?** Yes. You actually only get 9 summer road events during Year 1, too. 
+
+**What’s Frosthaven’s starting Defense?** Your Defense is 0, modified by your Morale track bonus (or penalty) after Scenario 1 is completed. It will change as your morale increases or decreases, and as walls are built. 
+
+**What do the symbols for building and upgrading mean?** They are, in order Prosperity Required (which is not a cost), Lumber, Metal, Hide, and Gold.
+
+**What buildings are available to me at the start of the game?** You start with the Barracks, the Alchemist, the Craftsman, and the Workshop, all at Level 1. 
+
+**What can I build at the start of the game?**
+- You have foundations for a Logging Camp, a Mining Camp, and a Hunter’s Lodge, which can be built to Level 1 by paying the cost on the map. 
+- You can build Wall Section J at Prosperity 1, like you’re at now, using the cost on the map.
+- You can Upgrade the Craftsman and Alchemist, using the costs on their building cards.
+- You can build any of the three Travel Tools as a Workshop upgrade, using the cost on its building card.
+
+**Can I build the Walls? There’s no building cards for them.** There are no building cards for the walls, just map stickers. They have a permanent effect when built, which is a +5 to Frosthaven’s Defense. Only one Wall can be built at Prosperity 1; the others are available at higher Prosperity levels, as indicated on the map. They count as a build/upgrade during your Outpost Phase, and do not increase Prosperity when built.
+
+**What happens when I unlock a building envelope?** You immediately place the Level 0 sticker, which represents the foundations being laid. This sticker will show you the costs to build Level 1 of the building, at which point you'd include the Level 1 card for the building in your building deck. You can look at all the envelope contents *(except for the decks of cards in Envelope B and Envelope 81)* immediately.
+
+**What do the Sun and the Moon mean on the building cards?** The Sun effect happens during Building Operations (Step 3 of the Outpost Phase), when you sequentially go through the building card deck in order. Most operations here are optional, but any Wrecked building effects are mandatory.  The Moon effects are ways to interact with the building during Downtime (Step 4 of the Outpost Phase).
+
+**If a character did not participate in a scenario, can they participate in the outpost phase afterwards? Will their traits count for event resolution?** Because the Outpost Phase follows the Scenario Phase, only those who participated in the previous scenario can participate in the Outpost Phase before Downtime. New characters created during Downtime can participate in that week's Downtime and Construction phases.
+
+**If I spend the Morale cost for an extra build/upgrade, can I upgrade the same building twice?** Yes; just make sure you meet all Prosperity requirements and then upgrade it once, and then a second time to trigger any mandatory one-time effects.
+
+**I covered up the build costs for a building on the map. How much did it cost to build?** 
+- Mining Camp - 4 wood, 2 metal, 1 hide, 10 gold 
+- Hunting Lodge - 4 wood, 1 metal, 2 hide, 10 gold
+- Logging Camp - 2 wood, 3 metal, 2 hide, 10 gold
+- Wall J - 1 Prosperity, 4 wood, 10 gold
+- Wall K - 2 Prosperity, 3 wood, 2 metal, 2 hide, 10 gold
+- Wall L - 3 Prosperity, 5 wood, 2 metal, 1 hide, 10 gold
+- Wall M - 4 Prosperity, 4 wood, 3 metal, 3 hide, 10 gold
+- Wall N - 6 Prosperity, 6 wood, 3 metal 2 hide, 10 gold
+
+![divider-narrow](/assets/images/divider2.png)
+
+### <a name="page_41" class="page-number">4.1</a> Specific Building Questions
+
+*For questions about Solo Scenarios and specific Buildings, please see section <a href="#page_72">Section 7.2</a>
+
+**How do the Workshop Upgrades work?** The three methods of transportation - Climbing Tools, Sled, and Boat - are all considered Building Upgrades. They are constrained by the 1 per Construction Phase build/upgrade limit, and count towards any relevant retirement goals.
+
+**Is there a way to upgrade the Barracks?** The barracks can only be upgraded under specific circumstances. You will know if you can. If you want specifics, <span class="hidden">they are made available through Outpost Events.</span>
+
+**What happens if I gain Soldiers as a reward but I'm already at the Barracks maximum capacity?** Nothing. You don't gain the Soldiers. 
+
+**Resource Buildings - How many times can we use these per outpost phase?** You can collectively use each building once per outpost phase, and purchase up to as many materials as the building allows. This is once per party per outpost phase, not once per character. This means a Level 1 Mining Camp (for example) can provide only 1 metal total per outpost phase. 
+
+**Resource Buildings - Who gets the resource? Who pays for it?** Whenever you ‘collectively’ gain one or more resources, they can be taken by any active player or placed into the Frosthaven supply. The costs can likewise be paid by any active player. The player paying the cost does not need to be the player who receives the resource. 
+
+**Building 44**
+- Level 2 - <span class="hidden">**When does the 10g discount apply? Before or after modifiers for mutli-target, lost card, etc.?**  This cost reduction happens after all other modifiers are applied.</span>
+- Level 3 - <span class="hidden">This building effect reduces the level penalties by 10 each, so each one is 15 gold instead of 25 gold. There's no level penalty for Level 1/X cards, so the building can't reduce its level penalty.</span>
+- Level 4 - <span class="hidden">This building effect reduces the additional enhancement penalties by 25 each, so each penalty is 50 gold instead of 75 gold. There's no additional enhancement penalty for actions getting their first enhancement, so those costs can't be reduced.</span>
+
+**Building 74** <span class="hidden">The Ancient Coins are gained one at a time through the special loot cards and other events. They should be considered party items, don't belong to individual characters, and never return to any Supply. Level 3 should have a building prerequisite of already owning the first three Ancient Coins. It cannot be upgraded to this level until that prerequisite is met.</span>
+
+**Building 81** - See section <a href="#page_43">4.3</a> for all questions related to this building.
+
+**Building 88** - <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
+
+**Building 90** - <span class="hidden">See #3e# for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
+</span>
+
+![divider-narrow](/assets/images/divider2.png)
+
+### <a name="page_42" class="page-number">4.2</a> Enhancements
+*Note: for questions about the building effects at each level, see its building number, above. This section is for general questions about enhancements. This section will not be spoiler-tagged.*
+
+**Is there a limit on the number of enhancements a character can have?** No, there's no limit. This is a change from Gloomhaven.
+
+**If I am enhancing an ability that can only affect multiple targets when an element is consumed or some other condition is met, does it cost double to enhance?** Yes. If an ability has conditional multi-targets, it still costs double. *This is a change from Gloomhaven.*
+
+**My Summon has an inherent multi-target attack. Will enhancing its Range or Attack cost double the normal cost for a summon?** Yes.
+
+![divider-narrow](/assets/images/divider2.png)
+
+### <a name="page_43" class="page-number">4.3</a> Building 81 Questions
+
+<details>
+<summary><b>Spoilers for Building 81</b></summary>
+
+<p>Do not look through or shuffle the deck that is included in this envelope. If you have a first printing copy of Frosthaven, you will need to reverse the order of this deck. You can quickly check this by looking at the bottom card. If it says "T___ of W______", you need to reverse the order.</p>
+
+<p><b>Building 81, Envelope A</b> <span class="hidden">Upon opening this envelope, you should immediately build Level 2 of Building 81 at no cost.</span></p>
+
+<p><b>Building 81 Completion Rewards, Errata</b> - <span class="hidden">Rulebook Appendix F - "Wealth" costs 2 points, not 1.</span></p>
+
+<h4>Specific Trial Questions</h4>
+<p>Trials are referred to here by their Card Number, which is in the lower left hand corner.</p>
+<p><b>Trial 0355</b> <span class="hidden">The standee number here is for enemies only. It does not include scenario allies or summons.</span></p>
+<p><b>Trial 0359</b> <span class="hidden">You get the check marks for any battle goal you pass while you have this Trial, potentially multiple goals per scenario.</span></p>
+</details>
+<br>
+
+![divider](/assets/images/divider.png)
+
+## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario)
+
+### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays
 
 **What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, deathwalker shadows, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven.*
 
@@ -279,7 +394,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_42" class="page-number">4.2</a> Damage, Shield, Ward, and Brittle
+### <a name="page_52" class="page-number">5.2</a> Damage, Shield, Ward, and Brittle
 
 **When I lose a card to avoid all damage, do I lose Ward and/or Brittle?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
 
@@ -299,7 +414,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_43" class="page-number">4.3</a> Attack Modifier Draws, Advantage, and Disadvantage
+### <a name="page_53" class="page-number">5.3</a> Attack Modifier Draws, Advantage, and Disadvantage
 
 **What is the order of operations if I draw a x2 or Null on a draw with rolling modifiers?** If a Null (x0) is included in the final attack modifier draws, no matter where, the final damage will always be 0. If you draw a x2, it can be inserted at any time during attack modification including at the very end. (For example, if I have an Attack 3, draw a rolling +1, and finally a x2, I can decide if my final damage is 7 (3x2) + 1 or 8 (3+1) x2.)
 
@@ -309,7 +424,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_44" class="page-number">4.4</a> Negative Conditions
+### <a name="page_54" class="page-number">5.4</a> Negative Conditions
 
 (For Brittle, see Section 4.2)
 
@@ -323,7 +438,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_45" class="page-number">4.5</a> General Player Ability Questions and Clarifications
+### <a name="page_55" class="page-number">5.5</a> General Player Ability Questions and Clarifications
 
 **If I have an Ability with a “Target All” can I choose to exclude some targets?** If there isn’t a Mandatory box, and it's not a negative effect on you or your allies, you can choose to exclude targets from a Target All effect.
 
@@ -360,7 +475,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_46" class="page-number">4.6</a> Loot Deck Questions
+### <a name="page_56" class="page-number">5.6</a> Loot Deck Questions
 
 *(please see 2.0 Component Questions if you have questions about the two coin cards with checkboxes)*
 
@@ -378,7 +493,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_47" class="page-number">4.7</a> Objectives
+### <a name="page_57" class="page-number">5.7</a> Objectives
 
 **Does destroying an objective count as a "kill" for abilities or battle goals?** No. Objectives are destroyed, not killed. 
 
@@ -392,7 +507,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_48" class="page-number">4.8</a> Monster Focus, Abilities, and Stats
+### <a name="page_58" class="page-number">5.8</a> Monster Focus, Abilities, and Stats
 
 **If a monster with a ranged attack is adjacent to one enemy, but could attack another enemy without disadvantage, which enemy will it attack?** Monster focus doesn't consider disadvantage. It will always prioritize the adjacent enemy in this case. If the monster can safely move away from its focus before the attack, it will do so using the minimum number of hexes in order to lose disadvantage.
 
@@ -420,13 +535,13 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_49" class="page-number">4.9</a> Uncategorized
+### <a name="page_59" class="page-number">5.9</a> Uncategorized
 
 **I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for Banner Spear formations or anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_410" class="page-number">4.10</a> Challenges
+### <a name="page_510" class="page-number">5.10</a> Challenges
 
 *Note that each Challenge card has a name. For lack of a clear better option, I am using these names to identify which one a FAQ entry refers to. There are, I suppose, minor spoilers in this section as a necessity.*
 
@@ -437,113 +552,6 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Barbed** - <span class="hidden">The "undamaged" condition is evaluated at the start of the attack.</span>
 
 **Keep Watch** - <span class="hidden">This is intended to affect both players and summons. Objectives do not take turns, and therefore all your attacks against them would be at Disadvantage.</span>
-
-![divider](/assets/images/divider.png)
-
-## <a name="page_5" class="page-number">5.0</a> Outpost General Questions
-**How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
-
-**Does increasing my Prosperity add more items to the Craftsman?** Kind of - it opens up new levels of the Craftsman and maybe other shops you've unlocked. When you improve those, you add more items to the available pool.
-
-**How does the Calendar work? What week am I on?** It's not really helpful to think in terms of where you "are." There's basically three rules - 
-1 When adding a section number to the calendar, count from the last marked box, whether it's at the end of a scenario, another section, or an event card.
-2 When you X out a box during Passage of Time, read the section numbers from that box. 
-3 Draw from the season corresponding to the next unmarked box when drawing event cards. 
-
-**Does this mean I only have 9 summer outpost events during Year 1?** Yes. You actually only get 9 summer road events during Year 1, too. 
-
-**What’s Frosthaven’s starting Defense?** Your Defense is 0, modified by your Morale track bonus (or penalty) after Scenario 1 is completed. It will change as your morale increases or decreases, and as walls are built. 
-
-**What do the symbols for building and upgrading mean?** They are, in order Prosperity Required (which is not a cost), Lumber, Metal, Hide, and Gold.
-
-**What buildings are available to me at the start of the game?** You start with the Barracks, the Alchemist, the Craftsman, and the Workshop, all at Level 1. 
-
-**What can I build at the start of the game?**
-- You have Foundations for a Logging Camp, a Mining Camp, and a Hunter’s Lodge, which can be built to Level 1 by paying the cost on the board. 
-- You can build Wall Section J at Prosperity 1, like you’re at now.
-- You can Upgrade the Craftsman and Alchemist.
-- You can build any of the three Travel Tools as a Workshop upgrade.
-
-**Can I build the Walls? There’s no building cards for them.** There are no building cards for the walls, just map stickers. They have a permanent effect when built, which is a +5 to Frosthaven’s Defense. Only one Wall can be built at Prosperity 1; the others are available at higher Prosperity levels. They count as a build/upgrade during your Outpost Phase, and do not increase Prosperity when built.
-
-**What happens when I unlock a building envelope?** You immediately place the Level 0 sticker, which represents the foundations being laid. This sticker will show you the costs to build Level 1 of the building, at which point you'd include the Level 1 card for the building in your building deck. You can look at all the envelope contents *(except for the decks of cards in Envelope B and Envelope 81)* immediately.
-
-**What are the Sun and the Moon on the building cards?** The Sun effect happens during Building Operations (Step 3 of the Outpost Phase), when you sequentially go through the building card deck in order. Most operations here are optional, but any Wrecked building effects are mandatory.  The Moon effects are ways to interact with the building during Downtime (Step 4 of the Outpost Phase).
-
-**If a character did not participate in a scenario, can they participate in the outpost phase afterwards? Will their traits count for event resolution?** Because the Outpost Phase follows the Scenario Phase, only those who participated in the previous scenario can participate in the Outpost Phase before Downtime. New characters created during Downtime can participate in that week's Downtime and Construction phases.
-
-**If I spend the Morale cost for an extra build/upgrade, can I upgrade the same building twice?** Yes; just make sure you meet all Prosperity requirements and then upgrade it once, and then a second time to trigger any mandatory one-time effects.
-
-**I covered up the build costs for a building on the map. How much did it cost to build?** 
-- Mining Camp - 4 wood, 2 metal, 1 hide, 10 gold 
-- Hunting Lodge - 4 wood, 1 metal, 2 hide, 10 gold
-- Logging Camp - 2 wood, 3 metal, 2 hide, 10 gold
-- Wall J - 1 Prosperity, 4 wood, 10 gold
-- Wall K - 2 Prosperity, 3 wood, 2 metal, 2 hide, 10 gold
-- Wall L - 3 Prosperity, 5 wood, 2 metal, 1 hide, 10 gold
-- Wall M - 4 Prosperity, 4 wood, 3 metal, 3 hide, 10 gold
-- Wall N - 6 Prosperity, 6 wood, 3 metal 2 hide, 10 gold
-
-![divider-narrow](/assets/images/divider2.png)
-
-### <a name="page_51" class="page-number">5.1</a> Specific Building Questions
-
-**How do the Workshop Upgrades work?** The three methods of transportation - Climbing Tools, Sled, and Boat - are all considered Building Upgrades. They are constrained by the 1 per Construction Phase build/upgrade limit, and count towards any relevant retirement goals.
-
-**Is there a way to upgrade the Barracks?** The barracks can only be upgraded under specific circumstances. You will know if you can.
-
-**What happens if I gain Soldiers as a reward but I'm already at the Barracks maximum capacity?** Nothing. You don't gain the Soldiers. 
-
-**Resource Buildings - How many times can we use these per outpost phase?** You can collectively use each building once per outpost phase, and purchase up to as many materials as the building allows. This is once per party per outpost phase, not once per character. This means a Level 1 Mining Camp (for example) can provide only 1 metal total per outpost phase. 
-
-**Resource Buildings - Who gets the resource? Who pays for it?** Whenever you ‘collectively’ gain one or more resources, they can be taken by any active player or placed into the Frosthaven supply. The costs can likewise be paid by any active player. The player paying the cost does not need to be the player who receives the resource. 
-
-**Building 44**
-- Level 2 - <span class="hidden">**When does the 10g discount apply? Before or after modifiers for mutli-target, lost card, etc.?**  This cost reduction happens after all other modifiers are applied.</span>
-- Level 3 - <span class="hidden">This building effect reduces the level penalties by 10 each, so each one is 15 gold instead of 25 gold. There's no level penalty for Level 1/X cards, so the building can't reduce its level penalty.</span>
-- Level 4 - <span class="hidden">This building effect reduces the additional enhancement penalties by 25 each, so each penalty is 50 gold instead of 75 gold. There's no additional enhancement penalty for actions getting their first enhancement, so those costs can't be reduced.</span>
-
-**Building 74** <span class="hidden">The Ancient Coins are gained one at a time through the special loot cards and other events. They should be considered party items, don't belong to individual characters, and never return to any Supply. 
-
-Level 3 should have a building prerequisite of already owning the first three Ancient Coins. It cannot be upgraded to this stage until that prerequisite is met.</span>
-
-**Building 81** - See section <a href="#page_53">5.3</a> for all questions related to this building.
-
-**Building 88** - <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
-
-**Building 90** - <span class="hidden">See #3e# for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
-</span>
-
-![divider-narrow](/assets/images/divider2.png)
-
-### <a name="page_52" class="page-number">5.2</a> Enhancements
-*Note: for questions about the building effects at each level, see its building number, above. This section is for general questions about enhancements. This section will not be spoiler-tagged.*
-
-**Is there a limit on the number of enhancements a character can have?** No, there's no limit. This is a change from Gloomhaven.
-
-**If I am enhancing an ability that can only affect multiple targets when an element is consumed or some other condition is met, does it cost double to enhance?** Yes. If an ability has conditional multi-targets, it still costs double. *This is a change from Gloomhaven.*
-
-**My Summon has an inherent multi-target attack. Will enhancing its Range or Attack cost double the normal cost for a summon?** Yes.
-
-![divider-narrow](/assets/images/divider2.png)
-
-### <a name="page_53" class="page-number">5.3</a> Building 81 Questions
-
-<details>
-<summary><b>Spoilers for Building 81</b></summary>
-
-<p>Do not look through or shuffle the deck that is included in this envelope. If you have a first printing copy of Frosthaven, you will need to reverse the order of this deck. You can quickly check this by looking at the bottom card. If it says "T___ of W______", you need to reverse the order.</p>
-
-<p><b>Building 81, Envelope A</b> <span class="hidden">Upon opening this envelope, you should immediately build Level 2 of Building 81 at no cost.</span></p>
-
-<p><b>Building 81 Completion Rewards, Errata</b> - <span class="hidden">Rulebook Appendix F - "Wealth" costs 2 points, not 1.</span></p>
-
-<h4>Specific Trial Questions</h4>
-<p>Trials are referred to here by their Card Number, which is in the lower left hand corner.</p>
-<p><b>Trial 0355</b> <span class="hidden">The standee number here is for enemies only. It does not include scenario allies or summons.</span></p>
-<p><b>Trial 0359</b> <span class="hidden">You get the check marks for any battle goal you pass while you have this Trial, potentially multiple goals per scenario.</span></p>
-</details>
-<br>
 
 ![divider](/assets/images/divider.png)
 
@@ -723,7 +731,7 @@ Level 3 should have a building prerequisite of already owning the first three An
 
 **Scenario 90** - <span class="hidden">This scenario does not require the boat to be built at the workshop. It's not necessarily <i>your</i> boat.</span>
 
-**Scenario 92** - <span class="hidden">See <a href="#page_49">Section 4.9</a> if you're wondering how your scenario ally works.</span>
+**Scenario 92** - <span class="hidden">See <a href="#page_59">Section 5.9</a> if you're wondering how your scenario ally works.</span>
 
 **Scenario 96** - <span class="hidden">The stairs are there for aesthetic reasons. The platform follows all normal corridor rules, and you can move on or off as you see fit. When the platform opens doors at the end of the round, newly revealed enemies do not activate.</span>
 
