@@ -26,7 +26,7 @@
    1. <a href="#page_56">Loot Deck Questions</a>
    1. <a href="#page_57">Objectives</a>
    1. <a href="#page_58">Monster Focus, Abilities, and Stats</a>
-   1. <a href="#page_59">Uncategorized</a>
+   1. <a href="#page_59">Scenario Allies</a>
    1. <a href="#page_510">Challenges</a>
 1. <a href="#page_6">Monster Questions</a>
 1. <a href="#page_7">General Scenario Questions</a>
@@ -426,15 +426,15 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ### <a name="page_54" class="page-number">5.4</a> Negative Conditions
 
-(For Brittle, see Section 4.2)
+(For Brittle, see <a href="#page_52">Section 5.2</a>; Brittle is often more a question for damage resolution.)
 
 **Does removing a summon with a negative condition count as removing a negative condition from it?** No.
 
-**What happens if I get Bane on my turn while I already have Bane?** While this is unlikely, any new condition overwrites the old condition; Bane will now trigger at the end of your next turn. This can happen to monsters, as well.
+**What happens if I get Bane on my turn while I already have Bane?** While this should be rare, any new condition overwrites the old condition; Bane will now trigger at the end of your next turn. This can happen to monsters, as well.
 
 **Can I target an enemy with a condition they're immune to?** Yes. It still won't put the condition on the enemy, but this may be important for effects like Boneshaper's Bone Dagger. *This is a change from Gloomhaven 1e* 
 
-**Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item like Crude Shield, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to the remaining attack modifier deck. Once in an attack modifier deck, the Curse is no longer considered a negative condition.
+**Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item like Crude Shield, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to your remaining attack modifier deck. Once the Curse card is in an attack modifier deck, the Curse is no longer considered a negative condition.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -471,17 +471,17 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - Attack X is always a melee attack at the value provided. It can be granted to a non-objective figure that does not have an inherent Attack value.
 - Attack +X depends on the monster's or summon's inherent attack value. For monsters, this attack is always melee. For a Summon, however, *it will inherit any Range characteristic the Summon always has (if any)*.
 
-**Errata for Active Bonuses and Resting** - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting." For example, if a Boneshaper has three skeletons active and zero cards in their discard pile, they can still declare a Long Rest. At the end of this Long Rest, they must Lose one of their active summons.
+**Errata for Active Bonuses and Resting** - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting." For example, if a Boneshaper has two skeleton cards active and zero cards in their discard pile, they can still declare a Long Rest. At the end of this Long Rest, they must Lose one of their active summons.
 
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_56" class="page-number">5.6</a> Loot Deck Questions
 
-*(please see 2.0 Component Questions if you have questions about the two coin cards with checkboxes)*
+**What should I do with the two weird coin cards (loot cards 1418 & 1419) with numbers and checkboxes?** They are related to an unlockable campaign mechanic and should not be used right now. If you wish, you can put them in Envelope 74; just don’t examine the other envelope contents. (Note - 2nd Printing moved these cards to their proper envelope.) (This is repeated from <a href="#page_2">Section 2.0</a>
 
-**How do I read the loot cards? What do the text and symbols mean?** Resource cards, by default, give you 1 or 2 total resources of their type. Some give 2 for 2 players only. Some give 2 for 2 players or 3 players. At 4 players, they always give 1 unless the card is somehow modified. 
+**How do I read the loot cards? What do the text and symbols mean?** Resource cards, by default, give you 1 or 2 total resources of their type. Some give 2 for 2 players only. Some give 2 for 2 players or 3 players. At 4 players, they always give 1 unless the card is somehow modified.
 
-**What happens if I run out of cards in the loot deck?** There is no more loot in the scenario. The loot deck represents a cap on total loot available in a scenario. This is important because spawned and summoned monsters drop loot tokens in Frosthaven.
+**What happens if I run out of cards in the loot deck?** There is no more loot in the scenario. The loot deck represents a cap on total loot available. This is important because spawned and summoned monsters drop loot tokens in Frosthaven.
 
 **What deck should I be using if I draw a loot card with a Random Item on it?** These have a purple back and a gold cost, and are numbered 168-192. The blue deck contains random blueprints, which have different uses. 
 
@@ -525,7 +525,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If a monster is attacking me and the attack will Impair me, can I use my shield or armor against this attack?** Yes, as long as you’re not already Impaired. You will gain the condition when the attack concludes, just like any other negative condition.
 
-**How do monster Infusions and Consumptions work?** Frosthaven works differently from Gloomhaven, here. If there's an Infusion or Consumption on their ability card, those elements will be Infused or Consumed if **any **monster in the set performs **any** ability on it, even if that ability isn't modified by the elemental consumption. 
+**How do monster Infusions and Consumptions work?** Frosthaven works differently from Gloomhaven, here. If there's an Infusion or Consumption on their ability card, those elements will be Infused or Consumed if **any** monster in the set performs **any** ability on it, even if that ability isn't modified by the elemental consumption. 
 - Example 1 - Earth Demons' Nothing Special says "Move +0 Attack +0, Infuse Earth." If they can neither move nor attack this round, Earth will not be infused.
 - Example 2 - The Earth Demons' Ground Slam says, "Move -1, Attack -1 target all adjacent; consume earth to add Push 1". Even if no Earth Demons can attack, they will still consume the Earth as long as at least 1 of them moves, because they are still performing an ability on the card. This is a change from Gloomhaven.
 
@@ -535,7 +535,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_59" class="page-number">5.9</a> Uncategorized
+### <a name="page_59" class="page-number">5.9</a> Scenario Allies
 
 **I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for Banner Spear formations or anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
@@ -602,12 +602,12 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **How does Berserk Rage work?** The Soldier can target its normal amount of enemies (note the lack of 'all' here), but can target enemies within 2 hexes for this attack. These remain melee attacks. 
 
 ### Lurker Mindsnipper
-**How does Turn the Weak work? **First, the Mindsnipper finds focus, moves, and attacks as a multi-target enemy will. Then, it makes weak attacks against its targets. Note, if it has innate Muddle, it will muddle the targets at this point. After those attacks resolve, any enemy that it targeted will be forced to attack an adjacent ally using standard focus rules. The enemy will draw from its own modifier deck for this attack. Because this is specifically an Attack 3, this will always be a melee attack, even if this targets one of your Summons with an inherent range.
+**How does Turn the Weak work?** First, the Mindsnipper finds focus, moves, and attacks as any multi-target enemy will. Then, it makes the listed attacks against its targets. Note, if it has innate Muddle, it will muddle the targets at this point. After those attacks resolve, any enemy that was targeted will be forced to attack an adjacent ally using standard focus priority rules. The enemy will draw from its own modifier deck for this attack. Because this is specifically an Attack 3, this will always be a melee attack, even if this targets one of your Summons with an inherent range. If this targets a Summon or scenario ally with special attack characteristics (like adding Wound to all attacks), those will apply, here.
 
 ### Lurker Wavethrower
 **If we run out of water tiles, can the Wavethrower make more?** Yes. Overlay tiles are not supposed to be component-limited. Use a proxy tile.
 
-**What kind of terrain do the Wavethrower's water tiles count as?** They count as whatever Water is defined as in the scenario key, or, in absence of that, as Difficult Terrain.
+**What kind of terrain do the Wavethrower's water tiles count as?** They count as whatever Water is defined as in the scenario key - or, in absence of that, as Difficult Terrain.
 
 ### Wind Demon
 **Should Level 0 Elites have more movement than Level 1 Elites?** Level 0 Elites should have Move 3. This is errata.
@@ -783,7 +783,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ### ![Drifter Icon](/assets/images/01_drifter.webp) <a name="page_81" class="page-number">8.1</a> Drifter
 
-**When do I get XP for my persistent abilities?** Only when moving forward on the track, never when moving backwards even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
+**When do I get XP for my persistent abilities?** Only when moving forward on the track, never when moving backwards, even if you pass an XP marker. When the token moves forwards again, you can get that XP again.
 
 **Let’s say I am on the last charge of Crushing Weight (1). If I attack with the top of Sustained Momentum, can I keep Crushing Weight up on its last charge?** No. The attack has already dropped Crushing Weight off the last use slot, and the card was already lost. This same answer applies for any other similar abilities; once you use the last use slot, the card is lost immediately after the ability concludes.
 
@@ -793,7 +793,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **How long do the Shields from Unbreakable and Chunk of Flesh last?** Each use slot of these persistent abilities lasts for one attack that's dealing damage. 
 
-**Can I choose not to use my persistent ability? **No. Like all use slot persistents, these are mandatory whenever the trigger conditions are met. 
+**Can I choose not to use my persistent ability?** No. Like all use slot persistents and items, these are mandatory whenever the trigger conditions are met. 
 
 **Can I use my Scavenger perk to help me complete a loot-based PQ like A Study of Plants?** No. These quests specify "through loot tokens" so this perk can't help with them. 
 
@@ -858,13 +858,13 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">8.4</a> Deathwalker
 
-**A general update regarding Adjacency** - Placed shadows should be considered adjacent to their own hexes for all purposes, not just for targeting. When you place a new shadow, though, follow normal adjacency rules.  (Note that this rule is on the Deathwalker board in Second Printing)
-
-**General Rule Update** - If scenario rules force you to move character summons onto a newly revealed tile, also move your Shadows in the same way on your initiative. (Note that this rule is on the Deathwalker board in Second Printing)
+**General Rules Updates from Second Printing**
+- Placed shadows should be considered adjacent to their own hexes for all purposes, not just for targeting. When you place a new shadow, though, follow normal adjacency rules.  (Note that this rule is on the Deathwalker board in Second Printing)
+- If scenario rules force you to move character summons onto a newly revealed tile, also move your Shadows in the same way on your initiative. (Note that this rule is on the Deathwalker board in Second Printing)
 
 **What does 'as if I occupied a hex with a shadow' mean?** All parts of the attack ability are performed as if the Deathwalker was standing where the shadow is. If there's a Banner of Strength out, the shadow needs to be in its aura, not the Deathwalker. If there's a pull or push rider on the attack, it's measured from the shadow token, not the Deathwalker. In every respect except for Retaliate, the Deathwalker is considered to be in that hex for the attack. 
 
-**Do I suffer Retaliate damage when I attack ‘as if I occupied’ a hex with a Shadow (example: Fluid Night)?** Only if the Deathwalker herself is within the target's Retaliate range.
+**Do I suffer Retaliate damage when I attack ‘as if I occupied’ a hex with a Shadow (example: Fluid Night)?** Only if the Deathwalker herself is within the target's Retaliate range. Retaliate can't go to you "through" the shadow.
 
 **Do I need Line of Sight to perform an ‘as if I occupied’ attack?** Line of Sight is drawn from the shadow token when you perform these abilities. Neither it nor the enemy needs to be within line of sight of the Deathwalker.
 
@@ -891,7 +891,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Strength of the Abyss (1, bot) - Can I remove a shadow I am using for another action - like the shadow I'm using as my hex for Fluid Night while I'm attacking with Fluid Night?** No. You cannot use Strength of the Abyss to remove a shadow that's being used by the action you're trying to modify. ("Used by" includes being counted for bonuses, used as an attack origin, removed as a cost, etc. If it's considered for an action you want to modify in any way, you can't remove it with Strength of the Abyss.) 
 
 **Shadow Step (1, top) - Can I open a door with this movement? What happens if opening the door causes something that makes it so I no longer have a shadow for my destination hex?** Yes, you can open a door with this action, assuming you have a hex with a shadow to end your move in. If something happens after opening the door which makes it impossible for you to end your move in a shadow, your move ability immediately ends.
-**Can I choose a path that I know will make it impossible to end in a shadow? Say, into an Immobilize trap?** No. You must perform this action "in good faith" with a path that will end your movement in a shadow.
+
+**Shadow Step (1, top) - Can I choose a path that I know will make it impossible to end in a shadow? Say, into an Immobilize trap?** No. You must perform this action "in good faith" with a path that will end your movement in a shadow, given eveerything you know about the current scenario state.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -957,13 +958,13 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 <details>
 <summary><b>Astral Spoilers</b></summary>
 
-<p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario, whenever its conditions are met.</p> 
+<p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario.</p> 
 
 <p>The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion.</p>
 
 <p>As an example, I want to play Boon of the Tempest. I consume Wind and any other element to play it. While it's in my active area, I will add +1 move and Jump to all my move abilities for the rest of the scenario. I can also Attack 3 now, because I just played this Infusion.</p>
 
-<p>If, later, I play Caress of the Night (spending its elements), I can Strengthen myself (from Caress's on-infusion trigger) and Attack 3 (from Tailwind's on-infusion trigger), and that attack will have Wound and Muddle (from Caress's persistent bonus). The order of the trigger abilities is ambiguous, so you can pick any order that suits you.</p>
+<p>If, later, I play Caress of the Night (consuming Dark and any other element), I can Strengthen myself (from Caress's on-infusion trigger) and Attack 3 (from Tailwind's on-infusion trigger), and that attack will have Wound and Muddle (from Caress's persistent bonus). The order of the trigger abilities is ambiguous, so you can pick any order that suits you.</p>
 
 <p><b>If I pay the element cost on an active Infusion on a later turn, can I use its activated ability again?</b> No. The elements are consumed when playing the action the first time only.</p>
 
@@ -1025,6 +1026,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 <p><b>Can I adjust a Default Move or Default Attack with Empowering Note (5)?</b> Yes, you can - they are abilities.</p>
 
+<p><b>For the top of Unsustainable Wave, how much damage did an enemy suffer? Was this the total damage I dealt, including overkill?</b> See <a href="#page_52">Section 5.2</a> for a discussion on the differences between "damage dealt" and "damage suffered." In short, it's capped by the monster's remaining HP and will not include "overkill" damage.
+
 </details>
 <br>
 
@@ -1035,7 +1038,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 <details>
 <summary><b>Trap Spoilers</b></summary>
 
-<p><b>If a monster loses Flying while over an Obstacle, do they take damage?</b> No; they are simply moved to the nearest hex. <i>This is a change from Gloomhaven 1e.</i></p>
+<p><b>If a monster loses Flying while over an Obstacle, do they take damage?</b> No; they are simply moved to the nearest hex.<i>This is a change from Gloomhaven 1e.</i></p>
 
 <p><b>If a monster loses Flying while over a Trap, does the trap trigger?</b> Yes.</p>
 
@@ -1067,7 +1070,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 <details>
 <summary><b>Shackles Spoilers</b></summary>
 
-<p>For convenience, I am repeating, here, questions from 4.2 about damage "suffered" or "would suffer":</p>
+<p>For convenience, I am repeating, here, questions from <a href="#page_52">Section 5.2</a> about damage "suffered" or "would suffer":</p>
 <p><b>I have an ability that references the damage a monster or I have "suffered." Is this the total damage I dealt?</b> No. While there's no cap to damage dealt, "damage suffered" is the result of that damage, after all ward, brittle, or negation - and is capped by the figure's remaining HP. This goes for all figures with HP. Damage suffered is basically the equivalent of moving an hp dial.</p>
 
 <p><b>I have an ability which refers to the damage an ally "would suffer." Is this likewise capped by the ally's HP?</b> No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.</p>
@@ -1080,7 +1083,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 <p><b>Line of Transference (1, top) - If I turn this into a multi-target attack, what happens?</b> The condition you remove is applied to all targets.</p>
 
-<p><b>Delayed Malady - How does this interact with Curses?</b> This has no effect on incoming curses. You'd still add a curse card to your deck if you are the target of a curse ability.</p>
+<p><b>Delayed Malady (1, bot) - How does this interact with Curses?</b> This has no effect on incoming curses. You'd still add a curse card to your deck if you are the target of a curse ability.</p>
 
 <p><b>Blood Ritual (1, bot) - is the condition still considered caused by the monster who performed the ability?</b> Yes. This can be relevant for some items.</p>
 
@@ -1130,9 +1133,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 <p><b>"Sure Footing" Perk - do you get the +1 Move if you jump over the icy terrain?</b> You do not gain the move bonus while jumping, because this perk replaces the normal effect of icy terrain for you. If you are jumping, icy terrain has no effect on you to replace.</p>
 
-<p><b>Frost Eruption (1) - Can I just use this to make Icy Terrain and get my Ice infusion, without attacking any enemy?</b> No. Any abilities which refer to an attack pattern require that attack ability to have been performed.</p>
+<p><b>Frost Eruption (1, top) - Can I just use this to make Icy Terrain and get my Ice infusion, without attacking any enemy?</b> No. Any abilities which refer to an attack pattern require that attack ability to have been performed.</p>
 
-<p><b>With One with the Mountain (1 top) If I take damage, when I you get Regenerate back?</b> It's immediate. You always have Regenerate while the card is in play. If you lose it, you immediately regain it, no matter when that occurs.</p>
+<p><b>With One with the Mountain (1, top) If I take damage, when do I get Regenerate back?</b> It's immediate. You always have Regenerate while the card is in play. If you lose it, you immediately regain it, no matter when that occurs.</p>
 
 </details>
 <br>
@@ -1197,7 +1200,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 <p><b>Long Range Missile (2) - If I have the bottom action prepared, and a Shrike Fiend damages all enemies within X hexes, what happens if I Transfer to my summon after it takes damage?</b> Targets are chosen sequentially, not all at once. First, when your Summon would take damage, you'll take that damage -1. Then, you will take the damage because you're a valid target. Then, if your previous Mode summon was in the damage radius, it will take damage, as well.</p>
 
-<p><b>Mortar Shells (7) - If I grant this summon a melee attack, does it get this AoE pattern?</b> No. This red hex pattern only works on ranged attacks.</p>
+<p><b>Mortar Shells (7) - If I grant this summon a melee attack, does it get this AoE pattern?</b> No. This red hex pattern only works on ranged attacks. It will work if you grant it a ranged attack.</p>
 
 <p><b>Swarming Bulwark (8) - how does the Shield Spider choose its target for Ward?</b> It will choose itself if it does not already have Ward; or if it does, it will choose the closest ally that does not already have Ward. The HIVE player resolves ties.</p>
 
@@ -1234,7 +1237,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ## <a name="page_9" class="page-number">9.0</a> Items (General)
 
-**Can potions be sold or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
+**Can potions be sold, or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
 
 **What happens if I gain an item I can't gain? Say, because all copies of it are owned by other party members?** The rule about duplicate item sales has been expanded to cover this situation. Instead of "When a character gains another copy of an item they already own, they must sell it immediately" it's expanded to, "When a character gains an item they cannot gain (for any reason), they must sell it immediately."
 
