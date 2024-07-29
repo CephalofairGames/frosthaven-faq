@@ -305,7 +305,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ### <a name="page_41" class="page-number">4.1</a> Specific Building Questions
 
-*For questions about Solo Scenarios and specific Buildings, please see section <a href="#page_72">Section 7.2</a>
+*For questions about Solo Scenarios and specific Buildings, please see section <a href="#page_72">Section 7.2</a>*
 
 **How do the Workshop Upgrades work?** The three methods of transportation - Climbing Tools, Sled, and Boat - are all considered Building Upgrades. They are constrained by the 1 per Construction Phase build/upgrade limit, and count towards any relevant retirement goals.
 
@@ -328,7 +328,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Building 88** - <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
 
-**Building 90** - <span class="hidden">See #3e# for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
+**Building 90** - <span class="hidden">See 5.10 for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
 </span>
 
 ![divider-narrow](/assets/images/divider2.png)
