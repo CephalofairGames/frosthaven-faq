@@ -59,25 +59,25 @@
 
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
 
-Why github and not BoardGameGeek? Primarily, because github can be edited by multiple Cephalofair accounts, not just my personal forum account. Github also allows for features like direct linking to sections, a clickable table of contents, richer formatting, and easy version tracking. It has worked excellently for the [Buttons & Bugs Living Rules](https://cephalofairgames.github.io/bnb-rules/), and it seemed sensible to put Official FAQs here, as well.
+Why github and not BoardGameGeek? Primarily, because github can be edited by multiple Cephalofair accounts, not just my personal forum account. Github also allows for features we've been sorely missing, like direct linking to sections, a clickable table of contents, richer formatting, and built-in version tracking. It has worked excellently for the [Buttons & Bugs Living Rules](https://cephalofairgames.github.io/bnb-rules/), and it seemed sensible to put Official FAQs here, as well.
 
 ![divider](/assets/images/divider2.png)
 
 ### 0.1 Spoilers
 
-I follow official spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope/building number, scenario number, or item number. Note that starting buildings, all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please note that your in-browser Find function can also find words behind spoiler tags.
+I follow official spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope/building number, scenario number, or item number. Note that starting buildings, all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
 
 ![divider](/assets/images/divider2.png)
 
 ### 0.2 About Me
 
-I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
+I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I am altogether too active in Frosthaven fan communities, and I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
 
 ![divider](/assets/images/divider2.png)
 
-### 0.3 How to Ask Questions and Helpful links
+### 0.3 How to Ask Questions, and Helpful Links
 
-Most of these questions were asked by the community. If you have a question that you can't find the answer to, I recommend starting there. Frosthaven has an active, knowledgable, and passionate group of fans who are happy to help you out. While none of these communities are directly affiliated with Cephalofair, I am active on all three and will be notified when something needs added. Any of the three can work; use whichever is most appealing to you.
+Most of these questions were asked by the community. If you have a question that you can't find the answer to, I recommend starting there. Frosthaven has an active, knowledgable, and passionate group of fans who will be happy to help you out. While none of these communities are directly affiliated with Cephalofair, I am active on all three and will be notified when something needs added. Any of the three can work; use whichever is most appealing to you.
 
 - [/r/Gloomhaven](https://www.reddit.com/r/Gloomhaven/) - The Gloomhaven Subreddit is for Gloomhaven, Frosthaven, and Jaws of the Lion. Spoilers are strictly moderated. There is a pinned "Small Questions" thread, or you can start your own for bigger questions.
 - [BoardGameGeek Frosthaven Forums](https://boardgamegeek.com/boardgame/295770/frosthaven/forums/0) - Another active forum, and the previous home of this FAQ. Spoiler tags are appreciated, but are completely unmoderated.
@@ -328,7 +328,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Building 88** - <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
 
-**Building 90** - <span class="hidden">See 5.10 for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
+**Building 90** - <span class="hidden">See <a href="#page_510">Section 5.10</a> for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
 </span>
 
 ![divider-narrow](/assets/images/divider2.png)
@@ -460,9 +460,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **What does "adjacent" mean when we're talking about placing or triggering an overlay in an occupied hex?** The general rule is that a figure's own hex is considered adjacent to them for their own targeting purposes - however, their targets' own hexes are not adjacent to them. So if you were placing an overlay in a hex adjacent to yourself, you could target your own hex as long as it meets all the criteria for the ability. However, if you were placing it adjacent to another figure, it would have to be in one of the six hexes around them and not directly underneath them. (Note that Deathwalker's shadows break this general rule.)
 
-**What's the difference between "Allies gain..." and "Grant allies..." when it comes to shield, retaliate, etc.?** A persistent or round bonus which says "Allies gain..." or "Allies have..." is performed by you, and only applies to allies who presently fit the condition; usually this has a range limitation. On the other hand, a Grant lets the ally perform the ability - and once granted, it's theirs for the duration. In short -
-- An effect which says "Adjacent allies gain Shield 1" applies to allies who are adjacent to you, but not when they move away. 
-- An effect which says "Grant all adjacent allies Shield 1" means they can immediately perform a Shield 1 ability (if able), and it lasts until the card is discarded, even if they move away from you this round.
+**What's the difference between "Allies gain..." and "Grant allies..." when it comes to shield, retaliate, etc.?** A persistent or round bonus which says "Allies gain..." or "Allies have..." is performed by you, and only applies to allies who presently fit the condition when they would use it; usually this has a range limitation. On the other hand, a Grant lets the ally perform the ability - and once granted, it's theirs for the duration. In short -
+- An effect which says "Adjacent allies gain Shield 1," applies to allies who are adjacent to you, but is not kept when they move away. [Banner Spear 3 Example](https://github.com/any2cards/worldhaven/blob/master/images/character-ability-cards/frosthaven/BN/fh-let-them-come.png)
+- An effect which says "Grant all adjacent allies Shield 1" means they can immediately perform a Shield 1 (Self) ability (if able), and it lasts until the card is lost or discarded, even if they move away from you this round. [Banner Spear 5 Example](https://github.com/any2cards/worldhaven/blob/master/images/character-ability-cards/frosthaven/BN/fh-hold-the-line.png)
 
 **What does "end of turn" mean? If I have a persistent ability that lets me do things at the "end of my turn," how is that timed relative to elemental infusion, or losing a Stun?** While all of these say "end of turn," they're not all timed equally. There is an "end of player turn" phase of sorts, where players can still perform appropriate abilities (example: Geminate's "Harvest the Essence"). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only start once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this step, but no Abilities can be performed.
 
@@ -834,7 +834,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Do my Banners grant me their bonuses?** Yes, they are Summons; you are your Banner’s ally.
 
-**Do my Banners count as allies for formation attacks?** Yes, they are allies just like any summon.
+**Do my Banners count as allies for formation attacks?** Yes, they are allies, just like any summon.
 
 **Can I modify the patterns for my formation attacks?** Yes, but only within the same limits as any Area of Effect pattern.  You can rotate it around, and you can ‘mirror’ flip it as well. For example, on Combined Effort you may be to the right or left of your ally.
 
@@ -852,7 +852,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Set for the Charge (1, top)** - The top works on forced movement as well as normal movement. 
 
-**Boldening Blow (4, top)** - The "one target" limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
+**Boldening Blow (4, top)** - The "target one enemy" limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
 
 ![divider-narrow](/assets/images/divider2.png)
 
