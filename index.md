@@ -422,6 +422,10 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Which deck do my summons (like Boneshaper skeletons) draw from?** All summons draw from their summoner's deck.
 
+**If I draw multiple Heal Ally (or Heal Self) modifier draws, do they combine into one heal, or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one target, or split them up to heal two or more. All heals to one target are combined into a single heal, and are not treated as multiple Heal 1’s.
+
+**If I draw an attack modifier for a summon's attack that refers to something that doesn't make sense for it, for example gaining one of my tokens or a reference to one of my summons, how is this resolved?** All class-specific mechanics are controlled by the summoner, even when drawn by a summon. You gain the benefits of these attack modifier cards.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_54" class="page-number">5.4</a> Negative Conditions
@@ -874,8 +878,6 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Can my Shadow tokens open doors? Can they go to unrevealed rooms? Can they be placed on hexes with closed doors?** No. Closed doors are treated as Walls until opened, and only characters can open doors (barring any specific scenario rules which overrule that).
 
-**If I draw multiple Heal Ally modifier draws, do they combine into one heal, or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.
-
 **Do shadows I have to remove because I'm over the limit count for my Masteries?** Yes. 
 
 **Call of the Abyss (1, top) - Can I have more than one character token on an enemy?** Not using this card, no. If you choose a different enemy to ‘mark’ on a later attack, first remove your character token from the enemy it’s on and then place it on your new choice.
@@ -1188,6 +1190,10 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 <p><b>Is my first perk a misprint?</b> No. It thins your deck by removing both your -2 and a +1.</p>
 
 <p><b>If one of my summons draws a "+0, grant one of your summons Move 2" modifier card, what happens?</b> When cards refer to specific class mechanics, they always benefit the owner of the modifier card. In this case, the HIVE can grant one of their summons a Move 2.</p>
+
+<p><b>If one of my summons draws a "+1, after this attack ability, transfer" modifier card, what happens?</b> When cards refer to specific class mechanics, they always benefit the owner of the modifier card. In this case, the HIVE can transfer.</p>
+
+<p><b>Follow up to the above: Let's say I have an active summon (in Active Slot 1) and my current Mode (in Active Slot 2). Summon 1 draws the Transfer attack modifier card, and I transfer to it once its attack ability completes. Because I transferred, I place the Summon from Active Slot 2 in my previous location. Will Summon 2 get a turn</b> Yes, absolutely.</p>
 
 <p><b>Launch Pod (1) - Does my target need to survive for me to play a Summon?</b> - No. You can summon even if the target dies. (Note - this is not well-supported with the game's present rules and current card syntax, but has been ruled this way for thematic reasons.)</p>
 
