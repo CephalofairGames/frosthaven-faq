@@ -133,7 +133,9 @@ blockquote {
 	vertical-align: -15%;
 }
 
-.hidden {
+.hidden,
+.hidden a,
+.hidden a:visited {
 	color: black;
 	background-color: black;
 }
