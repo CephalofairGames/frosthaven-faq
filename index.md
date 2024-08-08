@@ -187,7 +187,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ### <a name="page_31" class="page-number">3.1</a> Masteries
 
-**Can I complete my Mastery in Scenario 0?** No. This was be added to the scenario rules in the second printing. Scenario 0 is intentionally easy. 
+**Can I complete my Mastery in Scenario 0?** No. Scenario 0 is intentionally easy. This was added to the scenario rules in the second printing. 
 
 **Do I need to complete a Mastery within a single scenario?** Yes, the entire mastery must be completed within one scenario, and the scenario must have been won. It’s fine if you yourself exhausted, so long as the scenario was successfully completed. (Note that Gloomhaven Second Edition has different Mastery rules here.)
 
@@ -468,6 +468,10 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - An effect which says "Adjacent allies gain Shield 1," applies to allies who are adjacent to you, but is not kept when they move away. By the same token, an ally moving into range of the effect can gain it even if they weren't there when the ability was played. Colloquially, these are sometimes called "auras" by the community. [Banner Spear 3 Example](https://raw.githubusercontent.com/any2cards/worldhaven/master/images/character-ability-cards/frosthaven/BN/fh-let-them-come.png)
 - An effect which says "Grant all adjacent allies Shield 1" means they can immediately perform a Shield 1 (Self) ability (if able), and it lasts until the card is lost or discarded, even if they move away from you this round. [Banner Spear 5 Example](https://raw.githubusercontent.com/any2cards/worldhaven/master/images/character-ability-cards/frosthaven/BN/fh-hold-the-line.png)
 
+**Can my Initiative be below 01 or above 99 after applying items or ability effects?** Yes; initiative can be any number, in theory.
+
+**Is my Long Rest at Initiative 99, or is it always last in order?** Your Long Rest takes place at Initiative 99. It is not necessarily last in order; if a game effect pushes a figure's initiative above 99, it will act after your long rest. *This is a change from the Gloomhaven 1e FAQ*
+
 **What does "end of turn" mean? If I have a persistent ability that lets me do things at the "end of my turn," how is that timed relative to elemental infusion, or losing a Stun?** While all of these say "end of turn," they're not all timed equally. There is an "end of player turn" phase of sorts, where players can still perform appropriate abilities (example: Geminate's "Harvest the Essence"). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only start once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this step, but no Abilities can be performed.
 
 **Granted Attacks - Is there a difference between a Commanded or Granted Attack +X and Attack X?** Yes; see below.
@@ -696,6 +700,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Scenario 45** - <span class="hidden">The requirement of Climbing Gear is correct. Narratively, it could have been either climbing gear, boat, or both - but this is not an error.</span>
 
+**Scenario 49** - <span class="hidden">You can refill your oxygen by just passing through an (a) air pocket hex; you do not need to end a movement or an action in one.</span>
+
 **Scenario 50** - <span class="hidden">Scenario hexes are only treated as water hexes for Lightning Eel summoning and movement, and not for any other purpose. You can place water hexes in the scenario as normal with relevant items and abilities.</span>
 
 **Scenario 54** - <span class="hidden">Scenario hexes are only treated as water hexes for Lightning Eel summoning and movement, and not for any other purpose. You can place water hexes in the scenario as normal with relevant items and abilities.</span>
@@ -730,6 +736,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Scenario 82** - If you have questions on how some aspects of this scenario operate, please reference [this thread](https://boardgamegeek.com/thread/3070490/)
 
 **Scenario 83** - <span class="hidden">The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.</span>
+
+**Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet.)</span>
 
 **Scenario 84** - <span class="hidden"><b>What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..."</b> Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.</span>
 
@@ -780,6 +788,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Building 90 Mechanic and Solo Scenarios** <span class="hidden"><b>Do I draw Challenges on a solo scenario?</b> No.</span>
 
 **Trap Solo Scenario** <span class="hidden">The special range rule does not affect the Snowspeaker's inherent retaliate.</span>
+
+**Astral Solo Scenario** <span class="hidden">The letter tokens representing orbs are not intended to be limited; you can have more than one "a", "b", etc.</span>
 
 ![divider](/assets/images/divider.png)
 
@@ -852,9 +862,11 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **How does my Formation Attack mastery work?** You must attack at least three enemies in each of three different formation attack actions. The enemies do not need to be different, but the formation actions do. This Mastery is generally not possible until Level 3 at the earliest, though some items may enable it.
 
-**Some formation attack actions like Let Them Come (3) have abilities after the attack which reference the attack's hexes. Do I need to perform the attack to perform these abilities?** Yes. An ability in an action with a formation attack that references the attack's hexes requires the formation attack to have been performed. In the case of Let Them Come, if no enemies were attacked in this formation, no heal takes place. 
-
 **Set for the Charge (1, top)** - The top works on forced movement as well as normal movement. 
+
+**At All Costs (1, top) - Is the self-damage rolled into one 'source' or do I take 1 damage individually for each ally whose HP increases?** Each instance of 1 damage is treated as an individual source of damage.
+
+**Some formation attack actions like Let Them Come (3) have abilities after the attack which reference the attack's hexes. Do I need to perform the attack to perform these abilities?** Yes. An ability in an action with a formation attack that references the attack's hexes requires the formation attack to have been performed. In the case of Let Them Come, if no enemies were attacked in this formation, no heal takes place.
 
 **Boldening Blow (4, top)** - The "target one enemy" limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
 
@@ -1054,6 +1066,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 <p><b>Unavoidable Outcome (2, bot) - Does this trigger on push or pull? Can I quickly discard it if a monster would otherwise trigger a positive trap?</b> Yes and yes.</p>
 
+<p><b>Dangerous Ground (4, bot) - Do I need to spring all traps with this, or can I pick and choose? Can I spring traps that aren't in range of an enemy?</b> You can pick and choose which traps to spring, one at a time. You can only spring traps that have an enemy within range to apply them to.</p>
+
 <p><b>Can Proficient Hunter's (5) persistent add 2 Damage or Heal 2 to a trap without a Damage or Heal value? How about my "add damage or Heal" attack modifier cards?</b>  Yes. Damage or Heal can be added to a trap even if there is no damage or heal value, yet.</p>
 
 <p><b>What is the timing on Persistent Pitfalls (6, bot)? Can I use this mid-push?</b> "Immediately" does indeed mean "immediately" here and it can be used mid-push.</p>
@@ -1084,6 +1098,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 <p><b>If I have an ability that says I cannot remove my negative conditions (ex: Delayed Malady), am I prevented from using abilities that allow me to remove a condition from myself and give it to another target (ex: Shared Affliction)?</b> If you cannot remove your own conditions, you cannot use these abilities.</p>
 
 <p><b>Line of Transference (1, top) - If I turn this into a multi-target attack, what happens?</b> The condition you remove is applied to all targets.</p>
+
+<p><b>Delayed Malady (1, bot) - How does the timing on this work, exactly? If I dismiss this persistent, when do my conditions fall off?</b> "End of turn" conditions, like Disarm and Muddle, will fall off during your next "end of turn wrap-up" step. If it is dismissed before your turn, or at any time during your turn, these conditions will fall off at the end of your turn as they usually would.</p>
 
 <p><b>Delayed Malady (1, bot) - How does this interact with Curses?</b> This has no effect on incoming curses. You'd still add a curse card to your deck if you are the target of a curse ability.</p>
 
@@ -1195,6 +1211,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 <p><b>Follow up to the above: Let's say I have an active summon (in Active Slot 1) and my current Mode (in Active Slot 2). Summon 1 draws the Transfer attack modifier card, and I transfer to it once its attack ability completes. Because I transferred, I place the Summon from Active Slot 2 in my previous location. Will Summon 2 get a turn</b> Yes, absolutely.</p>
 
+<p><b>Can I declare an initiative value outside the normal 01-99 range with my Remote Override perk?</b> No, it needs to be within a normal 01-99 range. You can, if you wish, use items to increase it or decrease it from your declared value.</p>
+
 <p><b>Launch Pod (1) - Does my target need to survive for me to play a Summon?</b> - No. You can summon even if the target dies. (Note - this is not well-supported with the game's present rules and current card syntax, but has been ruled this way for thematic reasons.)</p>
 
 <p><b>Coiled Limbs - Leaper summon (1) - If the Leaper cannot reach its focus, will it attack another enemy it ends its movement adjacent to?</b> No. Absent specific rules on an ability card, there's no general provisions for monsters to attack enemies other than their focus.</p>
@@ -1278,6 +1296,10 @@ Items are listed by their item number.
 **What happens if I draw a negative modifier with added effects, like "-1 Add Time Token?"** The extra effects are kept but the attack modifier value changes from -1 to +0. In this example, it changes to a +0 Add Time Token.</span>
 
 **Item 033** - <span class="hidden">**Volatile Boots** - This item can be used in moves granted to you on others' turns. If so, it is still available for use on your turn. Either way, it will be flipped (once) at the end of your turn. Technically the other side could be used like this too.</span>
+
+**Item 034** - <span class="hidden">**Shrapnel Bomb** - Use of this item is declared "after your ranged attack" and can therefore be declared after the modifier is drawn. Its effect happens after all steps of the attack, including forced movement, but before the next attack if you have multiple targets in your attack ability. You can still use this if your target dies; it should then be read as "adjacent to the hex the target occupied."</span>
+
+**Item 044** - <span class="hidden">**Sword of Absolution - Can I use this for conditions I gained from an Outpost or Road Event? What about a Scenario Effect?** You select your gear for a scenario before applying the consequences of events and scenario effects. Yes, it can be used in response to any (one) of the above and begins the scenario Spent.</span>
 
 **Item 046** - <span class="hidden">**Double-Lens Goggles - How do these work if I have, for example, a -1 Add Time Token modifier drawn?** The numeric value of the modifier card changes but all the extra effects are retained. In this example, it changes to a +1 Add Time Token.</span>
 
