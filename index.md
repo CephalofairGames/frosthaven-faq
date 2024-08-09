@@ -493,7 +493,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **What deck should I be using if I draw a loot card with a Random Item on it?** These have a purple back and a gold cost, and are numbered 168-192. The blue deck contains random blueprints, which have different uses. 
 
-**If a random item or chest reward item has -1's, would I have to add them for the rest of the scenario?** If you don't have a perk to ignore negative item effects, you can choose not to equip it. If you do equip it, you'll have to add the -1's.
+**If a random item or chest reward item has -1's, would I have to add them for the rest of the scenario?** You can choose not to equip it. If you do equip it and don't have a perk to ignore negative item effects, you'll have to add the -1's.
 
 **If I replay a scenario in Campaign Mode but I have already looted the random item, do I keep the random item card in the deck anyway?** No. If the random item has been looted already, just leave this card out of the deck. 
 
