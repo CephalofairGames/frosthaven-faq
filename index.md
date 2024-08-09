@@ -737,7 +737,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Scenario 83** - <span class="hidden">The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.</span>
 
-**Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet.)</span>
+**Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet. This is awaiting a follow-up ruling on whether this makes the scenario unwinnable.)</span>
 
 **Scenario 84** - <span class="hidden"><b>What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..."</b> Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.</span>
 
@@ -1066,7 +1066,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 <p><b>Unavoidable Outcome (2, bot) - Does this trigger on push or pull? Can I quickly discard it if a monster would otherwise trigger a positive trap?</b> Yes and yes.</p>
 
-<p><b>Dangerous Ground (4, bot) - Do I need to spring all traps with this, or can I pick and choose? Can I spring traps that aren't in range of an enemy?</b> You can pick and choose which traps to spring, one at a time. You can only spring traps that have an enemy within range to apply them to.</p>
+<p><b>Dangerous Ground (4, bot) - Do I need to spring all traps with this, or can I pick and choose? Can I spring traps that aren't in range of an ally or enemy?</b> You can pick and choose which traps to spring, one at a time. You can only spring traps that have a figure within range to apply them to.</p>
 
 <p><b>Can Proficient Hunter's (5) persistent add 2 Damage or Heal 2 to a trap without a Damage or Heal value? How about my "add damage or Heal" attack modifier cards?</b>  Yes. Damage or Heal can be added to a trap even if there is no damage or heal value, yet.</p>
 
