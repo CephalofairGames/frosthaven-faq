@@ -222,6 +222,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **PQ 19** <span class="hidden">"Gain the blueprint for the Abyss Axe" is an instruction for the player, not a PQ requirement. You gain this blueprint in your Craftable Supply (not the item itself) upon starting the quest, regardless of the level of your Craftsman. The activated ability of the Axe must be used on the hit that kills the enemy for it to count.</span>
 
+**PQ 21** <span class="hidden">If another player already has the Trainer's Net (Item 247), they will need to sell it, and you will need to buy it from the shop.</span>
+
 **PQ 23** <span class="hidden">When you complete this quest and open Envelope A, </span><span class="hidden">immediately upgrade Building 81 to Level 2 at no cost.</span>
 
 ![divider-narrow](/assets/images/divider2.png)
@@ -322,7 +324,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - Level 3 - <span class="hidden">This building effect reduces the level penalties by 10 each, so each one is 15 gold instead of 25 gold. There's no level penalty for Level 1/X cards, so the building can't reduce its level penalty.</span>
 - Level 4 - <span class="hidden">This building effect reduces the additional enhancement penalties by 25 each, so each penalty is 50 gold instead of 75 gold. There's no additional enhancement penalty for actions getting their first enhancement, so those costs can't be reduced.</span>
 
-**Building 74** <span class="hidden">The Ancient Coins are gained one at a time through the special loot cards and other events. They should be considered party items, don't belong to individual characters, and never return to any Supply. Level 3 should have a building prerequisite of already owning the first three Ancient Coins. It cannot be upgraded to this level until that prerequisite is met.</span>
+**Building 74** <span class="hidden">The Ancient Coins are gained one at a time through the special loot cards and other events. They give you only the amount of gold dictated by the section you read when you find one. The Ancient Coins should be considered party items, don't belong to individual characters, and never return to any Supply. Level 3 should have a building prerequisite of already owning the first three Ancient Coins. It cannot be upgraded to this level until that prerequisite is met.</span>
 
 **Building 81** - See section <a href="#page_43">4.3</a> for all questions related to this building.
 
@@ -470,7 +472,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Can my Initiative be below 01 or above 99 after applying items or ability effects?** Yes; initiative can be any number, in theory.
 
-**Is my Long Rest at Initiative 99, or is it always last in order?** Your Long Rest takes place at Initiative 99. It is not necessarily last in order; if a game effect pushes a figure's initiative above 99, it will act after your long rest. *This is a change from the Gloomhaven 1e FAQ*
+**Is my Long Rest at Initiative 99, or is it always last in order?** Your Long Rest takes place at Initiative 99. It is not necessarily last in order; if a game effect pushes a figure's initiative above 99, it will act after your long rest. Your long rest will be performed before monster turns on Initiative 99, and is ambiguously timed with other players acting at 99. *This is a change from the Gloomhaven 1e FAQ*
 
 **What does "end of turn" mean? If I have a persistent ability that lets me do things at the "end of my turn," how is that timed relative to elemental infusion, or losing a Stun?** While all of these say "end of turn," they're not all timed equally. There is an "end of player turn" phase of sorts, where players can still perform appropriate abilities (example: Geminate's "Harvest the Essence"). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only start once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this step, but no Abilities can be performed.
 
@@ -737,7 +739,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Scenario 83** - <span class="hidden">The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.</span>
 
-**Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet. This is awaiting a follow-up ruling on whether this makes the scenario unwinnable.)</span>
+**Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet.) Capturing the Giant Piranha Pig is, for this scenario, an acceptable substitute for killing it for the scenario goal.</span>
 
 **Scenario 84** - <span class="hidden"><b>What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..."</b> Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.</span>
 
@@ -1347,6 +1349,10 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 226** - <span class="hidden">**Unfettered Arm** The "numeric value" referred to here is only the actual attack modification value, such as the "+1", and not to anything else, like shield values.</span>
 
 **Item 242** - <span class="hidden">**Lucky Dice** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
+
+**Item 245** - <span class="hidden">**Ancient Coin(s)** These should be considered collectively owned by the party as a whole, and never return to any item supply. When you gain one, you can pick any of them.</span>
+
+**Item 246** - <span class="hidden">**Key Card** This should be considered collectively owned by the party as a whole, and never returns to any item supply.</span>
 
 <details>
 <summary><b>Item 244 Spoilers</b></summary>
