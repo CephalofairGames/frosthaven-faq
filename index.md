@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-08-10*
+*Last Updated 2024-08-13*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -116,6 +116,7 @@ Most of these questions were asked by the community. If you have a question that
 - Scenario 60 should have Item 224 as a scenario reward
 - Scenario 70 has two Random Items on the Loot Deck. This is a typo; there should be 1.
 - Scenario 71, Section 111.2 - Map: Lurker Soldier should be Lurker Clawcrusher
+- Scenario 72, Section 132.2 - The snow rocks cannot be relocated or destroyed, except via the scenario mechanics.
 - Scenario 78 has a tricky map issue - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page).
 - Scenario 104 - Second to last line of the special rules: "Ice Wraith" should be "Savvas Icestorm"
 - Scenario 104, Section Book 14.2 - Map: Ice Wraith should be Frost Demon
@@ -728,6 +729,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Scenario 70** - <span class="hidden">As mentioned in the Errata, there is only one random item in the loot deck.</span>
 
 **Scenario 71 - Section 111.2** - <span class="hidden">One piranha pig spawns at <i>each</i> F</span>
+
+**Scenario 72 - Section 132.2** - <span class="hidden">The snow rocks cannot be relocated or destroyed, except via the scenario mechanics.</span>
 
 **Scenario 73 and Coral Class (Spoilers for both)** - <span class="hidden">Yes, these hexes also count as Water for your abilities and perks.</span>
 
