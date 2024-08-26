@@ -1052,7 +1052,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Trap Icon](/assets/images/10_trap.webp) <a name="810" class="page-number">8.10</a> "Trap"
+### ![Trap Icon](/assets/images/10_trap.webp) <a name="page_810" class="page-number">8.10</a> "Trap"
 
 <details>
 <summary><b>Trap Spoilers</b></summary>
