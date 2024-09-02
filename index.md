@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-08-13*
+*Last Updated 2024-09-01*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -966,9 +966,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **How do cards like Changeling's Boon work? Do I do all parts of it every round?** No. This card, like many other Persistent cards, has both one-time abilities and persistent abilities. For this card, you Bless yourself once. You change form at the end of your turn. After putting it into your Active area, you have an active persistent bonus which lets you convert any element into fire or light at the end of your turns. You can tell which part is persistent by how it's worded. 
 
-**Can I use the persistent abilities of Changeling's Boon or Harvest the Essence to consume an element I infused this turn? Both effects happen at the end of my turn, right?** You can only consume an element that was already there at the start of your turn. Elements aren't moved to Strong until the end of turn wrap-up step. See section 4.5 for discussion. 
+**Can I use the persistent abilities of Changeling's Boon or Harvest the Essence to consume an element I infused this turn? Both effects happen at the end of my turn, right?** You can only consume an element that was already there at the start of your turn. Elements aren't moved to Strong until the end of turn wrap-up step. See <a href="#page_55">section 5.5</a> for discussion. 
 
-**If I use an item or effect that lets me take another action at the end of my turn, but I have already played an action that would make me Switch Form, which Form is the new card in?** Form changes happen during the end of turn wrap-up (see section 4.5). You would still play cards from the form you are presently in.
+**If I use an item or effect that lets me take another action at the end of my turn, but I have already played an action that would make me Switch Form, which Form is the new card in?** Form changes happen during the end of turn wrap-up (see <a href="#page_55">section 5.5</a>). You would still play cards from the form you are presently in.
 
 ![divider-narrow](/assets/images/divider2.png)
 
