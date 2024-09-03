@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-09-01*
+*Last Updated 2024-09-02*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -753,6 +753,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Scenario 96** - <span class="hidden">The stairs are there for aesthetic reasons. The platform follows all normal corridor rules, and you can move on or off as you see fit. When the platform opens doors at the end of the round, newly revealed enemies do not activate.</span>
 
 **Scenario 101** - <span class="hidden">The "goal treasure tiles" have been replaced by numbered tokens due to component count issues. References to goal tiles refer to the numbered tokens.</span>
+**Scenario 101, Section 126.2** - <span class="hidden">Swarms can enter occupied hexes. If a swarm enters an occupied hex, or if a figure enters a hex with a swarm, they suffer 2 damage and gain poison. The swarm remains on the map until Zu absorbs it.</span>
 
 **Scenario 104** - <span class="hidden">The special rule should include "Each element can be consumed only once per turn."</span>
 
