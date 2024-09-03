@@ -730,7 +730,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Scenario 71 - Section 111.2** - <span class="hidden">One piranha pig spawns at <i>each</i> F</span>
 
-**Scenario 72 - Section 132.2** - <span class="hidden">The snow rocks cannot be relocated or destroyed, except via the scenario mechanics.</span>
+**Scenario 72 - Section 132.2** - <span class="hidden">The metal cabinets (or snow rocks, in some versions) cannot be relocated or destroyed, except via the scenario mechanics.</span>
 
 **Scenario 73 and Coral Class (Spoilers for both)** - <span class="hidden">Yes, these hexes also count as Water for your abilities and perks.</span>
 
