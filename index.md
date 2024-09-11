@@ -695,7 +695,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Scenario 37 (conclusion)** - <span class="hidden">First Printing Only: Add blueprints for Item 067 to the scenario reward.</span>
 
-**Scenario 38, Section 23.1** - <span class="hidden">The "at each" is unnecessary at 3p spawns. Both 2p and 3p spawn a total of two normal hounds, one at each.</span>
+**Scenario 38, Section 23.1** - <span class="hidden">The "at each" is unnecessary at 3p spawns. Both 2p and 3p spawn a total of two normal hounds, one at each. Character tokens are considered figures and occupy their hex adjacent to the altar.</span>
 
 **Scenario 39** - <span class="hidden">If you cannot replace a dead ally standee with a Frozen Corpse because all Frozen Corpses are on the board, they remain until Frozen Corpse standees become available and they can be replaced.</span>
 
