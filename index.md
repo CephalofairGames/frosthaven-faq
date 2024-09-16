@@ -1288,6 +1288,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 Basically, if an item only makes sense if used within another ability or in reaction to one, that's how it's supposed to work and it's not an ability. If it makes sense used independently, it probably is an ability.
 
+**Can I use an item during my Start of Turn phase? For example, can I use a Circlet of Life to heal a Wound before I take damage from it?** Generally, no; items with a timing of "during your turn" cannot be used in the Start of Turn phase.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_91" class="page-number">9.1</a> Items (Specific)
