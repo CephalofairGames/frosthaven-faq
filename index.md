@@ -642,6 +642,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If there is a calculation, but no indication of the direction of rounding, what direction do you round?** Usually a calculation will tell you the intended direction of rounding. If it does not, assume it rounds up.
 
+**This scenario has a boss with a number of health thresholds. What happens if we reduce a boss below two of these at once - or even all the way to 0 health?** The first pending section must be resolved before anything else can happen. Often this will reset the boss's health to a certain amount; the intent is that they can't be killed by a single strong attack. The section (or first section if there's more than one) needs to be resolved before anything else.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
