@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-09-01*
+*Last Updated 2024-09-15*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -711,6 +711,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Scenario 55 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
 
+**Scenario 56 - Section 3.2** <span class="hidden">Even if the Harbinger is reduced to 0 health directly from above 2/3 its maximum health, you must resolve section 21.2, and the Harbinger is not considered dead unless it is still at 0 hp even after that section resolves. The same holds for any similar sections in this scenario that are resolved based on the boss's health thresholds.</span>
+
 **Scenario 58 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
 
 **Scenario 59 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
@@ -733,6 +735,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Scenario 72 - Section 132.2** - <span class="hidden">The metal cabinets (or snow rocks, in some versions) cannot be relocated or destroyed, except via the scenario mechanics.</span>
 
 **Scenario 73 and Coral Class (Spoilers for both)** - <span class="hidden">Yes, these hexes also count as Water for your abilities and perks.</span>
+
+**Scenario 77** <span class="hidden">Even if the Fish King is reduced to 0 hp in a single attack, you must resolve section 131.2, and he is not considered dead unless he is still at 0 hp after that section resolves. Do not resolve other sections based on the boss's health unless it is still under those thresholds after the section resolves. The same holds for all similar sections in this scenario that are resolved based on the boss's health thresholds; you cannot trigger more than one at a time, and you cannot skip any.</span>
 
 **Scenario 78** - <span class="hidden">First Printing Errata repeated here - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page). Do not change the door positions on entering new rooms.</span>
 
@@ -769,6 +773,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Scenario 118** - <span class="hidden">Letter tokens don't have an 'upside down'; just ignore this instruction. The specific letter isn't relevant to the scenario rules.</span>
 
 **Scenario 120** - <span class="hidden">If there is a Geminate in the party, they should split their hand into two piles based on form. If you lose a card to damage, you can lose a card of your choice from your set-aside hand.</span>
+
+**Scenario 122, Section 98.1** <span class="hidden">Even if the Hungry Maw is reduced from above half to 0 health in a single hit, you need to process the results of section 151.1, and he is not considered dead unless he is still at 0 hp after that section resolves.</span>
 
 **Scenario 134** - <span class="hidden">A jump or ranged attack between the "balconies" requires counting the distance. You can use extra corridor hexes to measure.</span>
 
@@ -1273,6 +1279,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **I have an item that allows me to gain a Resource during a scenario. Do I get to keep this even if we lose the scenario?** Only if you return to Frosthaven. If you retry the scenario, they are lost like other Resources.
 
 **I have an item (such as a Crude Helm) that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied *before* the modifier is chosen. *This is a change from a Gloomhaven 1e FAQ ruling.*
+
+**Will my Spent item with use slots recover its uses if I Long Rest before all of the charges are expended?** Yes, Spent items recover all their use slots whenever they are recovered, whether as part of a long rest or an item recovery ability. A Lost item will not recover its charges on a long rest; it would only recover its charges when you use an ability that can recover Lost items. *This is a change from Gloomhaven 1e.*
 
 **Can I use an item in the middle of my move or attack ability?** Only if it is not itself an ability, and it says something like "during your move ability." If an item allows you to perform another ability (like healing, damaging, destroying an obstacle, etc.), you need to finish your ability first. See below for a more detailed answer. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
