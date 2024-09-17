@@ -1320,6 +1320,8 @@ Items are listed by their item number.
 
 **Item 046** - <span class="hidden">**Double-Lens Goggles - How do these work if I have, for example, a -1 Add Time Token modifier drawn?** The numeric value of the modifier card changes but all the extra effects are retained. In this example, it changes to a +1 Add Time Token.</span>
 
+**Item 047** - <span class="hidden">**Robes of Doom - What is the timing on this effect? Does this happen before or after my Retaliate?** It is ambiguous. You decide the order whenever it would happen. **Is this item mandatory to use? Can I choose not to use this effect?** This item's effect, like all items with use slots, is mandatory. It will damage you and brittle the attacker the first on the next two sources of damage from attacks.</span> 
+
 **Item 049, 1st Printing Errata** - <span class="hidden">**Cruel Dagger** This item is missing a Spent symbol.</span> 
 
 **Item 076** - <span class="hidden">**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
