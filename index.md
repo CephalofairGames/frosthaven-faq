@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-09-15*
+*Last Updated 2024-09-20*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -421,13 +421,29 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **What is the order of operations if I draw a x2 or Null on a draw with rolling modifiers?** If a Null (x0) is included in the final attack modifier draws, no matter where, the final damage will always be 0. If you draw a x2, it can be inserted at any time during attack modification including at the very end. (For example, if I have an Attack 3, draw a rolling +1, and finally a x2, I can decide if my final damage is 7 (3x2) + 1 or 8 (3+1) x2.)
 
-**If I have Disadvantage, and draw (for example) a +1 Stun and a +0 Stun, is this ambiguous?** No. While Stun, just like every other non-numeric modifier effect, has an "undefined but positive value," it is always exactly as valuable as itself. While two *different* non-numeric effects can't be compared, two *identical* ones can. In this case, the +1 Stun is better.
-
 **Which deck do my summons (like Boneshaper skeletons) draw from?** All summons draw from their summoner's deck.
 
 **If I draw multiple Heal Ally (or Heal Self) modifier draws, do they combine into one heal, or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one target, or split them up to heal two or more. All heals to one target are combined into a single heal, and are not treated as multiple Heal 1’s.
 
 **If I draw an attack modifier for a summon's attack that refers to something that doesn't make sense for it, for example gaining one of my tokens or a reference to one of my summons, how is this resolved?** All class-specific mechanics are controlled by the summoner, even when drawn by a summon. You gain the benefits of these attack modifier cards.
+
+**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** All non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Banner Spear's "Add +1 for each ally adjacent to the target" modifier cards) are evaluated and considered as part of the numeric value, where appropriate. The attack value is considered in cases where a x2 modifier is drawn. Items, such as the Crude Helm, that change the modifier card value, are also evaluated before a better/worse card is determined.
+
+No other considerations for board state are included (such as an element already being strong, an enemy already being poisoned, a lack of extra targets, etc.) Rolling modifiers before the two terminal cards are also not considered; they are all included with either terminal card with Advantage, while all are discarded with Disadvantage.
+
+Examples:
+- 2x and Attack 2 vs +2: Ambiguous (2 x 2 = 2 + 2)
+- 2x and Attack 2 vs +1: 2x is better (2 x 2 > 2 + 1)
+- 2x and Attack 2 vs +2 when the target has a Crude Helm: +2 is better (the x2 effect is changed into a +1, and 2 + 1 < 2 + 2)
+- +1 Stun vs +1: +1 Stun is better (Stun has a positive but unknown value, so is always better than just +1)
+- +0 Stun vs +2: Ambiguous (Stun has a positive but unknown value, so it's impossible to determine if its value is better than a +2.)
+- +1 Stun vs +1 Fire: Ambiguous (The two effects can't be compared to one another, and because both modifiers have effects, the numeric value doesn't matter.)
+- +1 Stun vs +2 Fire: Ambiguous (The two effects can't be compared to one another, and because both modifiers have effects, the numeric value doesn't matter.)
+- +0 Muddle vs +2 Stun: Ambiguous (While a player would almost certainly prefer a +2 stun, the unknown values of Muddle and Stun make them incomparable, and thus ambiguous.)
+
+**If I have Disadvantage, and draw (for example) a +1 Stun and a +0 Stun, is this ambiguous?** No. While Stun, just like every other non-numeric modifier effect, has an "unknown but positive value," it is always exactly as valuable as itself. While two *different* non-numeric effects can't be compared, two *identical* ones can. In this case, the +1 Stun is better.
+
+**Can I choose not to infuse an element I draw on a modifier card, or is it mandatory, like on my ability cards?** Unless the element is in a mandatory (!) box, elemental infusions on your modifier cards are optional.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -526,7 +542,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If a monster is trying to make a multi-target attack this turn, but does not have enough movement to attack any targets, will it move towards its primary focus or towards a position to potentially maximize the attack?** It will move towards its primary focus.
 
-**How does a monster with a multi-target attack choose its destination hex and its additional targets? Do you use focus rules to determine targets other than the primary focus?** As long as a monster is (a) still attacking their primary focus, (b) avoiding additional negative hexes, (c) attacking as many additional targets as possible, (d) minimizing the amount of disadvantage, and (e) minimizing move distance (in that order), players can choose the final destination hex and secondary, tertiary, etc. targets. Unlike Gloomhaven, monsters do not look for additional focus, and players have a lot of latitude in choosing their additional targets. *This is a change from Gloomhaven*
+**How does a monster with a multi-target attack choose its destination hex and its additional targets? Do you use focus rules to determine targets other than the primary focus?** As long as a monster is (a) still attacking their primary focus, (b) avoiding additional negative hexes, (c) attacking as many additional targets as possible, (d) minimizing the amount of disadvantage, and (e) minimizing move distance (in that order), players can choose the final destination hex and secondary, tertiary, etc. targets. Unlike Gloomhaven, monsters do not use a focus process for finding additional targets, and players have a lot of latitude in choosing their additional targets. *This is a change from Gloomhaven*
 
 **When a monster is attacking more than one target, what order are those attacks made in?** The actual order of attacks is ambiguous. Players can determine the attack order once all targets are determined. The primary focus does not need to be attacked first. If a target has a Retaliate value, it's possible to kill a monster before all its attacks are made. This applies to both Target X and red hex AoE attack abilities.
 
