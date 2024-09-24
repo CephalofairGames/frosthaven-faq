@@ -615,7 +615,7 @@ Examples:
 
 **How do summons focus on a round where Ice Wraiths have changed forms?**  Summons will focus on Ice Wraiths based on the current state of the board, and prioritize the new Elites over the former Elites.
 
-**How does a Named Ice Wraith work? Are they elite? Normal? Change form?** Isaac: "The intention was that named Ice Wraiths would switch forms (this is the main reason normals and elites always have the same hit point value). That is on pretty shaky ground with the rules, though, because there explicitly called out as not elite, and because the red bases are used, it is even difficult to track. Gonna be messy either way, but I would say to go with the intent, have them switch, and recommend using normal white/yellow bases in those cases."
+**How does a Named Ice Wraith work? Are they elite? Normal? Change form?** Isaac: "The intention was that named Ice Wraiths would switch forms (this is the main reason normals and elites always have the same hit point value). That is on pretty shaky ground with the rules, though, because they're explicitly called out as not elite, and because the red bases are used, it is even difficult to track. Gonna be messy either way, but I would say to go with the intent, have them switch, and recommend using normal white/yellow bases (or white/red bases) in those cases."
 
 ### Lightning Eel
 **What happens if I destroy or relocate a water tile an eel is currently occupying?** The eel treats non-water hexes as obstacles, so will immediately relocate to the closest water hex. (Note that, unlike Gloomhaven, there is no damage caused by this movement in Frosthaven.) In the event there's no unoccupied water tiles, they just remain in the hex they're in until able to legally move elsewhere. 
@@ -1001,9 +1001,9 @@ Examples:
 <details>
 <summary><b>Astral Spoilers</b></summary>
 
-<p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for the entire scenario.</p> 
+<p><b>Can you explain how Infusions work?</b> When you consume the required elements and play an Infusion, you get a persistent bonus (listed on the top of the card), and usually an 'on infusion' trigger ability ("When this infusion or another infusion is played...").  The persistent stays in play, and works for as long as the card is in your Active area.</p> 
 
-<p>The trigger ability, if there is one, is performed immediately on playing the Infusion, or whenever you play another Infusion.</p>
+<p>The trigger ability, if there is one, is performed immediately on playing the Infusion, and whenever you play another Infusion.</p>
 
 <p>As an example, I want to play Boon of the Tempest. I consume Wind and any other element to play it. While it's in my active area, I will add +1 move and Jump to all my move abilities for the rest of the scenario. I can also Attack 3 now, because I just played this Infusion.</p>
 
@@ -1383,10 +1383,6 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 **Item 242** - <span class="hidden">**Lucky Dice** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
 
-**Item 245** - <span class="hidden">**Ancient Coin(s)** These should be considered collectively owned by the party as a whole, and never return to any item supply. When you gain one, you can pick any of them.</span>
-
-**Item 246** - <span class="hidden">**Key Card** This should be considered collectively owned by the party as a whole, and never returns to any item supply.</span>
-
 <details>
 <summary><b>Item 244 Spoilers</b></summary>
 
@@ -1395,6 +1391,10 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 </details>
 <br>
+**Item 245** - <span class="hidden">**Ancient Coin(s)** These should be considered collectively owned by the party as a whole, and never return to any item supply. When you gain one, you can pick any of them.</span>
+
+**Item 246** - <span class="hidden">**Key Card** This should be considered collectively owned by the party as a whole, and never returns to any item supply.</span>
+
 **Item 253** - <span class="hidden">**Mask of Duality** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
 **Item 259** - <span class="hidden">**Storm Carving** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
