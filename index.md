@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-09-20*
+*Last Updated 2024-09-28*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -382,6 +382,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Can I teleport over gaps between room tiles? If so, how do I measure the distance? There's no hexes to count.** Yes, as long as the destination tile is revealed, and the map tiles aren't free-floating (see below). The gap area between rooms is considered part of the wall. You can use extra corridor overlays to measure the distance, if it's not apparent. 
 
 **Can I teleport to a revealed room tile that is totally disconnected from other room tiles?** Completely disconnected room tiles are an unmeasurable distance apart. Only teleports that ignore distance would work in these cases. (For an example of a scenario with this kind of layout, see Scenario <span class="hidden">24</span>.) 
+
+**If my move ability has Jump, can I decide not to Jump?** Yes, but it must be decided at the start of your move ability. You can't decide to start Jumping after you begin moving, or decide to stop Jumping before the formal end of the move ability. If another effect adds Jump for your move ability mid-move, you remain Jumping until the formal end of your move ability.
 
 **Can I Push and Pull with the same attack?** Yes, but note that all Pushes are combined together and all Pulls are combined together into the final Push and/or Pull. You must fully complete one before you perform the other. Yes, this can make an enemy take damage from the same hazardous terrain hex twice.
 
