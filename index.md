@@ -554,7 +554,7 @@ Examples:
 
 **If a monster is attacking me and the attack will Impair me, can I use my shield or armor against this attack?** Yes, as long as you’re not already Impaired. You will gain the condition when the attack concludes, just like any other negative condition.
 
-**How do monster Infusions and Consumptions work?** Frosthaven works differently from Gloomhaven, here. If there's an Infusion or Consumption on their ability card, those elements will be Infused or Consumed if **any** monster in the set performs **any** ability on it, even if that ability isn't modified by the elemental consumption. 
+**How do monster Infusions and Consumptions work?** Frosthaven works differently from Gloomhaven, here. If there's an Infusion or Consumption on their ability card, those elements will be Infused or Consumed if **any** monster in the set performs **any** ability on it, even if that ability isn't modified by the elemental consumption. Note that some abilities - like "suffer damage" - are not targeted, and will be performed even if no enemies are in range.
 - Example 1 - Earth Demons' Nothing Special says "Move +0 Attack +0, Infuse Earth." If they can neither move nor attack this round, Earth will not be infused.
 - Example 2 - The Earth Demons' Ground Slam says, "Move -1, Attack -1 target all adjacent; consume earth to add Push 1". Even if no Earth Demons can attack, they will still consume the Earth as long as at least 1 of them moves, because they are still performing an ability on the card. This is a change from Gloomhaven.
 
@@ -1037,19 +1037,23 @@ Examples:
 
 <p><b>If I create Hazardous Terrain via an item, does it use my tiles and count against my limit?</b> Yes, all Hazardous Terrain created by you uses your class-specific overlay files and counts towards your limit no matter how it's made.</p> 
 
-<p><b>Quenched Rage (top) - What happens if an obstacle would be placed in an illegal hex via this action?</b> The hazardous terrain is removed but an obstacle is not created.</p>
+<p><b>Cooling (1, bot) - How does this interact with my Move 1 abilities, such as Igneous Path?</b> While a Move 0 is not a Move ability, and no Move ability will actually end up being performed, attempting a Move 1 will use up one slot on Cooling's persistent.</p>
 
-<p><b>Quenched Rage (top) - What's the range on the push?</b> It's Range 1</p>
+<p><b>Quenched Rage (1, top) - What happens if an obstacle would be placed in an illegal hex via this action?</b> The hazardous terrain is removed but an obstacle is not created.</p>
 
-<p><b>Quenched Rage (top) - What does 'through' mean here?</b> It means the enemy both enters and exits a hex as a result of your push action. If the push starts and/or ends on hazardous terrain, it won't trigger the added effects from this card for those hexes.</p>
+<p><b>Quenched Rage (1, top) - What's the range on the push?</b> It's Range 1</p>
 
-<p><b>Quenched Rage (top) - How does the doubling damage interact with Brittle or Ward?</b> While normally hazardous terrain damage procs as soon as a figure enters the hex, this card creates an exception to this rule for any figure pushed <i>through</i> a hazardous terrain hex (that is, both entering and exiting). If the figure is Brittle, the first hazardous terrain damage will be doubled twice. If Warded, it will be normal (or doubled and halved if you prefer).</p>
+<p><b>Quenched Rage (1, top) - What does 'through' mean here?</b> It means the enemy both enters and exits a hex as a result of your push action. If the push starts and/or ends on hazardous terrain, it won't trigger the added effects from this card for those hexes.</p>
 
-<p><b>Quenched Rage (bot) - Why does it have 4 circles but only giving me -1 attack to the next three attacks?</b>  The 1st, 2nd, and 3rd circle are for the -1's to attacks. The 4th circle is for the double damage effect and is not subject to the -1 effect.</p>
+<p><b>Quenched Rage (1, top) - How does the doubling damage interact with Brittle or Ward?</b> While normally hazardous terrain damage procs as soon as a figure enters the hex, this card creates an exception to this rule for any figure pushed <i>through</i> a hazardous terrain hex (that is, both entering and exiting). If the figure is Brittle, the first hazardous terrain damage will be doubled twice. If Warded, it will be normal (or doubled and halved if you prefer).</p>
+
+<p><b>Quenched Rage (1, bot) - Why does this persistent have 4 use slots, but only gives -1 attack to the next three attacks?</b>  The 1st, 2nd, and 3rd use slots are for the -1's to attacks. The 4th circle is for the double damage effect, and is not subject to the -1 effect.</p>
 
 <p><b>Under Pressure (1, top) - What is a "hex with a wall"?</b> This item in the list should simply be read as "walls," and it includes full wall hexes, along with both line borders and partial hexes on the edges of room tiles.</p>
 
-<p><b>Hardened Spike (3)</b> - The track is missing a mandatory symbol, in error. It follows the same rules as all of your other mandatory persistents.</p>
+<p><b>Hardened Spike (3, top)</b> - The use slot track is missing a mandatory symbol, in error. It follows the same rules as all of your other mandatory persistents.</p>
+
+<p><b>Living Magma (3, top)</b> - This attack ability is made by the characer, not the hazardous terrain, and not 'as if they occupied' the hazardous terrain. The character needs Line of Sight to the targets, and it follows all rules for any other ranged attack.</p>
 
 <p><b>What is the timing on my "Place Hazardous Terrain" modifier card? Is it before or after forced movement?</b> Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.</p>
 
