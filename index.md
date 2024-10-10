@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-09-28*
+*Last Updated 2024-10-09*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -540,7 +540,13 @@ Examples:
 
 **If a monster with a ranged attack is adjacent to one enemy, but could attack another enemy without disadvantage, which enemy will it attack?** Monster focus doesn't consider disadvantage. It will always prioritize the adjacent enemy in this case. If the monster can safely move away from its focus before the attack, it will do so using the minimum number of hexes in order to lose disadvantage.
 
+**Will a monster enter a negative hex (a trap or hazardous terrain) if it's the only way to attack an enemy this turn?** Usually not. A monster's first focus priority is to choose a hex from which they can attack an enemy with the least possible movement, *preferring "safe" paths of any length over any paths with negative hexes*. They will choose a safer path even if it's much longer, and even if it means they can't attack their focus this turn. They will only choose a path with one or more negative hexes if it's the only way to attack *any* enemy, ever, looking at the current state of the board, pretending the monster has infinite movement. Remember - path length is part of selecting a monster's focus, not something done after focus has been selected. Monsters will focus on an enemy that's apparently further away, by range, if it means they can avoid entering negative hexes. See the steps on p74 of the rulebook for examples.
+
 **If an enemy must move through a choice of traps, will it consider the strength of those traps when determining which one to move through?**  No, monsters will take into account the *number* of negative hexes, but not the *strength or effects* of them. When it's otherwise ambiguous, you can resolve ambiguity in your favor. Note that they will always prefer a path with zero negative hexes, regardless of length, just like normal.
+
+**Will enemies also avoid difficult terrain or icy terrain?** Not necessarily. Difficult and icy terrain are not considered "negative hexes."
+
+**Are monsters aware of the effects of difficult and icy terrain? Can icy terrain be used to "trick" monsters?** Monsters are aware of the effects of both icy and difficult terrain, and take their effects into account when making their focus determinations and selecting their movement paths. They will not slide into a negative hex "accidentally." It's possible that icy terrain could make a path to a seemingly-distant enemy shorter than a closer one; the monster will, as always, focus first on the enemy they can attack with the least movement spent.
 
 **If a monster is trying to make a multi-target attack this turn, but does not have enough movement to attack any targets, will it move towards its primary focus or towards a position to potentially maximize the attack?** It will move towards its primary focus.
 
@@ -593,9 +599,9 @@ Examples:
 ### Burrowing Blades 
 **Is the movement path for Tunneling Slices chosen to maximize targets?** In this case and all similar ones, the attack is a rider on the move, and a move ability doesn't have multi-target. A player can resolve ambiguity among multiple equal paths to minimize targets.
 
-**Will the Blades attack with Tunneling Slices if they are already adjacent to the furthest enemy?** No. The attack is a rider on the move. No move, no attack. 
+**Will the Blades attack with Tunneling Slices if they are already adjacent to the furthest enemy?** No. The attack is a rider on the move. No move means no attack. 
 
-**How is focus determined for Tunneling Slices?** Basically - it is completely analogous to normal focus rules, except the Burrowing Blades is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible. 
+**How is focus determined for Tunneling Slices?** Basically - it is completely analogous to normal focus rules, except the Burrowing Blades is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a (preferably) safe and legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible, and potentially choosing another focus if all available hexes around the furthest enemy are negative. 
 
 ### Chaos Demon
 **What is the Retaliate value on Chilling Breath?** It is Retaliate 2, Range 2. This was a production error (see Section 2 of the FAQ).
@@ -603,9 +609,9 @@ Examples:
 ### Flaming Bladespinner
 **Is the movement path for Spinning Charge chosen to maximize targets?** In this case and all similar ones, the attack is a rider on the move, and a move ability doesn't have multi-target. A player can resolve ambiguity among multiple equal paths to minimize targets.
 
-**Will the Bladespinner attack with Spinning Charge if they are already adjacent to the furthest enemy?** No. The attack is a rider on the move. No move, no attack. 
+**Will the Bladespinner attack with Spinning Charge if they are already adjacent to the furthest enemy?** No. The attack is a rider on the move. No move means no attack. 
 
-**How is focus determined for Spinning Charge?** Basically - it is completely analogous to normal focus rules, except the Bladespinner is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible.
+**How is focus determined for Spinning Charge?** Basically - it is completely analogous to normal focus rules, except the Bladespinner is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a (preferably) safe and legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible, and potentially choosing another focus if all available hexes around the furthest enemy are negative.
 
 ### Frozen Corpse
 **How does the elemental consumption on Thawed Strike work?** This card was written before the FH elemental consumption rules were finalized. If any Corpse performs any ability, they will consume Fire. Any Corpse performing a Move ability (keeping in mind this has to be 1 or more hexes) during their turn will take 2 damage. 
@@ -644,15 +650,16 @@ Examples:
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_7" class="page-number">7.0</a> General Scenario Questions
-**I don’t understand the difference between Campaign and Casual mode. What does all this mean?** So, the confusion is primarily because Frosthaven’s “Casual Mode” is different from Gloomhaven’s.
-- Casual Mode: You get no resources, XP, quest progression, etc. Time does not pass, you don’t do any events, etc. It is really just playing the game to enjoy it, with zero campaign impact. Afterwards there is no Outpost Phase.
-- Campaign Mode: Just like in a normal scenario, you can earn resources, XP, any unlooted treasure chests, and random items if you didn’t already get them. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Frosthaven. After the scenario, you will have an Outpost Phase.
+**I don’t understand the difference between Campaign and Casual mode. What does all this mean?** 
+Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for re-playing already played scenarios, but with zero game impacts.
+- Casual Mode: You get no resources, XP, quest progression, etc. You don’t draw any events, and there's no Outpost Phase afterwards. It is really just playing the game to enjoy it, with zero campaign impact.
+- Campaign Mode: If you replay a scenario in Campaign Mode, you can earn resources, XP, any unlooted treasure chests, and random items from the loot deck if you didn’t already get them. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Frosthaven. After the scenario, you will have an Outpost Phase, where time will pass.
 
-**Can I replay a scenario to loot an unlooted treasure chest? Isn’t that Casual Mode?** In Frosthaven, you would have to replay the scenario in Campaign Mode. Casual Mode is different in Frosthaven than it is in Gloomhaven. You would run the scenario just like you ran it the first time, except you do not receive any Scenario Rewards for completion. (Just the loot, chests, xp, etc.)
+**Can I replay a scenario to loot an unlooted treasure chest? Isn’t that Casual Mode?** In Frosthaven, if you want to loot an unlooted chest, you would have to replay the scenario in Campaign Mode. You would run the scenario just like you ran it the first time, except you do not receive any Scenario Rewards for completion. (Just the loot, chests, xp, etc.)
 
-**What about a random scenario from the random dungeon deck? How do those fit in?** Random scenarios can be played in Casual Mode or Campaign Mode; it is up to you. See above for the differences. Random scenarios do not require a Road Event. Note that playing too many random scenarios in campaign mode may have unforeseen effects on campaign progression. If things start to seem weird, I’d recommend going back to the game’s campaign scenarios.
+**What about a random scenario from the random dungeon deck? How do those fit in?** Random scenarios can be played in either Casual Mode or Campaign Mode; it is up to you. See above for the differences. Random scenarios do not require a Road Event.
 
-**If I lose a scenario but we choose to replay the scenario, do I keep any Random Items we found? What about gold from loot cards?** You keep all gold (including that gained from loot cards), anything gained from treasure chests (even if it contained Resources), random items from the loot deck, and XP earned from your action cards. You do not keep any other Resources, including those gained via item usage.
+**If I lose a scenario but we choose to replay it, do I keep any Random Items we found? What about gold from loot cards?** You keep all gold (including that gained from loot cards), anything gained from treasure chests (even if it contained Resources), random items from the loot deck, and XP earned from your action cards. You do not keep any other Resources, including those gained via item usage.
 
 **Why are some scenario markers in grey and some in green?** All are considered to share the same marker, but there's only enough physical markers for the green ones. 
 
@@ -660,13 +667,15 @@ Examples:
 
 **If there is a calculation, but no indication of the direction of rounding, what direction do you round?** Usually a calculation will tell you the intended direction of rounding. If it does not, assume it rounds up.
 
-**This scenario has a boss with a number of health thresholds. What happens if we reduce a boss below two of these at once - or even all the way to 0 health?** The first pending section must be resolved before anything else can happen. Often this will reset the boss's health to a certain amount; the intent is that they can't be killed by a single strong attack. The section (or first section if there's more than one) needs to be resolved before anything else.
+**This scenario has a boss with a number of health thresholds. What happens if we reduce a boss below two of these at once - or even all the way to 0 health?** The first pending section must be resolved before anything else can happen, and the boss isn't considered dead yet. Generally, these sections will reset the boss's health to a certain amount; the intent is that they can't be killed by a single strong attack. The section (or first section if there's more than one) needs to be resolved before anything else.
+
+**Do I need to kill enemies that have not yet spawned in order to beat a scenario with a goal of "When all enemies in it are dead"?** Yes. Enemies on set spawns for specific rounds are still considered "in the scenario" and must be defeated in order to fulfill that win condition.
 
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
 
-**Scenario 0** Masteries cannot be completed in this scenario. This is a rule in the second printing.
+**Scenario 0** - Masteries cannot be completed in this scenario. This is a printed rule in the second printing.
 
 **Scenario 1** - Although the City Guards don't take turns, they expire "end of next turn" conditions (such as Disarm and Immobilize) on Initiative 50.
 
@@ -685,7 +694,7 @@ Examples:
 
 **Scenario 9, Section 26.1** - <span class="hidden">The switches are the wall hexes. They are targetable in melee by standing in the adjacent hex, or ranged by targeting that wall hex.</span>
 
-**Scenario 10, Section 65.3** - <span class="hidden">Deathwalker shadows will move to the new room with you. See <a href="#page_84">8.4 Deathwalker</a> for details.</span>
+**Scenario 10, Section 65.3** - <span class="hidden">Deathwalker shadows will move to the new room with you. See <a href="#page_84">8.4 Deathwalker</a> for discussion.</span>
 
 **Scenario 11** - <span class="hidden"><b>Does Boss Special 2 affect invisible characters</b>? Yes</span>
 
