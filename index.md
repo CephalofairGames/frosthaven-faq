@@ -1137,11 +1137,11 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>I have an ability which refers to the damage an ally "would suffer." Is this likewise capped by the ally's HP?</b> No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.</p>
 
-<p><b>Can I target a figure immune to a negative condition with an ability like Shared Affliction which would transfer it to them?</b> Yes. It is still removed from you, but the target never gains the condition.</p>
+<p><b>Can I target a figure immune to a negative condition with an ability like Shared Affliction (bot) which would remove it from me, to give it to them?</b> Yes. It is still removed from you, but the target never gains the condition.</p>
 
 <p><b>If I use Blood Ritual’s bottom loss, would abilities that require self-inflicting conditions (like some Geminate cards) still work?</b> Yes.</p>
 
-<p><b>If I have an ability that says I cannot remove my negative conditions (ex: Delayed Malady), am I prevented from using abilities that allow me to remove a condition from myself and give it to another target (ex: Shared Affliction)?</b> If you cannot remove your own conditions, you cannot use these abilities.</p>
+<p><b>If I have an ability that says I cannot remove my negative conditions (ex: Delayed Malady, bot), am I prevented from using abilities that allow me to remove a condition from myself and give it to another target (ex: Shared Affliction, bot)?</b> If you cannot remove your own conditions, you cannot use these abilities.</p>
 
 <p><b>Line of Transference (1, top) - If I turn this into a multi-target attack, what happens?</b> The condition you remove is applied to all targets.</p>
 
