@@ -1171,7 +1171,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>If I draw multiple Heal Ally modifier draws, do they combine into one heal, or is each one separate?</b> They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.</p>
 
-<p><b>What's the range on my Heal Ally modifier cards?</b> They have unlimited range but, as a Heal, they are targeted and therefore require Line of Sight.</p>
+<p><b>What's the range on my Heal Ally modifier cards?</b> They have unlimited range, but, as a Heal, they are targeted and therefore require Line of Sight.</p>
+
+<p><b>For my first Mastery, what does "cause ... to move" mean?</b> It means an ally or enemy has moved at least 1 hex as a result of your ability, when they otherwise could not have. It includes both forced movement and granted movement. Bonuses to move abilities do not count towards this.</p>
 
 <p><b>My second mastery says, "Ensure the first ally to suffer damage each round, directly before suffering the damage, has at least one condition you applied.” If none of my allies take damage at all this scenario, do I succeed?</b> Yes, just like you would for a Battle Goal involving Rests if you didn’t Rest at all.</p>
 
