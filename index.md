@@ -500,6 +500,9 @@ Examples:
 - Attack X is always a melee attack at the value provided. It can be granted to a non-objective figure that does not have an inherent Attack value.
 - Attack +X depends on the monster's or summon's inherent attack value. For monsters, this attack is always melee. For a Summon, however, *it will inherit any Range characteristic the Summon always has (if any)*.
 
+**I have a Grant ability with an elemental consumption, for example [Boneshaper's Level 1 Dark Tidings](https://github.com/any2cards/frosthaven/blob/master/images/character-ability-cards/frosthaven/BO/fh-dark-tidings.png?raw=true). Who consumes this element? The Boneshaper or the target of the Grant?** The granting figure performs any elemental consumptions, and gains any earned XP from it (if any). If one Grant ability grants abilities to more than one target, all of them will benefit from one elemental consumption. The target of the Grant still performs any granted abilities like normal, including new abilities enabled by the elemental consumption.
+
+
 **Errata for Active Bonuses and Resting** - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting." For example, if a Boneshaper has two skeleton cards active and zero cards in their discard pile, they can still declare a Long Rest. At the end of this Long Rest, they must Lose one of their active summons.
 
 ![divider-narrow](/assets/images/divider2.png)
@@ -753,7 +756,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p>Conclusion - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks. First Printing Only - Add Item 224 to Scenario Rewards</span></p>
 </details>
 <br>
-**Scenario 62** - <span class="hidden">This scenario uses "a" tokens for both Crain's present location and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself. Damage tokens are used as time trackers here; there is no way for players to add damage to Crain's goals.</span>
+**Scenario 62** - <span class="hidden">This scenario uses "a" tokens for both Crain's present location and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself. Damage tokens are used as time trackers here; there is no way for players to add damage to Crain's goals. Monsters <b>will</b> enter negative hexes to attack Crain, if they must in order to attack this round, but will enter as few as possible.</span>
 
 **Scenario 65 - Section 89.1** - <span class="hidden">The Named Ice Wraith starts on "elite" stats, and switches forms like other ice wraiths. Just use normal white and yellow (or white and red) bases for it, but it's still considered a named monster.</span>
 
