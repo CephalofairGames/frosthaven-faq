@@ -935,6 +935,10 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Do shadows I have to remove because I'm over the limit count for my Masteries?** Yes. 
 
+**If I draw multiple Heal Ally modifier draws, do they combine into one heal, or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one ally, or split them up to heal two or more. All heals to one ally are combined into a single heal, and are not treated as multiple Heal 1's.
+
+**What's the range on my Heal Ally modifier cards?** They have unlimited range, but, as a Heal ability, they are targeted and therefore require Line of Sight to the ally. Remember that you are not your own ally.
+
 **Call of the Abyss (1, top) - Can I have more than one character token on an enemy?** Not using this card, no. If you choose a different enemy to ‘mark’ on a later attack, first remove your character token from the enemy it’s on and then place it on your new choice.
 
 **Call of the Abyss (1, top) - Can I mark an objective with Call to the Abyss?** While you could mark it, objectives are destroyed, not killed, so it won't create a shadow. 
@@ -1181,6 +1185,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>My second mastery says, "Ensure the first ally to suffer damage each round, directly before suffering the damage, has at least one condition you applied.” If none of my allies take damage at all this scenario, do I succeed?</b> Yes, just like you would for a Battle Goal involving Rests if you didn’t Rest at all.</p>
 
 <p><b>Will a Pull or Push 0 trigger Chilling Impact’s (1) effect?</b> No. Not only is this forbidden by the card text, but Push 0 and Pull 0 have been ruled as 'not forced movement'.</p>
+
+<p><b>Biting Frost (4, top) - Who is consuming Ice here, Snowflake or the target? Who gets the XP?</b> All element consumptions on Grant abilities are performed by the Granter (here, Snowflake), while the effects and any added abilities are still performed by the Grantee. Snowflake gets the XP.</p>
 
 <p><b>How does the wind consumption ability on Storm Wall (7) work? Does it include the attack's red hexes?</b> No. It only damages hexes directly <i>outside</i> the AoE pattern. It is a separate ability (as denoted by the line), so it is possible to force move enemies outside of the pattern before the damage ability.</p>
 
