@@ -1025,7 +1025,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p>As an example, I want to play Boon of the Tempest. I consume Wind and any other element to play it. While it's in my active area, I will add +1 move and Jump to all my move abilities for the rest of the scenario. I can also Attack 3 now, because I just played this Infusion.</p>
 
-<p>If, later, I play Caress of the Night (consuming Dark and any other element), I can Strengthen myself (from Caress's on-infusion trigger) and Attack 3 (from Tailwind's on-infusion trigger), and that attack will have Wound and Muddle (from Caress's persistent bonus). The order of the trigger abilities is ambiguous, so you can pick any order that suits you.</p>
+<p>If, later, I play Caress of the Night (consuming Dark and any other element), I can Strengthen myself (from Caress's on-infusion trigger) and Attack 3 (from Tempest's on-infusion trigger), and that attack will have Wound and Muddle (from Caress's persistent bonus). The order of the trigger abilities is ambiguous, so you can pick any order that suits you.</p>
 
 <p><b>If I pay the element cost on an active Infusion on a later turn, can I use its activated ability again?</b> No. The elements are consumed when playing the action the first time only.</p>
 
