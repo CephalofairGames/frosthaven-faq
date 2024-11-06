@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-10-22*
+*Last Updated 2024-11-05*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -415,7 +415,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **I have an ability that references the damage a monster or I have "suffered." Is this the total damage I dealt?** No. While there's no cap to damage dealt, "damage suffered" is the result of that damage, after all ward, brittle, or negation - and is capped by the figure's remaining HP. This goes for all figures with HP. Damage suffered is basically the equivalent of moving an hp dial.
 
-**I have an ability which refers to the damage an ally "would suffer." Is this likewise capped by the ally's HP?** No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.
+**I have an ability which refers to the damage a figure "would suffer." Is this likewise capped by the figure's HP?** No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -776,7 +776,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 82** - If you have questions on how some aspects of this scenario operate, please reference [this thread](https://boardgamegeek.com/thread/3070490/)
 
-**Scenario 83** - <span class="hidden">The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that.</span>
+**Scenario 83** - <span class="hidden">The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that. The scenario's water tiles cannot be removed, replaced, or relocated except by the scenario's mechanics. "Left" here refers to the horizontal row of hexes a water tile is on.</span>
 
 **Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet.) Capturing the Giant Piranha Pig is, for this scenario, an acceptable substitute for killing it for the scenario goal.</span>
 
@@ -1138,7 +1138,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p>For convenience, I am repeating, here, questions from <a href="#page_52">Section 5.2</a> about damage "suffered" or "would suffer":</p>
 <p><b>I have an ability that references the damage a monster or I have "suffered." Is this the total damage I dealt?</b> No. While there's no cap to damage dealt, "damage suffered" is the result of that damage, after all ward, brittle, or negation - and is capped by the figure's remaining HP. This goes for all figures with HP. Damage suffered is basically the equivalent of moving an hp dial.</p>
 
-<p><b>I have an ability which refers to the damage an ally "would suffer." Is this likewise capped by the ally's HP?</b> No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.</p>
+<p><b>I have an ability which refers to the damage a figure "would suffer." Is this likewise capped by the figure's HP?</b> No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.</p>
 
 <p><b>Can I target a figure immune to a negative condition with an ability like Shared Affliction (bot) which would remove it from me, to give it to them?</b> Yes. It is still removed from you, but the target never gains the condition.</p>
 
