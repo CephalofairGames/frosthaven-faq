@@ -788,6 +788,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 96** - <span class="hidden">The stairs are there for aesthetic reasons. The platform follows all normal corridor rules, and you can move on or off as you see fit. When the platform opens doors at the end of the round, newly revealed enemies do not activate.</span>
 
+**Scenario 99** - <span class="hidden">The enemies will always stay on the "1" tiles they are on, and will not move off of them, even to another "1" tile, unless forced.</span>
+
 **Scenario 101** - <span class="hidden">The "goal treasure tiles" have been replaced by numbered tokens due to component count issues. References to goal tiles refer to the numbered tokens.</span>
 
 **Scenario 104** - <span class="hidden">The special rule should include "Each element can be consumed only once per turn."</span>
