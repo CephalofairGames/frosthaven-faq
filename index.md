@@ -753,6 +753,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <summary><b>Scenario 60</b></summary>
 <p>Scenario hexes are only treated as water hexes for Lightning Eel summoning and movement, and not for any other purpose. You can place water hexes in the scenario as normal with relevant items and abilities.</p>
 <p>Boss Special Rules: The intent for 'everlasting' elements is that they become Strong at the start of every figure's turn. Even with this special, a single element cannot be consumed twice in a single turn.</p>
+<p>Section 115.4 - <span class="hidden">Only a character with the Shards can damage the Fracture, and only in the ways specified. Their summons, if any, still cannot focus on or damage the boss.</span></p>
 <p>Conclusion - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks. First Printing Only - Add Item 224 to Scenario Rewards</span></p>
 </details>
 <br>
@@ -776,7 +777,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 82** - If you have questions on how some aspects of this scenario operate, please reference [this thread](https://boardgamegeek.com/thread/3070490/)
 
-**Scenario 83** - <span class="hidden">The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that. The scenario's water tiles cannot be removed, replaced, or relocated except by the scenario's mechanics. "Left" here refers to the horizontal row of hexes a water tile is on.</span>
+**Scenario 83** - <span class="hidden">(1) The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that. (2) The scenario's water tiles cannot be removed, replaced, or relocated except by the scenario's mechanics. "Left" here refers to the horizontal row of hexes a water tile is on.</span>
 
 **Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet.) Capturing the Giant Piranha Pig is, for this scenario, an acceptable substitute for killing it for the scenario goal.</span>
 
