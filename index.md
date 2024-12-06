@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-11-05*
+*Last Updated 2024-12-06*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -271,6 +271,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 1. Draw from the season corresponding to the *next unmarked box* when drawing event cards. 
 
 **Does this mean I only have 9 summer outpost events during Year 1?** Yes. You actually only get 9 summer road events during Year 1, too. 
+
+**Do I need to return to Frosthaven after every successful scenario?** Yes, unless the scenario you just completed is Linked or Force-Linked to another scenario. This is indicated by a chain link icon with a red or yellow exclamation point in the Scenario Rewards when a new scenario is first unlocked. You cannot replay a scenario you've successfully completed without returning to Frosthaven, and links are only one-way.
 
 **What’s Frosthaven’s starting Defense?** Your Defense is 0, modified by your Morale track bonus (or penalty) after Scenario 1 is completed. It will change as your morale increases or decreases, and as walls are built. 
 
@@ -653,6 +655,9 @@ Examples:
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_7" class="page-number">7.0</a> General Scenario Questions
+
+**Do I need to return to Frosthaven after every successful scenario?** Yes, unless the scenario you just completed is Linked or Force-Linked to another scenario. This is indicated by a chain link icon with a red or yellow exclamation point in the Scenario Rewards when a new scenario is first unlocked. You cannot replay a scenario you've successfully completed without returning to Frosthaven, and links are only one-way.
+
 **I don’t understand the difference between Campaign and Casual mode. What does all this mean?** 
 Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for re-playing already played scenarios, but with zero game impacts.
 - Casual Mode: You get no resources, XP, quest progression, etc. You don’t draw any events, and there's no Outpost Phase afterwards. It is really just playing the game to enjoy it, with zero campaign impact.
