@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-12-06*
+*Last Updated 2024-12-08*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -1099,9 +1099,11 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I Bless the same character more than once with Shape the Path (3)?</b> Yes, you can.</p>
 
+<p><b>What is meant by "numeral" for Empowering Note (5, top)?<b> "Numeral" refers only to numbers, not to words. "1" is considered a numeral. "One" is not.
+
 <p><b>Can I adjust a Default Move or Default Attack with Empowering Note (5)?</b> Yes, you can - they are abilities.</p>
 
-<p><b>For the top of Unsustainable Wave, how much damage did an enemy suffer? Was this the total damage I dealt, including overkill?</b> See <a href="#page_52">Section 5.2</a> for a discussion on the differences between "damage dealt" and "damage suffered." In short, it's capped by the monster's remaining HP and will not include "overkill" damage.</p>
+<p><b>For the top of Unsustainable Wave (6), how much damage did an enemy suffer? Was this the total damage I dealt, including overkill?</b> See <a href="#page_52">Section 5.2</a> for a discussion on the differences between "damage dealt" and "damage suffered." In short, it's capped by the monster's remaining HP and will not include "overkill" damage.</p>
 
 </details>
 <br>
