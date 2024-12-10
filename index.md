@@ -1099,7 +1099,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I Bless the same character more than once with Shape the Path (3)?</b> Yes, you can.</p>
 
-<p><b>What is meant by "numeral" for Empowering Note (5, top)?<b> "Numeral" refers only to numbers, not to words. "1" is considered a numeral. "One" is not.
+<p><b>What is meant by "numeral" for Empowering Note (5, top)?</b> "Numeral" refers only to numbers, not to words. "1" is considered a numeral. "One" is not.</p>
 
 <p><b>Can I adjust a Default Move or Default Attack with Empowering Note (5)?</b> Yes, you can - they are abilities.</p>
 
