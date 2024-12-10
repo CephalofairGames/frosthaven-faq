@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-12-08*
+*Last Updated 2024-12-10*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -1410,6 +1410,8 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 180** - <span class="hidden"><b>Boots of Greed - do Loot abilities I grant to my Summons count for this item?</b> Yes. Your summons' loot abilities are considered your loot abilities for all purposes.</span>
 
 **Item 188** - <span class="hidden">**Freezing Crystal** - The Water hex this item can create is considered Difficult Terrain.</span>
+
+**Item 192** - <span class="hidden">**Enticing Bell** - If you attempt to use this item while Invisible, the target monster will be unable to focus on you, which is a required part of its function. The item will, as a result,  do nothing.</span>
 
 **Item 218** - <span class="hidden">**Tome of Life** - The benefits to enemies are considered "negative effects" from the player perspective, and are not skippable.</span>
 
