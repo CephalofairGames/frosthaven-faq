@@ -1077,7 +1077,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Hardened Spike (3, top)</b> - The use slot track is missing a mandatory symbol, in error. It follows the same rules as all of your other mandatory persistents.</p>
 
-<p><b>Living Magma (3, top)</b> - This attack ability is made by the characer, not the hazardous terrain, and not 'as if they occupied' the hazardous terrain. The character needs Line of Sight to the targets, and it follows all rules for any other ranged attack.</p>
+<p><b>Living Magma (3, top)</b> - This attack ability is made by the characer, not the hazardous terrain, and not 'as if they occupied' the hazardous terrain. The character needs Line of Sight to the targets. These are all considered melee attacks.</p>
 
 <p><b>Swelter (7, top) - How does this work?</b> - These are ranged attacks are made by the Meteor, not by the (removed) hazardous terrain. The range of 5 should rarely matter, because the hazardous terrain needs to be within range 4. The character needs Line of Sight to all targets, and if the Meteor is adjacent to an enemy, they will have disadvantage on that attack.</p>
 
