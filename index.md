@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-12-13*
+*Last Updated 2024-12-26*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -364,7 +364,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 <h4>Specific Trial Questions</h4>
 <p>Trials are referred to here by their Card Number, which is in the lower left hand corner.</p>
-<p><b>Trial 0355</b> <span class="hidden">The standee number here is for enemies only. It does not include scenario allies or summons.</span></p>
+<p><b>Trial 0355</b> <span class="hidden">The standee number here is for enemies only. It does not include scenario allies or summons. If a boss has no standee number, it can't be attacked unless you also include the lowest-numbered standee in the attack (or it's the only remaining enemy).</span></p>
 <p><b>Trial 0359</b> <span class="hidden">You get the check marks for any battle goal you pass while you have this Trial, potentially multiple goals per scenario.</span></p>
 </details>
 <br>
@@ -1381,6 +1381,8 @@ Items are listed by their item number.
 **Item 049, 1st Printing Errata** - <span class="hidden">**Cruel Dagger** This item is missing a Spent symbol.</span> 
 
 **Item 076** - <span class="hidden">**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
+
+**Item 077** - <span class="hidden">**Chaos Cannon** - If you create a Water hex with this item, it is always Difficult Terrain unless the scenario specifies otherwise.</span> 
 
 **Item 084** - <span class="hidden">**Stamina Potion** - Level X cards are Level 1 cards for all purposes.</span>
 
