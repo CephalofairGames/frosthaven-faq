@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2024-12-26*
+*Last Updated 2025-01-06*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -1064,6 +1064,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>If I create Hazardous Terrain via an item, does it use my tiles and count against my limit?</b> Yes, all Hazardous Terrain created by you uses your class-specific overlay files and counts towards your limit no matter how it's made.</p> 
 
 <p><b>Cooling (1, bot) - How does this interact with my Move 1 abilities, such as Igneous Path?</b> While a Move 0 is not a Move ability, and no Move ability will actually end up being performed, attempting a Move 1 will use up one slot on Cooling's persistent.</p>
+
+<p><b>Igneous Path (1, top) - What does "direct path" mean, here?</b> Each hex you choose for the path must be both further away from you, and closer to the destination hex. Think of it like a Push, if that helps, where each hex of the Push must be further from you.</p>
 
 <p><b>Quenched Rage (1, top) - What happens if an obstacle would be placed in an illegal hex via this action?</b> The hazardous terrain is removed but an obstacle is not created.</p>
 
