@@ -796,6 +796,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 96** - <span class="hidden">The stairs are there for aesthetic reasons. The platform follows all normal corridor rules, and you can move on or off as you see fit. When the platform opens doors at the end of the round, newly revealed enemies do not activate.</span>
 
+**Scenario 97** - <span class="hidden">Notes - (1) Boss Special 2 triggers on its initiative, so the Program Director will not become an ally to the monsters until its turn. (2) If you play a monster ability card, only you, personally, become an ally to that monster. Other players (and the Program Director) are still its enemies for the turn.</span>
+
 **Scenario 99** - <span class="hidden">The enemies will always stay on the "1" tiles they are on, and will not move off of them, even to another "1" tile, unless forced.</span>
 
 **Scenario 101** - <span class="hidden">The "goal treasure tiles" have been replaced by numbered tokens due to component count issues. References to goal tiles refer to the numbered tokens.</span>
@@ -1166,6 +1168,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Line of Transference (1, top) - If I turn this into a multi-target attack, what happens?</b> The condition you remove is applied to all targets.</p>
 
+<p><b>Line of Transference (1, top) - If I am muddled, will the muddle be removed before or after the attack?</b> It will be removed before the attack. Note that if you are disarmed or stunned, you can't initiate the attack ability in the first place.</p>
+
 <p><b>Delayed Malady (1, bot) - How does the timing on this work, exactly? If I dismiss this persistent, when do my conditions fall off?</b> "End of turn" conditions, like Disarm and Muddle, will fall off during your next "end of turn wrap-up" step. If it is dismissed before your turn, or at any time during your turn, these conditions will fall off at the end of your turn as they usually would.</p>
 
 <p><b>Delayed Malady (1, bot) - How does this interact with Curses?</b> This has no effect on incoming curses. You'd still add a curse card to your deck if you are the target of a curse ability.</p>
@@ -1177,6 +1181,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Reprisal (3), top</b> is missing a Round Bonus symbol.</p>
 
 <p><b>Wracked with Pain (8), top - Can I skip the Wound?</b> Yes. You can just Stun (and potentially Brittle).</p>
+
+<p><b>The End of Everything (9), top - Do I still have my conditions when I make these attacks?</b> Yes. It happens before you exhaust.</p>
 
 </details>
 <br>
@@ -1386,6 +1392,8 @@ Items are listed by their item number.
 
 **Item 077** - <span class="hidden">**Chaos Cannon** - If you create a Water hex with this item, it is always Difficult Terrain unless the scenario specifies otherwise.</span> 
 
+**Item 078** - <span class="hidden">**Balanced Scales** - This item can be used on attacks granted to you on others' turns. If so, it is still available for use on your turn. Either way, it will be flipped (once) at the end of your turn. Technically, the other side could be used like this too.</span>
+
 **Item 084** - <span class="hidden">**Stamina Potion** - Level X cards are Level 1 cards for all purposes.</span>
 
 **Item 093** - <span class="hidden">**Glancing Potion** - You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.
@@ -1418,6 +1426,8 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 188** - <span class="hidden">**Freezing Crystal** - The Water hex this item can create is considered Difficult Terrain.</span>
 
 **Item 192** - <span class="hidden">**Enticing Bell** - If you attempt to use this item while Invisible, the target monster will be unable to focus on you, which is a required part of its function. The item will, as a result,  do nothing.</span>
+
+**Item 209** - <span class="hidden">**Sword of Mastery** - You can pick +1 twice, if you wish.</span>
 
 **Item 218** - <span class="hidden">**Tome of Life** - The benefits to enemies are considered "negative effects" from the player perspective, and are not skippable.</span>
 
