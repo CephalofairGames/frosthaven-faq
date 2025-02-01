@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-01-06*
+*Last Updated 2025-02-01*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -892,6 +892,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Blurry Jab (1) - If I'm Fast, can I choose not to Wound?** While it is mandatory that Fast effect has turned this into an Attack 4 Wound, you may, as always, choose not to apply the Wound effect to the Attack 4.
 
 **Fractured Timeline (9, top) - If I spawn a summoning ally, are their summons also my allies?** No. In all cases for all classes, when you are controlling a monster, you don't control their summons. Their summons will be enemies to you (and to them). 
+
+**Reverse the Flow (9, top) - Can I use an item like Boots to enhance my Move ability before turning it into an Attack ability?** No. You need to decide to use a Move ability as an Attack ability before performing the ability; you can't improve an ability you never performed. You can, however, use items which improve attacks once you do so.
 
 ![divider-narrow](/assets/images/divider2.png)
 
