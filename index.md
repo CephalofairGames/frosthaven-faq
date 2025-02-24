@@ -333,7 +333,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Building 88** - <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
 
-**Building 88 - Mechanic** <span class="hidden"></b>Lightning Eel Pet - Is this effect mandatory for all players when this pet used?<b> No. While the Eel is still only used once per scenario, by unanimous consent of the party, a player is free to 'opt out' of the damage and therefore skip recovering a card.</span>
+**Building 88 - Mechanic** <span class="hidden"><b>Lightning Eel Pet - Is this effect mandatory for all players when this pet used?</b> No. While the Eel is still only used once per scenario, by unanimous consent of the party, a player is free to 'opt out' of the damage and therefore skip recovering a card.</span>
 
 **Building 90** - <span class="hidden">See <a href="#page_510">Section 5.10</a> for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
 </span>
