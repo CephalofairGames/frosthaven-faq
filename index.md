@@ -1425,6 +1425,8 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 **Item 180** - <span class="hidden"><b>Boots of Greed - do Loot abilities I grant to my Summons count for this item?</b> Yes. Your summons' loot abilities are considered your loot abilities for all purposes.</span>
 
+**Item 181** - <span class="hidden"><b>Translocation Rod</b> (1) Because teleporting other figures is considered Forced Movement, the teleport swap is targeted, and you need line of sight to both figures. (2) You cannot teleport a figure into a hex they cannot legally occupy.</span>
+
 **Item 188** - <span class="hidden">**Freezing Crystal** - The Water hex this item can create is considered Difficult Terrain.</span>
 
 **Item 192** - <span class="hidden">**Enticing Bell** - If you attempt to use this item while Invisible, the target monster will be unable to focus on you, which is a required part of its function. The item will, as a result,  do nothing.</span>
