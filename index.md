@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-03-06*
+*Last Updated 2025-03-14*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -764,7 +764,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p>Conclusion - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks. First Printing Only - Add Item 224 to Scenario Rewards</span></p>
 </details>
 <br>
-**Scenario 62** - <span class="hidden">This scenario uses "a" tokens for both Crain's present location and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself. Damage tokens are used as time trackers here; there is no way for players to add damage to Crain's goals. Monsters <b>will</b> enter negative hexes to attack Crain, if they must in order to attack this round, but will enter as few as possible.</span>
+**Scenario 62** - <span class="hidden">This scenario uses "a" tokens for both Crain's present location and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself. Damage tokens are used as time trackers here; there is no way for players to add damage to Crain's goals.</span>
+
+**Scenario 63** - <span class="hidden">Monsters <b>will</b> enter negative hexes to attack Crain, if they must in order to attack this round, but will enter as few as possible.</span>
 
 **Scenario 65 - Section 89.1** - <span class="hidden">The Named Ice Wraith starts on "elite" stats, and switches forms like other ice wraiths. Just use normal white and yellow (or white and red) bases for it, but it's still considered a named monster.</span>
 
