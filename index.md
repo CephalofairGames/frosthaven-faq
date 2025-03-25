@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-03-14*
+*Last Updated 2025-03-25*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -1096,6 +1096,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Can I place hazardous terrain from my attack modifier card if the target was killed by the attack's damage?</b> Yes. It is part of the attack ability and thus works even if the enemy dies.</p>
 
 <p><b>What happens to my Hazardous Terrain if I exhaust? If I have the three-check perk (Dormant Peace), will my Hazardous Terrain remain safe for my allies?</b> Your Hazardous Terrain are overlays  and will remain on the map after you exhaust. However, your three-check perk is much like an active effect - if you exhaust, your allies are no longer safe from its effects.</p>
+
+<p><b>Will my allied summons still treat my Hazardous Terrain as negative if I have the three-check Dormant Peace perk?<b> As long as the perk is active, allied summons will not avoid those hexes; they are no longer negative to your allies. An allied summoner still could not summon into a hazardous terrain hex; they aren't empty.</p>
 
 </details>
 <br>
