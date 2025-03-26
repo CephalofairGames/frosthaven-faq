@@ -1097,7 +1097,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>What happens to my Hazardous Terrain if I exhaust? If I have the three-check perk (Dormant Peace), will my Hazardous Terrain remain safe for my allies?</b> Your Hazardous Terrain are overlays  and will remain on the map after you exhaust. However, your three-check perk is much like an active effect - if you exhaust, your allies are no longer safe from its effects.</p>
 
-<p><b>Will my allied summons still treat my Hazardous Terrain as negative if I have the three-check Dormant Peace perk?<b> As long as the perk is active, allied summons will not avoid those hexes; they are no longer negative to your allies. An allied summoner still could not summon into a hazardous terrain hex; they aren't empty.</p>
+<p><b>Will my allied summons still treat my Hazardous Terrain as negative if I have the three-check Dormant Peace perk?</b> As long as the perk is active, allied summons will not avoid those hexes; they are no longer negative to your allies. An allied summoner still could not summon into a hazardous terrain hex; they aren't empty.</p>
 
 </details>
 <br>
