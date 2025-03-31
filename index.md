@@ -786,7 +786,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 82** - If you have questions on how some aspects of this scenario operate, please reference [this thread](https://boardgamegeek.com/thread/3070490/)
 
-**Scenario 83** - <span class="hidden">(1) The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that. (2) The scenario's water tiles cannot be removed, replaced, or relocated except by the scenario's mechanics. "Left" here refers to the horizontal row of hexes a water tile is on.</span>
+**Scenario 83** - <span class="hidden">(1) The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are summoned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that. (2) The scenario's water tiles cannot be removed, replaced, or relocated except by the scenario's mechanics. "Left" here refers to the horizontal row of hexes a water tile is on.</span>
 
 **Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet.) Capturing the Giant Piranha Pig is, for this scenario, an acceptable substitute for killing it for the scenario goal.</span>
 
