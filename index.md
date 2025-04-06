@@ -223,7 +223,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **PQ 19** <span class="hidden">"Gain the blueprint for the Abyss Axe" is an instruction for the player, not a PQ requirement. You gain this blueprint in your Craftable Supply (not the item itself) upon starting the quest, regardless of the level of your Craftsman. The activated ability of the Axe must be used on the hit that kills the enemy for it to count.</span>
 
-**PQ 21** <span class="hidden">If another player already has the Trainer's Net (Item 247), they will need to sell it, and you will need to buy it from the shop.</span>
+**PQ 21** <span class="hidden">If another player already has the Trainer's Net (Item 247), they will need to sell it, and you will need to buy it from the shop. You can capture monsters that you have already captured for this personal quest. This just counts for quest progress; you can't get multiple copies of a single pet.</span>
 
 **PQ 23** <span class="hidden">When you complete this quest and open Envelope A, </span><span class="hidden">immediately upgrade Building 81 to Level 2 at no cost.</span>
 
