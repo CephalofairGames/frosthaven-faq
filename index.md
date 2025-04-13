@@ -1348,7 +1348,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ## <a name="page_9" class="page-number">9.0</a> Items (General)
 
-**Can potions be sold, or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
+**Can potions be sold, or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them. This includes items 098 and 119.
 
 **What happens if I gain an item I can't gain? Say, because all copies of it are owned by other party members?** The rule about duplicate item sales has been expanded to cover this situation. Instead of "When a character gains another copy of an item they already own, they must sell it immediately" it's expanded to, "When a character gains an item they cannot gain (for any reason), they must sell it immediately."
 
