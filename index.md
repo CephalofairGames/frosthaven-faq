@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-03-25*
+*Last Updated 2025-04-13*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
