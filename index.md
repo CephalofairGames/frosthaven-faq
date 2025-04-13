@@ -1329,9 +1329,13 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I use the top of Curious Gear (1) to destroy a trap even if there's no enemy to spring it on?</b> No. It needs to be applied to an enemy.</p>
 
-<p><b>Beam Axe (1, bot) - When do these pressure effects trigger?</b> The over-pressure effect doesn't need any adjacent enemies because damage is not targeted. If you are over-pressure, you will always gain xp and lose pressure. The Low Pressure heal is targeted, so the pressure change and XP will only trigger if you have an ally in range to heal.</p>
+<p><b>Beam Axe (1, bot) - When do these pressure effects trigger?</b> The over-pressure effect doesn't need any adjacent enemies because damage is not targeted. If you are Over Pressure, you will always gain xp and lose pressure when this action is performed. The Low Pressure heal is targeted, so the pressure change and XP will only trigger if you have at least one ally in range to heal after the move ability.</p>
 
 <p><b>Steel Piston (1, top) - When do these pressure changes happen?</b> - When you use the attack bonus, this pressure change happens along with any other pressure changes at the end of the action you're performing. The timing is ambiguous, so this can be before or after the rest of the pressure changes.</p>
+
+<p><b>Steel Piston (1, bot)</b> - If there is no target for the attack ability, the attack cannot be performed, and therefore the pressure changes and self-damage will not happen. If there is any available target for the attack, and you are not prevented from attacking, you <i>must</i> perform the attack and then the self damage and/or pressure changes.</p>
+
+<p><b>Recursion (X) - Will these extra pressure changes happen if the pressure change is already double (for example, Beam Axe top while over pressure)?</b> Yes; a double pressure symbol is just two single pressure symbols. This will result in three pressure changes instead of two.</p>
 
 <p><b>In Bronze Plating (2 top), what effects are persistent?</b> The shield and inability to move are both persistent. Shields always last as long as a card is active, and the mandatory box is phrased as an ongoing effect. The pressure check, xp, regenerate, and pressure change are a one-time effect and resolved when the card is played.</p>
 
