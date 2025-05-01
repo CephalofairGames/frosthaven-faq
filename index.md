@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-04-15*
+*Last Updated 2025-05-01*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -1302,6 +1302,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Coiled Limbs - Leaper summon (1) - If the Leaper cannot reach its focus, will it attack another enemy it ends its movement adjacent to?</b> No. Absent specific rules on an ability card, there's no general provisions for monsters to attack enemies other than their focus.</p>
 <p><b>How is the furthest enemy determined?</b> It is determined first by longest movement distance to a valid attack hex, and then by longest range distance. Afterwards, the initiative tiebreaker is as usual. It will move towards its focus like any other monster with a Jump movement would.</p>
+
+<p><b>Aimed Assault (1, top) - If I am in this mode, am I making ranged attacks, or am I just adding range to melee attacks?</b> You're turning all your single-target melee attacks into single-target ranged attacks with a total range of 3. This means they can benefit from modes like Rapid Fire (3, top) if you're using Code Geminate (5, top).</p>
 
 <p><b>Long Range Missile (2)</b> Add the following sentence to the end: "If this damage was from an attack that had any additional conditions or effects, you are subject to them instead."  This resolves some potentially weird situations regarding conditions like Poison or Curse, or Pushes/Pulls. If, for example, your Summon has been damaged by an Attack 3 Poison, you would be Poisoned. If your Summon is going to be Pushed, you will be Pushed instead.</p>
 
