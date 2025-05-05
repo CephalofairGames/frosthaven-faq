@@ -1484,7 +1484,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 ### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
 
-**General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (0either city or road). Event cards that do not feature crossover outcomes are resolved normally.
+**General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (either city or road). Event cards that do not feature crossover outcomes are resolved normally.
 
 **Drifter** - Your perk to exchange Loot Cards has no function in games without a Loot Deck.
 
@@ -1494,11 +1494,11 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 **Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
 
-**Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with this card, *particularly* when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
+***Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with Chimeric Formula, *particularly* when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
 
 **Saw and Frosthaven Building 42** - <span class="hidden">Your Devout perk will work just as normal for the Temple, once it is built. Even though the cost for blessings is different between the games, you don't get any refunds.</span>
 
-**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions you give to them, because Prescriptions are still considered your abilities.</span>
+**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions Saw give to them, because Prescriptions are still considered Saw's abilities.</span>
 
 **Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost.</span>
 
