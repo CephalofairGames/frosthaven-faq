@@ -2,12 +2,12 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-05-01*
+*Last Updated 2025-05-05*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
-1. <a href="#page_1">First Printing Production Errors and Typos</a>
-   1. <a href="#page_11">Second Printing Non-Errata Changes</a>
+1. <a href="#page_01">First Printing Production Errors and Typos</a>
+   1. <a href="#page_011">Second Printing Non-Errata Changes</a>
 1. <a href="#page_2">Component and Setup Questions</a>
 1. <a href="#page_3">General Gameplay Questions (Outside Scenarios)</a>
    1. <a href="#page_31">Masteries</a>
@@ -52,6 +52,7 @@
    1. <a href="#page_817">"Drill"</a>
 1. <a href="#page_9">Items (General)</a>
    1. <a href="#page_91">Items (Specific)</a>
+1. <a href="#page_10">Compatibility Notes for Crossover Characters</a>
 
 ![divider](/assets/images/divider.png)
 
@@ -85,7 +86,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ![divider](/assets/images/divider.png)
 
-##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos
+##  <a name="page_01" class="page-number">1.0</a> First Printing Production Errors and Typos
 
 - Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
   - Envelope 24 should list sticker 10
@@ -142,7 +143,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_11" class="page-number">1.1</a> Second Printing Non-Errata Changes
+### <a name="page_011" class="page-number">1.1</a> Second Printing Non-Errata Changes
 
 In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
 
@@ -1470,6 +1471,46 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 253** - <span class="hidden">**Mask of Duality** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
 **Item 259** - <span class="hidden">**Storm Carving** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
+
+![divider](/assets/images/divider.png)
+
+## <a name="page_10" class="page-number">10.0</a> Compatibility Notes for Crossover Characters
+
+### General Note - Loot vs Money Tokens
+
+If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except for the random item) back to the top of the loot deck.
+
+![divider-narrow](/assets/images/divider2.png)
+
+### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
+
+**General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (0either city or road). Event cards that do not feature crossover outcomes are resolved normally.
+
+**Drifter** - Your perk to exchange Loot Cards has no function in games without a Loot Deck.
+
+![divider-narrow](/assets/images/divider2.png)
+
+### Gloomhaven: Second Edition characters in Frosthaven
+
+**Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
+
+**Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with this card, *particularly* when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
+
+**Saw and Frosthaven Building 42** - <span class="hidden">Your Devout perk will work just as normal for the Temple, once it is built. Even though the cost for blessings is different between the games, you don't get any refunds.</span>
+
+**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions you give to them, because Prescriptions are still considered your abilities.</span>
+
+**Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost.</span>
+
+![divider-narrow](/assets/images/divider2.png)
+
+### Gloomhaven: Jaws of the Lion characters in other games
+
+Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven)
+
+**Demolitionist** - If you bring the Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
+
+<br>
 
 
 <script>
