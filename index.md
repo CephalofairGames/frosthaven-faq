@@ -1500,7 +1500,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 **Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions Saw give to them, because Prescriptions are still considered Saw's abilities.</span>
 
-**Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost.</span>
+**Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost. Note that you "Well-Connected" perk (involving faction items) has no function outside of Gloomhaven: Second Edition.</span>
 
 ![divider-narrow](/assets/images/divider2.png)
 
