@@ -1486,7 +1486,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 **General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (either city or road). Event cards that do not feature crossover outcomes are resolved normally.
 
-**Drifter** - Your perk to exchange Loot Cards has no function in games without a Loot Deck.
+**Drifter** - Your Scavenger perk (which lets you exchange Loot Cards) has no function in games without a Loot Deck.
 
 ![divider-narrow](/assets/images/divider2.png)
 
