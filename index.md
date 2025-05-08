@@ -1480,6 +1480,10 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except for the random item) back to the top of the loot deck.
 
+### Objectives vs. Obstacles with Hit Points
+
+Any mechanic referring to either objectives, or obstacles with hit points, is referring to either.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
