@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-05-16*
+*Last Updated 2025-06-18*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -684,6 +684,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Do I need to kill enemies that have not yet spawned in order to beat a scenario with a goal of "When all enemies in it are dead"?** Yes. Enemies on set spawns for specific rounds are still considered "in the scenario" and must be defeated in order to fulfill that win condition.
 
+**Does Escaping count as "leaving a room" for battle goals?** Yes. Escaping is considered leaving a room.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
@@ -961,6 +963,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Call of the Abyss (1, top) - Can I have more than one character token on an enemy?** Not using this card, no. If you choose a different enemy to ‘mark’ on a later attack, first remove your character token from the enemy it’s on and then place it on your new choice.
 
 **Call of the Abyss (1, top) - Can I mark an objective with Call to the Abyss?** While you could mark it, objectives are destroyed, not killed, so it won't create a shadow. 
+
+**Call of the Abyss (1, top) - If I am stunned when the marked enemy dies, will a shadow token still be placeed?** Yes; placing the shadow is a result of this persistent ability, not a new ability itself. 
 
 **Wave of Anguish (X, top) - Can I target a single enemy with all the attacks?** Yes, if your Shadows are all adjacent to the same target. You perform a separate Attack 3 ability for each Shadow on the board. 
 
