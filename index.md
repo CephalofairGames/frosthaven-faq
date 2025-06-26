@@ -1391,7 +1391,7 @@ Items are listed by their item number.
 **Item 006 Flexible Slippers - Can I use these to "loot" an adjacent hex without loot tokens or treasure instead of my own hex that does?** Yes; Loot isn't a targeted ability, and end-of-turn looting isn't an ability at all.
 **If I still have Flexible Slippers available when I take a Long Rest, can I use them and immediately recover them to have them available after my rest?** No. End-of-turn looting happens after refreshing items.
 
-**Item 007 Crude Bow - How does this work with area of attack or multi-target abilities?** As an errata clarification, this item cannot work on red hex Area of Effect attacks. It *can* work for an individual target of a Target X attack.
+**Item 007 Crude Bow - How does this work with area of attack or multi-target abilities?** As an errata clarification, the Crude Bow cannot work on red hex Area of Effect attacks. It *can* work for an individual target of a Target X attack.
 
 **If I am Impaired or Stunned, will the condition expire before end-of-turn looting?** As long as you were impaired or stunned before your turn, it expires at ambiguous timing with end-of-turn looting. So, you can choose for the condition to expire first. 
 
