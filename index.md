@@ -1264,6 +1264,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I poison multiple enemies in one turn with the persistent of Skull Collection (1)?</b>  Yes as long as you have enough trophies.</p>
 
+<p><b>Grim Trophies (4, bot)</b>(1) While this is one Action, each Move and each Attack are <i>individual Abilities</i>. The action basically queues up a series of Move and Attack abilities for you to perform. (2) You cannot add more Move and Attack abilities to this Action if you gain more Trophies during it. All the Move and Attack abilities are queued up as soon as the Action is played.</p>
+
 </details>
 <br>
 
@@ -1281,6 +1283,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Rising Flood (1, bot) - Can I use this as just a Move 3 without a water tile to designate?</b> Yes; this action says you do this <i>and</i> do that, not do this <i>to</i> to that.</p>
 
 <p><b>Smashing Torrent (2) - Does the Tide effect trigger when an ally grants me a move ability?</b> Yes; this happens on a different turn, and it’s still you taking a move ability.</p>
+
+<p><b>Shuck (3, bot)</b> (1) The elemental consumption gives a grand total of 1 xp, but applies to every move ability you make. (2) Note that while this is all one Action, each Move and each Attack are <i>individual Abilities</i>. The action basically queues up a series of Move and Attack abilities for you to perform.</p>
 
 </details>
 <br>
