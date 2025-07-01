@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-06-21*
+*Last Updated 2025-07-01*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -18,7 +18,7 @@
    1. <a href="#page_42">Enhancements</a>
    1. <a href="#page_43">Building 81 Questions</a>
 1. <a href="#page_5">General Gameplay Questions (Scenarios)</a>
-   1. <a href="#page_51">Rooms, Movement, Forced Movement, and Overlays</a>
+   1. <a href="#page_51">Rooms, Movement, Teleport, Forced Movement, and Overlays</a>
    1. <a href="#page_52">Damage, Shield, Ward, and Brittle</a>
    1. <a href="#page_53">Attack Modifier Draws, Advantage, and Disadvantage</a>
    1. <a href="#page_54">Negative Conditions</a>
@@ -375,7 +375,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario)
 
-### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays
+### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Teleport, Forced Movement, and Overlays
 
 **What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, deathwalker shadows, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven.*
 
@@ -388,6 +388,8 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Can I teleport over gaps between room tiles? If so, how do I measure the distance? There's no hexes to count.** Yes, as long as the destination tile is revealed, and the map tiles aren't free-floating (see below). The gap area between rooms is considered part of the wall. You can use extra corridor overlays to measure the distance, if it's not apparent. 
 
 **Can I teleport to a revealed room tile that is totally disconnected from other room tiles?** Completely disconnected room tiles are an unmeasurable distance apart. Only teleports that ignore distance would work in these cases. (For an example of a scenario with this kind of layout, see Scenario <span class="hidden">24</span>.) 
+
+**Can I teleport into the hex I currently occupy?** Yes. While Move 0 is not a valid ability, Teleport 0 is.
 
 **If my move ability has Jump, can I decide not to Jump?** Yes, but it must be decided at the start of your move ability. You can't decide to start Jumping after you begin moving, or decide to stop Jumping before the formal end of the move ability. If another effect adds Jump for your move ability mid-move, you remain Jumping until the formal end of your move ability.
 
