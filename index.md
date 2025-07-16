@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-07-01*
+*Last Updated 2025-07-16*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -505,7 +505,7 @@ Examples:
 
 **Is my Long Rest at Initiative 99, or is it always last in order?** Your Long Rest takes place at Initiative 99. It is not necessarily last in order; if a game effect pushes a figure's initiative above 99, it will act after your long rest. Your long rest will be performed before monster turns on Initiative 99, and is ambiguously timed with other players acting at 99. *This is a change from the Gloomhaven 1e FAQ*
 
-**What does "end of turn" mean? If I have a persistent ability that lets me do things at the "end of my turn," how is that timed relative to elemental infusion, or losing a Stun?** While all of these say "end of turn," they're not all timed equally. There is an "end of player turn" phase of sorts, where players can still perform appropriate abilities (example: Geminate's "Harvest the Essence"). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only start once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this step, but no Abilities can be performed.
+**What does "end of turn" mean? If I have a persistent ability or item that lets me do things at the "end of my turn," how is that timed relative to elemental infusion, or losing a Stun?** While all of these say "end of turn," they're not all timed equally. There is an "end of player turn" phase of sorts, where players can still perform appropriate abilities (example: Geminate's "Harvest the Essence"). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only start once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this step, but no Abilities can be performed.
 
 **Granted Attacks - Is there a difference between a Commanded or Granted Attack +X and Attack X?** Yes; see below.
 - Both Attack +X and Attack X will inherit all special attack modifiers for a monster or character summon. This includes extra targets, added conditions, attack patterns, etc.
@@ -1450,6 +1450,10 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 **Item 119** - <span class="hidden">**Deadly Mixture - Can I distill the Deadly Mixture? What happens?** No, it is forbidden per the Level 3 Alchemist rules. It can be sold for 6 gold.</span>
 
 **Item 124 Winged Shoes - Can I use this in the middle of a move if I suddenly need or want to jump?** No; using Winged Shoes is an ability, and therefore can't be performed in the middle of another ability. Please see the general item rules, above.
+
+**Item 161** - <span class="hidden"><b>Strategist's Ring - is this timed after elemental infusions, or losing a condition such as Stun?</b> This item is used during the "end of player turn" phase, when players can still perform appropriate abilities or use appropriate items (like this one). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only begin once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this wrap-up step, but no more Abilities can be performed.</span>
+
+**Item 165** - <span class="hidden"><b>Ring of Haste - is this timed after elemental infusions or losing a condition such as Immobilize?</b> This item is used during the "end of player turn" phase, when players can still perform appropriate abilities or use appropriate items (like this one). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only begin once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this wrap-up step, but no more Abilities can be performed.</span>
 
 **Item 180** - <span class="hidden"><b>Boots of Greed - do Loot abilities I grant to my Summons count for this item?</b> Yes. Your summons' loot abilities are considered your loot abilities for all purposes.</span>
 
