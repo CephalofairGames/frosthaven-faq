@@ -969,7 +969,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Call of the Abyss (1, top) - Can I mark an objective with Call to the Abyss?** While you could mark it, objectives are destroyed, not killed, so it won't create a shadow. 
 
-**Call of the Abyss (1, top) - If I am stunned when the marked enemy dies, will a shadow token still be placeed?** Yes; placing the shadow is a result of this persistent ability, not a new ability itself. 
+**Call of the Abyss (1, top) - If I am stunned when the marked enemy dies, will a shadow token still be placed?** Yes; placing the shadow is a result of this persistent ability, not a new ability itself. 
 
 **Wave of Anguish (X, top) - Can I target a single enemy with all the attacks?** Yes, if your Shadows are all adjacent to the same target. You perform a separate Attack 3 ability for each Shadow on the board. 
 
@@ -981,7 +981,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Shadow Step (1, top) - Can I open a door with this movement? What happens if opening the door causes something that makes it so I no longer have a shadow for my destination hex?** Yes, you can open a door with this action, assuming you have a hex with a shadow to end your move in. If something happens after opening the door which makes it impossible for you to end your move in a shadow, your move ability immediately ends.
 
-**Shadow Step (1, top) - Can I choose a path that I know will make it impossible to end in a shadow? Say, into an Immobilize trap?** No. You must perform this action "in good faith" with a path that will end your movement in a shadow, given eveerything you know about the current scenario state.
+**Shadow Step (1, top) - Can I choose a path that I know will make it impossible to end in a shadow? Say, into an Immobilize trap?** No. You must perform this action "in good faith" with a path that will end your movement in a shadow, given everything you know about the current scenario state.
 
 ![divider-narrow](/assets/images/divider2.png)
 
