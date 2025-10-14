@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-07-16*
+*Last Updated 2025-10-14*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -514,6 +514,7 @@ Examples:
 
 **I have a Grant ability with an elemental consumption, for example [Boneshaper's Level 1 Dark Tidings](https://github.com/any2cards/frosthaven/blob/master/images/character-ability-cards/frosthaven/BO/fh-dark-tidings.png?raw=true). Who consumes this element? The Boneshaper or the target of the Grant?** The granting figure performs any elemental consumptions, and gains earned XP from it (if any). If one Grant ability grants abilities to more than one target, all of them will benefit from one elemental consumption. The target of the Grant still performs any granted abilities like normal, including new abilities enabled by the elemental consumption.
 
+**Which elemental infusions are mandatory? Can any be skipped?** If an elemental infusion is not in a mandatory (!) box, it can be skipped. 
 
 **Errata for Active Bonuses and Resting** - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting." For example, if a Boneshaper has two skeleton cards active and zero cards in their discard pile, they can still declare a Long Rest. At the end of this Long Rest, they must Lose one of their active summons.
 
