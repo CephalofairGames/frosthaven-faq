@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-10-14*
+*Last Updated 2025-10-17*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -1533,6 +1533,10 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven)
 
 **Demolitionist** - If you bring the Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
+
+### Other Characters in Jaws of the Lion
+
+If it is your first time playing, you should use the characters who came with the game. If you are bringing another mercenary into the intro scenarios, just pick 6 (or 8) of your cards when the other players are using their A/B cards, matching their hand sizes.
 
 <br>
 
