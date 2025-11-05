@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-10-17*
+*Last Updated 2025-11-04*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -138,6 +138,7 @@ Most of these questions were asked by the community. If you have a question that
 - Item 049 - This item is missing a Spent symbol. 
 - Item 225 - This item is a 1-hand slot item, not a chest item.
 - Building 74 Level 3 <span class="hidden">This should have a requirement to build of already having 3 coins.</span>
+- Geminate Level 2 Card Locust Host (top) has an incorrect Round Bonus icon. It can be disregarded.
 - The following scenarios are exceeding counts for some overlay tiles: Scenario 17 (needs 5 pressure plates), Scenario 45 (only 2 barrels in game), 52 (6 Snow Rocks, only 5 in the box), 83 (too many dungeon corridors), 109 (6 single debris tiles, only 5 in the box), and 120 (only 2 barrels in game). Thanks to waitepb for collecting these and sending them to me.
 
 **Bonus** - If you think you are missing **two boss standees, FF and SD**, you are probably not. It will become clear when you need them.
@@ -1033,6 +1034,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Smoldering Hatred (1) - When do I get Cursed and Muddled?** Because this is a ‘cost’, the Curse and Muddle happen before you make any attacks.
 
+**Locust Host (2, top)** - The round bonus symbol appears in error; there is no round bonus for this action.
+
 **Can I Muddle myself if I am already Muddled?** Yes. Unless the wording of the card forbids it, you can inflict conditions on yourself that you already have. Note that for conditions like Muddle that last until the end of your next turn, this will reset the timer. 
 
 **How do cards like Changeling's Boon work? Do I do all parts of it every round?** No. This card, like many other Persistent cards, has both one-time abilities and persistent abilities. For this card, you Bless yourself once. You change form at the end of your turn. After putting it into your Active area, you have an active persistent bonus which lets you convert any element into fire or light at the end of your turns. You can tell which part is persistent by how it's worded. 
@@ -1418,6 +1421,8 @@ Items are listed by their item number.
 **Item 047** - <span class="hidden">**Robes of Doom - What is the timing on this effect? Does this happen before or after my Retaliate?** It is ambiguous. You decide the order whenever it would happen. **Is this item mandatory to use? Can I choose not to use this effect?** This item's effect, like all items with use slots, is mandatory. It will damage you and brittle the attacker the first on the next two sources of damage from attacks.</span> 
 
 **Item 049, 1st Printing Errata** - <span class="hidden">**Cruel Dagger** This item is missing a Spent symbol.</span> 
+
+**Item 061** - <span class="hidden">**Spiked Shell** - The item effect is timed along with and ambiguous to Retaliate. It includes any momentary shields (such as from other items) used to reduce attack damage.</span> 
 
 **Item 076** - <span class="hidden">**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
 
