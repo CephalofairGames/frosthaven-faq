@@ -982,7 +982,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Fluid Night (1, bot) - If I am standing on a shadow, can I teleport to my own hex?** Yes; there is precedent with swapping figures via teleport, so this would work. You're swapping places with yourself.
 
-**Strength of the Abyss (1, bot) - Can I remove a shadow I am using for another action - like the shadow I'm using as my hex for Fluid Night while I'm attacking with Fluid Night?** No. You cannot use Strength of the Abyss to remove a shadow that's being used by the action you're trying to modify. ("Used by" includes being counted for bonuses, used as an attack origin, removed as a cost, etc. If it's considered for an action you want to modify in any way, you can't remove it with Strength of the Abyss.) 
+**Strength of the Abyss (1, bot) - Can I remove a shadow I am using for another action - like the shadow I'm using as my hex for Fluid Night while I'm attacking with Fluid Night?** No. You cannot use Strength of the Abyss to remove a shadow that's being used by the Action (card half) you're trying to modify. ("Used by" includes being counted for bonuses, used as an attack origin, removed as a cost, etc. If it's considered for an Action you want to modify in any way, you can't remove it with Strength of the Abyss.) 
 
 **Shadow Step (1, top) - Can I open a door with this movement? What happens if opening the door causes something that makes it so I no longer have a shadow for my destination hex?** Yes, you can open a door with this action, assuming you have a hex with a shadow to end your move in. If something happens after opening the door which makes it impossible for you to end your move in a shadow, your move ability immediately ends.
 
