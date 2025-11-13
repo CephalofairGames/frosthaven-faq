@@ -6,6 +6,8 @@
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
+*[Pour un errata de la version française, cliquez sur ce lien"](https://gvigne.github.io/frosthaven-french-faq/)*
+
 1. <a href="#page_01">First Printing Production Errors and Typos</a>
    1. <a href="#page_011">Second Printing Non-Errata Changes</a>
 1. <a href="#page_2">Component and Setup Questions</a>
@@ -84,6 +86,7 @@ Most of these questions were asked by the community. If you have a question that
 - [BoardGameGeek Frosthaven Forums](https://boardgamegeek.com/boardgame/295770/frosthaven/forums/0) - Another active forum, and the previous home of this FAQ. Spoiler tags are appreciated, but are completely unmoderated.
 - [Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
 - [Gloomhaven Second Edition FAQ](https://cephalofairgames.github.io/gloomhaven2e-faq/) for that game
+- Ekasalys has made a French-language FAQ for errata specific to that localization. [Pour un errata de la version française, cliquez sur ce lien"](https://gvigne.github.io/frosthaven-french-faq/)
 
 ![divider](/assets/images/divider.png)
 
