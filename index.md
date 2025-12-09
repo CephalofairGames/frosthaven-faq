@@ -745,7 +745,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 30 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
 
-**Scenario 34** - <span class="hidden">The Chaos Beam effects happen even if you are jumping or flying.</span>
+**Scenario 34** - <span class="hidden">The Chaos Beam effects happen even if you are jumping or flying. Character summons do not treat the special corridor hexes as negative.</span>
 
 **Scenario 36 (conclusion)** - <span class="hidden">First Printing Only: Add blueprints for Item 067 to the scenario reward.</span>
 
