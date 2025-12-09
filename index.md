@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-11-04*
+*Last Updated 2025-12-09*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -560,6 +560,8 @@ Examples:
 
 **If a monster with a ranged attack is adjacent to one enemy, but could attack another enemy without disadvantage, which enemy will it attack?** Monster focus doesn't consider disadvantage. It will always prioritize the adjacent enemy in this case. If the monster would lose disadvantage by moving away from its focus, if it can do so with its current movement, and if it can do so without entering a negative hex, it will. It will move as little as it can, in order to lose disadvantage.
 
+**What is a Negative Hex?** Traps and Hazardous Terrain are negative hexes, unless the figure can ignore their effects (for example, because they are flying). Otherwise, only hexes specifically called out as "negative" in the scenario or ability effect count as negative.
+
 **Will a monster enter a negative hex (a trap or hazardous terrain) if it's the only way to attack an enemy this turn?** Usually not. A monster's first focus priority is to choose a hex from which they can attack an enemy, using the least possible movement, *preferring "safe" paths of any length over any paths with negative hexes*. They will choose a safer path even if it's much longer, and even if it means they can't attack their focus this turn. They will only choose a path with one or more negative hexes if it's the only way to attack *any* enemy, ever, looking at the current state of the board, pretending the monster has infinite movement. Remember - path length is part of selecting a monster's focus, not something done after focus has been selected. Monsters will focus on an enemy that's apparently further away, by range, if it means they can avoid entering negative hexes. See the steps on p74 of the rulebook for examples.
 
 **If an enemy must move through a choice of traps, will it consider the strength of those traps when determining which one to move through?**  No, monsters will take into account the *number* of negative hexes, but not the *strength or effects* of them. When it's otherwise ambiguous, you can resolve ambiguity in your favor. Note that they will always prefer a path with zero negative hexes, regardless of length, just like normal.
@@ -1109,6 +1111,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Living Magma (3, top)</b> - This attack ability is made by the characer, not the hazardous terrain, and not 'as if they occupied' the hazardous terrain. The character needs Line of Sight to the targets. These are all considered melee attacks.</p>
 
 <p><b>Swelter (7, top) - How does this work?</b> - These are ranged attacks are made by the Meteor, not by the (removed) hazardous terrain. The range of 5 should rarely matter, because the hazardous terrain needs to be within range 4. The character needs Line of Sight to all targets, and if the Meteor is adjacent to an enemy, they will have disadvantage on that attack.</p>
+
+<p><b>Calamity (9, bot)</b> - Even if you have the Dormant Peace perk, enemies will still take damage from Controlled movement into your hazardous terrain.</p>
 
 <p><b>What is the timing on my "Place Hazardous Terrain" modifier card? Is it before or after forced movement?</b> Per the chart on page 26, both forced movement and 'other effects' take place after the attack is resolved. They are therefore ambiguous, and the player can choose the order of resolution.</p>
 
