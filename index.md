@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-12-09*
+*Last Updated 2025-12-26*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -745,7 +745,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 30 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
 
-**Scenario 34** - <span class="hidden">The Chaos Beam effects happen even if you are jumping or flying. Character summons do not treat the special corridor hexes as negative.</span>
+**Scenario 34** - <span class="hidden">The Chaos Beam effects happen even if you are jumping or flying. Character summons do not treat the special corridor hexes as negative. Persistent effects like Drifter's Sustained Momentum will not modify the movement from Boss Special 2; it is not really a move ability.</span>
 
 **Scenario 36 (conclusion)** - <span class="hidden">First Printing Only: Add blueprints for Item 067 to the scenario reward.</span>
 
