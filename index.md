@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2025-12-26*
+*Last Updated 2026-01-04*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -1355,6 +1355,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>For the three-mark perk, does “losing all your cards” include any that you were about to play?</b> Yes.</p>
 
 <p><b>When do my pressure changes happen?</b> Per the board text, when each Action (that is, one card half) fully resolves.</p>
+
+<p><b>When do pressure changes caused by my modifier deck happen?</b> First, note that these (like all modifier deck effects) are optional. These will resolve at the conclusion of whatever action caused the modifier draw. If this was from an attack granted to you by another character, it is at the conclusion of <i>their</i> action. If it's from item usage, it will be after the conclusion of the current action.</p>
 
 <p><b>Can I use the top of Curious Gear (1) to destroy a trap even if there's no enemy to spring it on?</b> No. It needs to be applied to an enemy.</p>
 
