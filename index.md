@@ -72,7 +72,7 @@ I follow official spoiler rules in this FAQ. I will spoiler-tag all locked conte
 
 ### 0.2 About Me
 
-I am Bill (or dwarf74/dwarfSA in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
+I am Bill (or dwarf74/dwarfSA in most places). I maintain the official FAQs for Cephalofair, and am also a moderator of Reddit’s /r/Gloomhaven. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
 
 ![divider](/assets/images/divider2.png)
 
