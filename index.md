@@ -60,9 +60,7 @@
 
 ## <a name="page_0" class="page-number">0.0</a> Introduction
 
-This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
-
-Why github and not BoardGameGeek? Primarily, because github can be edited by multiple Cephalofair accounts, not just my personal forum account. Github also allows for features we've been sorely missing, like direct linking to sections, a clickable table of contents, richer formatting, and built-in version tracking. It has worked excellently for the [Buttons & Bugs Living Rules](https://cephalofairgames.github.io/bnb-rules/), and it seemed sensible to put Official FAQs here, as well.
+This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified.  Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
 
 ![divider](/assets/images/divider2.png)
 
@@ -74,7 +72,7 @@ I follow official spoiler rules in this FAQ. I will spoiler-tag all locked conte
 
 ### 0.2 About Me
 
-I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I am altogether too active in Frosthaven fan communities, and I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
+I am Bill (or dwarf74/dwarfSA in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
 
 ![divider](/assets/images/divider2.png)
 
@@ -84,7 +82,7 @@ Most of these questions were asked by the community. If you have a question that
 
 - [/r/Gloomhaven](https://www.reddit.com/r/Gloomhaven/) - The Gloomhaven Subreddit is for Gloomhaven, Frosthaven, and Jaws of the Lion. Spoilers are strictly moderated. There is a pinned "Small Questions" thread, or you can start your own for bigger questions.
 - [BoardGameGeek Frosthaven Forums](https://boardgamegeek.com/boardgame/295770/frosthaven/forums/0) - Another active forum, and the previous home of this FAQ. Spoiler tags are appreciated, but are completely unmoderated.
-- [Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
+- [Frosthaven Outpost-Gloomhaven Town Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
 - [Gloomhaven Second Edition FAQ](https://cephalofairgames.github.io/gloomhaven2e-faq/) for that game
 - Ekasalys has made a French-language FAQ for errata specific to that localization. [Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)
 
