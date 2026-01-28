@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-01-04*
+*Last Updated 2026-01-28*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -131,7 +131,7 @@ Most of these questions were asked by the community. If you have a question that
 - Section Book 137.3 - This should add Section 5.1, not 159.2
 - Solo Book p13 - Special rules: "Snowspeaker" should be "Icespeaker"
 - Rulebook p30 - add the following to the end of Active Bonuses - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting."
-- Rulebook p33 - Recover is not a targeted effect.
+- Rulebook p33 - Recover is not a targeted effect. All references to 'targeted' are also changed to 'recovering'
 - Rulebook Appendix F (pg 79) <span class="hidden">"Wealth" now costs 2 points, not 1.</span>
 - Boss Stat Card for Render - All instances of "totem" should be "carving". 
 - Puzzle Book p4 The 6th character on the bottom row is missing a dot. 
