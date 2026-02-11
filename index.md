@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-01-28*
+*Last Updated 2026-02-10*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -458,6 +458,8 @@ Examples:
 **If I have Disadvantage, and draw (for example) a +1 Stun and a +0 Stun, is this ambiguous?** No. While Stun, just like every other non-numeric modifier effect, has an "unknown but positive value," it is always exactly as valuable as itself. While two *different* non-numeric effects can't be compared, two *identical* ones can. In this case, the +1 Stun is better.
 
 **Can I choose not to infuse an element I draw on a modifier card, or is it mandatory, like on my ability cards?** Unless the element is in a mandatory (!) box, elemental infusions on your modifier cards are optional.
+
+**If my Summon has Advantage for their attack, do I get to pick which terminal modifier is used for the attack?** Yes, you do, even if it is a normal attack using monster focus rules.
 
 ![divider-narrow](/assets/images/divider2.png)
 
