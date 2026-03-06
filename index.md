@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-02-10*
+*Last Updated 2026-03-05*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -413,7 +413,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **When I lose a card to avoid all damage, do I lose Ward and/or Brittle?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
 
-**If I lose a card to avoid all damage, do I still need to mark use slots on defensive items like armor?** Yes, unless you can bring the damage to 0 by other means. The order of operations for taking damage in Frosthaven means that mandatory items get used before you negate it by losing a card. 
+**If I lose a card (or use some other effect) to avoid all damage, do I still need to mark use slots on defensive items like armor?** Yes, unless you can bring the damage to 0 by other means. The order of operations for taking damage in Frosthaven means that mandatory items get used before you negate it by losing a card. 
 
 **How does Shield interact with Ward and Brittle?** Shield reduces damage before Ward or Brittle are applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.
 
@@ -589,6 +589,8 @@ Examples:
 **Does this apply to "standalone" abilities tied to elemental consumption? For example, if a Night Demon can consume dark to perform Invisible Self, does it need to also move or attack?** If an elemental consumption would enable a standalone ability, the monster set will consume it to perform the ability even if it is performing no other abilities on its card. In this specific case, all Night Demons would consume dark to turn Invisible even if none also move or attack. 
 
 **When does a Monster consume an element? When does a Monster infuse an element?** If any monster in a set is going to perform any ability this round, elements are consumed at the start of the first monster in the set's turn, and elements are infused after the last monster in the set's turn. All monsters in the set benefit from any elemental consumption.
+
+**If there are two sets of identical monsters (say, Inox Guards as enemies and City Guards as allies), do they each draw their own ability card?** Unless the scenario rules state otherwise, they share the same card, and allies will act before enemies.
 
 ![divider-narrow](/assets/images/divider2.png)
 
