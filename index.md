@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-03-05*
+*Last Updated 2026-04-19*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -482,6 +482,8 @@ Examples:
 **If I have an Ability with a “Target All” can I choose to exclude some targets?** If there isn’t a Mandatory box, and it's not a negative effect on you or your allies, you can choose to exclude targets from a Target All effect.
 
 **Can I skip targets in a red hex AoE attack?** Yes; a red hex AoE just determines the hexes where your potential targets are. *Note - this is a change from the Gloomhaven 1e FAQ, and is to make it consistent with all other non-mandatory targeting.*
+
+**How do red hex abilities interact with walls?** While you need line of sight to all targets in a red hex pattern, you can otherwise ignore the presence of walls. Red hex patterns just operate as-is; even though a wall line means you're not adjacent to the opposite hex, it won't interfere with (for example) Banner Spear's Tip of the Spear (1, top).
 
 **Can I skip the heal ability from long resting or the Regenerate condition?** Yes.
 
