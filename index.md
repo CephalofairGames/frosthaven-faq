@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-04-19*
+*Last Updated 2026-05-24*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -614,6 +614,8 @@ Examples:
 
 **Keep Watch** - <span class="hidden">This is intended to affect both players and summons. Objectives do not take turns, and therefore all your attacks against them would be at Disadvantage.</span>
 
+**United Advance** - <span class="hidden">You gain Muddle if you end your turn 2/3/4 hexes away from at least one other character.</span>
+
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_6" class="page-number">6.0</a> Monster Questions
@@ -833,7 +835,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 110** - <span class="hidden">The water hexes are difficult terrain, not corridor, as First Printing erroneously indicates. If you move or destroy the water hexes, or put other overlays into the corridor hexes, the electrification hexes are not affected. Just keep the electrification pattern as it was at the start of the scenario.</span>
 
-**Scenario 111** - <span class="hidden">The door positions in Section 182.2 are correct. On 138.2 the section link should be to 147.2.</span>
+**Scenario 111** - <span class="hidden">The door positions in Section 182.2 are correct. On 138.2 the section link should be to 147.2.</span> Section 147.2 <span class="hidden">If the character who looted the goal tile performs a Summon ability, they still only get one summon, due to component limitations. It may be summoned on either side of the ice wall.</span>
 
 **Scenario 117** - <span class="hidden">First Printing Only: This scenario setup requires 5 Polar bears but there are only 4 standees. A fifth Polar bear should be 'proxied' from other available standees or minis</span>
 
