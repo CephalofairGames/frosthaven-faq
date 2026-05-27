@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-05-24*
+*Last Updated 2026-05-27*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -130,6 +130,7 @@ Most of these questions were asked by the community. If you have a question that
 - Scenario 130 Key - Shrike Fiend has an image of Night Demon
 - Section Book 137.3 - This should add Section 5.1, not 159.2
 - Solo Book p13 - Special rules: "Snowspeaker" should be "Icespeaker"
+- Rulebook p6 and p56 - These Gloomhaven item numbers are for Gloomhaven (2017), or 1st Edition. If you have Gloomhaven (2025), or 2nd Edition, instead you can add Items 9, 10, 43, 96, 97, 122, 123, 124, 125, 126, 127, 137, and 150 to the available supply (assuming you have unlocked them during your Gloomhaven campaign). See <a href="#page_41">4.1 Specific Building Questions</a> for Building 37.
 - Rulebook p30 - add the following to the end of Active Bonuses - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting."
 - Rulebook p33 - Recover is not a targeted effect. All references to 'targeted' are also changed to 'recovering'
 - Rulebook Appendix F (pg 79) <span class="hidden">"Wealth" now costs 2 points, not 1.</span>
@@ -141,6 +142,7 @@ Most of these questions were asked by the community. If you have a question that
 - Building 74 Level 3 <span class="hidden">This should have a requirement to build of already having 3 coins.</span>
 - Geminate Level 2 Card Locust Host (top) has an incorrect Round Bonus icon. It can be disregarded.
 - The following scenarios are exceeding counts for some overlay tiles: Scenario 17 (needs 5 pressure plates), Scenario 45 (only 2 barrels in game), 52 (6 Snow Rocks, only 5 in the box), 83 (too many dungeon corridors), 109 (6 single debris tiles, only 5 in the box), and 120 (only 2 barrels in game). Thanks to waitepb for collecting these and sending them to me.
+- Sections 12.4, 38.3, and 196.2 - The item numbers for Gloomhaven item imports are for Gloomhaven (2017). For the item import lists from Gloomhaven (2025), see <a href="#page_41">4.1 Specific Building Questions</a> under Building 37.
 
 **Bonus** - If you think you are missing **two boss standees, FF and SD**, you are probably not. It will become clear when you need them.
 
@@ -325,6 +327,12 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Resource Buildings - How many times can we use these per outpost phase?** You can collectively use each building once per outpost phase, and purchase up to as many materials as the building allows. This is once per party per outpost phase, not once per character. This means a Level 1 Mining Camp (for example) can provide only 1 metal total per outpost phase. 
 
 **Resource Buildings - Who gets the resource? Who pays for it?** Whenever you ‘collectively’ gain one or more resources, they can be taken by any active player or placed into the Frosthaven supply. The costs can likewise be paid by any active player. The player paying the cost does not need to be the player who receives the resource. 
+
+**Building 37 Trading Post** The Gloomhaven Item Imports on the various Building Upgrade sections (12.4, 38.3, and 196.2) list item numbers for Gloomhaven (2017). If you have Gloomhaven (2025), the following items are imported instead at each level of the building (assuming you have unlocked them during your Gloomhaven campaign):
+- Trading Post Level 1 (Also Starter Shop): 9, 10, 43, 96, 97, 122, 123, 124, 125, 126, 127, 137, 150
+- Trading Post Level 2: 23, 24, 31, 32, 33, 38, 41, 51, 70, 81, 82, 83, 84, 85, 86, 92, 94, 95, 98, 100, 104, 107, 110, 112, 113, 116, 120, 129, 131, 140, 141, 143
+- Trading Post Level 3: 39, 40, 44, 46, 48, 71, 74, 75, 77, 78, 88, 93, 99, 103, 106, 108, 114, 115, 117, 118, 119, 130, 135, 139, 144, 148, 151, 152
+- Trading Post Level 4: 59, 61, 64, 67, 72, 76, 79, 80, 89, 109, 111, 121, 128, 132, 133, 134, 136, 138, 142, 145, 147
 
 **Building 44**
 - Level 2 - <span class="hidden">**When does the 10g discount apply? Before or after modifiers for mutli-target, lost card, etc.?**  This cost reduction happens after all other modifiers are applied.</span>
@@ -1557,6 +1565,9 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 ### Other Characters in Jaws of the Lion
 
 If it is your first time playing, you should use the characters who came with the game. If you are bringing another mercenary into the intro scenarios, just pick 6 (or 8) of your cards when the other players are using their A/B cards, matching their hand sizes.
+
+
+
 
 <br>
 
