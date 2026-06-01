@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-05-27*
+*Last Updated 2026-06-01*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -708,7 +708,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **This scenario has a boss with a number of health thresholds. What happens if we reduce a boss below two of these at once - or even all the way to 0 health?** The first pending section must be resolved before anything else can happen, and the boss isn't considered dead yet. Generally, these sections will reset the boss's health to a certain amount; the intent is that they can't be killed by a single strong attack. The section (or first section if there's more than one) needs to be resolved before anything else.
 
-**Do I need to kill enemies that have not yet spawned in order to beat a scenario with a goal of "When all enemies in it are dead"?** Yes. Enemies on set spawns for specific rounds are still considered "in the scenario" and must be defeated in order to fulfill that win condition.
+**What does "When all enemies in it are dead" mean?** This means all enemies in all rooms, as well as all enemies in set spawn tables. Enemies on set spawns for specific rounds are still considered "in the scenario" and must be defeated in order to fulfill that win condition.
 
 **Does Escaping count as "leaving a room" for battle goals?** Yes. Escaping is considered leaving a room.
 
@@ -823,7 +823,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 84** - <span class="hidden"><b>What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..."</b> Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.</span>
 
-**Scenario 90** - <span class="hidden">This scenario does not require the boat to be built at the workshop. It's not necessarily <i>your</i> boat.</span>
+**Scenario 90** - <span class="hidden">This scenario does not require the boat to be built at the workshop. It's not necessarily <i>your</i> boat. In the special rules, "...the Frozen Corpse heals all damage" should just be read as "clears all damage." This resetting of Health does not interact with conditions in any way.</span>
 
 **Scenario 92** - <span class="hidden">See <a href="#page_59">Section 5.9</a> if you're wondering how your scenario ally works.</span>
 
