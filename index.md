@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-06-01*
+*Last Updated 2026-07-14*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -1086,6 +1086,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>The Animated Claymore from Imbue with Life (X) says it is affected by all your active Infusions. Does this mean it gets the Infusion Triggers too?</b>  No; compare to the Spiritbound Falchion from Untether the Shackles (8).</p>
 
+<p><b>How is the Curse effect from Coalescing Darkness (4, top) timed? Is it before or after my retaliate? What if the enemy pushes me with their attack?</b> Because Retailiate is part of attack resolution, the enemy would gain a curse after you retaliate; if they are killed from this retaliate, they are no longer present to gain a Curse. If they push you away with their attack, they will still gain the Curse, because they were adjacent when they attacked you.</p>
+
 <p>Note on an Interaction with <b>Shackles</b></p>
 
 <p><span class="hidden"><b>What happens if I have my Animated Claymore summoned from Imbue with Life (top) and my Shackles ally has Blood Ritual (bot) active?</b> Because the Claymore has a mandatory persistent effect of "Whenever you do not have Disarm, gain Disarm," you will always have Disarm as long as that card is active. If they attempt to use Blood Ritual to continually take Disarm from you, the game can't resume until they decide to stop, at which point you will gain Disarm again.</span></p>
@@ -1153,6 +1155,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Can I adjust a Default Move or Default Attack with Empowering Note (5)?</b> Yes, you can - they are abilities.</p>
 
 <p><b>For the top of Unsustainable Wave (6), how much damage did an enemy suffer? Was this the total damage I dealt, including overkill?</b> See <a href="#page_52">Section 5.2</a> for a discussion on the differences between "damage dealt" and "damage suffered." In short, it's capped by the monster's remaining HP and will not include "overkill" damage.</p>
+
+<p><b>Unsustainable Wave (8) Errata</b> This should say WAVE Action, not WAVE ability.</p>
 
 </details>
 <br>
@@ -1531,6 +1535,10 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 ### Objectives vs. Obstacles with Hit Points
 
 Any mechanic referring to either objectives, or obstacles with hit points, is referring to either.
+
+### Gloomhaven and Mercenary Pack Solo Scenarios in Frosthaven
+
+For all solo scenarios played during a Frosthaven campaign with crossover characters, use a loot deck of 15 coin cards.
 
 ![divider-narrow](/assets/images/divider2.png)
 
