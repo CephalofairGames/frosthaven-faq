@@ -8,6 +8,8 @@
 
 *[Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)*
 
+Clicking the Push icon [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/) anywhere will return you to the top of this document.
+
 ### <a name="top" class="page-number">Table of Contents</a>
 
 1. <a href="#page_01">First Printing Production Errors and Typos</a>
