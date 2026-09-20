@@ -2,11 +2,13 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-07-14*
+*Last Updated 2026-09-20*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
 *[Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)*
+
+### <a name="top" class="page-number">Table of Contents</a>
 
 1. <a href="#page_01">First Printing Production Errors and Typos</a>
    1. <a href="#page_011">Second Printing Non-Errata Changes</a>
@@ -86,7 +88,7 @@ Most of these questions were asked by the community. If you have a question that
 - [Gloomhaven Second Edition FAQ](https://cephalofairgames.github.io/gloomhaven2e-faq/) for that game
 - Ekasalys has made a French-language FAQ for errata specific to that localization. [Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ##  <a name="page_01" class="page-number">1.0</a> First Printing Production Errors and Typos
 
@@ -156,7 +158,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - Shackles Level 8 <span class="hidden">"Wave of Anguish" card name has been changed to "Wave of Suffering" to resolve the card name duplication with Deathwalker.</span>
 - Building 74 Conclusion <span class="hidden">The solution to the Ancient Coin puzzle changed between printings. All references to the puzzle solution section were changed as well. It is solvable in both printings.</span>
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions
 
@@ -188,7 +190,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **There's a blank spot on the flowchart. Is this an easter egg? Should I open it?** No. Leave it alone.
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ## <a name="page_3" class="page-number">3.0</a> General Gameplay Questions (Non-Scenario)
 
@@ -262,7 +264,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **WO-81** <span class="hidden">X is set, first, by the number of Coral Shards / Coral Crown stickers you have. Once X is determined, Attack the same building up to X times. If it gets damaged, it's wrecked instead and the next building gets targeted for the remaining attacks. Once X attacks are resolved, in total, the event concludes. There's no option here for the building to get merely damaged - it's Wrecked if you fail any of the Attacks. It will be Wrecked for building operations this outpost phase, and can't be rebuilt until the Build/Upgrade phase.</span>
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ## <a name="page_4" class="page-number">4.0</a> Outpost General Questions
 **How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
@@ -312,7 +314,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - Wall M - 4 Prosperity, 4 wood, 3 metal, 3 hide, 10 gold
 - Wall N - 6 Prosperity, 6 wood, 3 metal 2 hide, 10 gold
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_41" class="page-number">4.1</a> Specific Building Questions
 
@@ -350,7 +352,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 **Building 90** - <span class="hidden">See <a href="#page_510">Section 5.10</a> for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
 </span>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_42" class="page-number">4.2</a> Enhancements
 *Note: for questions about the building effects at each level, see its building number, above. This section is for general questions about enhancements. This section will not be spoiler-tagged.*
@@ -381,7 +383,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 </details>
 <br>
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario)
 
@@ -415,7 +417,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Does moving back and forth between two hexes count as moving?** Yes. While there is no such thing as a Move 0 in Frosthaven, you can still end up in your origin hex if you have sufficient movement.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_52" class="page-number">5.2</a> Damage, Shield, Ward, and Brittle
 
@@ -437,7 +439,7 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **If damage is redirected from one figure to another via an ability or effect, what is the source of the damage?** The original source of the damage is not "remembered"; the source of the damage becomes the effect that redirected it. 
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_53" class="page-number">5.3</a> Attack Modifier Draws, Advantage, and Disadvantage
 
@@ -469,7 +471,7 @@ Examples:
 
 **If my Summon has Advantage for their attack, do I get to pick which terminal modifier is used for the attack?** Yes, you do, even if it is a normal attack using monster focus rules.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_54" class="page-number">5.4</a> Negative Conditions
 
@@ -483,7 +485,7 @@ Examples:
 
 **Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item like Crude Shield, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to your remaining attack modifier deck. Once the Curse card is in an attack modifier deck, the Curse is no longer considered a negative condition.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_55" class="page-number">5.5</a> General Player Ability Questions and Clarifications
 
@@ -532,7 +534,7 @@ Examples:
 
 **Errata for Active Bonuses and Resting** - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting." For example, if a Boneshaper has two skeleton cards active and zero cards in their discard pile, they can still declare a Long Rest. At the end of this Long Rest, they must Lose one of their active summons.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_56" class="page-number">5.6</a> Loot Deck Questions
 
@@ -550,7 +552,7 @@ Examples:
 
 **Do my summons drop loot tokens when they are killed?** No. Only enemy monsters can drop loot tokens. 
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_57" class="page-number">5.7</a> Objectives
 
@@ -564,7 +566,7 @@ Examples:
 
 **If an Objective occupies more than one hex, can I target the hex furthest from me? Say, if I'm adjacent to one hex, can I target my ranged attack at a non-adjacent one to avoid disadvantage? Or to avoid melee Retaliate?** Yes and No. Even though the Objective occupies more than one hex, it's still just one figure, so if you are adjacent to it you'll still have Disadvantage and/or suffer Retaliate. But, with that said, all hexes of the Objective are targetable, for red hex patterns or (e.g.) Geminate's precise ranges. 
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_58" class="page-number">5.8</a> Monster Focus, Abilities, and Stats
 
@@ -602,13 +604,13 @@ Examples:
 
 **If there are two sets of identical monsters (say, Inox Guards as enemies and City Guards as allies), do they each draw their own ability card?** Unless the scenario rules state otherwise, they share the same card, and allies will act before enemies.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_59" class="page-number">5.9</a> Scenario Allies
 
 **I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for Banner Spear formations or anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_510" class="page-number">5.10</a> Challenges
 
@@ -624,7 +626,7 @@ Examples:
 
 **United Advance** - <span class="hidden">You gain Muddle if you end your turn 2/3/4 hexes away from at least one other character.</span>
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ## <a name="page_6" class="page-number">6.0</a> Monster Questions
 **What are the little symbols on some monster stat cards for?** These are for locked campaign mechanics. You will know what they mean when it’s time.
@@ -683,7 +685,7 @@ Examples:
 ### Wind Demon
 **Should Level 0 Elites have more movement than Level 1 Elites?** Level 0 Elites should have Move 3. This is errata.
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ## <a name="page_7" class="page-number">7.0</a> General Scenario Questions
 
@@ -712,7 +714,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Does Escaping count as "leaving a room" for battle goals?** Yes. Escaping is considered leaving a room.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
 
@@ -855,7 +857,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 134** - <span class="hidden">A jump or ranged attack between the "balconies" requires counting the distance. You can use extra corridor hexes to measure.</span>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### <a name="page_72" class="page-number">7.2</a> Solo Scenario Questions
 
@@ -879,7 +881,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Astral Solo Scenario** <span class="hidden">The letter tokens representing orbs are not intended to be limited; you can have more than one "a", "b", etc.</span>
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ## <a name="page_8" class="page-number">8.0</a> Characters
 
@@ -899,7 +901,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Can I use my Scavenger perk to help me complete a loot-based PQ like A Study of Plants?** No. These quests specify "through loot tokens" so this perk can't help with them. 
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) <a name="page_82" class="page-number">8.2</a> Blinkblade
 
@@ -928,7 +930,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Reverse the Flow (9, top) - Can I use an item like Boots to enhance my Move ability before turning it into an Attack ability?** No. You need to decide to use a Move ability as an Attack ability before performing the ability; you can't improve an ability you never performed. You can, however, use items which improve attacks once you do so.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Banner Spear Icon](/assets/images/03_banner_spear.webp) <a name="page_83" class="page-number">8.3</a> Banner Spear
 
@@ -960,7 +962,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Boldening Blow (4, top)** - The "target one enemy" limitation applies to both the Attack and the Disarm. You are attacking and disarming *one* target in the red hexes.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">8.4</a> Deathwalker
 
@@ -1004,7 +1006,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Shadow Step (1, top) - Can I choose a path that I know will make it impossible to end in a shadow? Say, into an Immobilize trap?** No. You must perform this action "in good faith" with a path that will end your movement in a shadow, given eveerything you know about the current scenario state.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) <a name="page_85" class="page-number">8.5</a> Boneshaper
 
@@ -1031,7 +1033,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Endless Numbers (8 top) - If one of my skeletons moves through the Bone Horde, but would not normally end its move there, can I choose to have it end its move early?** No. The "may end" verbiage on Bone Horde allows a skeleton end its normal movement in the Bone Horde's hex, but is not indicating you may choose end its movement early.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Geminate Icon](/assets/images/06_geminate.webp) <a name="page_86" class="page-number">8.6</a> Geminate
 
@@ -1063,7 +1065,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **If I use an item or effect that lets me take another action at the end of my turn, but I have already played an action that would make me Switch Form, which Form is the new card in?** Form changes happen during the end of turn wrap-up (see <a href="#page_55">section 5.5</a>). You would still play cards from the form you are presently in.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Astral Icon](/assets/images/07_astral.webp) <a name="page_87" class="page-number">8.7</a> "Astral" or "Moon and Star"
 
@@ -1095,7 +1097,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Meteor Icon](/assets/images/08_meteor.webp) <a name="page_88" class="page-number">8.8</a> "Meteor"
 
@@ -1141,7 +1143,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Shards Icon](/assets/images/09_shards.webp) <a name="page_89" class="page-number">8.9</a> "Shards"
 
@@ -1161,7 +1163,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Trap Icon](/assets/images/10_trap.webp) <a name="page_810" class="page-number">8.10</a> "Trap"
 
@@ -1195,7 +1197,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">8.11</a> "Shackles"
 
@@ -1234,7 +1236,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Snowflake Icon](/assets/images/12_snowflake.webp) <a name="page_812" class="page-number">8.12</a> "Snowflake"
 
@@ -1260,7 +1262,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Fist Icon](/assets/images/13_fist.webp) <a name="page_813" class="page-number">8.13</a> "Fist"
 
@@ -1282,7 +1284,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Kelp Icon](/assets/images/14_kelp.webp) <a name="page_814" class="page-number">8.14</a> "Kelp" (or "Seaweed")
 
@@ -1300,7 +1302,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Coral Icon](/assets/images/15_coral.webp) <a name="page_815" class="page-number">8.15</a> "Coral" (or "Anemone")
 
@@ -1320,7 +1322,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">8.16</a> "Prism" (or "Diamond")
 
@@ -1361,7 +1363,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ### ![Drill Icon](/assets/images/17_drill.webp) <a name="page_817" class="page-number">8.17</a> "Drill"
 
@@ -1393,7 +1395,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ## <a name="page_9" class="page-number">9.0</a> Items (General)
 
@@ -1524,7 +1526,7 @@ This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.
 
 **Item 259** - <span class="hidden">**Storm Carving** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 ## <a name="page_10" class="page-number">10.0</a> Compatibility Notes for Crossover Characters
 
@@ -1574,7 +1576,7 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 
 If it is your first time playing, you should use the characters who came with the game. If you are bringing another mercenary into the intro scenarios, just pick 6 (or 8) of your cards when the other players are using their A/B cards, matching their hand sizes.
 
-
+[![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/)
 
 
 <br>
