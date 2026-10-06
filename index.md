@@ -513,7 +513,7 @@ Examples:
 
 **I have an attack modifier that gives me a Shield. How long does this last?** Attack modifiers with a Shield on them will last from the time they're drawn until the end of the round.
 
-**What does "Closer" or "Closest" mean when it appears in an ability?** Except for Move abilities, "closeness" is determined by range or proximity. For move abilities, it's determined by movement path. 
+**What does "Closer" or "Closest" mean when it appears in an ability?** Except for Move abilities, "closeness" is determined by range or proximity. For move abilities, it's determined by movement path, using the current mode of movement. 
 
 **What does "adjacent" mean when we're talking about placing or triggering an overlay in an occupied hex?** The general rule is that a figure's own hex is considered adjacent to them for their own targeting purposes - however, their targets' own hexes are not adjacent to them. So if you were placing an overlay in a hex adjacent to yourself, you could target your own hex as long as it meets all the criteria for the ability. However, if you were placing it adjacent to another figure, it would have to be in one of the six hexes around them and not directly underneath them. (Note that Deathwalker's shadows break this general rule.)
 
