@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR FROSTHAVEN**
 
-*Last Updated 2026-09-20*
+*Last Updated 2026-10-05*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -512,6 +512,8 @@ Examples:
 **I have an attack modifier that references the position of an enemy. Does the enemy need to survive for this to function?** If the modifier is part of the attack ability (that is, a modifier draw or a rider on an attack without an ability separator line), it functions even if the enemy is killed by the attack.
 
 **I have an attack modifier that gives me a Shield. How long does this last?** Attack modifiers with a Shield on them will last from the time they're drawn until the end of the round.
+
+**What does "Closer" or "Closest" mean when it appears in an ability?** Except for Move abilities, "closeness" is determined by range or proximity. For move abilities, it's determined by movement path. 
 
 **What does "adjacent" mean when we're talking about placing or triggering an overlay in an occupied hex?** The general rule is that a figure's own hex is considered adjacent to them for their own targeting purposes - however, their targets' own hexes are not adjacent to them. So if you were placing an overlay in a hex adjacent to yourself, you could target your own hex as long as it meets all the criteria for the ability. However, if you were placing it adjacent to another figure, it would have to be in one of the six hexes around them and not directly underneath them. (Note that Deathwalker's shadows break this general rule.)
 
